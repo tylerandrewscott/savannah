@@ -70,6 +70,8 @@ Scraps/*
 Scraps/*.gdoc
 Deliverables/*.docx
 Deliverables/*.gdoc
+SpatialData/*
+LargeData/*
 
 *.Rhistory
 Icon*
