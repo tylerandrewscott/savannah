@@ -1,0 +1,1641 @@
+Regional Water Plan 
+
+
+
+Table of Contents 
+Executive Summary ………….……………………………………………...….. ES-1 
+Section 1 	INTRODUCTION…………………………………………………... 1-1 
+1.1 	The Significance of Water Resources in Georgia………………. 1-1 
+1.2 	State and Regional Water Planning Process………………….... 1-3 
+1.3 	The Lower Flint-Ochlockonee Council’s Regional Vision and              Goals……………………………………………………………….. 1-4 
+Section 2 	THE LOWER FLINT-OCHLOCKONEE WATER PLANNING REGION.………………………………………………………….… 2-1 
+2.1 	History and Geography…………………………………………….. 2-1 
+2.2 	Characteristics of the Region……………………………………… 2-1 
+2.3 	Local Policy Context……………………………………………… 2-4 
+Section 3 	CURRENT ASSESSMENT OF WATER RESOURCES OF THE LOWER FLINT-OCHLOCKONEE REGION……...……… 3-1 
+3.1 	Major Water Uses in the Region………………………………... 3-1 
+3.2 	Resource Assessments………………………………………….. 3-4 
+3.2.1 	Surface Water Availability…………………………......…… 3-4 
+3.2.2 	Groundwater Availability………………………………….… 3-7 
+3.2.3 	Surface Water Quality………………………………………. 3-10 
+3.3 	Ecosystem Conditions and In-stream Uses……………………. 3-12 
+3.3.1 	303(d) List and TMDLs……………………………………… 3-12 
+3.3.2 	Fisheries, Wildlife, and Recreational Resources………… 3-12 
+Section 4 	FORECASTING FUTURE WATER RESOURCE NEEDS……. 4-1 
+4.1 	Municipal Forecasts…………………….………………………….. 4-1 
+4.1.1 	Municipal Water Forecasts…………………………….…… 4-1 
+4.1.2 	Municipal Wastewater Forecasts………………………….. 4-1 
+
+
+4.2 	Industrial Forecasts………………………………………………. 4-2 
+4.2.1 Industrial Water Forecasts…………………………………... 4-2 
+4.2.2 	Industrial Wastewater Forecasts…………………………... 4-3 
+
+
+4.3 	Agricultural Forecasts………………………………………………. 4-3 
+4.4 	Thermoelectric Power Production Water Demand Forecasts…. 4-4 
+4.5 	Total Water Demand Forecasts…………………………………… 4-5 
+Section 5 	COMPARISON OF WATER RESOURCE CAPACITIES AND FUTURE NEEDS..…………..……………………………………… 5-1 
+5.1 	Surface Water Availability Comparisons………….……………… 5-1 
+5.2 	Groundwater Availability Comparisons…………………………… 5-3 
+5.3 	Surface Water Quality Comparisons……………………………… 5-5 
+5.4 	Summary of Potential Gaps Between Resource Capacities and Future Needs……………………………………………………… 5-8 
+
+Table of Contents 
+I DDLE OC MULGEE 
+MLOWER FLINT-OCHLOCKONEE 
+Section 6 	ADDRESSING WATER NEEDS AND REGIONAL GOALS…………….………………………………………………… 6-1 
+6.1 	Identifying Water Management Practices……………………… 6-1 
+6.2 	Selected Water Management Practices for the Lower Flint-            Ochlockonee Region……………………………………………... 6-3 
+Section 7 	IMPLEMENTING WATER MANAGEMENT PRACTICES…….. 7-1 
+7.1 	Implementation Schedule and Responsible Parties…………….. 7-1 
+7.2 	Fiscal Implications of Selected Water Management Practices… 7-1 
+7.3 	Alignment with Other Plans……………………………………… 7-13 
+7.4 	Recommendations to the State…………………………………. 7-14 
+Section 8 	MONITORING AND REPORTING PROGRESS………...……… 8-1 
+8.1 	Benchmarks…………………………………………………………. 8-1 
+8.2 	Plan Updates…………………………………………………...…… 8-4 
+8.3 	Plan Amendments……………………...………………………… 8-4 
+8.4 	Conclusion…………………………………………………………… 8-4 
+
+
+
+
+
+
+
+
+
+TABLES 
+3-1: Summary of Current Surface Water Availability Results: Flint and 
+Ochlockonee Rivers.…..…………...………………………………………… 3-6 3-2: Summary of Current Surface Water Availability Results: Chattahoochee 
+River…………………………...…..…………...……………………………… 3-7 3-3: Groundwater Results for Assessed Aquifers in Lower Flint-
+Ochlockonee Region – Current Conditions……..…………...…………… 3-9 5-1: 2050 Surface Water Availability Results: Flint and Ochlockonee Rivers.. 5-2 5-2: 2050 Surface Water Availability Results: Chattahoochee River…………. 5-3 5-3: Groundwater Results for Assessed Aquifers in Lower Flint-
+Ochlockonee Region – 2050 Conditions……..………….....……………… 5-4 
+6-1: Water Management Practices Selected for the Lower Flint-
+Ochlockonee Region……………………………………………………...….. 6-4 7-1: Implementation Schedule for the Lower Flint-Ochlockonee 
+Region……..…………………………………………………………………… 7-2 7-2: Cost Estimates for Implementation Responsibilities……………………… 7-8 8-1: Benchmarks for Lower Flint-Ochlockonee Regional Water 
+Plan…………………………………………………………………………..… 8-1 
+
+FIGURES 
+1-1: River Basins and Water Planning Regions of Georgia……………………. 1-2 1-2: State Water Planning Process………………………………………………. 1-3 
+DRAF T 
+G e or gi a S ta te ­
+w i
+de W ater M an age m en t
+Pl
+a n I
+V-2 
+DAY M O NT H YE AR 
+September 2011 
+
+Table of Contents 
+2-1: Lower Flint-Ochlockonee Water Planning Region……….……………….. 2-2 2-2: Lower Flint-Ochlockonee Land Use…………….…………………………... 2-3 3-1: Current Water Supply by Source Type……………………………………... 3-2 3-2: Current Surface Water Withdrawal by Category..………………………… 3-2 3-3: Current Groundwater Withdrawal by Category..……...…………...……… 3-2 3-4: Current Wastewater Treatment by Category………………………………. 3-2 3-5: Assimilative Capacity Results from Dissolved Oxygen Assessment: 
+Flint and Ochlockonee Rivers (Current Conditions)..………………….…. 3-13 3-6: Summary of Impaired Waters in Lower Flint-Ochlockonee Region..….… 3-14 4-1: Water Demand in 2010 and 2050…………………………………………… 4-6 4-2: Wastewater Flow in 2010 and 2050………………………………………… 4-6 4-3: Total Water and Wastewater Forecasts…………………………………... 4-7 5-1: Assimilative Capacity Results from Dissolved Oxygen Assessment: 
+Flint and Ochlockonee Rivers (2050)……………………………………….. 5-7 
+
+
+LIST OF SUPPLEMENTAL DOCUMENTS1 
+Supplemental Document 1 Memorandum of Agreement Supplemental Document 2 Public Participation Technical Memorandum Supplemental Document 3 Council Meeting Summaries Supplemental Document 4 USGS Map of Georgia Aquifer Recharge Areas Supplemental Document 5 Subarea 4 of the Floridan Aquifer Map  Supplemental Document 6 Existing Regulatory and Local Plan Summary Supplemental Document 7 2006 Flint River Basin Water Development and 
+Conservation Plan Supplemental Document 8 Agricultural Water Use Technical Memorandum Supplemental Document 9 EPD Technical Memorandum - Flow Gap Analysis 
+(May 26, 2010) Supplemental Document 10 EPD Technical Memorandum: Surface Water Availability Model Results July 2010 Supplemental Document 11 Map of Prioritized Aquifers Modeled in EPD 
+Resource Assessment Supplemental Document 12 Georgia OPB Population Projections March 2010 Supplemental Document 13 Municipal and Industrial Water and Wastewater 
+Forecasting Memorandum Supplemental Document 14 Management Practice Selection Technical Memorandum Supplemental Document 15 Water Conservation Technical Memorandum 
+1 All supplemental materials are provided on the Lower Flint-Ochlockonee Council’s website: 
+http://www.flintochlockonee.org/pages/our_plan/index.php 
+
+
+ACF Apalachicola-Chattahoochee-Flint ASR aquifer storage and recovery 
+BMP best management practice 
+CFS cubic feet per second 
+DCA Department of Community Affairs DM demand management DNR Georgia Department of Natural Resources DO dissolved oxygen 
+EPA U.S. Environmental Protection Agency EPD Georgia Environmental Protection Division 
+FERC Federal Energy Regulatory Commission 
+GEFA Georgia Environmental Finance Authority GSWCC Georgia Soil and Water Conservation Commission 
+HCP Habitat Conservation Plan HUC hydrologic unit code 
+IBT interbasin transfer I/I inflow and infiltration 
+LAS land application system 
+MGD million gallons per day MNGWPD Metropolitan North Georgia Water Planning District 
+NESPAL National Environmentally Sound Production Agriculture Laboratory NPDES National Pollutant Discharge Elimination System NRCS Natural Resources Conservation Service (U.S. Department of 
+Agriculture) 
+OCGA Official Code of Georgia Annotated 
+
+Acronyms and Abbreviations 
+OPB Governor’s Office of Planning and Budget (Georgia) 
+OSSS Ochlocknee, Suwannee, Satilla and St. Mary’s River Basins, 
+
+SF supply management and flow augmentation 
+
+TMDL total maximum daily load 
+
+UGA University of Georgia 
+USACOE U.S. Army Corps of Engineers 
+USGS U.S. Geological Survey 
+
+WP West Point Dam (Chattahoochee) 
+WFG Walter F. George Dam (Chattahoochee) 
+WQ water quality 
+
+7Q10 lowest seven day average flow in a 10-year period 
+
+LOWER FLINT-OCHLOCKONEE 
+
+September 2011 
+
+Acknowledgements 
+Acknowledgements 
+We would like to acknowledge the commitment and contributions of the members of the Lower Flint-Ochlockonee Council. The Council members volunteered their time, expertise, and talents for numerous council meetings, joint council meetings, committee meetings, and conference calls during the development of this Regional Water Plan. 
+Richard Royal, Chairman  Camilla  
+Hal Haddock, Vice Chairman  Damascus  
+Steve Bailey  Donalsonville  
+John M. Bridges  Brinson  
+Dean Burke  Bainbridge  
+Jimmy Champion  Sylvester  
+Jerry Chapman  Colquitt  
+Terry Clark  Moultrie  
+John A. Heath  Dawson  
+Josh G. Herring  Boston  
+Chris Hobby  Bainbridge  
+Huddy Hudgens, Jr.  Albany  
+Gary W. Leddon  Leesburg  
+Jerry Lee  Cairo  
+Chuck E. Lingle  Albany  
+George C. McIntosh  Albany  
+Doyle Medders  Sylvester  
+Rick Moss  Doerun  
+T. E. Moye      Newton  
+Greg Murray  Bainbridge  
+Mike Newberry  Arlington  
+Jim Quinn  Leesburg  
+Steve Singletary  Blakely  
+Howard G. Small, Jr.  Colquitt  
+Steve Sykes  Thomasville  
+Will Vereen  Moultrie  
+Jimmy Webb  Leary  
+Bill Yearta  Sylvester  
+Senator John Bulloch (Ex-Officio)   
+Representative Bob Hanner (Ex-Officio)  
+
+We would also like to thank Tim Cash and Bill Morris of the Georgia Environmental Protection Division for their efforts to support the Council. 
+[This Page Intentionally Left Blank] 
+
+
+EXECUTIVE SUMMARY 
+
+[This Page Intentionally Left Blank] 
+
+Lower Flint-Ochlockonee Regional Water Plan 
+The Georgia State-wide Water Management Plan (State Water Plan) was adopted by the General Assembly in January 2008. The State Water Plan calls for the establishment of ten water planning regions across the state, each guided by a regional water planning council. These regions do not include the Metropolitan North Georgia Water Planning District (MNGWPD), which has a separate water planning process created by the Metropolitan North Georgia Water Planning District Act of 2001. The State Water Plan requires the preparation of regional water development and conservation plans (Regional Water Plans) to manage water resources in a sustainable manner through 2050. The State Water Plan provides a framework for regional planning consistent with the policy statement that “Georgia manages water resources in a sustainable manner to support the state’s economy, to protect public health and natural systems, and to enhance the quality of life for all citizens.” 
+The Lower Flint-Ochlockonee Regional Water Planning Council (the Council) was charged with developing this Regional Water Plan. The Council members were 30 individuals from throughout the planning region, which includes 14 counties and 50 towns and cities. 
+
+ES-1 
+
+Executive Summary 
+LOWERFLINT-OCKLOCKONEE 
+
+Vision and Goals 
+The Lower Flint-Ochlockonee Council adopted the following statement to describe its vision for the future of the region’s water resources: 
+The Lower Flint-Ochlockonee Water Planning Council will manage water resources in a sustainable manner to support the region’s economy, to protect public health and natural systems, and to enhance the quality of life for the region’s citizens.  
+The Council adopted the following goals to support its vision: 
+1. 	
+Ensure access to water resources for existing and future water users in the Lower Flint-Ochlockonee Region.  
+
+2. 	
+Sustain the region's aquifers, the Floridan, the Claiborne, the Clayton, and the Cretaceous, in a healthy condition that will continue to support the natural systems and economic activities of the Lower Flint-Ochlockonee Region. 
+
+3. 	
+Maintain the production-agriculture-based economy of the Lower Flint-Ochlockonee Region. 
+
+
+4. Support sustainable economic growth in the region. The regional vision and goals were used by the Council to develop this plan. 
+Planning Process 
+The Lower Flint-Ochlockonee Council met ten times over a two-year period (2009­2011) to develop this regional water plan. During this time, Council members participated in numerous additional meetings, including committee meetings and joint council meetings, to support the work of the Council. Developing the plan required the Council to gather information from a variety of sources to provide a foundation for sound decision making. Often, the Council found information gaps or significant uncertainties that affected its ability to plan. The Council proceeded based on the best information available and made recommendations to address information gaps and improve water planning and policies.  
+The Council sought input from a variety of stakeholders in the development of the plan and implemented a public participation plan that provided many opportunities for public input into the process. The Council interacted with state and federal agencies and local governments from throughout the region, and it also coordinated with neighboring regional water councils, especially the Middle Chattahoochee and the Upper Flint Council, through multiple joint meetings with those councils. 
+Lower Flint-Ochlockonee Water Planning Region 
+Most of the Lower Flint-Ochlockonee region is located in the Apalachicola­Chattahoochee-Flint (ACF) River Basin. Part of the region is located in the Ochlockonee River Basin, and a small part of the region is located in the Suwannee 
+September 2011 
+
+Executive Summary 
+River Basin. The region is largely rural with over 43% of the land in row crops and pasture and an additional 34% in forest. Although row crop and pasture cover has decreased slightly in the past few decades, and low-intensity urban development has increased, the region is expected to remain predominantly agricultural. 
+Water Use in the Region 
+Current water use in the Lower Flint-Ochlockonee Region is approximately 872 million gallons per day (MGD).  Water use in the region is projected to increase to 1,037 MGD in 2050. Currently, agriculture is the largest water using sector in the region by a significant margin, and it is expected to remain the largest water user through 2050. As a result, much of the Council’s planning effort has been focused on the agricultural sector. The Council notes the importance of agriculture to the region’s economy in its goals. Wastewater flows in the region are currently approximately 317 MGD and expected to remain at a similar level in 2050. Approximately 90% of the wastewater in the region is discharged through point sources. 
+Water Resource Assessments 
+To support the regional water planning process, EPD developed resource assessment models for surface water availability, groundwater availability, and water quality. The purpose of the assessments was to estimate the capacity of streams and aquifers to meet water consumption demands and the capacity of streams to meet wastewater discharge demands, without causing unreasonable impacts. The results of the assessment models were compared against estimates of current and projected water use and wastewater flows. The assessment models identified potential shortfalls (“gaps”) in the capacity of water resources to meet water supply and wastewater demands while also meeting criteria for flows and assimilative capacity defined by EPD. The Council considered the assessment model results, the region’s water needs, and potential impacts on the region, both environmental and economic. The Council developed the rest of the plan to address gaps identified by the models and to meet the Council’s vision and goals for the region. The results of the assessments and the Council’s approach to addressing the results are summarized in the table on the next page. 
+The Lower Flint-Ochlockonee Council questions whether the criteria used to determine “gaps” for surface water flows are appropriate metrics by which to evaluate the impacts of consumptive water use on the state’s water resources. The “gaps” do not provide for reasonable use by lawfully permitted users. Moreover, the “gaps” are not defined in terms of any demonstrable environmental harm. Closing the identified “gaps” could ultimately cause significant harm to the region’s economy and would be counter to the Council’s Visions and Goals. Therefore, the Council insists that no modifications to existing water withdrawal permitting practices be enacted based on the assessment model results. The Council recommends additional study to determine more appropriate flow targets that account for permitted reasonable use and demonstrable environmental impacts for use in future planning. 
+ES-3 
+
+Executive Summary 
+LOWERFLINT-OCKLOCKONEE 
+
+Resource Assessment Results – Lower Flint-Ochlockonee Region  
+Resource Assessment  Summary of Model Results  Council Plan to Address Results  
+Surface  The model identified shortfalls in  Address the shortfalls with  
+Water  meeting EPD criteria for surface  conservation and supply  
+Availability  water flows in the Flint River Basin at Bainbridge and in the Ochlockonee River Basin at Quincy and Concord under both current and forecast demands. Shortfalls were also identified by the model at Pinetta and Quitman in the small part of the Suwannee Basin that is in this region.   augmentation practices as much as possible, while also collecting better information to support more thorough evaluation of resource capacity and the impacts of gaps identified by the assessment model on in-stream and downstream uses.  
+Groundwater  Groundwater use is currently  Use of the Claiborne aquifer should  
+Availability  within the sustainable yield range identified by the model for the Claiborne aquifer and above the sustainable yield range identified by the model for the Upper Floridan aquifer in the Dougherty Plain.  be limited geographically as necessary to protect the sustainable yield of this resource. In the Upper Floridan aquifer in the Dougherty Plain, the impact of groundwater withdrawals on surface water flows in the Flint River Basin should be a determining factor in guiding the location and amount of groundwater use from this aquifer. Collect better and more geographically specific information on groundwater resource capacity, as needed to evaluate specific uses and management practices.  
+Surface  Water quality model results  Implement practices targeted  
+Water Quality  indicated decreasing availability of assimilative capacity in streams as discharge flows increase. In certain stream segments of the region, the model results indicate that no assimilative capacity is left.  especially toward nonpoint sources of pollutants to improve assimilative capacity in the region’s streams and lakes. It is expected that EPD will adjust point source permit limits over time as needed to address assimilative capacity constraints. Collect more complete information to confirm model results and to support the targeting of management practices for water quality in the future.  
+
+September 2011 
+
+Recommended Management Practices 
+The Council developed a set of seventeen management 
+practices, including seven Demand Management, five Supply Management and Flow Augmentation, and five Water Quality practices. From this set, the Council selected four high priority management practices, which are highlighted in the box to the right. For each management practice, the plan describes implementation steps, responsible parties, implementation schedules, cost estimates, and funding sources. The plan also identifies benchmarks by which implementation can be evaluated. 
+
+Other Recommendations from the Council 
+The plan includes recommendations to the State and other entities to address information needs and water policy issues. These recommendations are detailed in the plan. The Council emphasizes the need for information to support better water planning in the future. The Council believes that water planning should be based on data reflecting actual water use and conditions as much as possible. The Council also emphasizes the need for further study to develop better criteria by which to evaluate and manage flows in the region and the Apalachicola-Chattahoochee-Flint River Basin. With respect to water policy, the Council urges the General Assembly to provide the authority and funding to continue the work of the regional water councils in the future. The Council recommends that no modifications to existing water withdrawal permitting practices be enacted based on the surface water availability and groundwater availability resource assessment model results at this time. The Council recommends that the General Assembly provide funding and authority (or other mechanism) for the Council to work with the USFWS to resolve potential conflicts between agricultural water use and imperiled species in the region. The Council urges the state to seek a timely solution to interstate water issues in the Apalachicola-Chattahoochee-Flint River Basin. The Council coordinated closely with neighboring councils and developed a set of joint recommendations with the Middle Chattahoochee and Upper Flint Councils to address shared concerns in the Apalachicola-Chattahoochee-Flint River Basin. These joint recommendations emphasize the need for more water storage capacity in the Basin and to develop a better information base for future water planning and management.  
+ES-5 
+[This Page Intentionally Left Blank] 
+
+
+1. INTRODUCTION 
+
+[This Page Intentionally Left Blank] 
+
+Section 1. Introduction 
+1.1 The Significance of Water Resources in Georgia 
+Of all Georgia’s natural resources, none is more important to the future of our state than water. The wise use and management of water is critical to support the state’s economy, to protect public health and natural systems, and to enhance the quality of life for all citizens. 
+Georgia has abundant water resources, with 14 major river systems and multiple groundwater aquifer systems. These waters are shared natural resources. Streams and rivers run through many political jurisdictions. The rain that falls in one region of Georgia may replenish the aquifers used by communities many miles away. While water in Georgia is abundant, it is not an unlimited resource. It must be carefully managed to meet long-term water needs. 
+Since water resources, their conditions, and their uses vary greatly across the state, selection and implementation of management practices on a regional and local level is the most effective way to ensure that current and future needs for water supply and assimilative capacity are met. 
+Therefore, the State Water Plan calls for the preparation of regional water development and conservation plans (Regional Water Plans) for the water planning regions depicted in Figure 1-1, not including the Metropolitan North Georgia Water Planning District (MNGWPD), which has a separate water planning process created by the Metropolitan North Georgia Water Planning District Act of 2001.1 
+This Regional Water Plan was prepared for the Lower Flint-Ochlockonee water planning region (Lower Flint-Ochlockonee Region) by the Lower Flint-Ochlockonee regional water planning council (Lower Flint-Ochlockonee Council). It describes the regionally appropriate water management practices to be employed in Georgia’s Lower Flint-Ochlockonee Region over the next 40 years. 
+1The plans of the Metropolitan North Georgia Water Planning District can be found on the District’s website:  http://www.northgeorgiawater.org/ 
+
+
+September 2011 
+
+
+1.2 State and Regional Water Planning Process 
+The State Water Plan calls for the preparation of regional water plans designed to manage water resources in a sustainable manner through 2050. It establishes ten regional water planning councils and provides a framework for regional planning consistent with the policy statement that “Georgia manages water resources in a sustainable manner to support the state’s economy, to protect public health and natural systems, and to enhance the quality of life for all citizens.” 
+This regional water plan has been prepared following the planning process illustrated in Figure 1-2. As detailed in the Lower Flint-Ochlockonee Council’s Memorandum of Understanding with the Georgia Environmental Protection Division (EPD) and the Department of Community Affairs (DCA), as well as the Council’s Public Involvement Plan, the process required and benefited from the input of local governments, other regional water planning councils, and the public.2 
+
+2 The Council’s Memorandum of Agreement and Public Participation Technical Memorandum are available as Supplemental Documents 1 and 2 on the Lower Flint-Ochlockonee Council’s website: 
+http://www.flintochlockonee.org/pages/our_plan/index.php 
+September 2011 
+
+1. Introduction 
+LOWERFLINT-OCKLOCKONEE 
+
+The full Lower Flint-Ochlockonee Council met eleven times in quarterly meetings between May 2009 and September 2011, and its members participated in numerous additional meetings and conference calls.3 The Council created several committees that supported the development of this plan, including a Water Quantity Committee, a Water Quality Committee, a Technical Ad Hoc Committee, an Agricultural Water Use Forecasts Committee, an Agricultural Water Meters Committee, a Municipal and Industrial Demand Forecasts Committee, a Vision and Goals Committee, and a Plan Review Committee. These committees met between Council meetings, reviewed materials, and developed recommendations regarding the plan for the full Council. Also, the Lower Flint-Ochlockonee Council coordinated closely with its neighboring councils, especially the Upper Flint and Middle Chattahoochee Councils, through multiple joint meetings to discuss shared resource concerns. 
+1.3 The Lower Flint-Ochlockonee Council’s Regional Vision and Goals 
+The Lower Flint-Ochlockonee Council adopted the following statement to describe its vision for the future of the planning region’s water resources: 
+The Lower Flint-Ochlockonee Water Planning Council will manage water resources in a sustainable manner to support the region’s economy, to protect public health and natural systems, and to enhance the quality of life for the region’s citizens.  
+The Council adopted the following goals to support its vision: 
+1. 	
+Ensure access to water resources for existing and future water users in the Lower Flint-Ochlockonee Region.  
+
+2. 	
+Sustain the region's aquifers, the Floridan, the Claiborne, the Clayton, and the Cretaceous, in a healthy condition that will continue to support the natural systems and economic activities of the Lower Flint-Ochlockonee Region. 
+
+3. 	
+Maintain the production-agriculture-based economy of the Lower Flint-Ochlockonee Region. 
+
+4. 	
+Support sustainable economic growth in the region. 
+
+
+The Council’s vision and goals were adopted in order to guide the Council in developing this Regional Water Plan. While the Council does not directly manage water resources in the region, the vision and goals address resource management in order to indicate the Council’s priorities and inform Council decision-making in the planning process. The regional vision and goals were used by the Council to guide the selection of water management practices, which are discussed in Section 6. 
+3 Meeting summaries for the Lower Flint-Ochlockonee Council meetings are available as Supplemental Document 3 on the Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php. 
+September 2011 
+
+
+2. 	THE LOWER FLINT-OCHLOCKONEE WATER PLANNING REGION 
+[This Page Intentionally Left Blank] 
+
+Section 2. The Lower Flint-Ochlockonee Water Planning Region 
+2.1 History and Geography 
+The Lower Flint-Ochlockonee Region (Figure 2-1) encompasses over 6,014 square miles in southwest Georgia and includes 14 counties (Baker, Calhoun, Colquitt, Decatur, Dougherty, Early, Grady, Lee, Miller, Mitchell, Seminole, Terrell, Thomas and Worth counties) and 50 towns and cities partially or wholly within these counties. River basins in the region include the Chattahoochee, Flint, Ochlockonee, and Suwannee. 
+Agriculture is the leading economic sector and water user in the region. According to the University of Georgia’s 2009 Georgia Farm Gate Value Report (AR-10-01), the counties of the Lower Flint-Ochlockonee Region generated agricultural production with a value of $1.9 billion.1 In the 19th century, agricultural development in southwest Georgia was driven by the development of the cotton gin, and major crop diversification began in the 1930’s due to farm mechanization advances, New Deal policies, and cotton yield reductions caused by the Boll Weevil. Widespread use of irrigation in the region began to develop in the 1970’s. 
+
+2.2 Characteristics of the Region 
+The Lower Flint-Ochlockonee Region is largely rural with over 43% of the land in row crops and pasture and an additional 34% in forest. Although row crop and pasture cover has decreased slightly in the past few decades, and low-intensity urban development has increased, the region is expected to remain predominantly agricultural. However, recent land use trends may signal an increasing presence of industrial and commercial development. Land use in the region is illustrated in Figure 2-2. 
+1 2009 Georgia Farm Gate Value Report (AR-10-01) compiled by Boatright and McKissick, May 2010. Available on-line: http://www.caed.uga.edu/publications/2010/pdf/AR-10-01.pdf 
+
+LOWER FLINT-OCHLOCKONEE 
+
+
+September 2011
+
+
+Natural features in the region provide habitat for an abundance of flora and fauna as well as areas critical for recharging the region’s aquifers.2 The region is located in Georgia’s coastal plain physiographic region, south of the fall line. The coastal plain “is underlain by relatively soft, weakly consolidated rocks and unconsolidated sediments deposited by the sea or streams when the shoreline was at or near the fall line between 80 and 100 million years ago” (Flint River Water Development and Conservation Plan, March 2006). 
+Aquifers in the region include the Clayton, Claiborne, and Floridan aquifer systems. A large area of the Floridan aquifer in this region is in hydraulic connection with the Flint River. In this area, known as Subarea 4, surface water streams receive or lose water to the aquifer depending on the head difference between the streams and the aquifer. The major mechanisms of transfer include diffusion through streambeds or stream banks and discharge from in-channel springs, commonly known as blue­springs, which can discharge on the order of tens of millions of gallons per day. Subarea 4 includes the Flint River Basin south of Dooly County, part of the lower Chattahoochee River Basin, and a narrow strip on the eastern side of the Ochlockonee and Suwannee River Basins.3 
+At the southern end of the region, Lake Seminole affects groundwater levels on a localized scale. A 2004 U.S. Geological Survey (USGS) hydrologic model mimicked 
+2  A USGS map of aquifer recharge areas in Georgia is available as Supplemental Document 4 on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+3 A map of Subarea 4 of the Floridan Aquifer is available as Supplemental Document 5 on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+
+LOWER FLINT-OCHLOCKONEE 
+
+pre- and post-impoundment, during drought conditions, to determine differences in the potentiometric surface and flow direction of the Floridan aquifer associated with Lake Seminole. The impoundment was shown to increase groundwater levels surrounding the lake by as much as 26 feet, but the overall impact was relatively localized, with groundwater level increases of “less than 2 feet beyond linear distances from Jim Woodruff Lock and Dam of about 35 miles along the Chattahoochee and Flint Rivers, and 20 miles along the Apalachicola River.”4 
+
+2.3 Local Policy Context 
+The Lower Flint-Ochlockonee Region is subject to several overlapping layers of water resource management by state and federal agencies.5 State permitting programs for water withdrawals and wastewater dischargers affect all water users (OCGA §§12-5-32, 12-5-30(a), 12-5-30(b), 12-5-96, 12-5-105; DNR Rules 391-3-6­.06, 391-3-6-.07, 391-3-2-.03). In this region, the following laws, regulations, and programs are also directly relevant to water management:  
+. 	The Flint River Water Development and Conservation Plan of 2006 serves as guidance for the Georgia Environmental Protection Division (EPD) for agricultural water use permit issuance and for implementation of the Flint River Drought Protection Act. The 2006 Flint Plan was developed under the authority of the Water Quality Act (O.C.G.A. §12-5-31(h)) and Groundwater Use Act (O.C.G.A. §12-5-96(e)) in response to a prolonged drought, increased agricultural irrigation in southwest Georgia since the 1970’s, and scientific studies that predicted severe impacts on streamflow in the Flint River Basin due to withdrawals from area streams and the Floridan aquifer (Flint River Water Development and Conservation Plan, 2006). The Lower Flint-Ochlockonee Regional Water Plan builds on the existing 2006 plan for the Flint River Basin. The 2006 plan provides a scientific and policy foundation for water resources planning in the Flint River Basin and will be implemented in concert with it.6 
+. 	The Flint River Drought Protection Act (OCGA §12-5-540) and its 
+implementing rules (DNR Rule 391-3-28) provide for demand management 
+through agricultural irrigation suspension in times of drought. 
+
+4 Jones, L. Elliott, and Torak, Lynn J., 2004, Simulated Effects of Impoundment of Lake Seminole on Ground-Water Flow in the Upper Floridan Aquifer in Southwestern Georgia and Adjacent Parts of Alabama and Florida: U.S. Geological Survey, Scientific Investigations Report 2004-5077, p. 22. 
+5 A detailed discussion of existing water related laws, policies, regulations, and plans affecting the region is provided in Supplemental Document 6 - Existing Regulatory and Local Plan Summary, available on the Lower Flint-Ochlockonee Council’s website: 
+http://www.flintochlockonee.org/pages/our_plan/index.php 
+6 A copy of the 2006 Flint River Basin Water Development and Conservation Plan is included as Supplemental Document 7 on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php  It is also available on the Georgia EPD website: http://www1.gadnr.org/frbp/index.html 
+September 2011 
+
+. 	Federal Energy Regulatory Commission (FERC) licensing requirements for privately-owned hydroelectric impoundments apply to Lake Chehaw in the Lower Flint-Ochlockonee Region.   
+. 	Under the federal Endangered Species Act, six species of freshwater mussels have been listed as endangered or threatened in the Lower Flint-Ochlockonee Region: 
+Endangered: 	Shinyrayed pocketbook, Gulf moccasinshell, Ochlockonee moccasinshell, Oval pigtoe, Fat threeridge 
+Threatened: 	Purple bankclimber 
+Additionally, the Gulf sturgeon is listed as threatened, and flow requirements for the Gulf sturgeon affect the management of the Apalachicola-Chattahoochee-Flint System as a whole. The Endangered Species Act prohibits takings of these species and sets requirements for the protection of their critical habitats.7 
+. 	The U.S. Army Corps of Engineers (USACOE) operates five federal reservoir projects on the Chattahoochee River (Lake Sidney Lanier, West Point Lake, Walter F. George Lake, George W. Andrews Lake, and Lake Seminole). The operation of these projects affects the parts of the Lower Flint-Ochlockonee Region that are within the Chattahoochee Basin, and it also affects the region as a key component of water management in the Apalachicola-Chattahoochee-Flint (ACF) Basin as a whole. The Master Water Control Manual for the ACF is currently being revised by the USACOE. 
+Additionally, the ACF system is the subject of protracted litigation over the management and allocation of water resources among the Florida, Georgia, and Alabama and other interested parties. This litigation is currently subject to a 2009 ruling that gave the states until 2012 to resolve water sharing disputes or revert to 1970’s allocations for water withdrawals from Lake Lanier. Because the states have not yet resolved these issues, this plan is based on current conditions and will be revised as appropriate in the future to reflect any final agreements reached by the three states. 
+7 More information on federally listed endangered and threatened species of freshwater mussels in the region can be found on the following U.S. Fish and Wildlife Service website: http://www.fws.gov/panamacity/mussels.html  Information on gulf sturgeon can be found on the following U.S. Fish and Wildlife Service website: http://www.fws.gov/panamacity/gulfsturgeon.html Section 6.1 of this plan discusses how the Endangered Species Act affected the development of this plan, and Section 7.4 includes a recommendation from the Council to address the region’s Endangered Species Act concerns in the future. 
+
+With regard to water quality regulation, the U.S. Environmental Protection Agency (EPA) recently promulgated nutrient standards for free flowing streams and lakes in Florida as a result of a federal lawsuit under the Clean Water Act. These criteria are currently subject to legal challenge, but they are expected to require increased control of nutrients in Georgia in order to meet standards downstream in river basins that cross into Florida. These new nutrient standards could have substantial implications for water quality management in this region and other regions that share river basins with Florida. 
+LOWER FLINT-OCHLOCKONEE 
+
+September 2011 
+
+
+3. 	CURRENT ASSESSMENT OF WATER RESOURCES OF THE LOWER FLINT-OCHLOCKONEE REGION 
+[This Page Intentionally Left Blank] 
+
+SUMMARY: This section assesses the current use, capacity, and condition of  
+water resources in the Lower Flint Ochlockonee Region.  
+
+Section 3. Current Assessment of Water Resources of the Lower Flint-Ochlockonee Region 
+3.1 Major Water Uses in the Region 
+Current water use information for this region was compiled as a part of the development of water use forecasts for major categories of water use, including: 
+. 	Municipal - water withdrawn by public and private water supplier and delivered for a variety of uses (e.g., residential, commercial, light industrial) 
+. 	Industrial - water withdrawn for fabrication, processing, washing, and cooling for facilities that manufacture products, including steel, chemical and allied products, paper, and mining 
+. 	Energy -water withdrawn primarily for cooling purposes in the production electricity at thermoelectric plants (Hydroelectric energy uses water to produce energy, but because this use is nonconsumptive, hydroelectric water use is not included in the forecasts.) 
+. 	Agriculture -water withdrawn for crop irrigation1 
+As shown in Figure 3-1, groundwater is the predominant source of water in the Lower Flint-Ochlockonee Region. Figures 3-2 and 3-3 show that the use of surface water is roughly equal for industry, energy, and agriculture in the region, while most groundwater use is for agriculture. Figure 3-4 shows that the leading method for treating wastewater is by treatment facilities with point source discharges.2 Over 80% of these discharges are from power generating and industrial facilities. 
+1 Forecasts of agricultural water use included nursery water use. Water use by golf courses with agricultural water withdrawal permits were included in these forecasts at current levels. Animal operations were not included in the forecasts, but estimates of current use were considered. More information on the agricultural water use estimates and forecasts, including estimates of current water use for animal operations and golf courses (with agricultural withdrawal permits), is provided in Supplemental Document 8 - Agricultural Water Use Technical Memorandum, available on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+2 Figures 3-1 through 3-4 are estimates of current demands in the Lower Flint-Ochlockonee Region for water and wastewater.  These are based on data on water use from recent years, although different years are used for different sectors due to the availability of data. For example, the agricultural data is based on 2008 baseline use estimates made by the University of Georgia National Environmentally Sound Production Agriculture Laboratory (NESPAL), and the municipal, industrial and energy sector water demands are based on 2005 USGS estimates. The wastewater estimates for point sources and land application systems are based on 2005 wastewater discharge data from EPD. In Section 4, the 2010 numbers presented are not the same as the current numbers given here because the 2010 
+
+
+M
+I DDLE OCMULGEE 
+DRAFT 
+Ge o r
+g i
+a S ta te ­
+wi d
+e Wa t
+er
+M a na gem e nt Pl
+a n 
+I V -2 
+DAY M
+O NT H Y E A R 
+LOWER FLINT-OCHLOCKONEE 
+
+numbers are forecasted estimates that were prepared as a part of the forecasts described in that section. 
+September 2011 
+
+The agricultural water use estimates for the region provided in Figure 3-2 and 3-3 include water used by specialty crops and nursery operations in addition to row crops, but they do not include water used by animal operations or golf courses with agricultural withdrawal permits. The current use of water by animal operations in this region is estimated to be 4.9 MGD. Golf courses with agricultural withdrawal permits in the region are estimated to use 1.305 MGD in an average year and 2.785 MGD in a dry year. 
+For planning purposes, it is important to understand the amount of water that is returned to the hydrologic system after it is used. Consumptive use is the difference between the total amount of water withdrawn from a defined hydrologic system and the total amount of the withdrawn water that is returned to the same hydrologic system. In this planning process, on-site sewage treatment and land application systems are treated as 100 percent consumptive. Similarly, agricultural water use for irrigation is treated as 100 percent consumptive. While water may be returned to the hydrologic system from these treatment methods and from irrigated farm land, it is not returned within a timeframe that allows for it to offset the impacts of related water withdrawals. 
+Many members of the Lower Flint-Ochlockonee Council expressed concern over the model assumption applied in this planning process that agricultural water use for irrigation is 100 percent consumptive. This assumption was applied in the surface water availability model (see Section 3.2 below). The Council and its Technical Ad Hoc Committee discussed this issue in detail. The following points summarize their conclusions: 
+. 	The level of consumptive use by agricultural irrigation varies widely depending on field and other conditions. 
+. 	Timing of returns to the stream is important for the surface water availability model. While more water is returned over a longer period of time, for this effort, a shorter time frame must be evaluated. 
+. 	At this time, the selection of an alternative estimate of consumptive use for agriculture would be arbitrary.   
+Based on the recommendation of the Technical Ad Hoc committee, the Council decided to proceed based on the 100 percent consumptive use assumption for irrigated agriculture for this plan. However, the Council notes concern that the assumption of 100 percent consumptive use by irrigated agriculture led to modeling results in the Flint River Basin that indicate a larger shortfall (at the Bainbridge node) than would have occurred if the assumption were less than 100 percent. The Council also notes that great improvements in agricultural irrigation efficiency have been made in recent years, and while efficiency gains can decrease the amount of water used, they also decrease the percentage of return flow from agriculture and thereby increase the level of consumptive use (as a percent of water withdrawn), because more water is used by the plant and unavailable to return to the hydrologic system. 
+
+
+3.2 Resource Assessments 
+For this planning process, the Georgia Environmental Protection Division developed three resource assessments for the state’s water resources: surface water availability, groundwater availability and surface water quality. These assessments used models to estimate the capacity of streams and aquifers to meet water consumption demands and of streams to meet wastewater discharge demands, within sustainability criteria described by EPD. The assessments were conducted on a resource basis (i.e., river basins and aquifers). The results of these assessments for current conditions are summarized in this section, as they relate to the Lower Flint-Ochlockonee Region. Section 5 describes the future conditions projected by the resource assessment models. Full details of each resource assessment can be found at the following website: http://www.georgiawaterplanning.org/pages/resource_assessments/index.php 
+3.2.1 Surface Water Availability 
+The surface water availability assessment modeled the flow response of surface water streams to meeting consumptive water demands for current and forecast municipal, industrial, agricultural, and thermal power uses. Flow responses predicted by the model were evaluated at selected points in a river basin to determine the frequency and magnitude with which consumptive use caused the modeled stream flows to fall below sustainability criteria for flows established by EPD. The points of evaluation occurred at planning nodes, which were located at stream gages where the effect on stream flows of cumulative upstream consumptive uses of water (i.e., withdrawals minus returns) and authorized reservoir operations could be evaluated (see Figure 2-1). Critical inputs for the model included: desired flow of the river system, expected return of treated wastewater to the system, water supply demands, and desired reliability of the water supply. 
+M
+I DDLE OCMULGEE 
+DRAFT 
+Ge o r
+g i
+a S ta te ­wi d
+e Wa t
+er
+M a na gem e nt Pl
+a n 
+DAY MO NT H Y E A R I V -2  Flow responses were evaluated for each day in a 68-year period of record (1939­2007). The period of record used in the model was selected to represent the longest and most complete range of historical stream flow data available in Georgia and the range of stream hydrology likely to be experienced throughout the planning horizon.  
+In unregulated portions of a basin, the sustainability criteria established by EPD for flows were monthly 7Q10 (lowest seven day average flow in a ten-year period) or natural inflow, whichever was lower for each day in the period of record. In regulated  
+
+LOWER FLINT-OCHLOCKONEE 
+
+portions of a basin, the sustainability criteria for flows were set only where an explicit flow requirement was specified, such as by the U.S. Army Corps of Engineers. Otherwise, in regulated nodes, the ability to meet demands was evaluated relative to the availability of storage to meet demands and any downstream flow criteria. 
+Most of the Lower Flint-Ochlockonee Region occurs within the Flint River Basin, which has two unregulated nodes: Montezuma and Bainbridge (see Figure 2-1). Montezuma is located in the Upper Flint Region, and Bainbridge is located in the Lower Flint-Ochlockonee Region. Bainbridge is close to the southern boundary of the 
+September 2011 
+
+Lower Flint-Ochlockonee Region, but Montezuma is not at the southern border of the Upper Flint Region. Therefore, parts of the Upper Flint Region, including all of Webster and Sumter Counties and portions of Marion, Macon, Dooly, Schley, and Crisp Counties, occur in the area evaluated at the Bainbridge planning node.  
+The resource assessment model evaluated how consumptive water use (and reservoir operation, where applicable) would impact water availability at the planning nodes if use were held constant over the period of record. The assessment identified days when a shortfall occurred in meeting the sustainability criteria given consumptive use and flow conditions. The results in this section concern current conditions. For the model, current water use data were developed based on the maximum observed monthly net water use aggregated across all use categories from 2002 through 2007. Reservoir operation data used in the model, where applicable, was that which is currently in effect for the major reservoirs.  
+Given current water use in the Flint River Basin, the model indicated that flows would fall below the EPD sustainability criteria on only two days in the period of record (25,202 days) at Montezuma. At Bainbridge, however, the model identified a much larger shortfall. Modeled flows fell below the sustainability criteria on 3,276 days in the period of record (13% of the time). The average shortfall identified on those days was 352 cfs (227 MGD). The maximum shortfall (which occurred on one day) identified was 1,376 cfs (889 MGD). 
+The shortfall at Bainbridge resulted from consumptive use of water and the effect of model assumptions about withdrawals of water for storage above Montezuma. The Council disagreed with the assumptions regarding upstream storage withdrawals, because the assumed withdrawals were greater than actual withdrawals for storage. The assumed withdrawals for storage reduced flows in the model to the Bainbridge node from the Montezuma node, and the resultant shortfalls identified were based on inputs that were higher than actual levels. The Council is concerned about the accuracy of these results and the impact of these assumptions on public perception of the model’s shortfall estimates. A more complete explanation of these model assumptions is provided in Supplemental Document 9 on the Lower Flint-Ochlockonee Council’s website.3 
+The Bainbridge node results were affected by the use of surface water and groundwater. Groundwater use with an impact at the Bainbridge node occurs in Subarea 4 of the Upper Floridan Aquifer (Dougherty Plain), where interconnection of the aquifer with the surface water is high. Subarea 4 includes the Flint River Basin 
+LOWERFLINT-OCHLOCKONEE 
+
+3 Supplemental Document 9 – EPD Technical Memorandum: Flow Gap Analysis (May 26, 2010) is available on the Lower Flint-Ochlockonee Council’s website: 
+http://www.flintochlockonee.org/pages/our_plan/index.php 
+
+south of Dooly County, part of the lower Chattahoochee River Basin, and a narrow strip on the eastern side of the Ochlockonee and Suwannee River Basins.4 
+In the Ochlockonee River Basin, at Concord, the model indicated that flows would fall below the EPD sustainability criteria on 2,268 days in the period of record (9% of the time). On those days, the average shortfall identified was 26 cfs, and the maximum was 60 cfs. At Quincy, modeled flows were below the EPD sustainability criteria on 1,260 days in the period of record (5% of the time). The average shortfall identified on those days was 5 cfs, and the maximum shortfall was 11 cfs. Flint and Ochlockonee surface water availability assessment results are provided in Table 3-1. 
+Table 3-1: Summary of Current Surface Water Availability Results: Flint and Ochlockonee Rivers  
+Node  Percent of Time Flow is Below the Sustain- ability Criteria5  Average Shortfall (cfs)  Long-Term Average Flow (cfs)  Maximum Shortfall (cfs)  Flow Regime Target Corresponding to the Maximum Shortfall (cfs)  
+Montezuma   <0.01%  <1 (0.6 MGD)  3,421 (2211 MGD)  1 (0.6 MGD)  593 (383 MGD)  
+Bainbridge  13%  352 (227 MGD)  7910 (5113 MGD)  1376 (890 MGD)  2506 (1620 MGD)  
+Concord  9%  26 (17 MGD)  1,107 (715 MGD)  60 (39 MGD)  68 (44 MGD)  
+Quincy  5%  5 (3 MGD)  264 (171 MGD)  11 (7 MGD)  11 (7 MGD)  
+Sources: EPD Technical Memorandum: Summary Future (2050) Resource Assessment in ACF River Basins, July 16, 2010; EPD Technical Memorandum: Summary Future (2050) Resource Assessment in Ochlocknee, Suwannee, Satilla and St. Mary’s (OSSS) River Basins, July 14, 2010.6  
+
+M
+I DDLE OCMULGEE 
+DRAFT 
+Ge o r
+g i
+a S ta te ­
+wi d
+e Wa t
+er
+M a na gem e nt Pl
+a n 
+I V -2 
+DAY M
+O NT H Y E A R 
+LOWER FLINT-OCHLOCKONEE 
+
+Part of the Lower Flint-Ochlockonee Region falls in the Chattahoochee watershed (see Figure 2-1). In the resource assessment model, the Chattahoochee River Basin had several regulated nodes. The model results showed no shortfalls in meeting flow targets. Downstream needs for water use and flow were met in the model by using 
+4 A map of Subarea 4 of the Floridan Aquifer is available as Supplemental Document 5 on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+5 Surface water availability assessment sustainability criteria are described in Section 3.2.1. 
+6 These documents are available in Supplemental Document 10 – EPD Technical Memoranda: Surface Water Availability Model Results (July 2010), available on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+September 2011 
+
+available conservation storage in the system’s reservoirs. The model results estimated the amount of conservation storage remaining when storage reached its lowest in the period of record. At that time, aggregate conservation storage in the basin’s major reservoirs was 40% of available conservation storage. Table 3-2 provides the surface water availability assessment results for the Chattahoochee.7 
+A small portion of the Lower Flint-Ochlockonee Region is located in the Suwannee River Basin. Results for this basin are not included in this report, but can be found in the Suwannee-Satilla Regional Water Plan. The Lower Flint-Ochlockonee Council coordinated with the Suwannee Satilla Council in evaluating assessment results and developing management practices for their respective plans. 
+Table 3-2: Summary of Current Surface Water Availability Results: Chattahoochee River  
+Node  Demand Shortage (cfs)  At-site Flow Require ment Shortage (cfs)  Minimum Reservoir Conservation Storage (acre-feet)  Minimum Percentage Reservoir Conservation  Storage  Basin wide Flow Require ment Shortage  
+Whitesburg  0  0  540,021  50%  None  
+Columbus  0  0  14,310  5%  None  
+Columbia  0  0  41,076  17%  None  
+Woodruff  0  0  652,974 at Buford, West Point Dam, & Walter F. George Dam  40% at Buford, West Point Dam, & Walter F. George Dam  None  
+Source: EPD Technical Memorandum: Summary Future Resource Assessment in ACF River Basins, July 16, 2010.8  
+
+
+3.2.2 Groundwater Availability 
+The groundwater availability assessment estimated the sustainable yield for prioritized groundwater resources based on existing data. EPD prioritized the 
+7 A more complete discussion of the surface water availability model results can be found in Supplemental Document 10. See note 6.  
+8 See note 6. 
+September 2011 
+
+aquifers for assessment based on the characteristics of the aquifer, evidence of negative effects, anticipated negative impacts and other considerations. 
+The sustainable yields calculated by the groundwater availability assessment model estimate the volume of groundwater that can be used without causing adverse impacts, including: limiting use of neighboring wells (drawdown), reducing groundwater contributions to stream baseflows, and permanent reduction of aquifer levels. Sustainable yield estimates were determined by simulating withdrawals from existing wells and, where applicable, simulated new wells. Aquifer use was evaluated by the model against various threshold levels that defined unacceptable impacts. Model results are shown in Table 3-3. The sustainable yield results in Table 3-3 indicate the levels of use at which a threshold indicating an adverse impact threshold was exceeded in model simulations. Sustainable yield was estimated as a range for each aquifer based on multiple model runs with different assumptions about aquifer use. These assumptions varied for different aquifers.9 
+In Table 3-3, current aquifer use levels are given for comparison to the sustainable yield model results. Current aquifer use is expressed as a range; the range reflects variation in agricultural use of the aquifer. The lower end of the range represents use levels when agricultural use is moderate (average year), and the upper end represents use levels when agricultural use is high (dry year). 
+The Lower Flint-Ochlockonee Region includes the Claiborne, the Upper Floridan (Dougherty Plain), and the South-Central Georgia Upper Floridan aquifers.10 The results in Table 3-3 indicate that for two aquifers that occur in the Lower Flint-Ochlockonee Region, current use is within or above the sustainable yield range: Claiborne and Upper Floridan (Dougherty Plain). 
+The assessment model results showed that estimated current use of the Claiborne 
+DRAFT 
+Ge o r
+g i
+a S ta te ­wi d
+e Wa t
+er
+M a na gem e nt Pl
+a n 
+DAY MO NT H Y E A R 
+during dry years (when use levels are high) exceeds the lower end of the sustainable 
+M
+I DDLE OCMULGEE 
+I V -2 
+LOWER FLINT-OCHLOCKONEE 
+
+yield range. The sustainable yield results for this aquifer were expressed as a range to encompass two model scenarios with different assumptions about groundwater use. The lower end of the range was defined a model scenario assuming that groundwater use will increase uniformly across the aquifer from existing well locations. The upper end of the range was defined based on a model scenario assuming that groundwater use will increase in a non-uniform manner geographically. The non-uniform assumption allowed for greater use because withdrawals could be held constant in areas where adverse impacts were a concern and increased in other areas where impacts were not harmful. Under current 
+9 For more detail on the groundwater availability resource assessment and results, see the March 2010 Synopsis Report: Groundwater Availability Assessment available on the EPD water planning website at: 
+http://www.georgiawaterplanning.org/news/March_2010_Water_Resource_Assessments_for_Review_a nd_Comment.php 
+10 A map of the assessed aquifers is included as Supplemental Document 11 on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+September 2011 
+
+conditions, use of the Claiborne slightly exceeds the lower end of the sustainable yield range, but is well below the upper end of the sustainable yield range. The model results indicate that adverse impacts on this aquifer are dependent upon the location of withdrawals. The results showed that some areas of the aquifer have substantial amounts of water that can be used sustainably, while other parts will show potential adverse impacts of use. These results indicate the need for caution in the management of withdrawals from the Claiborne aquifer and the need for more specific analysis, based on the location of withdrawals, directed at preventing future adverse impacts.  
+Table 3-3: Groundwater Results for Assessed Aquifers in Lower Flint-Ochlockonee Region – Current Conditions  
+Aquifer  Estimated Current Groundwater Withdrawal (mgd)*  Sustainable Yield of Individual Aquifer (Min/Max, mgd)  
+Claiborne Aquifer  123-148 (190-229 cfs)  140-635 (217-982 cfs)  
+South-Central Georgia Upper Floridan  282-366 (436-566 cfs)  622 – 836 (962-1293 cfs)  
+Upper Floridan Aquifer in the Dougherty Plain  450-587 (696-908 cfs)  237 – 328 (367-507 cfs)  
+Source: Georgia EPD, March 2010 Synopsis Report: Groundwater Availability Assessment and subsequent results updates provided by EPD.11  
+*The lower end of the range for withdrawals represents agricultural use in a moderate year, while the upper end represents agricultural use in a dry year.  
+
+As noted above, the sustainable yield results estimate the volume of groundwater that can be used without causing adverse impacts. In the model, increasing levels of use were evaluated against various threshold levels that defined an unacceptable level of impact. While most of the impacts evaluated related to the health of the aquifer directly, the impact on groundwater contributions to stream baseflows was also evaluated where interconnection between surface water and groundwater is present. In the case of the Upper Floridan aquifer in the Dougherty Plain, the sustainable yield results were defined by the modeled impact of groundwater withdrawals on groundwater contributions to stream baseflows. In the resource assessment model runs for this aquifer, adverse impacts on groundwater contributions to stream baseflows were observed when impacts on the aquifer itself were minimal (i.e., drawdown of the aquifer was less than five feet at modeled use 
+11 See note 9. 
+
+levels). Therefore, the results for this aquifer relate closely to those observed in the surface water availability assessment at the Bainbridge node.12 
+
+3.2.3 	Surface Water Quality 
+The water quality assessment modeled the capacity of Georgia’s surface waters to naturally reduce pollutant levels without unacceptable degradation of water quality. The term assimilative capacity refers to the ability of a water body to naturally reduce pollutants to a level that does not exceed state water quality standards or harm aquatic life. The water quality assessment focused on available assimilative capacity for oxygen consuming wastes (affecting dissolved oxygen), nutrients (specifically nitrogen and phosphorus) and chlorophyll-a (a green pigment found in algae; the concentration of chlorophyll-a is used to assess lake water quality). Assessment of the ability to assimilate oxygen consuming wastes is important because aquatic life is dependent upon the amount of residual dissolved oxygen available in a stream.  
+Two water quality model evaluations were performed: 
+1.
+ River Model (Dissolved Oxygen Modeling) – This 	model evaluates dissolved oxygen due to existing point discharges under critical conditions. 
+
+2.
+ Lake	 and Watershed Models (Nutrient Modeling) – These models evaluated the impacts of point and nonpoint sources from nutrient loadings, nutrients (specifically nitrogen and phosphorus) and chlorophyll-a (a green pigment found in algae; the concentration of chlorophyll-a is a parameter used to assess lake water quality). The watershed and lake models will account for nutrient sources from both wastewater discharges and nonpoint source stormwater runoff based on various land uses. 
+
+
+M
+I DDLE OCMULGEE 
+DRAFT 
+Ge o r
+g i
+a S ta te ­wi d
+e Wa t
+er
+M a na gem e nt Pl
+a n 
+I V -2  DAY MO NT H Y E A R  
+The water quality assessment is not the same as the 303(d) list of impaired waters because this assessment only looked at dissolved oxygen and nutrients; the 303(d) list includes stream reaches listed as impaired on the basis of dissolved oxygen and other parameters, such as metals, bacteria, and biota. Furthermore, the 303(d) list is based on analytical results from stream monitoring and not model results. Waters in the Lower Flint-Ochlockonee Region that are included on the 303(d) list of impaired waters are discussed in Section 3.3.1. Determining assimilative capacity is  
+
+LOWER FLINT-OCHLOCKONEE 
+
+dependent on different parameters and requires information on the stream flow, in­stream water quality, wastewater discharges, water withdrawals, land application systems, weather information, land use, stream hydrology, topography, and the state’s water quality standards. The water quality models were developed to show 
+12The sustainable yield results for the Upper Floridan in the Dougherty Plain are expressed as a range as a result of two model scenarios involving two different assumptions about increases in pumping from one hydrologic unit (HUC 03130004), which crosses state lines into Florida and Alabama. For more information on the groundwater resource assessment results, see the March 2010 Synopsis Report: Groundwater Availability Assessment cited in Note 9. 
+September 2011 
+
+the current status of the available assimilative capacity based on current discharges. They were also used to evaluate future conditions, which are discussed in Section 
+5.3. 
+Dissolved Oxygen Modeling 
+Figure 3-5 shows the in-stream dissolved oxygen (DO) model results for current discharges given critical low flow (7Q10), high temperature conditions. Stream segments that were predicted by the model to have exceeded the available assimilative capacity are shown in red. Streams that are at the allowable DO levels are shown in pink, and those predicted to have very good DO levels relative to state water quality standards are shown in blue. It is important to note that some streams are naturally low in DO, but these streams cannot necessarily be discerned from in Figure 3-5 because the map indicates the effects of discharges as well as natural conditions for all streams. Assimilative capacity appears to be available for stream reaches in the region based on dissolved oxygen modeling results. The number of stream miles where assimilative capacity was exceeded or unavailable under current conditions in the model was 8.80 miles in the Flint River Basin (as a whole) and 
+13.77 miles in the Ochlockonee River Basin. 
+
+
+Nutrient Modeling 
+Watershed and lake models were run assuming current levels of water use and wastewater disposal and current land use profiles as inputs. These inputs accounted for nutrient loading from the contributing watershed over an eight year hydro-period based on historical data. The model results indicated that in the Flint River Basin, nonpoint sources currently contribute more nutrients (nitrogen and phosphorus) than point sources. 
+The lake models estimated the algal response, in terms of chlorophyll-a levels, to nutrient loading at current conditions over a multi-year modeling period. The model results can then be compared to existing chlorophyll-a standards, where they exist. Two lakes in the region were modeled: Blackshear and Seminole, but nutrient standards have not been established for either lake. The results indicated that in both lakes, current phosphorus loading is primarily from nonpoint souces. While the lake model results cannot be compared against nutrient standards for these two lakes, the results do indicate how nutrient control efforts should be directed to manage current and future nutrient loading.13 
+13 See Section 5.3 for a discussion of future water quality modeling results. 
+
+
+
+
+3.3 Ecosystem Conditions and In-stream Uses 
+3.3.1 303(d) list and TMDLs 
+The state of Georgia assesses its water bodies for compliance with water quality standards, as required by the federal Clean Water Act. Waters of the state are monitored by EPD, USGS, and other local authorities contracted by EPD. If an assessed water body is found not to meet standards, then it is considered “not supporting” its designated uses, and it is included on a list of impaired waters (303(d) list). Impairments must be addressed through the development of a Total Maximum Daily Load (TMDL), which sets a pollutant load and outlines a strategy for corrective action. Several stream reaches in the Lower Flint-Ochlockonee Region are on the state’s list of impaired waters. A summary of impaired waters in the region is provided in Figure 3-6.14 
+
+3.3.2 Fisheries, Wildlife, and Recreational Resources 
+In 2005, Georgia’s Wildlife Resources Division published A Comprehensive Wildlife Conservation Strategy for Georgia, which outlines a plan “to conserve Georgia’s animals, plants, and natural habitats through proactive measures emphasizing voluntary and incentive-based programs on private lands, habitat restoration and management by public agencies and private conservation organizations, rare species survey and recovery efforts, and environmental education and public outreach activities.” The strategy is available on-line at the following Georgia Department of Natural Resources website: http://www1.gadnr.org/cwcs/ In the Lower Flint-Ochlockonee Region, this strategy includes rare aquatic species on the federal or state lists of rare species, including seven fish species, sixteen invertebrate species, two reptile species, and two amphibian species.15 Critical habitat areas have been identified for federally listed endangered and threatened species of freshwater mussels in the region; more information can be found on the 
+M
+I DDLE OCMULGEE 
+I V -2 
+DRAFT 
+Ge o r
+g i
+a S ta te ­wi d
+e Wa t
+er
+M a na gem e nt Pl
+a n 
+DAY MO NT H Y E A R 
+following U.S. Fish and Wildlife Service website: 
+LOWER FLINT-OCHLOCKONEE 
+
+http://www.fws.gov/panamacity/mussels.html 
+The Lower Flint-Ochlockonee Region provides boaters, fishermen, and other outdoor enthusiasts with a diverse and easily accessible river environment. Lake Blackshear offers boating and fishing opportunities. The crystal blue springs of the lower part of the region are a unique recreational resource. Camping, hunting, and hiking trails are recreational options across the region. Important recreational fisheries in the region include shoal bass, Gulf striped bass, and black bass. The Department of Natural Resources manages State Parks and Historic Sites, Public Fishing Areas, boat 
+14 A more complete list of impaired waters in the region is available in Supplemental Document 6 -Existing Regulatory and Local Plan Summary, available on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+15 A list of rare aquatic species in the region is included in Supplemental Document 6 - Existing Regulatory and Local Plan Summary, available on the Lower Flint-Ochlockonee Council’s website: 
+http://www.flintochlockonee.org/pages/our_plan/index.php 
+September 2011 
+
+ramps, fish hatcheries, and Wildlife Management Areas throughout the Lower Flint-Ochlockonee Region.  
+Figure 3-5: Assimilative Capacity Results from Dissolved Oxygen  
+Assessment: Flint & Ochlockonee Rivers (Current Conditions)  
+
+
+
+
+
+
+
+4. FORECASTING FUTURE WATER RESOURCE NEEDS 
+[This Page Intentionally Left Blank] 
+
+Section 4. Forecasting Future Water Resource Needs 
+4.1 Municipal Forecasts 
+4.1.1 Municipal Water Forecasts 
+Municipal water and wastewater forecasts were based on population projections that were developed by the Governor’s Office of Planning and Budget (OPB). In summary, these forecasts projected that population in the Lower Flint-Ochlockonee Region is expected to increase by 44.4% from 374,935 in 2010 to 541,265 in 2050.1 
+The municipal water forecasts were calculated by multiplying an estimate of per capita water use by the population to be served. Per capita use rates were adjusted to reflect expected water savings over time from the transition to high efficiency toilets (1.28 gallons per flush maximum), required by the Water Stewardship Act. Additional details regarding development of the municipal water forecasts, including the per capita rate, plumbing code savings, and results, are provided in Supplemental Documents 13 and 15 - Municipal and Industrial Water and Wastewater Forecasting Memorandum and the Water Conservation Technical Memorandum, respectively.2 
+The resulting municipal water forecasts projected that demand for municipal water is expected to increase from 52 MGD (80 cfs) in 2010 to 66 MGD (102 cfs) in 2050 in the region. Of these amounts (current and future), the forecasts estimated water sources as follows: 80% from groundwater by municipal systems and 20% from groundwater by private wells (self-supply). None is expected to be withdrawn from surface water. 
+
+4.1.2 Municipal Wastewater Forecasts 
+Municipal wastewater forecasts were calculated based on the municipal water demand forecasts with adjustment for outdoor water use (not treated) and inflow and 
+1 
+County-level population estimates for the region, provided to EPD by OPB, are included in Supplemental Document 12 – Georgia OPB Population Projections (March 2010), available  on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+2 Supplemental Document 13 - Municipal and Industrial Water and Wastewater Forecasting Memorandum and Supplemental Document 15 - Water Conservation Technical Memorandum are available on the Lower Flint-Ochlockonee Council’s website: 
+http://www.flintochlockonee.org/pages/our_plan/index.php 
+
+4. Forecasting Future Water Resource Needs 
+infiltration into municipal systems. Wastewater may be treated by one of three disposal systems: municipal wastewater treatment plant to point source discharge, municipal wastewater treatment to land application system, or onsite sanitary sewage system, also called septic systems. For the forecasts, the mix of discharge to point source facilities versus land application systems was held proportionate to current conditions. 
+The resulting municipal wastewater forecasts projected that the demand for municipal wastewater treatment is expected to increase from 48 MGD (74 cfs) in 2010 to 61 MGD (94 cfs) in 2050 in the region. For these amounts (current and future), wastewater treatment is expected to be as follows: 4% by land application systems, 51% by systems with point source discharges, and 45% by septic systems.3 
+Wastewater generation allocated to central system disposal (i.e. land application and point discharges) in the forecasts included an inflow and infiltration (I/I) estimate of 20%, a typical value for municipal systems. (The increase in anticipated wastewater flows associated with I/I was not utilized in the surface water quality assessment since that model was used as a tool to project water quality during dry, low flow conditions.) 
+
+
+4.2 Industrial Forecasts 
+Industrial water and wastewater demand forecasts anticipate the future needs for industries in the region. Industries require water for use in their production processes, sanitation, cooling, as well as employee use and consumption. The forecasts presented in this section were based upon estimates of the rate of growth in employment for specific industrial sectors, estimates of the rate of growth in the units of production for specific industrial sectors, or other relevant information provided by specific industrial water users. The industrial demands forecast in this section include major industrial water users and wastewater generators that supply their own water and/or treat their own wastewater. Some industries rely on municipal systems for water supply and wastewater treatment. Where data were available, municipally supplied or treated industrial water was included in the industrial water and wastewater forecast. Other municipally-served industrial users, generally with lesser demands, are serviced by municipal water and wastewater systems, and these demands were included in the municipal forecasts. 
+4.2.1 Industrial Water Forecasts 
+MIDDLEOCMULGE 
+
+LOWER FLINT-OCHLOCKONEE
+DRAFT 
+DA Y M O NT
+H YE
+A
+R 
+Ge o
+IV-2 rgat er M an agem en
+ia S t
+a
+t
+e-w i
+de W
+t P
+l
+an 
+Industrial water forecasts were calculated using information and data specific to each of the major water using industries. For industries where information was available on water use per unit of production, water forecasts were based on production. For industries where production-based forecasts were not possible, industry-specific 
+3 Additional details regarding the municipal wastewater forecasts can be found in Supplemental Document 13. See note 2. 
+September 2011 
+
+4. Forecasting Future Water Resource Needs 
+workforce projections were assumed to reflect the anticipated growth in water use within the industry. The employment projections for the Lower Flint-Ochlockonee Region indicated that overall employment in major water-using industries is expected to increase by 25% over the 2010-2050 planning horizon. 
+Industrial demand for water was forecast to increase from 130 MGD (201 cfs) in 2010 to 133 MGD (206 cfs) in 2050 in the region. Of these amounts (current and future), the forecasts estimated water sources as follows: 82% from surface water and 18% from groundwater.4 
+
+4.2.2 Industrial Wastewater Forecasts 
+Industrial wastewater forecasts were calculated for each sector by multiplying the industrial water forecast by the ratio of wastewater generated to water used for that industrial sector. The primary mechanism for deriving the wastewater to water ratios was through a state-wide analysis of multiple years of data on actual annual average water return and withdrawal data for permitted users. Information provided by industrial stakeholder groups was also used to adjust ratios within a region or industry, as appropriate. More information regarding the industrial water and wastewater forecasts is included in the Municipal and Industrial Water and Wastewater Forecasting Memorandum. The forecasts projected that industrial wastewater treatment will increase from 127 MGD in 2010 to 129 MGD in 2050 in the region. Of these amounts (current and future), wastewater treatment is expected as follows: 2% treated by land application systems and 98% treated by systems with point source discharges. 
+
+
+4.3 Agricultural Forecasts 
+Agricultural water use forecasts, developed by the University of Georgia, provided a range of irrigation water use estimates under dry, medium and wet climate conditions. In addition to row crops, the forecasts included current and future estimates of nursery water use and current estimates of water use by golf courses with agricultural withdrawal permits. While included in the forecasts, golf course use was held constant at current levels throughout the planning horizon because future estimates were not available. Water use by animal operations was not included in the forecasts, but estimates of current use are included in the discussion of agricultural use in Section 3.5 
+In summary, the forecasts for this sector projected that dry year agricultural water use in this region will increase by 17% from 2010 to 2050. Dry year use estimates for agriculture correspond to the 75th percentile of use estimates across a range from 
+4 Employment projections and more information on the industrial water and wastewater forecasts are included in Supplemental Document 13. See note 2.   
+5 More information on the agricultural water use estimates and forecasts is provided in the Supplemental Document 8 - Agricultural Water Use Technical Memorandum, available on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+
+4. Forecasting Future Water Resource Needs 
+lowest to highest use levels. The forecasts projected the following for agricultural water use for the region by source type over the planning horizon: 
+. 2010 Annual Average Dry Year Use (75th Percentile) = 612 MGD (947 cfs) Groundwater Use = 524 MGD (811 cfs) Surface Water Use = 88 MGD (136 cfs) 
+. 2050 Annual Average Dry Year Use (75th Percentile) = 715 MGD (1106 cfs) Groundwater Use = 609 MGD (942 cfs) Surface Water Use = 106 MGD (164 cfs) 
+4.4 Thermoelectric Power Production Water Demand Forecasts 
+Forecasts of water use in thermoelectric power production were made with the guidance of an advisory panel that included power industry representatives and the Georgia Environmental Facilities Authority. 
+Water demand in 2010 for thermoelectric power production in the Lower Flint-Ochlockonee Region was estimated at 135-166 MGD (209-257 cfs). Because all of the existing power plants in the region use once-through cooling, none of this sector’s 2010 water demand was considered consumptive; returns to the system equaled withdrawals. The 2010 estimates included three power plants in the region: Plant Mitchell in Dougherty County, Gum Power Plant in Dougherty County, and Crisp County Power Commission Steam Plant in Worth County. 
+A new power plant is expected to come on line in the next several years in the region: the Longleaf coal-fired plant in Early County will use water from the Chattahoochee River. The energy sector forecasts included water demand associated with this plant after the year 2020. The Longleaf Plant will use cooling towers instead of once-through cooling and therefore will have some consumptive water use. The 2020 estimates for the region projected water use by the energy sector in the range of 146-188 MGD (226-291 cfs), with consumptive use of 11-12 MGD (17-19 cfs). 
+From 2020 to 2050, the forecast estimated that energy sector water demand specific to this region will decrease. The 2050 estimates for the region projected water use by the energy sector in the range of 145-176 MGD (224-272 cfs), with consumptive use 
+MIDDLEOCMULGE 
+
+LOWER FLINT-OCHLOCKONEE
+DRAFT 
+DA Y M O NT
+H YE
+A
+R 
+Geo
+rganagem
+iaStat
+e­
+w i
+de WaterM
+entPl
+an 
+of 11-12 MGD (17-19 cfs). 
+The forecasts for this sector also projected water demand statewide associated with future power production that is not currently allocated to a specific water planning region, because it is uncertain where this production capacity will be located. For 2050, the forecasts projected that thermoelectric power production will require 313-
+September 2011 
+
+4. Forecasting Future Water Resource Needs 
+346 MGD of additional water use (170-189 MGD of consumptive use)6 statewide that is not currently allocated to specific regions. This additional production will require water supply wherever it is ultimately located. 
+
+4.5 Total Water Demand Forecasts 
+In the Lower Flint-Ochlockonee Region, forecasts estimated total 2010 water use at 916 MGD (1,417 cfs) and projected use to increase to 1,035 MGD in 2050 (1,597 cfs). As shown in Figure 4-1, agricultural water use makes up the largest proportion of 2010 water use by a significant margin, and it is expected to continue to be the largest future water use in the region. As a result, much of the Council’s planning effort has been focused on the agricultural sector. The Council notes the importance of agriculture to the region’s economy in its goals (Section 1.3). Access to water has made the region attractive for the development of the agricultural economy. Recent periods of drought have led to the need to better understand water use impacts and to plan for meeting the needs of water users and the natural system. 
+As shown in Figure 4-2, the forecasts projected that wastewater flows in the region will increase from 296 MGD in 2010 to 311 MGD in 2050. Figure 4-3 details the sources of current and forecast water demand and the treatment methods for current and forecast wastewater flows. 
+6  484-535 cfs total use (263-292 cfs of consumptive use) 
+
+
+MIDDLEOCMULGE 
+
+LOWER FLINT-OCHLOCKONEE
+DRAFT 
+DA Y M O NT
+H YE
+A
+R 
+Geo
+rganagem
+iaStat
+e­
+w i
+de WaterM
+entPl
+an 
+September 2011 
+
+4. Forecasting Future Water Resource Needs 
+
+Million Gallons per Day
+1200 
+1000 
+
+
+
+Septic 
+
+
+LAS 
+
+
+
+Point Discharge 
+
+
+800 
+600 
+
+Self-Supplied 
+400 
+Groundwater Surface Water 
+971  1,002  1,035  
+916  941  
+ 
+
+
+296  300  305  308  311  
+
+
+200 0 
+2010 2020 2030 2040 2050 
+
+   [This Page Intentionally Left Blank] 
+
+
+
+5. 	COMPARISON OF WATER RESOURCE CAPACITIES AND FUTURE NEEDS 
+[This Page Intentionally Left Blank] 
+
+SUMMARY: This section discusses the results of the future resource assessments,  
+which modeled how water resource capacities compare with future demands for  
+water and wastewater treatment in the region. It also discusses how the Council  
+considered gaps identified by the resource assessment models between needs and  
+resource capacities.  
+
+Section 5. Comparison of Water Resource Capacities and Future Needs 
+This section discusses the results of the future resource assessments, which modeled how the forecasts of water and wastewater needs in the region (Section 4) compare with the capacities of the water resources. The modeling results provided the Council with information on where potential gaps exist or might develop between water resource needs and capacities. They supported the Council in selecting appropriate management practices (Section 6) that will help the region to meet its future water needs, protect water resources, and meet the Council’s vision and goals for the region. Where gaps were identified by the resource assessment models, the Council considered the potential adverse impacts, both environmental and economic, of the identified gaps and of closing those gaps. Management practice selection was guided by the Council’s understanding of the modeling results and identified gaps, as well as by the Council’s vision and goals for the region (see Section 1.3). 
+5.1 Surface Water Availability Comparisons 
+To assess future conditions, the surface water availability assessment model described in Section 3.2.1 was run using 2050 forecast water demands. The results for 2050 were similar to those under current demand conditions (discussed in Section 3.2.1). In the Flint River Basin, at Montezuma, EPD sustainability criteria1 for in-stream flows were met almost 100% of the time during the period of record under 2050 forecast demand conditions. A significant shortfall between resource capacity and demand persisted in the model results at Bainbridge for 2050. The shortfall occurred 13% of the time in the period of record, and the average shortfall on those days was 355 cfs (229 MGD). The maximum shortfall was 1,295 cfs (837 MGD). In the Ochlockonee, the model results showed shortfalls in meeting EPD sustainability criteria for in-stream flows at Quincy and Concord under 2050 conditions, as well as current conditions. Results are summarized in Table 5-1. Although the gaps identified by the model at the Ochlockonee nodes are much smaller in magnitude than those at Bainbridge in the Flint, they are substantial relative to average flows at these nodes. 
+1 See Section 3.2.1 for a description of the EPD sustainability criteria for the surface water availability assessment. 
+
+Table 5-1: 2050 Surface Water Availability Results - Flint and Ochlockonee Rivers  
+Node  Percent of Time Flow is Below the Sustainability Criteria2  Average Shortfall (cfs)  Long-Term Average Flow (cfs)  Maximum Shortfall (cfs)  Flow Regime Target Corresponding to the Maximum Shortfall (cfs)  
+Montezuma  0.01%  <1 (0.6 mgd)  3409 (2203 mgd)  1 (0.6 mgd)  593 (383 mgd)  
+Bainbridge  13%  355 (229 mgd)  7904 (5108 mgd)  1295 (837 mgd)  2506 (1620 mgd)  
+Concord  10%  37 (24 mgd)  1100 (711 mgd)  86 (55 mgd)  97 (63 mgd)  
+Quincy  11%  8 (5 mgd)  257 (166 mgd)  20 (13 mgd)  20 (13 mgd)  
+Source: EPD Technical Memorandum: Summary Future (2050)  Resource Assessment in ACF River Basins, July 16, 2010 and EPD Technical Memorandum: Summary Future (2050) Resource Assessment in Ochlocknee, Suwannee, Satilla and St. Mary’s (OSSS) River Basins, July 14, 2010. (Included in Supplemental Document 10, see note 4.)  
+
+As noted in Section 3.2.1, part of the Lower Flint-Ochlockonee Region falls in the Chattahoochee watershed.3 In the Chattahoochee under 2050 demand conditions, the model results showed that in-stream flows would not fall short of the EPD sustainability criteria, but storage levels would fall lower to meet in-stream needs and demands than under 2010 demand conditions. The model results estimated that the amount of conservation storage remaining when storage reached its lowest in the period of record. At that time, aggregate conservation storage in the system’s major reservoirs was 35% of available conservation storage (vs. 40% under 2010 demand conditions). Chattahoochee model results for 2050 are summarized in Table 5-2.4 
+In the Flint, at the Bainbridge node, the shortfall identified by the model was affected by consumptive use of surface water and by groundwater withdrawals in Subarea 4 of the Upper Floridan aquifer in the Dougherty Plain, where interconnection with the surface 
+2 See Section 3.2.1 for a description of the EPD sustainability criteria for the surface water availability assessment. 
+3 As noted in Section 3, small portions of the Lower Flint-Ochlockonee Region occur in the Suwannee and Chattahoochee River Basins.  Chattahoochee resource assessment results are summarized in this plan. Results for the Suwannee are not included in this plan, but can be found in the plan for the Suwannee-Satilla Council. The Lower Flint-Ochlockonee Council coordinated with the Suwannee-Satilla Council in evaluating assessment results and developing management practices for their respective plans. 
+4  A more complete discussion of the surface water availability model results for the Flint, Ochlockonee, and Chattahoochee is provided in Supplemental Document 10 – EPD Technical Memoranda – Surface Water Availability Model Results (July 2010), available on the Lower Flint-Ochlockonee Council’s website: 
+http://www.flintochlockonee.org/pages/our_plan/index.php 
+LOWER FLINT-OCHLOCKONEE 
+
+September 2011 
+
+water is high. Subarea 4 includes the Flint River Basin south of Dooly County, part of the lower Chattahoochee River Basin, and a narrow strip on the eastern side of the Ochlockonee and Suwannee River Basins.5 
+The shortfall identified by the model at Bainbridge also resulted from model assumptions used to project diversion of water to upstream reservoirs. The Council has expressed disagreement and concern with these assumptions (see Section 3.2.1).6 The water use forecasts projected that net consumptive water use measured at the Bainbridge node will increase by 16% between 2010 and 2050. 
+Table 5-2: 2050 Surface Water Availability Results - Chattahoochee River  
+Node  Demand Shortage (cfs)  At-site Flow Requirement Shortage (cfs)  Minimum Reservoir Conservation Storage (acre-feet)  Minimum Percentage Reservoir Conservation  Storage  Basin wide Flow Requirement Shortage  
+Whitesburg  0  0  424,998  39%  None  
+Columbus  0  0  14,269  5%  None  
+Columbia  0  0  45,770  19%  None  
+Woodruff  0  0  565,765 at Buford, WP, & WFG  35% at Buford, WP, & WFG  None  
+Source: EPD Technical Memorandum: Summary Future (2050) Resource Assessment in ACF River Basins, July 16, 2010. (Included in Supplemental Document 10, see note 4.)   
+
+
+5.2 Groundwater Availability Comparisons 
+Section 3.2.2 discusses the groundwater resource assessment, sustainable yield results, and current use of assessed aquifers. Table 5-3 compares the sustainable yield results to 2050 forecast demands for those aquifers. As discussed in Section 3, the groundwater availability assessment model evaluated the effects of increasing levels of aquifer use and compared the results against thresholds that defined unacceptable impacts. Table 5-3 indicates that in the Claiborne and Upper Floridan (Dougherty Plain), 
+5 A map of Subarea 4 of the Floridan Aquifer is available as Supplemental Document 5 on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+6 A more complete discussion of these model assumptions is included in Supplemental Document 9 - EPD Technical Memorandum: Flow Gap Analysis (May 26, 2010), available on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+
+forecast 2050 use will be within or above the sustainable yield range for these aquifers.7,8 
+Table 5-3: Groundwater Results for Assessed Aquifers in Lower Flint-Ochlockonee Region – 2050 Conditions  
+Aquifer  Estimated 2050 Groundwater Withdrawal (mgd)*  Sustainable Yield of Individual Aquifer (Min/Max, mgd)  
+Claiborne Aquifer  146-174 (225-270 cfs)  140-635 (217-982 cfs)  
+South-Central Georgia Upper Floridan  371-471 (573-729 cfs)  622 – 836 (962-1293 cfs)  
+Upper Floridan Aquifer in the Dougherty Plain  521-681 (806-1054 cfs)  237 – 328 (367-507 cfs)  
+Source: Georgia EPD, March 2010 Synopsis Report: Groundwater Availability Assessment and subsequent results updates provided by EPD (see note 7)  
+* The lower end of the range for withdrawals represents agricultural use in a moderate year (50th percentile), while the upper end represents agricultural use in a dry year (75th percentile).   
+
+As discussed in Section 3.2.2, in the Upper Floridan (Dougherty Plain), the sustainable yield results were determined based upon the impact of groundwater withdrawals on groundwater contributions to stream baseflows, rather than on the condition of the aquifer itself. Therefore, these results relate closely to those observed in the surface water availability assessment at the Bainbridge node.  
+For the Claiborne, projected 2050 use during dry years (when use levels are high) exceeds the lower end of the sustainable yield range, but it is well below the upper end of the sustainable yield range for this aquifer. The lower end of the sustainable yield range for the Claiborne was based on a model run in which aquifer use was assumed to increase in a uniform manner geographically, and the upper end of the range was defined by a model run in which non-uniform increases were allowed. As discussed in Section 3, the non-uniform assumption allowed for greater use of the aquifer because withdrawals could be held constant in some areas where adverse impacts were a concern and increased in other areas where impacts were not harmful. Adverse impacts on this aquifer are dependent upon the location of withdrawals. The model results indicated that some areas of the aquifer have substantial amounts of water that can be used sustainably, while other parts will show potential adverse impacts of use. These 
+7 For more detail on the groundwater availability resource assessment and results, see the March 2010 Synopsis Report: Groundwater Availability Assessment available on the EPD water planning website at: 
+http://www.georgiawaterplanning.org/news/March_2010_Water_Resource_Assessments_for_Review_and_ Comment.php Also, a map of assessed aquifers is included as Supplemental Document 11 on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+8 For a discussion of how the sustainable yield range was defined, see Section 3.2.2 of this plan and the synopsis report cited in note 7. 
+LOWER FLINT-OCHLOCKONEE 
+
+September 2011 
+
+results indicate the need for caution in the management of withdrawals from this aquifer and the need for more specific analysis, based on the location of withdrawals, directed at preventing future adverse impacts. 
+
+5.3 Surface Water Quality Comparisons  
+In Section 3, Figure 3-5 shows the water quality model results related to the availability of assimilative capacity under current conditions for flow and oxygen consuming wastes that affect levels of dissolved oxygen. Figure 5-1 shows the model results related to the availability of assimilative capacity for these pollutants under projected future conditions (2050). It was assumed that future flows will be distributed among existing discharge points. The assessment results showed where modeled conditions predicted that water quality standards would be exceeded under critical conditions. It is important to note that treatment plants usually operate below their permit limits (not at their limits), and future permit limits are likely to be different than current permit limits. Figure 5-1 indicates that the model projected that the number of stream miles in the Flint River Basin where assimilative capacity is exceeded or unavailable will increase from 8.80 miles under current conditions to 10.92 miles by 2050.  
+In the Ochlockonee, the model projected that the number of stream miles where assimilative capacity is exceeded or unavailable will decrease from 13.77 miles to 0 miles over the same period. It is important to note that for both the Flint and the Ochlockonee, the results reflect adjustments to wastewater treatment facility permit limits so that the assimilative capacity of the streams into which they discharge were not exceeded in the 2050 modeling scenario results. These modifications were made to address assimilative capacity concerns under projected 2050 conditions. EPD will modify permit limits for any NPDES permit when assimilative capacity is exceeded, and therefore this type of permit modification would be expected.9 
+Watershed and lake models were also run at future conditions (2050). The model results indicated that in the Flint River Basin, while nonpoint sources currently contribute more nutrients (nitrogen and phosphorus) than point sources, future increases in nutrient loading will come more from point sources than nonpoint sources. The lake model results indicated that in Lake Blackshear, phosphorus loading in the future will be primarily from nonpoint sources, as it is under current conditions. In Lake Seminole, the model results indicated that while current phosphorus loading is primarily from nonpoint sources, in the future, phosphorus loading increases will be primarily point source related. As noted in Section 3.3, these lakes do not have established nutrient standards, and so, the lake model results cannot be compared against standards for these two lakes. However, the model results are useful as an indication of where management practices should be directed to control nutrient loading. 
+9 More information on the Surface Water Quality Assessment is available in the EPD Surface Water Quality Assessment Synopsis Report, available on the EPD water planning website: 
+http://www.georgiawaterplanning.org/news/March_2010_Water_Resource_Assessments_for_Review_and_Comment.php 
+
+Water quality is also assessed by compliance with water quality standards. Impaired waters where water quality standards are not met are discussed in Section 3.3.1, and a detailed list is provided in Supplemental Document 6 - Existing Regulatory and Local Plan Summary, available on the Lower Flint-Ochlockonee Council’s website (http://www.flintochlockonee.org/pages/our_plan/index.php). 
+LOWER FLINT-OCHLOCKONEE 
+
+September 2011 
+
+
+
+LOWER FLINT-OCHLOCKONEE 
+
+
+
+LOWER FLINT-OCHLOCKONEE 
+
+5.4 	Summary of Potential Gaps between Resource Capacities and Future Needs 
+The resource assessment model results discussed in this section identified the following as gaps between resource capacities and water needs: 
+. 	The model identified shortfalls in meeting EPD’s sustainability criteria for surface water flows in the Flint River Basin at Bainbridge and in the Ochlockonee River Basin at Quincy and Concord under both current and forecast demands. 
+. 	Groundwater use is within the sustainable yield range identified by the model for the Claiborne aquifer and above the sustainable yield range identified by the model for the Upper Floridan aquifer in the Dougherty Plain. 
+. 	Water quality model results indicated decreasing availability of assimilative capacity in streams in the Flint River Basin as discharge flows increase. 
+The Council has considered these gaps and their potential adverse impacts on the region, both environmentally and economically. In order to meet the Council’s vision and goals for the region and given the results considered in this section, the Council developed the rest of this plan to address these gaps as follows: 
+. 	Surface water availability: Address the gap with conservation and supply augmentation practices as much as possible, while also collecting better information to support more thorough evaluation of resource capacity and the impacts of gaps identified by the assessment models on in-stream and downstream uses. 
+. Groundwater availability: Use of the Claiborne aquifer should be limited geographically as necessary to protect the sustainable yield of this resource. In the Upper Floridan (Dougherty Plain), the impact of groundwater withdrawals on surface water flows in the Flint River should be a determining factor in guiding the location and amount of groundwater use from this aquifer. Collect better and more geographically specific information on groundwater resource capacity, as needed to evaluate specific uses and management practices. 
+. 	Surface water quality: Implement practices targeted especially toward nonpoint source of pollutants to improve assimilative capacity in the region’s streams and lakes. It is expected that EPD will adjust point source permit limits over time as needed to address assimilative capacity constraints. Collect more complete information to support the targeting of management practices for water quality in the future. 
+The Lower Flint-Ochlockonee Council questions whether the criteria used to determine “gaps” for surface water flows (as defined in the resource assessment models) are appropriate metrics by which to evaluate the impacts of consumptive water use on the state’s water resources. The “gaps” do not provide for reasonable use by lawfully permitted users. Moreover, the “gaps” are not defined in terms of any demonstrable environmental harm. The Council disagrees with the approach to identifying “gaps” used in this planning process because: 
+September 2011 
+
+(a)
+ a gap is not defined by impacts on aquatic health or downstream users;  
+
+(b)
+ it is not clear what the impacts of a gap are; 
+
+(c)
+ gaps occur as a result of use that has already been legally permitted in the region; and 
+
+(d)
+ the modeled gap cannot be closed through demand management even with complete cessation of consumptive water use when a gap occurs. 
+
+
+Moreover, assumptions used in the resource assessment model regarding upstream withdrawals for reservoirs result in a gap that is overestimated relative to actual use. 
+Closing the identified “gaps” could ultimately cause significant harm to the region’s economy and would be counter to the Council’s Visions and Goals (i.e., supporting the region’s economy, ensuring access to water resources for existing and future water users, maintaining the production agriculture-based economy of the region, and supporting sustainable economic growth in the region). Therefore, the Council insists that no modifications to existing water withdrawal permitting practices be enacted based on the resource assessment model results. The Council recommends additional study to determine more appropriate flow targets that account for permitted reasonable use and demonstrable environmental impacts for use in future planning. 
+   [This Page Intentionally Left Blank] 
+
+
+6. 	ADDRESSING WATER NEEDS AND REGIONAL GOALS 
+[This Page Intentionally Left Blank] 
+
+Section 6. Addressing Water Needs and Regional Goals 
+6.1 Identifying Water Management Practices 
+The Lower Flint-Ochlockonee Council considered the following as it selected management practices for this plan: 
+. 	Existing plans and practices 
+. Gaps identified by the resource assessment models in the comparison of resource needs and resource capacities (see Sections 3 and 5) . Council’s Vision and Goals (see Section 1) . Results of a survey of Council members on management practices and criteria for evaluation . Public input . Coordination with local governments and neighboring councils 
+The Council’s decision making process to adopt sets of recommendations was consensus-based, where possible, according to the Council’s Operating Procedures and Rules for Meetings.1 In cases where consensus could not be reached, decisions were approved by voting. In order to coordinate beyond the region, Council members met with representatives of neighboring councils to discuss shared resource issues on multiple occasions. In these meetings, the Council worked with its neighbors toward adoption of coordinated or complementary management practices. Within the region, the Council sought to coordinate with local governments and build support for this plan through implementation of the Council’s Public Involvement Plan. 2 
+The Council identified several uncertainties that could impact plan implementation, including: 
+. 	Update of the Master Water Control Manual for the Apalachicola­Chattahoochee-Flint (ACF) River Basin by the U.S. Army Corps of 
+1 These documents are available with the Council’s Memorandum of Agreement in Supplemental Document 1 on the Lower Flint-Ochlockonee Council’s website: 
+http://www.flintochlockonee.org/pages/our_plan/index.php 
+2 The process of selecting management practices is discussed in more detail in Supplemental Document 14 - Management Practice Selection Technical Memorandum, and the Council’s public involvement plan is described in Supplemental Document 2 - Public Participation Technical Memorandum. Both documents are available on the Lower Flint-Ochlockonee Council’s website: 
+http://www.flintochlockonee.org/pages/our_plan/index.php 
+
+6. Addressing Water Needs and Regional Goals 
+LOWER FLINT-OCHLOCKONEE 
+
+Engineers: More information can be found at the following website: 
+http://www.sam.usace.army.mil/pa/acf-wcm/index.htm 
+. 	Consultation regarding the 2008 Biological Opinion provided to the U.S. Army Corps of Engineers by the U.S. Fish and Wildlife Service: This process has been reinitiated pursuant to provisions of the Endangered Species Act as of September 20, 2010. The consultation will continue ongoing depth distribution data collection and analysis to determine the minimum flows needed to protect listed species. More information on the process can be found at the following website: 
+http://www.sam.usace.army.mil/ACF.htm3 
+. 	Endangered Species Act concerns in Critical Habitat for Endangered and Threatened freshwater mussels: Critical habitat has been designated for federally listed endangered and threatened freshwater mussels in streams in the Lower Flint-Ochlockonee region. Flow regimes needed to support these species have not yet been fully defined for the entire planning region, and until a clear plan to resolve potential conflicts between water users and imperiled aquatic species is developed, concern about potential future enforcement or litigation over listed species creates uncertainty for water users over future water access in the region. Because the resource assessments conducted for this plan focused at the regional level, they were not intended to address sub-regional habitat concerns for listed species. However, through its work on this plan, the Council identified a need for more localized assessments in some areas to support future planning. For more information on listed freshwater mussels in the region, see:   http://www.fws.gov/panamacity/mussels.html 
+. 	Implementation of recently adopted federal nutrient criteria for Florida’s lakes and flowing waters: These new water quality criteria have implications for water quality dischargers and other stakeholders in Georgia, because Georgia must meet the criteria at the state line.  More information on the nutrient criteria is available on the following website: 
+http://water.epa.gov/lawsregs/rulesregs/florida_index.cfm 
+. 	Potential state regulatory changes: The State Water Plan proposed several changes to water management regulations, such as modifying the dissolved oxygen water quality standard and developing new water conservation requirements. Proposed rule-making will be considered by the Board of Natural Resources. Public notice of rule-making by the Board is provided on the following website: http://www.gadnr.org/board4 
+3 The Council does not believe that the current flow target at Woodruff Dam has adequate scientific justification, and it states its position and recommendation regarding the flow target in Section 7.4 of this plan. 
+4 On January 26, 2011, the DNR Board adopted new rules addressing permits for interbasin transfers of water based on a recommendation in the State Water Plan (see DNR Rules Chapter 391-3-6). 
+September 2011 
+
+6. Addressing Water Needs and Regional Goals 
+. 	Information needs to support improved water quality and quantity management: Throughout the planning process, the limits of available information constrained planning decisions, and the Council identified numerous information needs to support improved future planning and management.  For more detail on recommendations to address information needs, see Section 7.4. 
+. 	Legal challenge to the Tired Creek Reservoir in Grady County: The permit issued by the USACOE for a new reservoir on a tributary to the Ochlockonee River has been challenged by several stakeholder organizations and a county downstream in Florida. The litigants are concerned over wetland and water quality impacts of the reservoir. The litigation has implications for water resource management in the Ochlockonee River Basin and in the relationship between Georgia and Florida over shared water resources. 
+. 	On-going litigation over ACF Basin water management and allocation with neighboring states: The on-going litigation casts substantial uncertainty over future water resource management in the ACF and this water planning region. 
+Despite these uncertainties, the Council proceeded with plan development based on the best information currently available. The Council intends that future revisions of this plan will improve upon the current plan when possible, as conditions change and new information becomes available, and better promote the attainment of the Council’s vision and goals for the region. 
+6.2 	Selected Water Management Practices for the Lower Flint-Ochlockonee Region 
+The management practices selected by the Council are summarized in Table 6-1; the table is organized by the type of practice: Demand Management (DM), Supply Management and Flow Augmentation (SF), and Water Quality (WQ). Four management practices were selected by the Council as most important to fulfilling the Council’s vision and goals and addressing gaps identified by the resource assessment models. These practices are marked as “high priority” practices. A discussion of the management practices follows the table. 
+
+6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Lower Flint-Ochlockonee Region  
+Management Practice  Description/Definition of Action  
+DEMAND MANAGEMENT (DM)5  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint), Pinetta and Quitman (Suwannee), and Quincy and Concord (Ochlockonee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 2, 3, 4  
+DM1: Continue to  . Irrigation efficiency has greatly improved over the past  
+improve agricultural  several decades as a result of innovations in equipment and  
+water use efficiency  practices.  
+through innovation  . This trend is expected to continue and economic,  
+**HIGH PRIORITY**  environmental, and regulatory pressures drive further  
+MANAGEMENT  innovation in water conservation for agriculture.  
+PRACTICE  . While the benefits of specific innovations cannot be predicted at this time, the Council expects that the future benefits of innovation will be substantial.  
+DM2: Implement Tier 1  Tier 1 and 2 water Conservation practices include those required  
+and 2 non-farm water  by existing law or anticipated in upcoming state rule-making:  
+conservation practices in  . Submittal of water conservation plans by withdrawal  
+the region  permittees (DNR Rules 391-3-6-.07 and 391-3-2-.04(11) . Landscape irrigation limits (4pm to 10am), as required by Water Stewardship Act of 2010, Section 4 (with exemptions) (OCGA §12-5-7) . Even-odd watering restrictions for non-irrigation outdoor water uses (DNR Rule 391-3-30) . Public car wash facility regulations, which require best management practices (DNR Rule 391-31) . Demonstration by water withdrawal permittees of progress toward water conservation goals or water efficiency standards (State Water Plan, Section 8) . International Water Association standards and practices required for drinking water providers (Water Stewardship Act, Section 3, OCGA §12-5-4.1)  
+
+LOWER FLINT-OCHLOCKONEE 
+
+5 Supplemental Document 15 - Water Conservation Technical Memorandum explains the information that the Council considered in selecting water conservation management practices. It is available on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+September 2011 
+
+6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Lower Flint-Ochlockonee Region  
+Management Practice  Description/Definition of Action  
+. Amendment of local building codes to require sub-metering in multi-tenant buildings, installation of high efficiency plumbing fixture in all new construction, and installation of high­efficiency cooling towers in new construction (Water Stewardship Act, Sections 7, 8, & 9, OCGA §§ 12-5-180.1, 8­2-3, 8-2-23)  
+DM3: Implement Tier 3  . Utilize existing incentive programs to support the use of these  
+and 4 non-farm water  practices.  
+conservation practices in  
+the region with the  
+support of incentive  
+programs  
+DM4: Implement Tier 1 and 2 agricultural water conservation practices in the region  Tier 1 and 2 water Conservation practices required by existing law or anticipated in upcoming state rule-making: . Implementation of conservation requirements under the Flint River Basin Water Development and Conservation Plan (2006) . Compliance with forthcoming requirement (established by Water Stewardship Act of 2010, OCGA §12-5-31) regarding active, inactive, and unused permits  
+DM5: Implement Tier 3 and 4 agricultural water conservation practices in the region with the support of incentive programs  . Incentive funding is available from the Soil and Water Conservation Districts and the Georgia Soil and Water Conservation Commission. . The Council endorses the following benchmark for this practice: By January 2012, all new, and by January 2020, all existing agricultural irrigation systems should have application efficiencies of 80% or greater. . A focus on a desired performance outcome will support increased conservation while allowing farmers to select what practices will work best for their own operations. . Practices that farmers can use to attain this benchmark include low-pressure/full-drop nozzle irrigation systems, Variable Rate Irrigation, conservation tillage, irrigation scheduling, drip irrigation, as well as other conservation measures not listed here that best suit an individual farmer’s operation.  
+DM6: Manage new  The 2006 Flint River Basin Water Development and  
+
+
+Table 6-1: Water Management Practices Selected for the Lower Flint-Ochlockonee Region  
+Management Practice  Description/Definition of Action  
+agricultural water  Conservation Plan limits new agricultural withdrawal permits  
+withdrawal permits in the  based on expected impact on nearby wells and streams.6 Under  
+region according to the  the 2006 plan, the following requirements apply to new  
+2006 Flint River Basin  agricultural water withdrawal permits in the Flint River Basin:  
+Water Development and  . New permits require mandatory conservation measures, such  
+Conservation Plan  as end-gun shut off switches and leak prevention and repair, as a condition of the permit. . New surface water permits in Ichawaynochaway and Spring Creek sub-basins must suspend use when streamflow drops below 25% Average Annual Discharge instead of 7Q10. . New permits in the Flint River Basin have a $250 application fee.  
+DM7: Research new  . Quantification of Agricultural Water Withdrawal Permits:  
+tools for agricultural  Currently, the tools to manage agricultural water withdrawals in  
+water demand  drought periods are limited to the Flint River Drought  
+management to  Protection Act and emergency powers at the discretion of the  
+determine their  EPD Director. Quantification of agricultural withdrawal permit  
+feasibility, costs, and  limits, based on use over a period of years, could allow for  
+benefits for Georgia   more precise management in a drought period. However, quantification is difficult to implement, and water users have significant concerns over this policy approach. More study is needed to determine whether quantification would provide for more predictable and fair management of agricultural water demand in drought periods. . Agricultural irrigation institutions: Irrigation institutions, such as irrigation districts, are used in other states to support farmers in sharing resources and developing common supply infrastructure. They can provide for local or regional management of water resources and support flexible management approaches. More study is needed to determine whether these institutions would be appropriate and beneficial for water users and water resources in Georgia.  
+SUPPLY MANAGEMENT AND FLOW AUGMENTATION (SF)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint), Pinetta and Quitman (Suwannee), and Quincy and Concord  
+
+LOWER FLINT-OCHLOCKONEE 
+
+6 A copy of the 2006 Flint River Basin Water Development and Conservation Plan is included as Supplemental Document 7 on the Lower Flint-Ochlockonee Council’s website: 
+http://www.flintochlockonee.org/pages/our_plan/index.php 
+September 2011 
+
+6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Lower Flint-Ochlockonee Region  
+Management Practice  Description/Definition of Action  
+(Ochlockonee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 2, 3, 4  
+SF1: Evaluate reservoir storage options in the Flint River Basin that can provide for flow augmentation in dry periods **HIGH PRIORITY** MANAGEMENT PRACTICE  . Eliminating the modeled gap for surface water availability at Bainbridge will require the addition of storage that can be used to augment supply and flows in the Flint River Basin. . The evaluation of reservoir options for the Flint River Basin should include assessment of feasibility, siting, costs, benefits, and environmental and economic impacts.  
+SF2: Replace surface  . This practice could support increased in-stream flows in some  
+water withdrawals with  places in the region.  
+groundwater  . The Council recommends that this practice be implemented  
+withdrawals, where site  with incentives.  
+specific evaluation  . The practice should only be used where it will not adversely  
+indicates that this  impact other environmental resources, especially  
+practice is  groundwater.  
+practical and will not  . The Council recommends that for permittees that implement  
+harm environmental  this practice, the affected permits will maintain their status  
+resources  prior to conversion; grandfathered surface water withdrawal  
+**HIGH PRIORITY**  permits would be converted to groundwater withdrawal  
+MANAGEMENT  permits with the same regulatory status as before conversion  
+PRACTICE  with respect to conservation requirements, seniority, and potential interruption.  
+SF3: Evaluate  . In dry periods, streamflow might be augmented through direct  
+streamflow augmentation  pumping of groundwater into surface water streams.   
+via direct pumping from  . Several factors could limit the potential use of this practice,  
+aquifers in order to  including: groundwater yields, water quality, cost, aquifer  
+support in-stream flows  impacts, and streamflow impacts of aquifer pumping.  
+in dry periods  . Implementation of this practice could be beneficial, but requires thorough evaluation to ensure that adverse environmental impacts are avoided and implementation is cost-effective.  
+SF4: Use Aquifer  . ASR could be used in the region to withdraw and store  
+Storage and Recovery  surface water during periods of high flow and provide  
+(ASR) as needed for  augmentation for flows or supply in dry periods.   
+future water supplies in  . The feasibility of an ASR projects can vary greatly depending  
+
+
+LOWER FLINT-OCHLOCKONEE 
+
+Table 6-1: Water Management Practices Selected for the Lower Flint-Ochlockonee Region  
+Management Practice  Description/Definition of Action  
+the region, with thorough  on location, condition of the receiving aquifer and water  
+evaluation of potential  quality considerations.  
+impacts  . ASR is probably best suited to provide water supply storage; its capability to provide for in-stream flow augmentation has not been directly evaluated. . The Council recognizes the need for further evaluation of specific proposals for ASR in the region on a case-by-case basis.  . The Council recommends that any ASR proposal be thoroughly evaluated for its environmental and other impacts.  
+SF5: Continue  . On-farm water storage that is filled in periods of high flow can  
+development of farm  replace direct pumping for irrigation from surface streams or  
+ponds in the region  wells during drought periods.  
+through existing  . Impacts on flows through intercepted drainage and  
+incentive programs  evaporative loss should be considered to minimize adverse impacts on surface water availability. . Incentive funding is available from the Soil and Water Conservation Districts and the Georgia Soil and Water Conservation Commission. . Future permits for farm pond withdrawals should include low flow protection requirements similar to those required in the Flint River Basin Water Development and Conservation Plan of 2006.  
+WATER QUALITY (WQ)  
+Issues Addressed  Point and nonpoint source water pollution  
+Gaps Addressed  Water quality violations  
+Council Goals Addressed  1, 4  
+WQ1: Improve  The Council recommends the following:  
+enforcement of existing  . Continue enforcement of existing discharge permits.  
+permits and regulations  . Ensure continued enforcement of erosion and sediment  
+and implementation of  control regulations.  
+existing plans and  . Continued implementation of existing management plans and  
+practices  practices, such as the TMDL plans for specific stream  
+**HIGH PRIORITY**  reaches to address specific parameters.  
+MANAGEMENT  . Advocate for a study of methods for coordinating and applying  
+PRACTICE  existing state resources to comprehensively address water quality.  
+
+September 2011 
+
+6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Lower Flint-Ochlockonee Region  
+Management Practice  Description/Definition of Action  
+WQ2: Improve  The Council recommends the following:  
+implementation of  . Encourage adoption of the Georgia Stormwater Management  
+nonpoint source controls  Manual by local municipalities. . Increase implementation of best management practices throughout the region for all industries. . Improve documentation of best management practices throughout the region for all industries. . Advocate for an assessment of agricultural BMP implementation. . Encourage delegation of erosion and sediment control review and inspection to local municipalities supported by professional engineering resources. . Create a complaint response program, similar to that of the Georgia Forestry Commission for the silvicultural industry, to provide for the resolution of water quality concerns from agricultural sources through coordination, cooperation, and technical assistance with agricultural landowners.  
+WQ3: Increase  . Encourage industries to utilize the Georgia Department of  
+implementation of  Natural Resources Sustainability Division, UGA College of  
+pollution prevention  Agricultural and Environmental Sciences, and other state resources that provide pollution prevention support. . Recommend that state evaluate commercially available phosphate concentrations in laundry and other retail detergents.  
+WQ4: Improve water  . Increase the number of sampling sites and the frequency of  
+quality monitoring  sampling to build a better information base on water quality conditions to support improved resource assessments in the future. . Increase parameters sampled at each sampling location as needed to improve water quality database and future assessments.  
+WQ5: Apply coordinated state resources to address water quality  . Coordinate implementation across agencies (regional, state, and federal) to improve program implementation.  
+
+The Council selected these management practices to apply to the whole Lower Flint-Ochlockonee Region. Although the region’s boundaries encompass multiple surface water and groundwater resources, the Council believes that the management practices will benefit all of these resources. 
+
+6. Addressing Water Needs and Regional Goals 
+LOWER FLINT-OCHLOCKONEE 
+
+The selected management practices were adopted by the Council because they address gaps identified by the resource assessment models between resource needs and resource capacities, discussed in Sections 3 and 5. The practices were also selected to fulfill the Council’s vision and goals for the region (see Section 1.3).  
+The Council has extensively discussed the gaps identified by the surface water availability and groundwater availability assessment models. The model results indicated substantial gaps for these resources in the Flint and Ochlockonee River Basins and in the Upper Floridan aquifer in the Dougherty Plain. The modeled gaps, including that in the Upper Floridan in the Dougherty Plain, relate to the depletion of surface water flows in drought periods, as a result of consumptive use of surface water and groundwater. The gap identified at Bainbridge also results from model assumptions used to project water diversions to upstream reservoirs.7 At many points in the period of record, the gaps identified by the model are sufficiently large (especially the surface water availability gap at Bainbridge) that they cannot be addressed without drastic suspension of consumptive water use, construction of large-scale storage, or both. The gap identified by the groundwater availability assessment model in Upper Floridan aquifer in the Dougherty Plain resulted from the impact of groundwater use on groundwater contributions to stream baseflows and does not reflect an adverse impact of groundwater use on aquifer levels. The model predicted drawdown in the aquifer of less than five feet. Moreover, the Upper Floridan aquifer in this region is known to recover quickly as a result of recharge. 
+The Council requested additional modeling from EPD to determine the scale of storage that would be needed to offset the gap at Bainbridge identified by the surface water availability assessment. The Council did not make this modeling request with the intention of proposing storage as the only management practice to address the gap, but rather, it made this request to aid Council members and others in understanding the magnitude of the gap and the potential management practices (storage or otherwise) needed to address it. 
+The resource assessment model was run with this objective, and it was determined that the amount of storage needed to offset flow shortfalls identified by the model at Bainbridge is 162,223 acre-feet. This amount accounts only for the volume needed to offset the modeled flow shortfall. It does not include additional volume that would be necessary (e.g., to offset evaporation, seepage, and other loss factors) or that might be added to provide for additional purposes (e.g., recreation). According to the model results, in 2007, a reservoir of 162,223 acre-feet would have been emptied completely. Furthermore, it would not have completely offset the modeled flow shortfall because of evaporation and seepage losses. Therefore, this estimate is not a design estimate for a reservoir. It does, however, indicate that a reservoir, or 
+7 As discussed in Sections 3 and 5, the Council questions the validity of these model assumptions and believes that they resulted in an overestimation of flow shortfalls by the model in the Flint River Basin. 
+6-10 September 2011 
+
+6. Addressing Water Needs and Regional Goals 
+reservoirs, of significant size would be needed to close the modeled gap at Bainbridge.8 
+As described above, the Council selected management practices to address its vision and goals and gaps identified by the resource assessment models. However, the implications of the modeled gaps for other users, in-stream needs, and aquifer health are not fully understood; evaluation is needed to delineate and quantify the impacts of the modeled gaps. Without a more complete understanding of severity of these impacts, the Council would violate its own vision and goals if it were to recommend complete closing of the modeled gaps at this time. The Council’s vision and goals call for sustainable management of water resources that ensures access for existing and future water uses, maintains the production agriculture based economy of the region, and supports sustainable economic growth, while also protecting public health, natural systems and quality of life. Complete closure of the modeled gaps would require complete cessation of water withdrawals by agriculture in dry periods unless and until offsetting storage or augmentation are implemented. The complete cessation of consumptive use would have severe economic impacts for water users in the region, especially agriculture. It would be a major water policy shift with extraordinary implications for the region’s economy and quality of life. Such drastic action is not justified. Construction of large-scale storage or augmentation can help to close modeled gaps, but these are high-cost options that will require further evaluation to ensure environmental protection and cost-effectiveness. Moreover, implementation of storage or augmentation will require several years for permitting and development. 
+The Council included several demand management practices to address surface water and groundwater availability concerns. The Council recognizes and commends water users already practicing demand management in the region. Conservation is widely used in the region by municipalities, farmers, industries, individuals, and others. The Council found that there is currently no comprehensive assessment of the extent of existing water conservation activities; without an understanding of baseline implementation of water conservation, the ability to quantify the benefit of future conservation activities is substantially limited. The Council addresses the need for baseline conservation information in its recommendations to the state in Section 
+7.4. 
+As the planning process evolves, the Council recommends the development of more precise measures of the health of its water resources. Moreover, the Council emphasizes that the resource assessment models developed and used for this plan are planning tools; they should not be relied upon as policy tools. The Council makes further recommendations about information needs and the resource assessment models in Section 7.4. 
+8 The results of the storage estimate model run for the Bainbridge node are described in Supplemental Document 16 - EPD Technical Memorandum - Summary Future (2050) Resource Assessment in ACF River Basins Scenario MidChat_SWFA0001, available on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+6-11 
+   [This Page Intentionally Left Blank] 
+
+
+7. IMPLEMENTING WATER MANAGEMENT PRACTICES 
+[This Page Intentionally Left Blank] 
+
+Section 7. Implementing Water Management Practices 
+7.1 	Implementation Schedule and Responsible Parties 
+Table 7-1 details actions, identifies responsible parties, and provides timeframes for implementation of the management practices in Table 6-1. Near-term practices are those which will be implemented or encouraged over the five year timeframe leading up to the next update of this Regional Water Plan. Long-term management practices vary in duration and scope and will require further study and development to define time requirements. As noted in Section 6, the Council selected these management practices to apply to the whole Lower Flint-Ochlockonee Region. Although the region’s boundaries encompass multiple surface water and groundwater resources, the Council believes that the management practices will benefit all of these resources. 
+7.2 	Fiscal Implications of Selected Water Management Practices 
+Table 7-2 describes the fiscal implications of this plan. Cost estimates for implementation are included, to the extent possible, based on available information. Sources of potential funding are also listed. 
+The availability of funding is a critical determinant in the ability of the responsible parties to successfully implement the management practices identified in this plan. In general, sources of funding for individuals, such as farmers, include investment by the individual and grants and incentive programs. Sources of funding for implementing management practices at the local government or utility level could come directly from revenues generated by water and wastewater providers, local government general funds raised through property taxes, or service fees charged by local governments to citizens. Local governments and utilities can also apply for loans and grants to finance implementation. Affected authorities and individuals in the region will be responsible for determining the best method for funding and implementing applicable management practices. 
+
+7. Implementing Water Management Practices 
+LOWER FLINT-OCHLOCKONEE 
+
+Table 7-1: Implementation Schedule for Lower Flint-Ochlockonee Region  
+Management Practice  Initial Implementation Step(s)  Short-term Actions  Long-term Actions  Responsible Parties  
+DEMAND MANAGEMENT (DM)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint), Pinetta and Quitman (Suwannee), and Quincy and Concord (Ochlockonee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 2, 3, 4  
+DM1: Continue to  Continue research of irrigation technology and  Agricultural  
+improve  methods and adopt  new technology and methods  irrigators,  
+agricultural water  (on-going)  Georgia Soil  
+use efficiency  and Water  
+through innovation   Conservation  
+**HIGH  Commission  
+PRIORITY**  (GSWCC), Soil  
+MANAGEMENT  and Water  
+PRACTICE  Conservation  
+Districts, US  
+Department of  
+Agriculture  
+Natural  
+Resources  
+Conservation  
+Service  
+(NRCS),  
+University  
+researchers  
+DM2: Implement  Complete DNR  Comply with  Continue  DNR Board,  
+Tier 1 and 2 non- Board Rule­ existing and  implementation  EPD, Municipal  
+farm water  making for new  new rules by  of existing  Surface Water  
+conservation  conservation  dates specified  programs (on­ and  
+practices in the  requirements  in rules  going)  Groundwater  
+region  by June 2011  Withdrawal Permittees  
+DM3: Implement  Continue implementation of existing programs (on- EPD, DNR  
+Tier 3 and 4 non­ going); Evaluate need for new incentive programs  Sustainability  
+farm water  Division,  
+conservation  Municipal  
+practices in the  Surface Water  
+region with the  and  
+
+September 2011 
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-1: Implementation Schedule for Lower Flint-Ochlockonee Region  
+Management Practice  Initial Implementation Step(s)  Short-term Actions  Long-term Actions  Responsible Parties  
+support of incentive programs  Groundwater Withdrawal Permittees  
+DM4: Implement  Continue implementation of Flint River Basin Water  EPD,  
+Tier 1 and 2  Development and Conservation Plan (2006) and  Agricultural  
+agricultural water  Water Stewardship Act (on-going)  Surface Water  
+conservation  and  
+practices in the  Groundwater  
+region  Withdrawal Permittees  
+DM5: Implement  Continue  Attain  Attain  Agricultural  
+Tier 3 and 4  implementation  benchmark:  benchmark:  irrigators,  
+agricultural water  of existing  New irrigation  Existing  Georgia Soil  
+conservation  incentive  systems  irrigation  and Water  
+practices in the  programs (on­ should have  systems  Conservation  
+region with the  going)  application  should have  Commission,  
+support of  efficiency of  application  Soil and Water  
+incentive  80% or greater  efficiency of  Conservation  
+programs  by January 2012  80% or greater by January 2020  Districts, US Department of Agriculture Natural Resources Conservation Service  
+DM6: Manage  Continue implementation of 2006 Flint River Basin  EPD,  
+new agricultural  Water Development and Conservation Plan (on- Agricultural  
+water withdrawal  going)  Surface Water  
+permits in the  and  
+region according  Groundwater  
+to the 2006 Flint  Withdrawal  
+River Basin Water  Permittees  
+Development and  
+Conservation Plan  
+DM7: Research  Initiate  Present results  Implement  University  
+new tools for  research into  for  recommend­ researchers;  
+agricultural water  feasibility, costs  consideration  dations as  EPD  
+demand  and benefits of  to Council and  appropriate  
+management to  agricultural  EPD  
+determine their  permit limit  
+feasibility, costs,  quantification  
+
+
+LOWER FLINT-OCHLOCKONEE 
+
+Table 7-1: Implementation Schedule for Lower Flint-Ochlockonee Region  
+Management Practice  Initial Implementation Step(s)  Short-term Actions  Long-term Actions  Responsible Parties  
+and benefits for Georgia  and agricultural irrigation institutions.  
+SUPPLY MANAGEMENT AND FLOW AUGMENTATION (SF)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint), Pinetta and Quitman (Suwannee), and Quincy and Concord (Ochlockonee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 2, 3, 4  
+SF1: Evaluate  Identify funding  Report to  Implement per  Council, EPD,  
+reservoir storage  for evaluation  Council, EPD  recommend- Neighboring  
+options in the Flint  and initiate  and other  dations of  councils,  
+River Basin that  evaluation by  policymakers  study  University  
+can provide for  December  by December  researchers/  
+flow augmentation  2011  2013  consulting  
+in dry periods  firms, Georgia  
+**HIGH  Environmental  
+PRIORITY**  Finance  
+MANAGEMENT  Authority  
+PRACTICE  (GEFA)  
+SF2: Replace  Identify  Provide incentives for  EPD, University  
+surface water  potential  conversions  researchers/  
+withdrawals with  conversion  consulting firms  
+groundwater  sites by  
+withdrawals,  December  
+where site specific  2012; identify  
+evaluation  funding to  
+indicates that this  provide  
+practice is  conversion  
+practical and will  incentives  
+not harm  
+environmental  
+resources  
+**HIGH  
+PRIORITY**  
+MANAGEMENT  
+
+September 2011 
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-1: Implementation Schedule for Lower Flint-Ochlockonee Region  
+Management Practice  Initial Implementation Step(s)  Short-term Actions  Long-term Actions  Responsible Parties  
+PRACTICE  
+SF3: Evaluate  Initiate  Report to  Implement  Council,  
+streamflow  feasibility study  Council and  recommend- University  
+augmentation via  by December  EPD by  dations of  researchers/  
+direct pumping  2011  December  study  consulting  
+from aquifers in  2012; Identify  firms; EPD  
+order to support  funding  
+in-stream flows in  sources to  
+dry periods  support practice if feasibility study is favorable  
+SF4: Use Aquifer  No specific action  Evaluate  EPD,  
+Storage and  potential  Underground  
+Recovery (ASR)  impacts of any  injection permit  
+as needed for  ASR proposal  applicants (for  
+future water  thoroughly  ASR systems),  
+supplies in the  municipal or  
+region, with  industrial water  
+thorough  users that  
+evaluation of  pursue ASR  
+potential impacts  
+SF5: Continue  Continue implementation of existing incentive  GSWCC, Soil  
+development of  programs (on-going)  and Water  
+farm ponds in the  Conservation  
+region through  Districts, NRCS  
+existing incentive  
+programs  
+WATER QUALITY (WQ)  
+Issues Addressed  Point and nonpoint source water pollution  
+Gaps Addressed  Water quality violations  
+Council Goals Addressed  1, 4  
+
+
+Table 7-1: Implementation Schedule for Lower Flint-Ochlockonee Region  
+Management Practice  Initial Implementation Step(s)  Short-term Actions  Long-term Actions  Responsible Parties  
+WQ1: Improve  Continue  Continue implementation of  EPD  
+enforcement of  implementation  existing programs (on-going);  
+existing permits  of existing  report results of coordination  
+and regulations  programs (on­ study by December 2012  
+and  going);  implement recommendations of  
+implementation of  Initiate study of  coordination study  
+existing plans and  coordination by  
+practices  December 2011  
+WQ2: Improve  Continue  Encourage  Continue  GSWCC, EPD,  
+implementation of  implementation  adoption of  implementation  local  
+nonpoint source  of existing  Georgia  of existing  governments   
+controls  programs;  Stormwater  programs (on- 
+Initiate baseline  Management  going)  
+assessment of  Manual and  
+agricultural  delegation of  
+BMPs  erosion and  
+implementation  sediment  
+by June 2012;  control review  
+Identify agency  and inspection  
+to implement  to local  
+agricultural  authorities by  
+water quality  December  
+complaint  2013; report  
+response  results on  
+program  baseline  
+agricultural  
+BMP  
+implementation  
+assessment by  
+December  
+2013; establish  
+agricultural  
+water quality  
+complaint  
+response  
+program by  
+December  
+2012  
+
+LOWER FLINT-OCHLOCKONEE 
+
+September 2011 
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-1: Implementation Schedule for Lower Flint-Ochlockonee Region  
+Management Practice  Initial Implementation Step(s)  Short-term Actions  Long-term Actions  Responsible Parties  
+WQ3: Increase  Continue  Continue  Continue  DNR  
+implementation of  implementation  implementation  implementation  Sustainability  
+pollution  of existing  of existing  of existing  Division, UGA  
+prevention  programs (on­ programs (on­ programs (on- Agricultural  
+going); initiate  going); report  going)  Pollution  
+study of  results and  Prevention  
+phosphate  implementation  Program,  
+concentrations  recommendati  wastewater  
+in retail  ons of study of  treatment  
+detergents by  phosphate  permittees,  
+June 2012  concentrations  agricultural and  
+in retail  forestry  
+detergents by  operations  
+June 2013  
+WQ4: Improve  Develop plan  Request  Continue  EPD  
+water quality  for increased  funding for  implementation  
+monitoring   monitoring by  increased  of increased  
+June 2012  monitoring;  monitoring (on­ 
+implement  going)  
+monitoring plan  
+by June 2013;  
+incorporate  
+monitoring  
+results into  
+plan revision  
+process by  
+January 2015  
+WQ5: Apply  Initiate study of  Implement study  EPD, GSWCC  
+coordinated state  opportunities  recommendations  
+resources to  for improved  
+address water  agency  
+quality  coordination by December 2011  
+
+
+LOWER FLINT-OCHLOCKONEE 
+
+Table 7-2: Cost Estimates for Implementation Responsibilities  
+Management Practice  Capital and Programmatic Costsa  Potential Funding Sources  Notes and Sources  
+DEMAND MANAGEMENT (DM)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint), Pinetta and Quitman (Suwannee), and Quincy and Concord (Ochlockonee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 2, 3, 4  
+DM1: Continue to  Costs of continuing  Federal and state  
+improve agricultural  research on  agencies; private  
+water use efficiency  agricultural water  industry  
+through innovation  use practices are  
+**HIGH PRIORITY**  variable; depen- 
+MANAGEMENT  dent upon the  
+PRACTICE  extent of research conducted  
+DM2: Implement Tier 1  $100 - $3,000 per  State agencies,  Low Range: Includes  
+and 2 non-farm water  million gallonsb, c  Water and  residential water audits,  
+conservation practices  wastewater  leak response, training,  
+in the region  revenues, Individuals as required by law  rate structure modifications  High Range: Includes rebate programs, facility upgrades, water line replacement, water reuse, and programs targeting high water users c  
+DM3: Implement Tier 3  $100 - $3,000 per  State agencies,  Low Range: Includes  
+and 4 non-farm water  million gallonsb, c  Water and  education,  audits, rain  
+conservation practices  wastewater  sensor shutoffs   
+in the region with the  revenues  High Range: Includes  
+support of incentive  rebate programs, facility  
+programs  upgrades, water line replacement, water reuse, and programs targeting high water users3  
+
+September 2011 
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-2: Cost Estimates for Implementation Responsibilities  
+Management Practice  Capital and Programmatic Costsa  Potential Funding Sources  Notes and Sources  
+DM4: Implement Tier 1  $100-$4,000 per  Individual  
+and 2 agricultural water  million gallonsb, c  investment;  
+conservation practices  incentive  
+in the region  programs (GSWCC; Soil and Water Conservation Districts)  
+DM5: Implement Tier 3  $100-$4,000 per  Individual  Low Range: Sod  
+and 4 agricultural water  million gallonsb, c  investment;  based rotation with  
+conservation practices  incentive  conservation tillage  
+in the region with the  programs  High end: Variable  
+support of incentive  (GWSCC; Soil  rate irrigation3  
+programs  and Water Conservation Districts)  
+DM6: Manage new  No new costs  EPD  Withdrawal permits  
+agricultural water  associated with  issued after the 2006  
+withdrawal permits in  implementing  Flint Plan have a  
+the region according to  existing permit  $250 application fee  
+the 2006 Flint River  program  
+Basin Water  
+Development and  
+Conservation Plan  
+DM7: Research new  Costs of continuing  Federal or state  
+tools for agricultural  research on  agencies  
+water demand  agricultural water  
+management to  policy variable;  
+determine their  dependent upon  
+feasibility, costs, and  the extent of  
+benefits for Georgia  research conducted  
+SUPPLY MANAGEMENT AND FLOW AUGMENTATION (SF)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint), Pinetta and Quitman (Suwannee), and Quincy and Concord (Ochlockonee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+
+
+LOWER FLINT-OCHLOCKONEE 
+
+Table 7-2: Cost Estimates for Implementation Responsibilities  
+Management Practice  Capital and Programmatic Costsa  Potential Funding Sources  Notes and Sources  
+Council Goals Addressed  1, 2, 3, 4  
+SF1: Evaluate  Cost of evaluation  Municipal or  Reservoir cost  
+reservoir storage  $0.5 to $3 million  industrial capital  dependent on land  
+options in the Flint  (dependent on  investment; state  value and construc- 
+River Basin that can  scope)  and federal  tion materials; costs  
+provide for  funding; private  of piping, land  
+flow augmentation in  investment;  acquisition, permit­ 
+dry periods  water/wastewater  ting, conveyance, and  
+**HIGH PRIORITY**  revenues  treatment not  
+MANAGEMENT  included;   
+PRACTICE  Cost estimate for new storage:$10,000­$350,000 per million gallons (annual average yield) Cost estimate for increasing capacity of existing storage: $10,000-$150,000 per million gallons annual average yield)b, c Evaluation may include costs for (but not limited to): development of yield and performance criteria, site selection; property assessments/ appraisals; definition of permit requirements  
+SF2: Replace surface  $1,000-$100,000  Individual  Well costs do not  
+water withdrawals with  per million gallons  investment;  include land  
+groundwater  annual yieldb, c  incentive  acquisition;  
+withdrawals, where site  programs  Costs dependent on  
+specific evaluation  (GSWCC; Soil  well depth, soil  
+indicates that this  and Water  conditions, piping  
+practice is practical  Conservation  distance, and number  
+and will not harm  Districts)  of pump stations;  
+
+September 2011 
+
+7. Implementing Water Management Practices 
+Table 7-2: Cost Estimates for Implementation Responsibilities  
+Management Practice  Capital and Programmatic Costsa  Potential Funding Sources  Notes and Sources  
+environmental  Cost estimates  
+resources  include piping and  
+**HIGH PRIORITY**  treatment for  
+MANAGEMENT  municipal supply  
+PRACTICE  wells; Costs of wells for irrigation, which does not require treatment, may be lessc  
+SF3: Evaluate streamflow augmentation via direct pumping from aquifers in order to support in stream flows in dry periods  $1,000-$100,000 per million gallons per yearb, c  Federal or state agencies  See comments for SF2 above  
+SF4: Use Aquifer  $30,000-$225,000  Municipal or  Dependent on well  
+Storage and Recovery  per million gallons  industrial capital  depth, soil conditions,  
+(ASR) as needed for  annual yieldb, c  investment;  piping distance, and  
+future water supplies in  water/wastewater  number of pump  
+the region, with  revenues   stationsc  
+thorough evaluation of  
+potential impacts  
+SF5: Continue  $12.50 per cubic  Individual  Estimated cost for  
+development of farm  yard of earth  investment;  earth excavation and  
+ponds in the region  excavation and  Incentive  grading. Cost does  
+through existing  grading  programs from  not include pumping  
+incentive programs  NRCS and GSWCC  and piping costs  
+WATER QUALITY (WQ)  
+Issues Addressed  Point and nonpoint source water pollution  
+Gaps Addressed  Water quality violations  
+Council Goals Addressed  1, 4  
+WQ1: Improve  Costs to improve  State and federal  Need to evaluate  
+enforcement of existing  implementation and  funding; permit  whether  
+permits and regulations  enforcement of  fees  implementation and  
+and implementation of  existing programs  enforcement can be  
+existing plans and  are variable  improved without additional  
+
+7-11 
+
+7. Implementing Water Management Practices 
+LOWER FLINT-OCHLOCKONEE 
+
+Table 7-2: Cost Estimates for Implementation Responsibilities  
+Management Practice  Capital and Programmatic Costsa  Potential Funding Sources  Notes and Sources  
+practices  expenditures; costs  
+**HIGH PRIORITY**  could include (but not  
+MANAGEMENT  limited to): increased  
+PRACTICE  frequency of site visits; increased training for enforcement officers’ enhanced tools/practices for measuring and monitoring sediment loading  
+WQ2: Improve  $0-$2 per capitac  State and federal  Costs could include  
+implementation of  funding and  (but not limited to):  
+nonpoint source  incentive  education; new  
+controls  programs; private investment  ordinancesc  
+WQ3: Increased  $1.50-$3.00 per  State and federal  
+implementation of  capitac  funding and  
+pollution prevention  incentive programs; private investment  
+WQ4: Improve water  $4,000-$8,000 per  State agencies  Grab sampling  
+quality monitoring  site (grab sample);  includes monitoring  
+$5,000-$20,000 per  chemical water quality  
+site (habitat and  annually for fecal  
+benthos  coliform bacteria and  
+monitoring)c  traditional stormwater  
+parameters (no  
+metals); Habitat and  
+benthos monitoring  
+includes monitoring  
+biological water  
+quality annually  
+looking at habitat and  
+macroinvertebrate  
+populationsc  
+WQ5: Apply  <$1 per capitac  State agencies  Costs of coordination  
+coordinated state  among agencies  
+resources to address  
+water quality  
+
+September 2011 
+
+7. Implementing Water Management Practices 
+Table 7-2: Cost Estimates for Implementation Responsibilities  
+Management Practice  Capital and Programmatic Costsa  Potential Funding Sources  Notes and Sources  
+Notes and Sources: a) Programmatic costs will vary widely depending on the specific actions selected. Further study and data are needed to refine the evaluation of costs and benefits of selected practices. All values should be viewed as planning level numbers that can be improved through further study and data collection regarding the level of baseline implementation already in place and the corresponding water quantity and quality benefits achieved. b) Cost per million gallons is a cost benefit metric, which is defined as the total 2010 costs divided by the total millions of gallons yielded or saved through conservation per year. c) Source: Georgia EPD. Supplemental Guidance for Regional Planning Contractors: Water Management Practice Cost Comparison, April 2010. Available on the EPD water planning website: http://www.georgiawaterplanning.org/pages/technical guidance/regional planning_guidance.php  
+
+
+7.3 Alignment with Other Plans 
+The development of this plan by the Lower Flint-Ochlockonee Council builds upon a knowledge base developed in previous planning efforts by state and local governments and authorities.  Numerous existing water resources related plans and information sources were consulted in the development of this plan. More information on these documents can be found in Supplemental Document 6 - Existing Regulatory and Local Plan Review and Supplemental Document 14 - Management Practice Selection Technical Memorandum, available on the Lower Flint- Ochlockonee Council’s website (http://www.flintochlockonee.org/pages/our_plan/index.php). 
+The council also ensured alignment with other Regional Water Plans by participating in a series of joint meetings, especially with the Upper Flint and Middle Chattahoochee Councils. In these meetings, council members discussed shared issues relating to resource availability, quality, policy, regulatory, and funding issues. As a result of this collaboration, where possible, the councils coordinated their plans. No conflicts between these regional plans have been identified. 
+Alignment with the existing Flint River Basin Regional Water Development and Conservation Plan (2006) was discussed by the Council throughout the planning 
+7-13 
+
+7. Implementing Water Management Practices 
+LOWER FLINT-OCHLOCKONEE 
+
+process. While the Council’s recommendations improve upon the 2006 plan, none of its recommendations conflict with that plan.1 
+
+7.4 Recommendations to the State 
+The Lower Flint-Ochlockonee Council has identified several recommended actions that would improve water resource management and planning in this region and the state as a whole. 
+
+
+Information Needs 
+Addressing the following information needs would support improved water resources management and future water planning. Implementation of research and assessments to fill these information needs will require funding (state, federal, other). Implementing agencies are not indicated here; if funding is identified, qualified researchers from state universities, institutions, and agencies, as well as private sector firms, can fulfill these information needs. As new information is developed, it should be incorporated into future cycles of the regional water planning process and used in the resource assessments that are a part of the regional water planning process. 
+. 	Evaluate the environmental and other impacts of low flow conditions modeled at the Bainbridge planning node; determine a low flow criteria below which adverse ecosystem impacts are predicted. 
+. 	Improve implementation of the agricultural water withdrawal metering program of the Georgia Soil and Water Conservation Commission by: 
+o 	Completing comprehensive installation of meters 
+
+o 	Ensuring the meters are functioning properly through regular maintenance inspection 
+
+o 	Increasing data collection on parameters including monthly use, crops, inputs 
+
+o 	Reporting aggregate results annually to permittees and policymakers 
+
+o 	Preparing collected data in a manner that will facilitate use in future resource assessments 
+
+
+. 	Assess baseline implementation of water conservation and water quality BMPs by agricultural producers. The lack of information on current levels of implementation limits the ability to conduct effective regional water planning. Without an understanding of the baseline level of implementation, the benefits of future conservation activities cannot be accurately estimated.  
+1 The 2006 Flint River Basin Regional Water Development and Conservation Plan is described in Section 2.3 and a copy of the 2006 plan is available as Supplemental Document 7 on the Lower Flint-Ochlockonee Council’s website: http://www.flintochlockonee.org/pages/our_plan/index.php 
+September 2011 
+
+7. Implementing Water Management Practices 
+. 	Evaluate implementation and effectiveness of water conservation practices. Water conservation is a priority focus of the management practices in this plan, but there are currently several practical limitations to measuring progress and impact in conservation implementation, such as inconsistent terminology, lack of available data and the need to identify practical ways of collecting data. Periodically, it will be important to assess the progress and benefit of the water conservation program. 
+. 	Encourage State and Federal Agencies to reevaluate the scientific justification for the minimum flow requirements for maintaining healthy aquatic ecosystems below Jim Woodruff Lock and Dam in the Apalachicola River. It is the opinion of this Council that the 5,000 cubic feet per second instantaneous flow target in the 1989 Water Control Manual (current operating plan when this plan was published) does not have sound scientific justification. 
+. 	Evaluate the impacts of farm ponds on stream flows through intercepted drainage and evaporative loss. Also improve how farm pond withdrawals are incorporated into the resource assessment models. 
+. 	Update water quality model assumptions in future resource assessments to reflect actual volumes treated by various wastewater treatment methods (e.g., land application, discharging facility). The assumption that current allocations among these methods will remain the same may not be accurate given in-stream flow concerns. 
+
+Water Policy Recommendations 
+The following recommendations urge the Georgia General Assembly and other policymakers (e.g., Georgia Board of Natural Resources) to pursue actions to improve water resource management in the state and in the Lower Flint-Ochlockonee Region. 
+. 	The Council recommends that the Georgia General Assembly provide funding for continued planning by the regional water councils in order to ensure continued progress toward the vision and goals of the state and regional water plans. The Council also recommends that the General Assembly provide funding to support monitoring of plan implementation, data collection to support future planning by the regional water councils, and continued refinement of water resource assessments used in the development of the regional water plans. 
+. 	The Council recommends that the Georgia General Assembly and implementing agencies, such as EPD, explore all possible funding sources to offset or pay for many of the management practices outlined in this Plan. Financial incentives and reimbursement for implementation of practices will expedite the progress needed to achieve the goals of this Plan. 
+7-15 
+
+7. Implementing Water Management Practices 
+LOWER FLINT-OCHLOCKONEE 
+
+. 	The Council urges the Georgia General Assembly and other state policymakers not to preclude interbasin transfer as an option for future water management in the region, as needed and following thorough scientific evaluation. Interbasin transfer (IBT) of water can provide supply or flows to a receiving basin where water is needed. IBTs are used in many places in Georgia at this time. However, the Council recommends against any new interbasin transfers from any basin for which this planning process identified concerns about maintaining a sustainable in­stream flow regime. 
+. 	The Council recommends that no modifications to existing water withdrawal permitting practices be enacted based on the surface water availability and groundwater availability resource assessment model results. For a more complete discussion of the Council’s concerns with the modeling approaches and results, please see Section 5.4. 
+. 	The Council recommends that irrigation suspension be used only through implementation of the Flint River Drought Protection Act (OCGA §12-5­40) and only by voluntary means, which will require adequate funding to support implementation of the Act. In some years, irrigation suspension may be needed in order to sustain in-stream flows in particularly dry periods. The Council supports voluntary implementation of the Flint River Drought Protection Act through an irrigation suspension auction, when absolutely necessary in dry periods. However, adequate funding is not currently available for implementation of the Act and will be needed if implementation becomes necessary. Additionally, the Council recommends notification to farmers of irrigation suspension earlier than the March 1 drought declaration deadline. The Council acknowledges the need to improve drought prediction tools to support earlier notification and supports EPD efforts to develop better predictive tools. 
+. 	The Council recommends that the General Assembly provide funding and authority (or other mechanism) for the Council to work with the USFWS to resolve potential conflicts between agricultural water use and imperiled species in the region. The Council urges all appropriate state agencies to join in this process, including the EPD. The Council supports consideration of a Habitat Conservation Plan (HCP) as a tool that should be evaluated to provide for both habitat protection and irrigation supply needs in the region, while also reducing the liability and uncertainty associated with potential Endangered Species Act enforcement or litigation. 
+. 	The Council recommends that the General Assembly legislate authority to the Regional Water Councils, including the Lower Flint-Ochlockonee Council, to manage, plan and provide oversight of water resources within each region around the State. Funding should be provided to the Councils from State appropriations and from the granting of revenue-raising authority to each Regional Council. Revenue should not be raised 
+September 2011 
+
+7. Implementing Water Management Practices 
+through property taxation Funding should provide for coordination and the implementation of the regional and state water plans and for studies, assessments, and future plan updates. 
+. 	The Council urges the State to seek a timely resolution of current interstate water issues that directly affect the Apalachicola­Chattahoochee-Flint Basin. The Council recommends the development of a tri-state framework designed to address interstate water issues in the future and the inclusion of the Regional Water Councils within this framework. 
+. 	The Council recommends continued coordination and cooperation among neighboring water councils. The Lower Flint-Ochlockonee Council has worked closely with the Middle Chattahoochee and Upper Flint Councils, and our joint efforts will benefit our regions and the state as a whole. 
+
+Coordinated Recommendations with Neighboring Councils 
+Throughout the process of developing this plan, the Lower Flint-Ochlockonee Council met several times with neighboring regional water councils to discuss shared water resources and topics of concern. The Council met several times with the Upper Flint and Middle Chattahoochee Councils and developed a collaborative relationship with these councils that led to their agreement on a set of joint recommendations. 
+The following joint recommendations were approved by all three councils: Upper Flint, Lower Flint-Ochlockonee, and Middle Chattahoochee. The agreement among these councils on these recommendations indicates the importance of these recommendations to the Apalachicola-Chattahoochee-Flint Basin, of which all three councils are a part, and to the state as a whole. 
+These joint recommendations overlap with some of the Lower Flint-Ochlockonee Council’s own management practices and recommendations. Where overlap does occur, the Council does not see any conflict; the Council’s management practices and recommendations generally provide more detail than the joint recommendations. In all cases, the Council’s own regional water plan takes precedence over the joint recommendations.  
+The Lower Flint-Ochlockonee, Upper Flint, and Middle Chattahoochee Councils:  
+. 	Recognize the critical need for more storage in the Apalachicola­Chattahoochee-Flint (ACF) System and recommend that a plan for additional storage be developed and implemented and that it consider the following: better utilization of existing storage in the Chattahoochee, new storage in the Flint, and enhancement of existing storage capacity. 
+. 	Urge EPD and those involved in the resource assessment modeling to improve upon existing models for future regional water planning by making greater use of actual and current data on water use and conditions and by developing assumptions that more closely approximate actual conditions.  
+7-17 
+
+. 	Request that state and federal agencies reevaluate the scientific justification for the minimum flow requirements at Woodruff Dam that are intended to maintain healthy aquatic ecosystems. 
+LOWER FLINT-OCHLOCKONEE 
+
+September 2011 
+
+
+8. MONITORING AND REPORTING PROGRESS 
+[This Page Intentionally Left Blank] 
+
+Section 8. Monitoring and Reporting Progress 
+8.1 Benchmarks 
+The benchmarks listed in Table 8-1 below will be used to assess the effectiveness of this regional water plan’s implementation and identify required revisions. The Council selected both qualitative and quantitative benchmarks that will be used to assess whether the water management practices are addressing gaps identified by the resource assessment models between resource capacity and demand over time and whether the council’s vision and goals are being met (or progress is being made toward attainment). The benchmarks will be used to evaluate the effectiveness of this plan at the next five-year plan review. 
+Table 8-1: Benchmarks for Lower Flint-Ochlockonee Regional Water Plan  
+Management Practice  Benchmark  Measurement Tools  Time Period  
+All Management Practices  Revised resource assessments  Quantify the impacts of implemented management practices on the gaps identified by the models in the Flint, Ochlockonee, Suwannee Basins and in the Upper Floridan (Dougherty Plain) and Claiborne aquifers  Data to be gathered and compiled at the five-year update to this regional water plan  
+DEMAND MANAGEMENT (DM)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint), Pinetta and Quitman (Suwannee), and Quincy and Concord (Ochlockonee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 2, 3, 4  
+
+September 2011 
+
+8. Monitoring and Reporting Progress 
+LOWER FLINT-OCHLOCKONEE 
+
+Table 8-1: Benchmarks for Lower Flint-Ochlockonee Regional Water Plan  
+Management Practice  Benchmark  Measurement Tools  Time Period  
+All Demand  Per capita water  Update of per capita use  Per capita water  
+Management  use; agricultural  estimates for next  use: every five  
+Practices (DM1  water use  iteration of regional  years; agricultural  
+through DM7)  (interpretation of benchmark requires adjustment for climate and crops)  water plan; agricultural water meter readings  water meter readings: annually  
+DM2   Compliance with permit requirements  Progress reporting required for permittees  Annual  
+DM4 and DM5  Compliance with permit requirements; New irrigation systems should have application efficiency of 80% or greater by January 2012; existing irrigation systems should have application efficiency of 80%or greater by January 2020  Permit enforcement actions; incentive program implementation reporting; NRCS/ Extension agent estimates of practice implementation; survey of baseline implementation with updates  Enforcement: on­going; practice implementation: summary report at next regional water plan iteration (5 years)  
+DM7  Completion of research; implementation of recommendations  Final research reports;  assessment of implementation of recommendations  Research complete by December 2012  
+SUPPLY MANAGEMENT AND FLOW AUGMENTATION (SF)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint), Pinetta and Quitman (Suwannee), and Quincy and Concord (Ochlockonee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 2, 3, 4  
+All Supply Management and  Implementation of management  Perform regional survey to quantify  Data to be gathered and compiled at the  
+
+September 2011 
+
+8. Monitoring and Reporting Progress 
+Table 8-1: Benchmarks for Lower Flint-Ochlockonee Regional Water Plan  
+Management Practice  Benchmark  Measurement Tools  Time Period  
+Flow Augmentation Practices (SF1 through SF5)  practices  implementation; survey to gather details regarding implementation challenges/roadblocks where applicable  five- year update to this plan  
+SF1  Completion of feasibility study; implementation of recommendations  Feasibility study; reservoir permitting and construction/improveme nt  Complete feasibility report by December 2013; status report at next regional water plan iteration (5 years)  
+SF3  Number of surface water withdrawal conversions to groundwater withdrawals; evaluation of groundwater impacts  Permit conversion records (EPD); groundwater resource assessment for next regional water planning cycle  Next regional water plan iteration (5 years)  
+WATER QUALITY (WQ)  
+Issues Addressed  Point and nonpoint source water pollution  
+Gaps Addressed  Water quality violations  
+Council Goals Addressed  1, 4  
+All Water Quality Management Practices (WQ1 through WQ5)  Implementation of recommended practices  Perform regional survey to determine the level of implementation; survey to gather details regarding implementation challenges/roadblocks where applicable  Data to be gathered and compiled at the five- year update to this plan  
+WQ1, WQ2, and WQ3  De-listing of impaired streams  303d/305b report  Biennial for impaired streams listing  
+WQ4  Increased availability of monitoring results  Summary status report on monitoring reach  Next iteration of regional water plan (5 years)  
+
+September 2011 
+
+8. Monitoring and Reporting Progress 
+Table 8-1: Benchmarks for Lower Flint-Ochlockonee Regional Water Plan  
+Management Practice  Benchmark  Measurement Tools  Time Period  
+that can be used in planning  
+
+
+8.2 Plan Updates 
+Meeting current and future water needs will require periodic review and revision of this plan. The State Water Plan and associated rules provide that each Regional Water Plan will be subject to review by the appropriate Regional Water Planning Council every five years and in accordance with guidance provided by the Director, unless otherwise required by the Director for earlier review. These reviews and updates will allow an opportunity to adapt this plan based on changed circumstances and new information arising in the five years after EPD’s adoption of these plans. These benchmarks will guide EPD in the review of this Regional Water Plan.   
+
+8.3 Plan Amendments 
+The Council notes that plan amendments may be necessary as water resource policy conditions change in the region and in the larger ACF Basin. As noted in Section 2, developments in the litigation over the management and allocation of water resources in the ACF and revision of the U.S. Army Corps of Engineers Master Water Control Manual for the ACF may create the need to revisit the contents of this plan. The Council intends that this plan will be modified as necessary to address signifcant changes in the region. 
+
+8.4 Conclusion 
+In this plan, the Lower Flint-Ochlockonee Council has made numerous recommendations to provide for a sustainable future for the Lower Flint-Ochlockonee Region. While developing this plan, the Council identified many information needs to support improved water resources planning and management in the future. The Council urges policy makers to act on its recommendations. 
+The Council sees this plan as a starting point. The Council emphasizes the need for continued regional water planning in order to ensure that the water resources of this region and the state as a whole are managed in a sustainable manner that supports public health, natural ecosystems, and the economy, and enhances the quality of life for all citizens. 
+LOWER FLINT-OCHLOCKONEE 
+
+September 2011 
+
+
+
+

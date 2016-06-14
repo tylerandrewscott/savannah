@@ -1,0 +1,1469 @@
+Regional Water Plan 
+
+September 2011 
+
+
+
+Table of Contents 
+Executive Summary 
+1. 	
+Introduction .................................................................................................. 1-1 
+
+
+1.1 The Significance of Water Resources in Georgia................................... 1-1 
+
+1.2 State and Regional Water Planning Process ......................................... 1-2 
+
+1.3 The Savannah-Upper Ogeechee Regional Vision and Goals ................ 1-3 
+
+1.3.1 Vision Statement .......................................................................... 1-3 
+
+1.3.2 Goals ............................................................................................ 1-3 
+
+
+2. 	
+The Savannah-Upper Ogeechee Water Planning Region ........................ 2-1 
+
+
+2.1. History and Geography ........................................................................... 2-1 
+
+2.1.1 Watersheds and Water Bodies..................................................... 2-1 
+
+2.1.2 Physiography and Groundwater Resources ................................. 2-3 
+
+2.1.3 Unique Physical Features ............................................................ 2-3 
+
+2.2. Characteristics of the Region ................................................................. 2-5 
+
+2.2.1 Population .................................................................................... 2-5 
+
+2.2.2 Employment ................................................................................. 2-5 
+
+2.2.3 Land Use ...................................................................................... 2-6 
+
+2.3 Local Policy Context ............................................................................... 2-6 
+
+
+3. 	
+Water Resources of the Savannah-Upper Ogeechee Water Planning Region ..................................................................................................... 3-1 
+
+3.1 Major Water Use in the Region .............................................................. 3-1 
+
+3.1.1 Surface and Groundwater Use ..................................................... 3-1 
+
+3.2 Baseline Resource Assessments ........................................................... 3-2 
+
+3.2.1 Surface Water Quality (Assimilative Capacity) ............................. 3-3 
+
+3.2.2 Surface Water Availability ............................................................ 3-6 
+
+3.2.3 Groundwater Availability............................................................... 3-8 
+
+3.3 Current Ecosystem Conditions and Instream Uses ................................ 3-8 
+
+3.3.1 Monitored and Impaired Water ..................................................... 3-9 
+
+3.3.2 Priority Conservation Areas........................................................ 3-11 
+
+3.3.3 Wildlife and Fisheries Resources ............................................... 3-11 
+
+
+4. 	
+Forecasting Future Water Resource Needs .............................................. 4-1 
+
+
+4.1 Municipal Forecasts ................................................................................ 4-1 
+
+4.1.1 Municipal Water Demand Forecasts ............................................ 4-2 
+
+4.1.2 Municipal Wastewater Flow Forecasts ......................................... 4-3 
+
+4.2 Industrial Forecasts ................................................................................ 4-4 
+
+4.2.1 Employment Projections............................................................... 4-5 
+
+4.2.2 Industrial Water Demand Forecasts ............................................. 4-5 
+
+4.2.3 Industrial Wastewater Flow Forecasts ......................................... 4-6 
+
+4.3 Agricultural Forecasts ............................................................................. 4-6 
+
+4.4 Water for Thermoelectric Power Forecasts ............................................ 4-7 
+
+4.5 Total Water Demand Forecasts ............................................................ 4-10 
+
+
+5. 	
+Comparison of Water Resource Capacities and Future Needs ............... 5-1 
+
+
+
+5.1 Groundwater Availability Comparisons ................................................... 5-1 
+
+5.2 Surface Water Availability Comparisons ................................................ 5-2 
+
+
+Table of Contents 
+5.3 Surface Water Quality Comparisons (Assimilative Capacity) ................. 5-6 
+
+5.3.1 Future Treatment Capacity Needs ............................................... 5-6 
+
+5.3.2 Assimilative Capacity Assessments ............................................. 5-7 
+
+5.3.3 Watershed Models & Nutrient Assessments .............................. 5-12 
+
+5.4 Summary of Potential Water Resource Issues ..................................... 5-12 
+
+6. 	
+Addressing Water Needs and Regional Goals .......................................... 6-1 
+
+
+6.1 Identifying Water Management Practices ............................................... 6-1 
+
+6.2 Selected Water Management Practices for the Savannah-Upper Ogeechee Region ................................................................................... 6-2 
+6.2.1 Management Practice Selection Process ..................................... 6-2 
+
+6.2.2 Priority Management Practices .................................................... 6-3 
+
+6.2.3 Additional Recommended Management Practices ...................... 6-9 
+
+6.2.4 Projected Savings from High Efficiency Plumbing Fixtures ........ 6-13 
+
+
+7. 	
+Implementing Water Management Practices ............................................. 7-1 
+
+
+7.1 Implementation Schedule and Roles of Responsible Parties ................. 7-1 
+
+7.2 Fiscal Implications of Selected Water Management Practices ............. 7-10 
+
+7.2.1 Planning Level Cost Estimates ................................................... 7-10 
+
+7.2.2 Funding Sources and Options .................................................... 7-10 
+
+7.3 Alignment with Other Plans .................................................................. 7-13 
+
+7.4 Recommendations to the State ............................................................ 7-14 
+
+
+8. 	
+Monitoring and Reporting Progress .......................................................... 8-1 
+
+
+
+8.1 Benchmarks ............................................................................................ 8-1 
+
+8.2 Plan Updates .......................................................................................... 8-1 
+
+8.3 Plan Amendments .................................................................................. 8-5 
+
+
+Tables 
+2-1 	Savannah-Upper Ogeechee Region 2010 Population by County .................. 2-5 
+
+3-1 	Baseline DO Assimilative Capacity in Savannah-Upper Ogeechee River 
+Basins ............................................................................................................ 3-5 
+3-2 Special Stream Classifications ....................................................................... 3-9 
+3-3 High-Priority Waters in the Savannah-Upper Ogeechee Region ................. 3-12 
+
+4-1 Population Projections by County .................................................................. 4-1 
+4-2 Agricultural Water Forecasts by County ........................................................ 4-7 
+4-3 Energy Sector Water Demand Forecasts ...................................................... 4-9 
+
+5-1 Summary of Reservoir Storage Volumes ....................................................... 5-3 
+5-2 Summary of Flow Regime Gap Analysis at Eden Node ................................ 5-5 
+5-3 Summary of Flow Regime Gap Analysis at Little Tennessee Node .............. 5-5 
+5-4 Municipal Permitted Water vs. 2050 Forecasted Demand............................. 5-6 
+5-5 Municipal Permitted Capacity vs. 2050 Forecasted Wastewater Flow .......... 5-7 
+5-6 Summary of Potential Gaps or Shortages by County .................................. 5-13 
+
+6-1A 	Priority Water Management Practices Selected for the Savannah-Upper Ogeechee Planning Region ........................................................................... 6-4 
+
+Table of Contents 
+6-1B Additional Recommended Management Practices for Water Resource 
+Management ................................................................................................ 6-10 6-2 Estimated Demand Reduction from High Efficiency Plumbing Fixtures ...... 6-13 
+7-1 Implementation Schedule .............................................................................. 7-2 
+7-2 Cost Estimates for Implementation Responsibilities .................................... 7-11 
+7-3 Recommendations to the State .................................................................... 7-14 
+
+8-1 Benchmarks for Priority Management Practices ............................................ 8-2 
+
+
+Figures 
+1-1 Georgia Regional Water Planning Councils ................................................... 1-1 
+1-2 Planning Process ........................................................................................... 1-2 
+
+2-1 Savannah-Upper Ogeechee Water Planning Region .................................... 2-2 
+2-2 Water Planning Regions with Aquifers ........................................................... 2-4 
+2-3 2005 Land Cover in the Savannah-Upper Ogeechee Region ....................... 2-7 
+
+3-1 2005 Water Supply by Source Type .............................................................. 3-2 
+3-2 2005 Surface Water Withdrawal by Category ................................................ 3-2 
+3-3 2005 Groundwater Withdrawal by Category .................................................. 3-2 
+3-4 2005 Wastewater Treatment by Category ..................................................... 3-2 
+3-5 Results of Assimilative Capacity Assessment – DO at Baseline Conditions ....... 3-4 
+3-6 Savannah-Ogeechee Study Basin ................................................................. 3-7 
+3-7 Savannah-Upper Ogeechee Region Impaired Waters ................................ 3-10 
+3-8 Savannah-Upper Ogeechee Priority Watersheds ........................................ 3-13 
+
+4-1 Municipal Water Forecast .............................................................................. 4-2 
+4-2 Municipal Wastewater Forecast ..................................................................... 4-4 
+4-3 Industrial Water Forecast ............................................................................... 4-5 
+4-4 Industrial Wastewater Forecast ..................................................................... 4-6 
+4-5 Total Water Forecasts .................................................................................. 4-10 
+4-6 Water Demand in 2010 and 2050 ................................................................ 4-11 
+4-7 Total Wastewater Forecasts ........................................................................ 4-11 
+4-8 Wastewater Flow in 2010 and 2050 ............................................................. 4-12 
+
+5-1 Cretaceous Aquifer Demand vs. Yield ........................................................... 5-2 5-2 Surface Water Resource Assessment Results at Major Planning Nodes ...... 5-4 5-3 Results of Assimilative Capacity Assessment – DO at Permit Conditions ..... 5-8 5-4 Results of Assimilative Capacity Assessment – DO at 2050 Conditions ..... 5-10 
+
+Supplemental Documents 
+Supplemental data and technical memorandums may be found at the Council website: http://www.savannahupperogeechee.org/pages/our_plan/index.php 
+
+Acronyms and Abbreviations 
+AAD-MGD Annual Average Day in million gallons per day AADF Annual Average Daily Flow ACCG Association of County Commissioners DCA Department of Community Affairs DNR Department of Natural Resources DO dissolved oxygen 
+EPD Environmental Protection Division 
+FERC Federal Energy Regulatory Commission 
+GAWP Georgia Association of Water Professionals GEFA Georgia Environmental Finance Authority GIS Geographic Information Systems GRWA Georgia Rural Water Association GLCP Georgia Land Conservation Program GLUT Georgia Land Use Trends GMA Georgia Municipal Association 
+gpcd gallons per capita per day gpf gallons per flush gpm gallons per minute GSWCC Georgia Soil and Water Conservation Commission 
+I/I inflow and infiltration 
+LAS land application system 
+MGD million gallons per day MMD maximum monthly demand MMF maximum monthly flow MLRA major land resource area 
+NPDES National Pollutant Discharge Elimination System OSSMS Onsite Sewage Management Systems 
+PSC Public Service Commission SCDHEC South Carolina Department of Health and Environmental Control SCDNR South Carolina Department of Natural Resources 
+TMDL total maximum daily load UGA University of Georgia USACE U.S Army Corps of Engineers USGS U.S. Geological Survey 
+WRD Wildlife Resources Division 
+
+Acknowledgements 
+We would like to acknowledge the contributions of the following members of the Savannah-Upper Ogeechee Water Planning Council.  The council members volunteered their time and talents over countless meetings and conference calls during the 3-year period for the development of this Regional Water Plan. 
+Bruce Azevedo  Madison  
+Braye C. Boardman  Richmond  
+Jerry L. Boling  Banks  
+Charles Cawthon  Franklin  
+Deke Copenhaver  Richmond  
+Barry W. Cronic  Franklin  
+Ron C. Cross (Chair)  Columbia  
+Donald E. Dye  Stephens  
+Mike Eskew  Wilkes  
+Dan T. Fowler (Alternate)  Jefferson  
+Patricia T. Goodwin (Alternate)  Columbia  
+Patrick D. Goran (Alternate)  Hart  
+Larry Guest  Elbert  
+Toye Hill  Lincoln  
+Robert Jenkins  Jenkins  
+Thomas C. Jordan  Jefferson  
+Scott P. MacGregor  Richmond  
+Eddie Madden  Elbert  
+Chris McCorkle  McDuffie  
+Tim McGill  Columbia  
+James H. Newsome  Warren  
+Charles G. Newton (Co-Chair)  McDuffie  
+Lewis P. Sanders  Stephens  
+Stan Sheppard  Screven  
+Larry S. Walker  Rabun  
+R. Lee Webster  Burke  
+Tom Wiedmeier  Richmond  
+Tenia S. Workman  Hart  
+Rep. Tom McCall (Ex-Officio)  
+Sen. Ralph Hudgens (Ex-Officio)  
+
+We would also like to thank Jeff Larson and Brian Baker of Georgia EPD who spent countless hours over the last three years supporting the Council. 
+
+
+
+EXECUTIVE SUMMARY 
+
+
+
+The Savannah-Upper Ogeechee Water Planning Region is one of ten such regions established by the Georgia General Assembly in 2008 as part of the State­wide Comprehensive Water Management Plan. The region’s Water Planning Council (Council) consists of 28 volunteer members who began working on the Regional Water Plan in March 2009. This Regional Water Plan describes water resources conditions, projects future demands, identifies resource management issues, and recommends appropriate water management practices to be employed in the region through 2050. 
+Primary responsibility for implementing the Regional Water Plan will be at the local 
+level. Other state and regional agencies will also have implementation roles. The Regional Water Plan includes the benchmarks selected to measure the plan’s progress and identifies entities responsible for monitoring those milestones. Continued funding at both state and local levels is crucial to successful implementation. 
+
+
+Executive Summary 
+Regional Overview 
+The Savannah-Upper Ogeechee Region includes 20 counties and 67 incorporated municipalities, with a current population of about 610,000 (2010 estimates). Approximately half of the region is covered by forest; only 7 percent of the region’s land area is considered urban. The Savannah River Basin includes three major lakes owned and operated by the U. S. Army of Corps of Engineers (USACE): Lake Hartwell, Lake Richard B. Russell, and Lake Thurmond. In addition to water supply, power generation, flood prevention, and drought management, the streams and lakes in the region support significant recreational uses and important biological resources. 
+The region covers portions of the Savannah, Ogeechee, Oconee and Tennessee river basins and includes 
+
+various groundwater aquifer systems, particularly the Crystalline Rock aquifer, the Cretaceous aquifer and the Upper Floridan aquifer systems. While much of the region’s water comes from surface water and regulated reservoirs, portions of the region rely significantly on groundwater aquifers.  In 2010, the Savannah-Upper Ogeechee Region withdrew over 325 million gallons per day (MGD) for water supply, with approximately 75 percent drawn from surface water. The region generated nearly 200 MGD of wastewater in 2010, with 85 percent treated and returned to streams and 15 percent handled by on-site septic systems. Currently, over 80 percent of the streams have adequate capacity to assimilate pollutants. 
+
+Demand Forecasts and Water Resources Issues 
+With the region’s population projected to grow to over 985,000 in 2050, the annual average water demand is projected to increase 42 percent (462 MGD in 2050). The region’s wastewater generation will increase 44 percent (289 MGD in 2050) on an annual average daily basis. The Georgia Environmental Protection Division (EPD) conducted three Resource Assessments to predict resource conditions based on these projections.
+
+Executive Summary 
+The Surface Water Availability Resource Assessment (2010) indicates that the water supply needs in the Savannah River Basin can be met, assuming the USACE continues to operate its reservoirs using the current operation protocol; however, peak season agricultural irrigation may result in potential instream flow shortages in the Ogeechee Basin. The stream flow may fall below the instream flow target during summer low flow periods after meeting upstream irrigation needs. 
+The Groundwater Resource Assessment (2010) indicates that there will be adequate supplies to meet the region’s future groundwater supply needs through 2050. The estimated sustainable yields from the Cretaceous aquifer and the portion of the Upper Floridan aquifers that underlie the Savannah-Upper Ogeechee Region are significantly higher than the estimated demands from all planning regions relying on these aquifers. 
+EPD’s Water Quality Resource Assessments (2010) predicted that some stream segments, including the Savannah Harbor, will have limited capacity to accept future wastewater discharges. Upgrade of existing wastewater treatment facilities or advanced treatment in new facilities will likely be required to improve the dissolved oxygen levels in the streams. Dischargers along the Savannah River in both South Carolina and Georgia are currently developing a Total Maximum Daily Load (TMDL) 
+management plan to improve dissolved oxygen levels in the Savannah Harbor. Many of the region’s stakeholders are actively participating in this effort. 
+The Regional Water Plan’s analysis shows that the rapidly­growing counties (especially Richmond and Columbia counties) will need additional water and wastewater infrastructure to meet growing demands in the next 40 years. 
+
+
+
+Executive Summary 
+
+Recommended Management Practices 
+To help address the region’s water resources issues and comply with the Georgia Water Stewardship Act (SB 370), the Council recommends 16 priority water management practices. These priority practices include water conservation measures to further manage and reduce municipal, industrial, energy and agricultural demands in the entire region and monitoring of agricultural water use in the Upper Ogeechee River Basin. The Council suggests short-term and long-term actions for the recommended priority management practices. 
+To prevent potential shortages in meeting instream flow needs, the Council calls for more aggressive water conservation practices and development of drought management practices for the agricultural users/permittees in the Upper Ogeechee River Basin. The Council also recommends instream flow studies (to determine what flow levels are appropriate for protecting aquatic life) and additional streamflow monitoring in the Ogeechee River Basin (to confirm the frequency and magnitude of predicted instream flow shortages). Also, the Council’s priority practices include development of local water and wastewater plans to identify local infrastructure needs and watershed-related issues, and to develop applicable TMDL implementation plans. For example, the Savannah Harbor Dissolved Oxygen TMDL implementation process and management plan is proceeding with active input from several council members. 
+The Council also recommends 14 additional management practices to be considered by local governments and other responsible entities based on specific needs to be included in detailed local planning studies. These management practices promote proactive infrastructure planning and resource management that, if implemented, will prevent or minimize local water resource shortages. 
+
+Interstate Water Planning 
+SAVANNAH-UPPER OGEECHEE 
+
+The ongoing discussion between the states of Georgia and South Carolina is a defining issue of the Savannah River Basin. The topics under discussion and their successful resolution not only are critical to the appropriate use and protection of the Savannah River, but also will serve to inform future iterations of the Regional Water Plan. Discussion topics between the two states include (1) the appropriate distribution of biochemical oxygen demand loads associated with the recent Savannah Harbor Dissolved 
+
+
+Executive Summary 
+
+Oxygen TMDL; (2) the saltwater intrusion issue on Hilton Head Island; (3) the continuation of the USACE Savannah River Basin Comprehensive Study (a cost­shared plan with the states); and (4) the planning necessary to ensure responsible and appropriate sharing of interstate water resources. 
+The Council has recommended that the update of the USACE Comprehensive Study emphasize the need for maintaining maximum storage in the reservoirs when possible, in light of the economic benefits the lakes bring to the region. With respect to water sharing, the Council has incorporated a preliminary assessment of South Carolina’s projected water use into its planning efforts. The Council recognizes that this is a first step in mutual water planning that will become more robust as the interstate water planning process continues. 
+
+Conclusion 
+The Savannah-Upper Ogeechee Water Planning Council recognizes that the region’s water resources are vitally important to the ecology of Georgia, the health and vitality of Georgia's citizens, and the state's economic well being. The Council has worked diligently on the critical resource issues associated with the Savannah-Upper Ogeechee Planning Region and has developed a set of management practices and benchmarks to help ensure appropriate water use from now until 2050. 
+The Council recommends that EPD continue to update and refine its water resources database and use this data in subsequent updates to the resource assessments. This information will help guide more localized planning and decision making, as well as strengthen the appropriate and scientifically sound application of management practices. 
+The Council looks forward to future regional planning that will incorporate results from the ongoing studies detailed in this Regional Water Plan. It is critical that local water planning continue in this region so that future iterations of this plan adequately incorporate the outcomes of any additional environmental discussions and studies. 
+
+
+
+1. INTRODUCTION 
+
+
+
+Section 1. Introduction 
+1.1. The Significance of Water Resources in Georgia 
+Of all Georgia’s natural resources, none is more important to the future of our state than water. The wise use and management of water is critical to support the state’s economy, to protect public health and natural systems, and to enhance the quality of life for all citizens. 
+Georgia has abundant water resources, with fourteen major river systems (See Figure 1-1) and multiple groundwater aquifer systems. These waters are shared natural resources. Streams and rivers run through many political jurisdictions. The rain that 
+The Savannah-Upper Ogeechee Water Planning Region is one of eleven such regions established by the Georgia General Assembly. The region’s Water Planning Council consists of 28 volunteer members who began working on the regional water plan in March 2009. The plan describes water resources conditions, projects future demands, identifies resource gaps and recommends appropriate water management practices to be employed in the region through 2050. 
+falls in one region of Georgia may replenish the aquifers used by communities many miles away. And, while water in Georgia is abundant, it is not an unlimited resource. It must be carefully managed to meet long-term water needs. 
+Since water resources, their conditions, and their uses vary greatly across the state, selection and implementation of management strategies on a regional and local level is the most effective way to ensure that current and future needs for water supply and assimilative capacity are met. 
+Therefore, the State Water Plan calls for the preparation of ten regional water development and conservation plans (Regional Water Plans). This Regional Water Plan prepared for the Savannah-Upper Ogeechee Water Planning Region by the Savannah-Upper Ogeechee Regional Water Planning Council describes the regionally appropriate water management practices to be employed in Georgia’s Savannah-Upper Ogeechee Water Planning Region through 2050. 
+
+
+
+1.2. State and Regional Water Planning Process 
+The State Water Plan calls for the preparation of Regional Water Plans designed to manage water resources in a sustainable manner through 2050. It establishes ten regional water planning councils and provides a framework for regional planning consistent with the policy statement that “Georgia manages water resources in a sustainable manner to support the state’s economy, to protect public health and natural systems, and to enhance the quality of life for all citizens.” 
+This Regional Water Plan has been being prepared following the consensus-based planning process illustrated in Figure 1-2.  As detailed in the Savannah-Upper Ogeechee Water Planning Council’s Memorandum of Understanding with the Environmental Protection Division (EPD) and Department of Community Affairs (DCA) as well as the Council’s Public Involvement Plan [see supplemental document Technical Memorandum – Public Outreach and Involvement (May 2011)], the process required and benefited from input of other regional water planning councils, local governments, and the public. 
+
+
+1. Introduction 
+The Savannah-Upper Ogeechee Water Planning Council met regularly during the period of March 2009 to March 2011 to discuss water resource planning issues.  The Council had three ongoing committees assisting with specific aspects of plan development.  The Technical Committee consisted of five members with technical backgrounds in the water resource management.  This committee was responsible for review of Resource Assessment data and had an advisory role in the selection of management practices.  The Plan Review Committee consisted of four members who reviewed the draft plan sections in detail on behalf of the Council.  The Interstate Coordination Committee consisted of one member who attended several meetings with Savannah River Basin Advisory Committee in South Carolina. Following each committee’s initial review and feedback process, all major decisions and recommendations were brought to the full Council for discussion and approval. 
+
+1.3.  The Savannah-Upper Ogeechee Regional Vision and Goals 
+The guiding policy from the 2004 Water Planning Act requires that Georgia manage its water resources in a sustainable manner to: 1) support the State’s economy; 2) protect public health and natural systems; and 3) enhance the quality of life for all citizens.  Following this principle, the Savannah-Upper Ogeechee Regional Water Planning Council adopted the vision and goals presented in the following subsections. 
+1.3.1. Vision Statement 
+The Savannah and Ogeechee Rivers along with the region’s groundwater resources will provide high quality and quantity water supplies for balanced growth while protecting the natural and built environments. The Savannah-Upper Ogeechee Regional Water Planning Council, through collaboration with stakeholders, will formulate river basin policies based on current and developing technologies and conservation methods.  Because of the results of our Council and other councils’ efforts, Georgia will be recognized across the country as the leader in water resource management.  
+
+1.3.2. Goals 
+The Savannah-Upper Ogeechee Regional Water Planning Council adopted a list of goals reflecting the vision statement. 
+• 	
+Plan for sufficient water supplies to support planned economic development while providing residential, industrial, agricultural, recreational, and utility services in a sustainable manner.  Request that the State consider and encourage future economic development in areas with adequate water resources. 
+
+• 	
+Provide support for current (2011) state laws regulating interbasin transfers in Official Code of Georgia (OCGA) 12-5-584(f) and OCGA 12-5-31 and further described in EPD Rule 391-3-6-.07.  Promote the development of a 
+
+
+
+1. Introduction 
+mandatory comprehensive evaluation process that protects donor basins from adverse impacts from proposed interbasin transfers between State Water Planning Districts. 
+• 	
+Work with EPD to establish ongoing relationships with South Carolina stakeholders and other Water Planning Councils to equitably address water sharing issues. 
+
+• 	
+Work to enhance the public’s understanding of regional water issues and the need for support of new policies to protect future resources. 
+
+• 	
+Identify opportunities for water reuse and conservation in the region. 
+
+• 	
+Maintain and strive to improve the quality and quantity of the water of the region to protect species and habitat while balancing the needs of humans. 
+
+• 	
+Form a permanent Savannah and Ogeechee water planning organization as the conduit for bringing together all stakeholders and assisting the State with implementation of water resource goals in the entire basin.  Grandfather one third of the current Water Planning Council on the permanent organization. 
+
+
+
+
+
+2. THE SAVANNAH-UPPER 
+OGEECHEE WATER 
+PLANNING REGION 
+
+
+
+2. The Savannah-Upper Ogeechee Water Planning Region 
+This region shares portions of 
+Section 2. The Savannah­
+four river basins -Savannah,
+Upper Ogeechee Water 
+Ogeechee, Oconee and Planning Region Tennessee Rivers -with 20 
+counties and three states. 
+The Savannah-Upper Ogeechee Water Planning 
+While much of the region’s 
+Region (Figure 2-1) includes 20 counties and 67 
+water comes from surface 
+incorporated municipalities. These local 
+water and regulated 
+governments are responsible for land use and zoning decisions that may affect the reservoirs, portions of the management of water resources.  Many local region rely on groundwater governments are also responsible for the aquifers. planning, operations, and management of water and wastewater infrastructure.  
+2.1. History and Geography 
+The Savannah-Upper Ogeechee Water Planning Region is located in the eastern portion of the state and encompasses over 7,100 square miles. The region borders the Carolinas, as well as the Coosa-North Georgia, Metro North Georgia, Upper Oconee, Altamaha, and Coastal Georgia water planning regions. Spanning from Rabun County in the North Georgia Mountains down to Screven County near the Georgia coast, the region is diverse in geography and nature. 
+2.1.1. Watersheds and Water Bodies 
+Portions of four river basins are within the region: Savannah, Ogeechee, Oconee, and Tennessee (Figure 2-1).  The Tennessee River Basin drains north (ultimately to the Gulf of Mexico) and the remaining three basins drain to the Atlantic Ocean.  Most of the region is in the Savannah and Ogeechee river basins which are shared with the Coastal Georgia water planning region and South Carolina. 
+The Savannah River originates on the southeastern side of the Appalachian Mountains, just inside North Carolina, and forms most of the border between South Carolina and Georgia.  The basin’s northern portion is part of the Chattahoochee and Oconee National Forests.  The Savannah River Basin also includes the Chattooga National Wild and Scenic River, Tallulah Gorge, six lakes operated by the Georgia Power Company, and three lakes owned and operated by the U.S. Army Corps of Engineers - Lake Hartwell, Lake Richard B. Russell, and Lake Thurmond (also called Clarks Hill Lake). The Ogeechee River is one of Georgia’s few free flowing rivers, and its basin is located entirely within state.  There are no municipal water supply storage reservoirs or hydroelectric plants in the Ogeechee River Basin.  The coastal estuaries, sounds, and Atlantic Intracoastal Waterway that are located just south of the region are significant to the basin. 
+
+
+
+2.1.2. Physiography and Groundwater Resources 
+The Savannah-Upper Ogeechee Region is located in the Blue Ridge, Piedmont, and Coastal Plain physiographic provinces. The regional area north of the Fall Line is in the Blue Ridge and Piedmont provinces; the regional area south of the Fall Line is in the Coastal Plain province. Mountains with fast moving streams, rapids, and steep slopes – including the Appalachian and Blue Ridge mountains – dominate the Blue Ridge province. The Piedmont province is characterized by rolling hills, narrow valleys, and faster moving streams with occasional rapids and falls. The Coastal Plain province is characterized by slower, flatter streams with wide floodplain areas. The region receives between 40 to 80 inches of rain per year, typically with a wet spring and a dry season from mid-summer to late fall. 
+The Savannah-Upper Ogeechee Water Planning Region includes portions of four aquifers, as shown in Figure 2-2:  
+• 	
+Crystalline-Rock Aquifers – located in the northern portion of the basin and generally do not provide significant amounts of groundwater 
+
+• 	
+Cretaceous Aquifer System – forms a narrow band through the middle of the state and consists mainly of sand and gravels 
+
+• 	
+Gordon Aquifer System – located in the southern portion of the basin 
+
+• 	
+Upper and Lower Floridan Aquifers – extremely productive and underlie most of south Georgia 
+
+
+Wells from the major Coastal Plain aquifers south of the Fall Line (Cretaceous & Upper Floridan) are generally very productive, with yields on the order of 1,000 gallons per minute (gpm).  Wells that draw from the Crystalline-Rock Aquifers are typically less productive (less than 100 gpm).  
+
+2.1.3. Unique Physical Features 
+The geology is very different between the regional area in the Blue Ridge and Piedmont provinces and the regional area in the Coastal Plain. The Blue Ridge and Piedmont provinces are composed of crystalline igneous rocks (formed by the cooling of magma) and metamorphic rocks (caused by extremely high temperature and pressure).  These areas include valuable deposits of slate and marble.  The Coastal Plain province is composed of sands and clays generally underlain by limestone, including valuable deposits of kaolin.  According to the United States Department of Agriculture (USDA) land use categories, the region crosses four Major Land Resource Areas (MLRAs): Blue Ridge, Southern Piedmont, Carolina and Georgia Sand Hills, and Southern Coastal Plain.  The soil types are highly site­specific, but tend to transition from loamy in the Blue Ridge, to clayey in the Southern Piedmont, to sandy or sandy/loamy in the Sand Hills and Coastal Plain. 
+
+
+
+
+2.2. Characteristics of the Region 
+2.2.1. Population 
+In 2010, total population for the 20-county Savannah-Upper Ogeechee Water Planning Region was estimated at 610,206.  Table 2-1 shows the breakdown of the population per county, highest to lowest.  The two most populated counties, Richmond and Columbia, contain approximately 53 percent of the region’s total population. Augusta-Richmond County is the largest population center in the region, with an estimated population of over 200,549. 
+Table 2-1 Savannah-Upper Ogeechee Region 2010 Population by County  
+Richmond  200,549  Burke  23,316  Jefferson   16,930  Jenkins  8,340  
+Columbia  124,053  Franklin  22,084  Rabun   16,276  Lincoln  7,996  
+Madison  28,120  McDuffie  21,875  Oglethorpe  14,899  Warren  5,834  
+Stephens  26,175  Elbert  20,166  Screven   14,593  Glascock  3,082  
+Hart  25,213  Banks  18,395  Wilkes  10,593  Taliaferro  1,717  
+Source: U.S. Census Bureau: http://2010.census.gov/news/releases/operations/cb11-cn97.html  
+
+
+2.2.2. Employment 
+Based on the Department of Labor and Census estimates, the region’s employment is dominated by the government, health care services, manufacturing, retail, and construction sectors.  From 2000 to 2007, U.S. Census data estimated the region’s total employment has declined slightly from an estimated 180,400 jobs to 177,500 jobs. Major government employers include Fort Gordon; the Savannah River Site; state universities and technical colleges; the Medical College of Georgia; local school systems; prison systems; and federal, state, and local governmental agencies. 
+Fort Gordon has over 23,000 employees, with an economic impact of approximately $1.4 billion.  The region has 18 higher learning institutions located within ten counties. Within the metropolitan area of Augusta, approximately 27,900 residents are employed by area hospitals, clinics, nursing homes, social service agencies, and the offices of doctors, dentists and other practitioners. Leisure and hospitality establishments are also major employment generators that include many cultural facilities and special events, such as the Masters Golf Tournament in the Augusta area. Plant Vogtle, a nuclear facility jointly owned by four utilities, employs approximately 800 people.  Currently under development are plans to double the number of reactors at the plant which will result in increased employment opportunities.  The region’s manufacturing sector includes textiles and apparel; paper and allied products; chemicals; transportation equipment; stone, clay and glass products; food products; and furniture, lumber and wood products. 
+
+
+2.2.3. Land Use 
+In 2005, approximately 52 percent of the land area of the Savannah-Upper Ogeechee Water Planning Region was covered by forested land (See Figure 2-3). Agriculture (22 percent land cover) is a significant land use activity, especially in the southern portion of the region, supporting a variety of animal operations and commodity production.  In addition to forests and agriculture, wetlands consist of approximately eight percent and urban area consists of approximately seven percent of the land cover of the region. The majority of the urban area exists in Richmond and Columbia counties.  There are a number of high priority streams, protected species, and significant recreational uses, which are described in Section 3 of the Plan. 
+
+
+2.3. Local Policy Context 
+Four Regional Commissions – Georgia Mountains, Northeast Georgia, Central Savannah River Area, and Coastal – work with the DCA to assist communities in the Savannah-Upper Ogeechee Water Planning Region with a variety of planning issues. The commissions review local comprehensive land use plans and can help make connections between growth and water planning.  They assist local governments in securing funds for the water and wastewater infrastructure necessary for economic development, as well as provide planning support for compliance with environmental regulations, some of which pertain to water quality, such as watershed protection plans. 
+
+
+3. 	WATER RESOURCES OF THE SAVANNAH-UPPER OGEECHEE WATER PLANNING REGION 
+
+
+Section 3. Water Resources of 	In 2005, the Savannah-Upper Ogeechee Region withdrew over 
+the Savannah-Upper Ogeechee 
+290 MGD for water supply (78 
+Water Planning Region 
+percent from surface water and 22 
+A summary of current surface water and percent from groundwater sources). groundwater use, results from the Baseline The region generated nearly 190 Resource Assessments developed by EPD and MGD of wastewater in 2005; 85 discussion of instream uses are provided in this 
+percent was treated and returned 
+section. This section’s references to current 
+to streams and 15 percent relied on 
+conditions reflect the most recent data available at 
+septic tanks. The region has 
+the time of the statistical development.     
+abundant water supplies and over 80 percent of the streams were 
+3.1 Major Water Use in the Region found to have adequate capacity to In 2005, the region’s daily water withdrawals handle pollutants. In addition to averaged about 291 million gallons per day (MGD) water supply, power generation, on an annual average daily basis for municipal, flood prevention and drought 
+industrial, energy and agricultural use.  Seventy-management, many streams and eight percent was obtained from surface water 
+lakes in the region support 
+supply sources and 22 percent from groundwater 
+significant recreational uses. 
+supply sources (Figure 3-1). Municipal use included residential, commercial, and industrial usage supplied by publicly owned water providers and estimated usage from self­suppliers. Industrial use included only industries that have State water withdrawal permits. Energy use included only water withdrawn by thermoelectric facilities and excluded withdrawals from hydroelectric facilities because the water used is not considered consumptive. 
+3.1.1. Surface and Groundwater Water Use 
+In 2005, approximately 226 MGD were withdrawn on an annual average daily basis from the region’s surface water supply sources. Approximately 65 MGD were withdrawn from groundwater aquifers, primarily the Cretaceous Sand and Crystalline-Rock aquifers.  Figures 3-2 and 3-3 present a breakdown of total surface water and groundwater use by category. 
+In 2005, the region generated approximately 191 MGD of wastewater on an annual average daily basis. The majority was treated in public wastewater facilities with permitted surface water discharge, and a small percentage was disposed of in land application systems (LAS).  Figure 3-4 shows the wastewater treatment by category. Approximately 15 percent of the region’s wastewater flow was disposed of in on-site sewage management systems (OSSMS) also known as septic systems.  
+
+3.2 Baseline Resource Assessments 
+As a major component of the State Water Plan, EPD developed three Resource Assessments: (1) surface water quality1; (2) surface water availability2; and (3) groundwater availability3 .  The Resource Assessments estimated the capacity of our 
+1 http://www.georgiawaterplanning.org/documents/CurrentAssimilativeCapacityReport-REV0_000.pdf 2 
+http://www.georgiawaterplanning.org/documents/Synopsis_SurfaceWaterAssessment_FullReport_March2010_000.pdf 
+3 
+http://www.georgiawaterplanning.org/documents/LRG1403reviewdraft031810.pdf 
+
+water resources to support Georgia communities in a sustainable fashion while continuing to meet water management goals.  The assessments were completed on a resource basis (river basins and aquifers).  The results of the Baseline Resource Assessments (March 2010, EPD) evaluating current water use and discharge conditions are summarized here as they relate to the Savannah-Upper Ogeechee Water Planning Region.  Future water supply and wastewater needs are discussed in Section 4; followed by Resource Assessments for future conditions in Section 5. Full details of each Resource Assessment can be found on the following EPD website (http://www.georgiawaterplanning.org/pages/resource_assessments/index.php). 
+3.2.1. Surface Water Quality (Assimilative Capacity) 
+Assimilative capacity refers to the natural ability of a water body to respond to pollutants without exceeding state water quality standards or harming aquatic life. The Assimilative Capacity Resource Assessment results focus on dissolved oxygen (DO), nutrients (specifically nitrogen and phosphorus) and chlorophyll-a (a parameter that is closely tied to lake water quality).  The Baseline Assessments evaluate the impact of current wastewater and stormwater discharges with current withdrawals, land use, and meteorological conditions.  Limited or low assimilative capacity may indicate the need to upgrade treatment facilities, or limit future wastewater discharge or stormwater quantities to improve water quality in these streams.   
+Georgia’s DO standards are based on stream-specific water use classifications. Most of the region’s streams are designated as freshwater fishing, drinking water supplies or recreation.  Assessment of the ability to assimilate oxygen-consuming wastes is important because aquatic life is dependent on the amount of residual DO available in the streams. The DO standards for these water use classifications require a daily average of 5 milligrams per litre (mg/L) and no less than 4 mg/L at all times. 
+Nutrients provide food for aquatic organisms. However, high nutrient concentrations can potentially encourage algal blooms, which may indirectly reduce fish population (and other aquatic life), cause unpleasant taste and odor in water supplies, and impact recreational use of water. The lakes in the region do not have specific standards for the nutrients nitrogen and phosphorus.  EPD is currently evaluating Georgia’s future nutrient standards. 
+Using planning level models, DO was modeled in the region’s major river basins: the Savannah River, the Ogeechee River, and the Little Tennessee River. 
+Figure 3-5 and Table 3-1 show the results of the modeling.  Additional site specific monitoring and water quality modeling studies will be required to determine the actual conditions of these streams and whether upgrade of treatment facilities is needed to improve existing water quality in these streams.   
+
+
+Table 3-1: Baseline DO Assimilative Capacity in Savannah-Upper Ogeechee River Basins  
+Basin  Available Assimilative Capacity (Total Mileage)  Total River Length Modeled  
+Very Good (=1 mg/L)  Good (>0.5 to 1.0 mg/L)  Moderate (>0.2 to =0.5 mg/L)  Limited (>0.0 to =0.2 mg/L)  None or Exceeded (=0.0 mg/L)  
+Savannah  449  33  9  3  56  550  
+Ogeechee  95  218  307  103  211  934  
+Tennessee  82  9  0  2  0  93  
+Source/Notes: Stream miles shown include all modeled streams in the basin, including those outside of the SUO region.  
+
+SAVANNAH-UPPER OGEECHEE 
+
+
+A watershed model based on current conditions was developed for the Savannah River Basin to estimate nutrient loadings.  Although there are no existing nutrient standards in the Savannah-Upper Ogeechee Region, the results of the watershed model could be used to determine locations of high nutrient loading where Best Management Practices (BMPs) would provide the most benefit.  It is anticipated that nutrient standards will be developed over the next several years. 
+3.2.2. Surface Water Availability 
+The Surface Water Availability Assessment estimates the ability of surface water resources to meet current municipal, industrial, agricultural, and thermoelectric generation needs, as well as the needs of instream and downstream users.  The required minimum instream flows are based on EPD policy, existing federal policy, or existing Federal Energy Regulatory Commission (FERC) license requirements. 
+The assessment determines the ability of the surface water to meet water demands in terms of both magnitude [i.e., the amount by which the stream flow would fall below the instream flow standards adopted by the Department of Natural Resources (DNR) Board] and duration (i.e., the number of days the stream flow falls below the instream flow standard). A shortfall or “gap” indicates that the natural streamflow cannot fully meet the off-stream consumptive demands (withdrawals minus returns) and in-stream flow targets (for maintaining aquatic life) at all times. 
+The Resource Assessments are conducted based on river basin boundaries rather than Water Planning Region boundaries. The upstream consumption and instream flow demands are summarized on a sub-basin level, each represented by a planning node. There are eight planning nodes designated within the Savannah-Ogeechee River Study Basin (Figure 3-6). Although only two nodes (Hartwell and Augusta) are located within the region, conditions at Lake Keowee node (upstream of the region in South Carolina) and at Clyo, Savannah, Claxton, Eden and Kings Ferry nodes (downstream of the region in Coastal Georgia Water Planning Region) also need to be assessed to determine impacts of upstream users on downstream users. Current water withdrawals and returns were calculated for water users within each of these planning nodes and for both Georgia and South Carolina.  The South Carolina (SC) water withdrawal and return data was developed in coordination with the SC Department of Health & Environmental Control and based on historic data.  In addition, there is one planning node (Little Tennessee) in the Little Tennessee Basin portion of the region located within Rabun County. 
+Modeling of current conditions (Baseline Resource Assessment) indicates that there is sufficient water availability at the nodes located in the Savannah River Basin. However, the model estimates that instream flow targets and current off-stream demands cannot be fully met during dry periods in the Ogeechee River Basin. Shortfalls in meeting instream flow targets are predicted at Claxton, Eden and Kings Ferry nodes. There is sufficient water availability to meet current off-stream and instream demands at Little Tennessee node. 
+
+
+
+3.2.3. Groundwater Availability 
+The Groundwater Availability Assessment estimates the sustainable yield for prioritized groundwater resources based on existing data.  EPD prioritized the aquifers for modeling efforts based on the characteristics of the aquifer, evidence of negative effects, anticipated negative impacts, and other considerations. 
+Three prioritized aquifer systems were evaluated in the Sava nnah-Upper Ogeechee Water Planning Region.  The Crystalline-Rock Aquifer lies north of the Fall Line, which spans across Warren and Columbia counties, and is separated into the Blue Ridge and Piedmont provinces. Below the Fall Line exists the Upper Floridan Aquifer in the eastern Coastal Plain of Georgia, which stretches southward beyond the planning region.  Also below the Fall Line, between Augusta and Macon, is the Cretaceous Aquifer, spanning the counties of Columbia, Warren, Jefferson, Burke, and Jenkins. 
+The Groundwater Resource Assessments estimate the sustainable yield, or the volume of groundwater that can be used without negative impacts.  Negative impacts include limiting use of neighboring wells (drawdown), reducing groundwater contributions to stream baseflow, and the permanent reduction of groundwater levels. The Savannah-Upper Ogeechee Water Planning Region must coordinate usage with other water planning regions to not exceed the sustainable yield for each groundwater source. 
+The baseline modeling results indicate that there are relatively large quantities of water sustainably available above existing withdrawal levels in the Upper Floridian and the Cretaceous Aquifers, and smaller amounts available in the Crystalline-Rock Aquifer before reaching their estimated sustainable yields. 
+3.3 Current Ecosystem Conditions and Instream Uses 
+The water resources of the region serve multiple purposes, including recreation and tourism, and support a great diversity of fish and wildlife. EPD has classified all of the streams in the region as fishing, except for the streams listed in Table 3-2.   
+
+Table 3-2: Special Stream Classifications1  
+Stream  Reach  Classification  
+Chattooga River  Georgia-North Carolina State Line to Tugaloo Reservoir  Wild and Scenic  
+Savannah River  Highway 184 to Clark Hill Dam (Mile 238)  Recreation  
+Savannah River  Clarks Hill Dam (Mile 238) to Augusta 13th Street Bridge  Drinking Water  
+Savannah River  US Highway 301 Bridge (Mile 129) to Seaboard Coastline RR Bridge (Mile 27.4)  Drinking Water  
+Tallulah River  Headwaters of Lake Burton to confluence with Chattooga River  Recreation  
+Tugaloo River  Confluence of Tallulah and Chattooga Rivers to Yonah Lake Dam  Recreation  
+West Fork Chattooga  Confluence of Overlook Creek and Clear Creek to confluence with Chattooga River (7.3 miles)  Wild and Scenic  
+Source: EPD Rule 391-3-6-.03 Water Use Classifications and Water Quality Standards (2010) 1. All streams in the region are classified as “Fishing” except for the streams listed above.  
+
+3.3.1. Monitored and Impaired Water 
+EPD assesses water bodies for compliance with water quality standards as required by the Clean Water Act and monitors streams throughout the state and publishes the results every other year.  If an assessed water body is found not to meet standards, it is considered “not supporting” its designated use and is included on a list of impaired waters, also known as the 303(d) list.  Impairments can be based on various parameters such as DO, fecal coliform, copper, biota aquatic species), fish consumption guidance, pH, and toxicity.  Impairments must be addressed through the development of a Total Maximum Daily Load (TMDL), which sets a pollutant budget and outlines strategies for corrective action.  A TMDL is defined by the U.S. Environmental Protection Agency as a calculation of the maximum amount of a pollutant that a waterbody can receive and still meet water quality standards, and an allocation of that amount to the pollutant's sources.  Based on the assessment conducted in 2008, 463 miles of the streams evaluated in the region are supporting their designated use, 875 miles are not supporting their designated use, and 100 miles are pending assessment.  Figure 3-7 highlights the locations of the impaired stream segments in the region.  A full list of impaired waters can be found on the EPD website http://www.gaepd.org/Documents/305b.html. This list is updated every two years by EPD. 
+
+
+The Savannah River and Harbor has been extensively studied over the last ten years and a TMDL has been proposed for DO. The Savannah River and Harbor TMDL indicates a need for substantial reductions in organic loads for all dischargers from Augusta and to the harbor.  Groups from South Carolina and Georgia representing the Central Savannah River Area (CSRA) as well as harbor dischargers are tasked to develop a TMDL implementation plan, which is anticipated to be completed in 2011. 
+
+3.3.2. Priority Conservation Areas 
+High priority waters for protecting aquatic biodiversity were identified as part of a larger effort by the DNR to develop a comprehensive wildlife conservation strategy for Georgia. The streams included on the final priority list are those that have been identified as a high priority for restoration, preservation, or other conservation activity. Although the individual stream reaches were the basis for the selection process, a large portion of the region was identified as a high priority watershed. Protecting the entire watershed is the only way to protect these high priority waters. The high priority waters and watersheds for the Savannah-Upper Ogeechee Water Planning Region are listed in Table 3-3 and shown in Figure 3-8. 
+Further information may be found at http://www.georgiawildlife.com/node/1377. The list of high priority waters is scheduled to be updated in the near future.  Figure 3-8 also shows conservation lands.  Within the region, there are over 14,400-acres of protected land managed by the federal and state governments. 
+
+3.3.3. Wildlife and Fisheries Resources 
+Currently, there are 18 federally listed species in the Savannah River Basin: five federally threatened and 13 federally endangered. In addition, there are 55 species that are either state-listed or of special concern:  20 threatened or endangered, ten considered rare, and four listed as unusual and deserving of special consideration. Water planning efforts must consider the protection of these species. 
+The DNR stocks trout in Rabun, Stephens, and Hart Counties and there are other stream segments in the basin designated as trout streams.  Lake Burton, Hartwell, Richard B. Russell, and Thurmond also support popular sport fisheries.  Some of the most sought after sport fish in the region include largemouth, striped, and redeye bass, bluegill, sunfish, crappie, catfish, and pickerel.  The Richmond Hill State Fish Hatchery is downstream in the Ogeechee River basin. The Burton Trout Hatchery and the McDuffie Public Fishing Area are in the Savannah basin. Striped bass stocks were declining in the mid-1980s and are now stocked from the Richmond Hill Hatchery. The endangered robust redhorse fish, once thought extinct, was found in the Savannah River shoals in 1997 and a recovery program is underway.  Below Augusta, the Savannah River has a strong sport fishery.  The Ogeechee River, stocked with striped bass from the Richmond Hill Hatchery, also provides excellent fishing opportunities. 
+
+The Savannah and Ogeechee Rivers also support dense populations of the most diverse native freshwater mussels in Georgia.  Two particularly rare mussels in the region are the Atlantic pigtoe and the Savannah lilliput.
+ Table 3-3: High-Priority Waters in the Savannah-Upper Ogeechee Region  
+Savannah River Basin  
+Classification  Stream Name  County  
+High Priority Species/ Aquatic Community Stream  Long Creek  Oglethorpe/Wilkes  
+Broad River  Franklin/Madison/Elbert/Oglethorpe/Wilkes  
+Savannah River  Columbia/Richmond/Burke/Screven/ Effingham/Chatham  
+Brier Creek  Warren/McDuffie/Jefferson/Richmond/ Burke/Screven  
+Brushy Creek  Jefferson/Burke  
+Sandy Run Creek  Columbia/Richmond/Burke  
+Reedy Creek  Jefferson/Glascock/Warren  
+Boggy Gut Creek  McDuffie/Richmond/Jefferson  
+High Priority Aquatic Community Stream  McBean Creek  Burke  
+Chattooga River  Rabun  
+Moccasin Creek  Rabun  
+Ogeechee River Basin   
+Classification  Stream Name  County  
+High Priority Species/ Aquatic Community Stream  Ogeechee River  Chatham/Bryan/Effingham/Bulloch/Screven  
+Williamson Swamp  Washington/Jefferson  
+High Priority Aquatic Community Stream  Hannah Branch  Jefferson  
+Tennessee River Basin  
+Classification  Stream Name  County  
+High Priority Species/ Aquatic Community Stream  Betty Creek  Rabun  
+Source: Georgia Comprehensive Wildlife Conservation Strategy (2005)  
+
+
+
+4. FORECASTING FUTURE WATER RESOURCE NEEDS 
+
+
+4. Forecasting Future Water Resource Needs 
+Section 4. Forecasting Future 	From 2010 to 2050, community growth in the region will increase 
+Water Resource Needs 
+population by 50 percent. Water 
+Water demand and wastewater flow forecasts, 
+demands will increase steadily from 
+along with Resource Assessments (Section 3), 
+325 MGD to 462 MGD. 
+form the foundation for water planning in the 
+Concurrently, regional wastewater 
+Savannah-Upper Ogeechee Region and serve as the basis for the selection of water management needs increase from 200 MGD to practices (Section 6).  This section presents the 289 MGD. regional water and wastewater forecasts for ten­year intervals from 2010 through 2050 for four water use sectors: municipal, industrial, agricultural, and thermoelectric power generation. Detailed descriptions of the forecast generation methodology and data used are located in the supplemental documents Technical Memorandum – Agricultural Water Use Forecasts (May 2011) and Technical Memorandum – Municipal and Industrial Water and Wastewater Forecasts (May 2011), which can be found at the following web addresses: 
+http://www.savannahupperogeechee.org/pages/our_plan/documents/SupSec4_AgriculturalD 
+emand_TM_SUO_May2011_FINAL.pdf http://www.savannahupperogeechee.org/pages/our_plan/documents/SupSec4_Forecast_TM _SUO_May2011_FINAL.pdf 
+4.1 Municipal Forecasts 
+Municipal water demand forecasts include water supplied to residences, commercial businesses, small industries, institutions, and military bases.  The forecasts are closely tied to the population projections for the counties within the region (Table 4­1). The Governor’s Office of Planning and Budget developed the state’s population projections for the entire state, in accordance with state law.  These projections were adopted by EPD for this planning period. 
+Table 4-1: Population Projections by County  
+County  2010 1  2020 2  2030 2  2040 2  2050 3  Difference 3 (2010 - 2050)  % Increase 3 (2010 – 2050)  
+Banks  18,395  22,512  28,208  33,105  38,797  20,402  110.91%  
+Burke  23,316  28,989  34,630  40,837  47,900  24,584  105.44%  
+Columbia  124,053  153,346  193,983  228,607  264,334  140,281  113.08%  
+Elbert  20,166  21,136  21,427  21,438  21,379  1,213  6.02%  
+Franklin  22,084  25,829  29,901  33,183  36,346  14,262  64.58%  
+Glascock  3,082  3,029  3,135  3,158  3,080  -2  -0.06%  
+Hart  25,213  29,645  34,687  39,920  45,367  20,154  79.93%  
+Jefferson  16,930  16,259  15,713  14,815  13,746  -3,184  -18.81%  
+Jenkins  8,340  8,558  8,458  8,330  8,176  -164  -1.97%  
+Lincoln  7,996  9,733  10,931  11,999  13,047  5,051  63.17%  
+McDuffie  21,875  26,403  30,205  33,838  37,393  15,518  70.94%  
+Madison  28,120  34,796  41,029  46,066  50,948  22,828  81.18%  
+
+
+Table 4-1: Population Projections by County  
+County  2010 1  2020 2  2030 2  2040 2  2050 3  Difference 3 (2010 - 2050)  % Increase 3 (2010 – 2050)  
+Oglethorp e  14,899  20,620  28,081  36,911  44,221  29,322  196.81%  
+Rabun  16,276  20,338  23,909  27,440  31,049  14,773  90.77%  
+Richmond  200,549  217,244  231,476  243,674  255,473  54,924  27.39%  
+Screven  14,593  17,819  20,036  21,117  21,743  7,150  49.00%  
+Stephens  26,175  27,616  29,273  30,718  32,031  5,856  22.37%  
+Taliaferro  1,717  2,016  2,092  2,082  2,013  296  17.24%  
+Warren  5,834  6,166  6,335  6,555  6,886  1,052  18.03%  
+Wilkes  10,593  10,587  10,865  11,065  11,166  573  5.41%  
+TOTAL  610,206  702,641  804,374  894,858  985,095  374,889  61.44%  
+Notes: 1. 2010 Census Data, U.S. Census Bureau 2. Georgia 2030 Population Projections, Office of Planning and Budget, March 2010.  3. Data provided for regional water planning purposes only (the 2030 projections were extended through 2050 for this planning process), March 2010.  
+
+
+4.1.1. Municipal Water Demand Forecasts 
+Municipal water demand forecasts (Figure 4-1) include demands for population that will be served by public water systems and by private wells (self supply).  The projected demand for public water systems is further divided by the type of water supply source (groundwater or surface water).  
+
+
+4. Forecasting Future Water Resource Needs 
+Municipal water demand forecasts were calculated by multiplying the per capita water use by the population served.  Per capita water use differs for public water systems and self-supplied private wells; the demands are calculated separately and then added together.   
+Per-capita water use rates were initially developed using reported withdrawal data from EPD (2005) and water use data from the USGS publication, Water Use by County in Georgia 2005; and Water Use Trends, 1980-2005. With feedback from counties, adjustments were made to subtract wholesale and industrial water uses where necessary. Large Industrial users that were subtracted from municipal forecasting were forecast separately in the industrial forecast.  Self-supplied water users were assumed to use a standard 75 gallons per capita per day (gpcd), unless feedback dictated otherwise.   
+Adjustments to per capita water use rates were made to account for water savings as a result of changes in plumbing codes requiring high-efficiency plumbing fixtures. These adjustments were calculated based on U.S. Census housing information and an assumption of a two percent annual replacement rate of older fixtures to new high-efficiency plumbing fixtures throughout the planning period. Although the assumed plumbing improvements lowered future per capita water use rates, the total municipal water need increases significantly from 92 MGD in 2010 to 143 MGD in 2050 as a result of population growth and increased urbanization. 
+
+4.1.2. Municipal Wastewater Flow Forecasts 
+The goal of the municipal wastewater flow forecasts is to estimate how much treated wastewater will be returned to waterways. These forecasts were based on estimated indoor water use; outdoor water use does not require wastewater treatment. Figure 4-2 shows the municipal wastewater flow forecasts by category.  Wastewater may be treated by one of three disposal methods: 1) municipal wastewater treatment facilities to point source discharges, 2) municipal wastewater treatment facilities to land application systems (LAS), or 3) on-site sanitary sewage management systems (OSSMS). This study assumes that all privately-supplied population (on wells) uses OSSMS (septic systems) for wastewater management.  
+To estimate indoor usage, water demands for each county were multiplied by estimated percentages of indoor water use that were developed by EPD.  The percentage of publicly-supplied water customers who are on sewer and centralized treatment systems was estimated; the remaining users were assumed to be on septic systems.  These percentages were calculated using reported EPD discharge data and feedback from counties and utilities.  
+Estimated flows to centralized treatment facilities (facilities owned and operated by city or county utilities) were modified to include infiltration and inflow (I/I) – groundwater and stormwater that enters into sewer systems.  An estimate of 20 percent I/I was used for each county throughout the planning period, unless specifically adjusted by feedback. 
+
+4. Forecasting Future Water Resource Needs 
+
+Annual Average Daily Flow (MGD) 
+140 120 100 80 60 40 20 0 
+110  122  
+98  
+86  
+
+
+
+
+
+2010 2020 2030 2040 2050 Point Source Discharge 
+Septic System 
+
+Septic systems account for approximately 15 percent of the 2005 wastewater generation in the Savannah-Upper Ogeechee Water Planning Region (Section 3). Despite efforts to extend sewer service in some counties, the presence of septic systems will remain relatively steady for counties with lower population densities. The percentages of future wastewater flow that will be handled by centralized facilities (such as municipal treatment plant or LAS) versus septic systems are based on current County ratios; adjustments to the ratios were made based on feedback provided by local governments and utilities. 
+The total municipal wastewater flows are estimated to increases from 86 MGD in 2010 to 134 MGD in 2050. 
+4.2 Industrial Forecasts 
+Industrial water demand and wastewater flow forecasts anticipate the future needs for industries expected to be the major water users through 2050.  Industries require water for their production processes, sanitation, and cooling, as well as employee use and consumption.  The industrial forecasts are based upon either the rate of growth in employment for specific industrial sectors, the rate of growth in units of production for specific industrial sectors, or other credible and relevant information and data provided by specific industrial water users.  Industrial water demand and wastewater generation forecasts in this section include both publicly-supplied and self-supplied industries.  While many industries supply their own water and/or treat their own wastewater, some industries are supplied by public water systems and/or send their wastewater to a public treatment plant.  
+
+4. Forecasting Future Water Resource Needs 
+4.2.1. Employment Projections 
+The University of Georgia (UGA) produced industry-specific rates of employment growth for EPD, which were then used to estimate future water needs for specific industries within the Savannah-Upper Ogeechee Water Planning Region.  General industrial employment shows an upward trend through the planning period.  
+
+4.2.2. Industrial Water Demand Forecasts 
+Industry-specific rates of employment growth for heavy water-using industry sectors (UGA, March 2010) were used to calculate future water needs for specific industries within the region. General industrial employment shows an upward trend through the planning period, but employment in some heavy water using industries, such as textile and apparel sectors, is expected to diminish the 40-year planning period. 
+Industrial water demand forecasts were calculated using information and data specific to each major water-using industry.  For industries where information was available on water use per unit of production, forecasts were based on production. For industries where product based forecasts were not possible, industry-specific workforce projections were assumed to reflect the anticipated growth in water use within the industry.  A decrease in employment is projected for the textile and apparel industries. However, in calculating the forecasts, water demands for these industries were not reduced, based on the assumption that the withdrawal capacities may not correlate to employment or will be used by future industries recruited into the region. This industry-specific information and data, combined with the general upward trend in industrial employment, indicates a continual increase in industrial water demands through the planning period (Figure 4-3).  
+
+Annual Average Daily Demand (MGD) 
+140 120 100 80 60 40 20 0 
+
+94  99  104  107  
+88  
+
+
+
+
+
+ 
+ 
+
+2010 2020 2030 2040 2050 Water Demands 
+
+
+4. Forecasting Future Water Resource Needs 
+
+4.2.3. Industrial Wastewater Flow Forecasts 
+Industrial wastewater flow forecasts were estimated by multiplying the industrial water forecast by the ratio of wastewater generated to water used for each industrial sector. The wastewater return ratios were initially developed by EPD based on a state-wide analysis of multiple years of actual wastewater return and water withdrawal data (Industrial Wastewater Return Ratios Memorandum, EPD, October 2009); some ratios were adjusted later based on feedback provided by industry representatives. Figure 4-4 shows the industrial wastewater flow forecasts. 
+
+Annual Average Daily Flow (MGD) 
+140 120 100 80 60 40 20 0 
+
+95  100  104  107  
+89  
+
+
+
+
+
+2010 2020 2030 2040 2050 Wastewater Flows 
+
+SAVANNAH-UPPER OGEECHEE 
+
+4.3 Agricultural Forecasts 
+Agricultural water use includes irrigation for both crop and non-crop agricultural water users. UGA estimated future irrigation needs for crop production.  These forecasts provide a range of irrigation water use under dry, medium, and wet climate conditions based on the acres irrigated for each crop. Table 4-2 shows the dry year crop irrigation water demand for each county. 
+With help from respective industry associations, UGA also compiled the current non­crop (including non-permitted) agricultural water uses, such as water use for nurseries/greenhouses, golf courses, and livestock production.  For this planning effort, the non-crop water uses are assumed to remain at current levels throughout the planning period. Water forecasts for future non-crop agricultural use were not developed due to lack of available data.   
+The bulk of agricultural water needs are located in the southern part of the region, in Burke, Jefferson, Jenkins, and Screven counties.  While agricultural water needs are 
+
+4. Forecasting Future Water Resource Needs 
+known to fluctuate substantially throughout the year, the annual averages are presented so that suitable comparisons may be made with other demand sectors. More description of the agricultural forecasts is provided in the supplemental document Technical Memorandum – Agricultural Water Use Forecasts (May 2011), which can be found at the follow web address: 
+http://www.savannahupperogeechee.org/pages/our_plan/documents/SupSec4_Agric ulturalDemand_TM_SUO_May2011_FINAL.pdf 
+The detailed forecasts by UGA can be found on the State Water Plan website. 
+Table 4-2: Agricultural Water Forecasts by County (in AAD-MGD)  
+County  Crop Demand  Non-Crop Demand  
+2010  2020  2030  2040  2050  2010-2050  
+Banks  0  0  0  0  0  0.74  
+Burke  15.27  15.39  15.59  15.82  16.08  0.89  
+Columbia  0.14  0.14  0.15  0.15  0.15  0.95  
+Elbert  0.29  0.29  0.29  0.29  0.28  0.59  
+Franklin  0.07  0.07  0.07  0.07  0.08  1.50  
+Glascock  0.03  0.03  0.04  0.04  0.04  0.09  
+Hart  0.75  0.76  0.78  0.8  0.82  2.72  
+Jefferson  11.44  11.49  11.6  11.72  11.85  1.01  
+Jenkins  5.37  5.48  5.62  5.78  5.96  0.15  
+Lincoln  0  0  0  0  0  0.07  
+McDuffie  0  0  0  0  0  1.25  
+Madison  3.43  3.53  3.65  3.79  3.94  6.02  
+Oglethorpe  0.27  0.28  0.29  0.3  0.31  1.43  
+Rabun  0.01  0.01  0.01  0.02  0.02  0.96  
+Richmond  0.12  0.13  0.13  0.13  0.14  0.86  
+Screven  15.52  15.66  15.9  16.15  16.43  0.29  
+Stephens  0  0  0  0  0  1.76  
+Taliaferro  0  0  0  0  0  0.10  
+Warren  0  0  0  0  0  0.31  
+Wilkes 0.06 0.07 0.07 0.07 0.08 Total 52.77 53.33 54.19 55.13 56.18 Source: UGA Agricultural Demand Forecasts (2010)  1.52 23.21  
+
+4.4 Water for Thermoelectric Power Forecasts 
+EPD and an energy sector ad-hoc group developed statewide water demand forecasts for future energy production through 2050.  The energy sector ad hoc group is composed of representatives from three major electric utilities in the state: Georgia Power, Oglethorpe Power Corporation, Municipal Electric Authority of 
+SEPTEMBER 2011 
+
+4. Forecasting Future Water Resource Needs 
+Georgia, and the Georgia Environmental Finance Authority (GEFA). The group provided guidance related to assumptions used in the statewide and regionally distributed water demand forecasts.  The forecasts were distributed at a regional level through 2020 based on the location of existing and planned power generating facilities.  Regional forecasts were not made beyond 2020; the effort would be speculative, as the location and types of generating facilities that may be built is not known. The supplemental document Technical Memorandum – Statewide Energy Sector Water Demand Forecast (EPD, October, 2010) may be found at the following web address: 
+http://www.georgiawaterplanning.org/documents/Energy_Tech_Memo_102910.pdf 
+Using the current base year (2005), the 16 existing thermoelectric facilities in Georgia withdrew a total of approximately 2.7 billion gallons per day.  Only 7 percent (approximately 187 MGD) of this withdrawal is considered “consumptive use” (loss through evaporation).  Consumptive use represents water that is consumed during the power production process and not returned to streams, thus having implications for potential water supply gaps.  The statewide energy sector water consumption needs are projected to increase from current levels to between 430 and 472 MGD by 2050. The locations and power generation processes contributing to this consumptive use are not yet identified.  Siting of future power generating facilities will be contingent on the availability of cooling water and the Savannah River has available capacity that could be used for this purpose, provided that, prior to permitting, basin impacts of the additional consumptive use are evaluated. The Savannah-Upper Ogeechee Planning Council believes that any planning for future growth of power generating facilities in Georgia should include this region.    
+The energy sector represents a significant portion of surface water demand in the Savannah-Upper Ogeechee Region. Plant Vogtle, located in Waynesboro in Burke County, is one of Georgia Power Company’s two nuclear facilities and is the only major water user for thermoelectric power generation in the Savannah Upper-Ogeechee Water Planning Region. Its two existing units are capable of generating 2,430 megawatts. Construction of two additional units (with additional capacity of 2,204 megawatts) is underway.  Unit three is expected to be online in 2016 and Unit four in 2017. In 2005, Plant Vogtle withdrew approximately 69 MGD (from the Savannah River) and returns 25 MGD on an annual average daily basis, effectively consuming 44 MGD of water.  Based on the assumption that all four units will continue to be in operation through the year 2050, the region’s total water withdrawal need for the energy sector is estimated to range between 133 and 134 MGD in 2050; the respective consumption water need is estimated to range from 85 to 86 MGD (Table 4-3). 
+
+4. Forecasting Future Water Resource Needs 
+Table 4-3: Energy Sector Water Demand Forecasts1  
+Scenario  Savannah Upper Ogeechee Region (MGD-AAD)  
+2010  2020  2030  2040  2050  
+Baseline Withdrawal  69  133  133  133  133  
+Alternative Withdrawal  71  136  134  134  134  
+Baseline Consumption2  44  85  85  85  85  
+Alternative Consumption2  46  87  86  86  86  
+Source: Technical Memorandum – Statewide Energy Sector Water Demand Forecast (October, 2010) 1 - The figures shown do not include a statewide consumption water need projection of 170 to 180 MGD that has no specific location or type associated with the demand. 2 – Consumptive use consists of water lost through evaporation during the energy production process.  
+
+The baseline forecast was determined using a regression analysis based on population growth and power generation.  The alternative forecast used a higher power demand scenario where power generation needs grow at a slightly faster rate than the power/population growth relationship that was used in the baseline scenario. However, because the expansion plan is known for Plant Vogtle, the difference resulting from the two scenarios for the Savannah-Upper Ogeechee Region is minimal. 
+The Savannah Upper-Ogeechee Council chose to use the current projections (based on existing and known planned facilities) for the development of this initial Regional Water Plan. Georgia’s investor-owned utilities (Georgia Power, Atlanta Gas Light Company and Atmos Energy) forecast future demand and develop comprehensive plans for supply and demand management for their service territories under the guidance of the Georgia Public Service Commission (PSC). Oglethorpe Power Company, Georgia Transmission Corporation (GTC) and the Georgia Systems Operations Corporation help coordinate the electricity capacity and generation planning of Georgia’s electric membership cooperatives. Similarly, the Municipal Electric Authority of Georgia (MEAG) and the Municipal Gas Authority of Georgia (MGAG) help coordinate the forecasting and planning of municipal electric and gas utilities. Finally, the Integrated Transmission System of Georgia facilitates coordination among the four utilities (Georgia Power, GTC, MEAG and Dalton Utilities) in developing new electricity transmission capacity in Georgia. All of these efforts reflect careful forecasting and resource planning by the individual market participants and in some cases reflect coordinated planning by groups of market participants. Yet no entity in Georgia compiles a comprehensive analysis of forecasted energy demand and supply for the State.    The Savannah Upper-Ogeechee Water Planning Council believes that, while the current forecast is sufficient for this planning effort, updates to the Regional Water Plans should incorporate data from future PSC public resource plans.  
+
+4.5 Total Water Demand Forecasts 
+In total, the water needs of the region increase steadily through the planning period from approximately 325 MGD in 2010 to an estimated 462 MGD in 2050 (Figure 4-5).   
+
+Municipal water demand is the greatest, followed by industrial, energy, and agricultural water demand (Figure 4-6).  Agricultural water needs are projected to increase only slightly by 2050; municipal, industrial, and energy water demands are projected to increase more dramatically.   
+The region’s wastewater returns increase from approximately 200 MGD to 289 MGD in the same 40-year planning period (Figure 4-7).  The region’s wastewater returns are much lower than its withdrawals because of consumptive use for the energy production and negligible agricultural returns (Figure 4-8).  Strategic planning for future wastewater management will be essential in protecting the region’s surface water quality. 
+
+
+Annual Average Daily Flow (MGD) 
+500 450 400 350 300 250 200 150 100 50 
+0 
+
+
+
+274  289  
+241  258  
+200  
+
+
+
+
+
+2010 2020 2030 2040 2050 Wastewater Flows 
+
+
+
+5. 	COMPARISON OF WATER RESOURCE CAPACITIES AND FUTURE NEEDS 
+
+
+Surface water flow regime gaps 
+Section 5. Comparison of 
+(not meeting instream flow targets) Water Resource Capacities and occur at the Eden and Little 
+Future Needs Tennessee nodes. Assimilative 
+capacity assessments indicate the This Section summarizes the potential water need for advanced treatment in resources management issues for the Savannah­
+several streams, including the 
+Upper Ogeechee Water Planning Region. The 
+Savannah Harbor. 
+potential gaps – areas where future demands exceed the sustainable capacity of the resources 
+– have been determined by expanding the Baseline Resource Assessments (Section 3) with the water demand and wastewater flow forecasts (Section 4).  These gaps will be addressed through the selected management practices (Section 6).  
+5.1. Groundwater Availability Comparisons 
+The Groundwater Availability Assessment (July 2010 and January 2011, EPD) estimated the potential sustainable yield for each of the three priority aquifers in the region based on the models developed for the respective aquifers. The assessment results have been used to evaluate the potential for groundwater use to meet the projected 2050 demands across water planning regions.  The assessment concluded that supplies from the Crystalline-Rock, Upper Floridan and Cretaceous Aquifers are generally sufficient in meeting the forecasted groundwater demand from areas with access to these aquifers. 
+Crystalline-Rock Aquifer – Many communities in the upper portion of the region use groundwater to meet local needs; at least 33 percent of municipal demand from Banks, Elbert, Franklin, Hart, Madison, Taliaferro, Warren, and Wilkes counties is from this aquifer. Columbia, Lincoln, McDuffie, Oglethorpe, Rabun, and Stephens counties also use groundwater from this aquifer to supplement their surface water supply sources. In most cases, multiple wells are required to meet existing needs due to the relatively low yields from individual wells (less than 100 gallons per minute). Some of the existing water suppliers are likely to continue to use groundwater to meet water supply needs.  Site-specific studies may be required to determine the availability and sustainable yield in a localized area for future supplies. However, areas with higher increases in projected population density will likely need a combination of surface water and groundwater from the Crystalline-Rock Aquifer to meet future demands. 
+Assuming that the Crystalline-Rock Aquifer in the region exhibits similar characteristics to the portion of the aquifer in the adjacent Middle Oconee study basin for which a water balance was generated, and using the low range of the area normalized sustainable yield (Piedmont - 0.01 MGD per square mile of area) for conservative planning, the sustainable yield available from the portion of the Crystalline-Rock Aquifer in the region is estimated to be approximately 40 MGD on an annual average daily basis.  Based on this estimate, supplies from the Crystalline-Rock Aquifer will be sufficient for private well users in the region. 
+
+Cretaceous Aquifer – The Cretaceous aquifer is a significant water source in the Savannah Upper-Ogeechee Water Planning Region and in other water planning regions in Georgia. The sustainable yield for the prioritized aquifer units modeled is estimated to range from 347 to 445 MGD.  Projections for water use from the multiple regions with access to this aquifer show that future demand (267 to 303 MGD in 2050) is not expected to exceed that sustainable yield in any of the projection years (Figure 5-1).  Because current Resource Assessment modeling is not specific to individual planning regions, site-specific studies would likely be required to determine the sustainable yield in any particular local area.  
+
+
+Floridan Aquifer (Upper) – Total estimated sustainable yield for the Upper Floridan aquifer in south-central Georgia and the eastern Coastal Plain is estimated to be higher than forecasted 2050 groundwater demands from regions with access to this aquifer. The projected water supply need from this aquifer for Savannah-Upper Ogeechee Water Planning Region is approximately 45 MGD in 2050, mostly from the southern portion of the region (Burke, Jefferson, Jenkins, and Screven counties have access to this aquifer).    The modeling results indicate that significant additional resources are available from the Upper Floridan aquifer. 
+5.2. Surface Water Availability Comparisons 
+The evaluation of surface water availability is based on the results of the Surface Water Availability Assessment (July and September 2010 and May 2011, EPD) and the projected surface water demands in 2050, including estimated demands from South Carolina. For modeling purposes, the basin was divided into sub-basins with results summarized at individual planning nodes. The location, drainage area, forecasted 2050 demands, and projected water availability gaps by planning node are summarized in Figure 5-2.   
+
+The surface water availability assessment modeling and future availability are based on meeting and sustaining a flow regime that will support water quality and downstream aquatic resource communities. In the unregulated portions of the region (the Upper Ogeechee basin), the flow regime is defined by the State’s Interim Instream Flow Protection Policy, which calls for the protection of monthly 7Q10 or natural flow, whichever is lower.  The 7Q10 flow is the lowest seven-day average flow with a frequency of occurring once in 10 years.  A flow regime gap exists at a planning node when, after meeting upstream consumptive uses (withdrawal minus return), the stream flows at the node do not meet minimum instream flow targets. The water supply and instream flow needs in the Savannah-Upper Ogeechee Water Planning Region can be met hydrologically at all major nodes evaluated, except at the Eden and Little Tennessee nodes.  For the Hartwell and Augusta nodes, the results were based on the existing operating protocol used by the U.S. Army Corps of Engineers (USACE).  While sufficient conservation storage is available for future water supply, this analysis did not include an evaluation of potential economic impact to communities surrounding the lakes.  The Savannah – Upper Ogeechee Planning Council recognizes that impacts on local economies, and the state of Georgia as a whole, is an important aspect of the statewide water planning process.  Through the update of the Savannah River Basin Comprehensive Study, the Council recommends that the USACE evaluate adaptive management strategies that could minimize the use of the available conservation storage.  Currently the USACE is working with the States of South Caroline and Georgia to secure funding required to complete Phase II of the Comprehensive Study. Table 5-1 presents a summary of the minimum reservoir levels predicted for current and 2050 demand conditions.  
+Table 5-1: Summary of Reservoir Storage Volumes  
+Reservoir  Current Minimum Conservation Storage (BG) 1  Current Minimum Percent of Conservation Storage (%)  2050 Minimum Conservation Storage (BG) 1  2050 Minimum Percent of Conservation Storage (%)  
+Hartwell  152.2  33.0  128.2  27.8  
+Thurmond  98.5  28.9  84.2  24.7  
+Source: Surface Water Availability Assessment, July 2010, EPD 1 These are volumes remaining at the critical point.  BG = billion gallons  
+
+
+
+
+The Resource Assessment predicted that the minimum instream flow targets cannot be maintained at all times while meeting the forecasted 2050 demands at the Eden node. On average, the streamflow at the Eden node is predicted to be approximately 20 MGD below the instream flow target values (4 percent of the time).  Table 5-2 provides a summary of the flow regime shortage at the Eden node.   
+Table 5-2: Summary of Flow Regime Gap Analysis at Eden Node  
+Demand Scenario  Length of Shortfall  (% time)  Average Shortfall (MGD)  
+Current  6  12.3  
+2050  4  20.0  
+Source: Surface Water Availability Assessment, July 2010, EPD Note: All flows are AAD  
+
+At the Little Tennessee node, a small flow regime gap may exist in the Little Tennessee River Basin.  The model predicted that the streamflow will be 0.6 MGD below the instream flow targets 6 percent of the time while meeting 2050 forecasted demands. However, this predicted gap (0.6 MGD, or 1 cfs) is relatively insignificant and is within the likely range of error for modeling or flow monitoring.  Table 5-3 provides a summary of the flow regime shortage at the Little Tennessee node. 
+Table 5-3: Summary of Flow Regime Gap Analysis at Little Tennessee Node  
+Demand Scenario  Length of Shortfall  (% time)  Average Shortfall (MGD)  
+Current  0  0  
+2050  6  0.6*  
+Source: Surface Water Availability Assessment, September 2010, EPD Note: All flows are AAD *The predicted gap is considered insignificant (within the likely range of error for modeling or flow modeling).  
+
+In addition to the Resource Assessment modeling, current permitted municipal surface water and groundwater withdrawals have been compared to the forecasted future demands (Table 5-4).  For the purpose of this study, the maximum monthly demand (MMD) was calculated by multiplying the annual average demand (AAD) by a typical maximum month to average day peaking factor.  A factor of 1.2 was selected based on typical municipal data.  This comparison indicates that Columbia, Hart, McDuffie, Madison, and Oglethorpe counties may require additional water supply infrastructure greater than 1 MGD.  Water conservation and other supply and demand management practices will be required to meet future needs. 
+
+Table 5-4: Municipal Permitted Water vs. 2050 Forecasted Demand (MGD) 1,2  
+County  Current Permitted Water Withdrawals 3  Projected 2050 Water Demand 3  2050 Permitted Capacity Need  Additional Capacity Available  
+Banks  1.0  1.9  0.9  None  
+Burke  5.4  2.6  None  2.8  
+Columbia  40.2  45.1  5.0  None  
+Elbert  5.4  1.4  None  4.0  
+Franklin  7.4  6.0  None  1.4  
+Glascock  0.0  0.0  None  0.0  
+Hart  3.5  6.1  2.6  None  
+Jefferson  3.3  1.4  None  1.8  
+Jenkins  1.0  0.8  None  0.2  
+Lincoln  1.0  0.7  None  0.3  
+Madison  0.6  5.1  4.5  None  
+McDuffie  3.5  5.9  2.4  None  
+Oglethorpe  0.3  4.2  3.9  None  
+Rabun  4.8  4.4  None  0.4  
+Richmond  80.5  73.1  None  7.4  
+Screven  1.5  1.7  0.2  None  
+Stephens  15.0  6.6  None  8.4  
+Taliaferro  0.0  0.0  None  0.0  
+Warren  0.8  0.6  None  0.2  
+Wilkes  3.8  2.4  None  1.4  
+1 Municipal Water Demand includes industries that obtain their water from a municipal source. 2 Includes both surface and groundwater 3 All units shown are MGD Maximum Monthly Demand (MMD) Source: EPD Permit Data  
+
+5.3. Surface Water Quality Comparisons (Assimilative Capacity) 
+This section summarizes the results of the Assimilative Capacity Resource Assessment, Savannah and Ogeechee River Basins (October 2010, EPD) and the water quality gaps that the Savannah-Upper Ogeechee Water Planning Region may face, based on projected 2050 wastewater flows and assumptions. 
+
+5.3.1. Future Treatment Capacity Needs 
+Future treatment capacity needs were determined based on a comparison of forecasted 2050 wastewater flow and current permitted capacity in the region (Table 5-5). The permitted quantities are based on existing municipal facilities permitted under the National Pollutant Discharge Elimination System (NPDES) and permitted LAS.
+
+Table 5-5: Municipal Permitted Capacity vs. 2050 Forecasted Wastewater Flow (MGD) 1,2  
+County  Current Permitted Capacity  Projected 2050 Treatment Needs1,2  2050 Permitted Capacity Need  Additional Capacity Available  
+Banks  0.5  0.0  None  0.5  
+Burke  2.3  1.5  None  0.8  
+Columbia  13.2  36.8  23.6  None  
+Elbert  1.6  1.9  0.3  None  
+Franklin  2.1  1.6  None  0.5  
+Glascock  0.2  0.0  None  0.2  
+Hart  1.8  0.4  None  1.3  
+Jefferson  1.3  1.6  0.3  None  
+Jenkins  0.5  0.6  0.1  None  
+Lincoln  0.5  0.2  None  0.4  
+Madison  0.2  4.8  4.6  None  
+McDuffie  2.6  3.1  0.5  None  
+Oglethorpe  0.3  3.6  3.3  None  
+Rabun  2.2  3.1  0.9  None  
+Richmond  48.9  61.2  12.3  None  
+Screven  1.6  0.9  None  0.7  
+Stephens  1.9  4.4  2.5  None  
+Taliaferro  0.0  0.0  None  0.0  
+Warren  0.4  0.3  None  0.1  
+Wilkes  4.1  1.6  None  2.5  
+1 Forecasted municipal wastewater flows include flows from industries that are expected to be served by a municipal facility 2 All units shown are Maximum Monthly Flow (MMF-MGD). Source: EPD Permit Data  
+
+Design capacities and discharge permits are typically based on maximum monthly flow (MMF).  For the purpose of this study, the MMF was calculated by multiplying a peaking factor of 1.2 by the annual average flow (AAF).  Based on the forecast wastewater flow, Columbia and Richmond counties will need approximately 24 and 12 MGD of additional wastewater treatment capacity, respectively.  Madison County will need approximately 5 MGD.  Oglethorpe and Stephen counties will need additional capacity of approximately 3 MGD each.  Elbert, Jefferson, Jenkins, McDuffie, and Rabun counties are estimated to have a wastewater infrastructure need of less than 1 MGD.  Many of the counties have already begun planning for future expansion or new treatment facilities and these planned facilities will be included in the consideration of management practices (Section 6). 
+
+5.3.2. Assimilative Capacity Assessments  
+Full permit scenario. The future water quality assessment modeled assimilative capacity with municipal and industrial facilities at their full permit (current) levels (both flow and effluent discharge limits).  The evaluation of water quality (assimilative capacity) was based on modeling of both DO conditions and nutrient loadings. The impacts of point discharges were evaluated based on DO conditions in the streams. Figure 5-3 presents the results for DO conditions at full permit loads. 
+
+In the upper portion of the region, the DO conditions will generally be adequate to accept additional wastewater discharges.  In the lower portion of the region, the model predicted mostly moderate to good assimilative capacity.  Some stream segments in the lower portion of the Savannah River Basin and in the Ogeechee River Basin have limited or no remaining assimilative capacity at the full permit limits modeled. For most of these segments, actions may not be required immediately. Further monitoring and evaluation are required to verify how quickly the assimilative capacity is being depleted.  In addition, some of the creeks (Kiokee, Uchee, Spirit, and Buck Creeks, and Chandlers Branch) have been found in the Resource Assessment to have low reaeration potential (low DO) under low flow conditions. EPD is currently considering revising DO standards for streams with naturally occurring low DO levels.  For Buck Creek, a DO TMDL was prepared in 2005 and the treatment plant has been upgraded to improve effluent quality.  It should be noted that these future scenario conditions assume that treatment facilities will operate at their full permitted capacity, which rarely occurs, particularly during low flow periods. 
+
+
+
+As indicated in Section 3.3.1, a TMDL for DO has been proposed for the Savannah Harbor that includes both Georgia and South Carolina discharges. This TMDL indicates a need for significant reductions in organic loads to the river and harbor. The dischargers on both sides of the Savannah River have been working together to develop a TMDL implementation plan, expected to be completed by the end of 2011.  
+2050 Conditions Scenario. Based on the results shown in Figure 5-3, EPD also conducted modeling assessments based on modified permit conditions and projected 2050 flows.  In reality, EPD cannot issue permits that will violate water quality standards.  EPD will continue to evaluate and modify future permit requests and adjust permit limits to avoid potential DO violations (either at renewal time or for new permits). The resource assessment models developed for this planning process will continue to be used by EPD for future wasteload allocation and for assessing DO conditions in the streams.  Assuming that 1) permit limits will be tightened in streams with potential DO violations, and 2) planned projects with alternative discharge locations will be constructed to handle future flows, EPD hopes to eliminate future DO violations in streams (red segments in Figure 5-3).  The results of the 2050 condition simulations are shown in Figure 5-4 and additional water quality resource assessment data can be found at the following link: 
+http://www.savannahupperogeechee.org/pages/our_plan/documents/SupSec5_Perm itVsForecastTables_TM_SUO_May2011_FINAL.pdf#page=88). 
+
+
+
+5.3.3 Watershed Models & Nutrient Assessments 
+Future assessments of nutrient (nitrogen and phosphorus) levels have been completed. Moderate increase of nutrient loadings are predicted in limited areas along both sides of the Savannah River.  However, there are no existing nutrient standards in this basin to compare to at the time of this study.  It is anticipated that nutrient standards will be developed in the future.  Strategies for nutrient management should be evaluated based on these standards and updated watershed modeling results in future plan updates. 
+5.4. Summary of Potential Water Resources Issues 
+The region is fortunate to have abundant water supply sources.  Future water availability issues include: 
+• 	
+In the Ogeechee Basin, minimum instream flow cannot be met at all times during low flow seasons. 
+
+• 	
+Additional water withdrawal and treatment capacity is needed in several counties, especially in fast growing areas such as Columbia and Richmond counties. 
+
+
+Major future water quality issues for the Savannah-Upper Ogeechee Region include: 
+• 	
+Additional wastewater treatment capacity is needed, especially in fast growing areas such as Columbia and Richmond counties. 
+
+• 	
+Additional wastewater planning and monitoring is needed to address limited assimilative capacity in several stream segments. 
+
+• 	
+Significant organic load reductions will be required for the Savannah River and Harbor for both Georgia and South Carolina discharges. 
+
+
+Table 5-6 summarizes the potential water resource gaps and permitted capacity needs in the Savannah-Upper Ogeechee Region by County. 
+
+Table 5-6: Summary of Potential Gaps or Shortages by County  
+County  Surface Water Flow Regime Gap  Municipal Water Permitted Capacity Need  Municipal Wastewater Permitted Capacity Need  Water Quality Assimilative Capacity Gap  
+Source  Table 5-2. 5-3  Table 5-4  Table 5-5  Figure 5-3  
+Banks  Yes  
+Burke  Yes  Yes  
+Columbia  Yes  Yes  Yes  
+Elbert  Yes  Yes  
+Franklin  Yes  
+Glascock  Yes  Yes  
+Hart  Yes  
+Jefferson  Yes  Yes  Yes  
+Jenkins  Yes  Yes  Yes*  
+Lincoln  
+McDuffie  Yes  Yes  Yes  
+Madison  Yes  Yes  Yes*  
+Oglethorpe  Yes  Yes  
+Rabun  Yes  Yes  Yes*  
+Richmond  Yes  Yes  
+Screven  Yes  Yes  Yes  
+Stephens  Yes  Yes  
+Taliaferro  Yes  
+Warren  Yes  Yes  
+Wilkes  
+Notes: 1) "Yes" indicates a predicted gap in the indicated county (for surface water flow regime gap, “yes” indicates part or all of the indicated county lies in the area contributing to a gap) 2) Gap occurs when future demand exceeds the sustainable capacity of the resources as determined by EPD's Resource Assessment. 3) No groundwater gap is predicted for the Savannah-Upper Ogeechee Region for the 40-year planning period. 4) Permitted capacity  need is based on the comparison of permitted municipal capacity versus 2050 forecasted demand. 5) “*” indicates to meet 2050 forecasted wastewater flow conditions, higher treatment levels may be required.  
+
+Section 6 discusses the management practices appropriate to address these potential water resources issues. 
+SEPTEMBER 2011 
+
+6. ADDRESSING WATER NEEDS 
+AND REGIONAL GOALS 
+
+
+
+6. Addressing Water Needs and Regional Goals 
+The Savannah–Upper Ogeechee 
+Section 6. Addressing Water 
+Water Planning Council selected 16 
+Needs and Regional Goals 
+priority and 14 additional management practices that will 
+This Section presents Savannah -Upper 
+work toward providing adequate 
+Ogeechee Water Planning Council’s water 
+supplies, preventing surface water 
+management practices selected to address 
+instream flow shortage at the Eden 
+resource shortfalls or gaps identified and 
+Planning Node (Upper Ogeechee 
+described in Section 5, and to meet the Council’s 
+Basin), improving water quality, 
+Vision and Goals described in Section 1.  
+infrastructure planning, and 
+proactive management of water 
+6.1 Identifying Water Management 
+resources in the region. 
+Practices 
+The comparison of Resource Assessments and forecasted needs presented in Section 5 identifies the Region’s likely resource shortfalls or gaps and demonstrates the need for regional and resource specific water management practices.  In the cases where shortfalls or gaps appear to be unlikely based on the comparison of the Region’s Resource Assessments and forecasted needs, the management practices described in this section have been selected to also meet those needs specified by the Council (e.g. facility/infrastructure needs and practices, programmatic practices, etc.) that are aligned with the Region’s vision and goals. In selecting the actions needed (i.e., water management practices) the Council considered the critical factors described below. 
+• 	
+Practices identified in existing plans, including the following two major regional studies: 
+
+o 	TMDL for Dissolved Oxygen in the Savannah Harbor, Savannah River Basin, (EPA, EPD, DHEC, 2010) 
+
+o 	Savannah River Basin Drought Contingency Plan, US Army Corps of Engineers (USACE, 2008); 
+
+
+
+• 	
+The region’s vision and goals; and 
+
+• 	
+Coordination with local governments and water providers as well as neighboring Councils who share these water resources.  
+
+
+Coordination with the USACE, South Carolina Department of Health and Environmental Control (DHEC) and the South Carolina Savannah River Basin Advisory Council has been initiated and is anticipated to continue with a positive interchange of information. 
+The Council conducted a comprehensive review of existing local and regional water management plans and relevant related documents to frame the selection of management practices.  When possible, successful management practices already planned for and/or in use in the Region formed the basis for the water management practices selected by the Council.  The supplemental document Existing Plans for 
+
+6. Addressing Water Needs and Regional Goals 
+SAVANNAH-UPPER OGEECHEE 
+
+Savannah-Upper Ogeechee Water Planning Region (May 2011) includes detailed tables that list local water and wastewater related plans and comprehensive plans that were considered for this planning process.  This document can be found at http://www.savannahupperogeechee.org/pages/our_plan/index.php. 
+6.2 Selected Water Management Practices for the Savannah-Upper Ogeechee Region 
+This section briefly discusses the management practices selection process and presents the selected water management practices.  The supplemental document Technical Memorandum - Management Practices Selection (May 2011) includes a detailed decision-making process for management practices and can be found at the following web address: 
+http://www.savannahupperogeechee.org/pages/our_plan/documents/SupSec6_Man agementPracticeSelection_TM_SUO_May2011_FINAL.pdf 
+6.2.1 Management Practice Selection Process 
+The needs and interests of the stakeholders in the region are diverse.  One of the Council’s major concerns was that the recommended management practices not dictate what each stakeholder group or entity should do.  Rather, they are presented as a menu for selection by entities within the Savannah-Upper Ogeechee Region based on local needs and conditions.  Each entity may conduct detailed planning or feasibility studies that evaluate its individual issues and resources to determine appropriate management practices.  The Council’s Technical Committee examined an extensive list of potential water quantity and quality management practices. The planning contractor refined the initial list of management practices based on input received from the committee, other Council members and stakeholders. The Council also incorporated demand management (conservation) practices listed in Detailed Guidance for Evaluating Practices to Manage Demands (September 21, 2010, EPD). The Technical Committee and the Plan Review Committee led the iterative development, review and revision of management practices, and the full Council reviewed these recommendations in subsequent Council meetings. 
+The Council prioritized the recommended management practices so that stakeholders can focus their efforts on issues most important to their respective communities. The recommended management practices are divided into two groups: 
+• 	
+Priority Management Practices are selected to address water resource gaps and existing regulations (including demand management practices listed in the Water Stewardship Act, SB370).   
+
+• 	
+Additional Management Practices can be selected by local entities to address specific concerns based on the results of detailed local planning. 
+
+
+
+6. Addressing Water Needs and Regional Goals 
+6.2.2 Priority Management Practices  
+Table 6-1A presents the recommended priority management practices for the Savannah-Upper Ogeechee Region.  The table also identified regional goals and the type of gap addressed by these selected practices.  The sixteen (16) priority management practices are grouped by type of practices, as follows: 
+• 	
+Four demand management practices,  
+
+• 	
+Six supply management practices, 
+
+• 	
+Four water quality management practices, and 
+
+• 	
+Two education initiatives. 
+
+
+The State Water Plan (Section 7, Policy 3) states that “water conservation will be a priority water quantity management practice implemented to help meet water needs in all areas of the state and will be practiced by all water user sectors.” In Detailed Guidance for Evaluating Practices to Manage Demands (EPD), demand management (or conservation) practices were divided into four tiers, as follows: 
+• 	
+Tier One includes basic water conservation activities and practices that are currently required by statute or will soon be required in EPD’s upcoming amended rules (regarding the State Water Plan and SB370 – Water Stewardship Act). 
+
+• 	
+Tier Two includes basic water conservation activities and practices that will be addressed in EPD’s upcoming amended rules, but not required of all permit applicants. 
+
+• 	
+Tier Three includes basic water conservation activities and practices that will not be addressed in current or upcoming amended rules. 
+
+• 	
+Tier Four includes“beyond basic” water conservation practices to be considered if a gap exists between current or future water supplies and demands for the region. 
+
+
+
+6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 
+Table 6-1A: Priority Water Management Practices Selected for the Savannah-Upper Ogeechee Planning Region  
+Action(s) Needed  Applicable Area  Description/Definition of Action  
+Water Demand Management Practices Goals Addressed: 1 (economy and sustainability), 5 (water reuse/conservation), 6 (balance human needs v. habitat needs), 7 (regional planning) Gap Addressed: Potential Minimum Instream Flow Shortage in Ogeechee Basin (WD3 & WD4)  
+WD1 - Implement Tier 1 Water Conservation Practices and Other SB370 Requirements  ALL  • Tier 1 water conservation practices include those required by SB370 (Water Stewardship Act of 2010) and those anticipated in upcoming state-rule making: • Water providers will be required to (a) conduct water loss audit and report results to EPD using International Water Association standards and practices, and (b) Demonstrate progress toward Tier 1 water conservation goals and practices (non-farm water withdrawal permittees) in annual water conservation plan progress report • Local governments will be required to: a) Adopt ordinance restricting outdoor watering between the hours of 10am and 4pm (with some exemptions); b) Amend local building codes to require submetering for all newly constructed multi­unit residential, industrial and retail buildings;  
+• Amend local building codes to require high efficiency plumbing fixtures (1.28 gal/flush) in all new construction; and • Amend local building codes to require high­efficiency cooling towers in new industrial construction EPD and existing agricultural withdrawal permittees will need to evaluate and comply with new requirement regarding classification of existing agricultural water permits by status (active, inactive and unused permits)  
+
+
+Table 6-1A: Priority Water Management Practices Selected for the Savannah-Upper Ogeechee Planning Region  
+Action(s) Needed  Applicable Area  Description/Definition of Action  
+WD2 – Evaluate/ Encourage Tier 2 (Non-Farm) Water Conservation Practices  ALL  • Tier 2 water conservation practices include basic water conservation practices that will be addressed in upcoming State rule-making but not required of permit applicants.  • Municipal and industrial (including thermoelectric production facilities) water withdrawal permit holders may be asked to demonstrate progress toward water conservation goals or water efficiency standards.  
+WD3 – Evaluate/Encourage Tier 3 & Tier 4 Agricultural Water Conservation Practices  Ogeechee River Basin  Review and implement applicable agricultural water efficiency and demand management practices that are “beyond basic” to reduce surface water demand and in the Ogeechee River basin.   Note for WD1 to WD3: The full list of specific conservation goals and tiered conservation practices recommended by the Savannah-Upper Ogeechee Council can be found in Technical Memorandum – Demand Management Practices (August 2011)  
+WD4 – Monitor Agricultural Use in the Ogeechee River  Ogeechee River Basin  • Monitor agricultural withdrawals from the Ogeechee River on a continuous basis to prevent development of a potential future supply gap • Complete installation of irrigation meters on all major agricultural withdrawal permittees • Use monitored data during critical period to improve calibration of existing Resource Assessment model • Review current agricultural withdrawal permits for  
+potential modifications to protect minimum instream flows • Evaluate future withdrawal permit request from the Ogeechee River against monitored usage before issuing future permits  
+
+
+Table 6-1A: Priority Water Management Practices Selected for the Savannah-Upper Ogeechee Planning Region  
+Action(s) Needed  Applicable Area  Description/Definition of Action  
+Water Supply Management Practices Goals Addressed: 1 (economy and sustainability), 6 (balance human needs v. habitat needs), 7 (regional planning) Gap Addressed: Potential Minimum Instream Flow Shortage in Ogeechee Basin (WS2, WS3, WS4, WS5), Potential Minimum Instream Flow Shortage in Little Tennessee Basin (WS6), Water Infrastructure Need (WS1)  
+WS1- Develop/Update Local Water Master Plans  ALL  • Local entities to evaluate every five years based on system demand or other growth factors, to ensure consistency with Regional Water Plan recommendations, as follows: • Update population and water demand projections with local details; compare to Regional Water Plan forecast trend and assumptions • Adequacy of water supply sources • Need for additional water supply/alternatives supply source analysis • Water use efficiency • Treatment and distribution system needs and options • Review and update capital improvements • Review and update funding requirements • Recommended planning horizon: 20 years  
+WS2 – Monitor Streamflow to Confirm the Frequency and Magnitude of the Predicted Gap  Ogeechee River Basin  Develop streamflow monitoring program to confirm the frequency, duration and magnitude of the predicted gap at existing planning nodes, plus a new node located in the Savannah-Upper Ogeechee Region (Upper Ogeechee)   
+WS3 – Conduct  Instream Flow Studies  Ogeechee River Basin  Conduct instream flow studies at various segments of the basin to determine required instream flow values to be compared to values used in the Resource Assessment Model  
+WS4 - Increase Groundwater Supplies  Ogeechee River Basin  • Conduct feasibility studies at the Eden Node to replace surface water withdrawals with groundwater withdrawals. • Encourage groundwater for agricultural use in the future.  
+
+
+Table 6-1A: Priority Water Management Practices Selected for the Savannah-Upper Ogeechee Planning Region  
+Action(s) Needed  Applicable Area  Description/Definition of Action  
+WS5 – Decrease Surface Water Use during Low Flow Periods  Ogeechee River Basin  Develop drought management plan to decrease surface water withdrawals for agricultural use during low flow periods  
+WS6 - Increase Wastewater Returns to the Little Tennessee River  Little Tennessee River Basin  Conduct planning studies in the Little Tennessee Basin to increase wastewater returns (decrease OSSMS use) to surface water.  
+Water Quality Management Practices Gap Addressed: 1 (economy and sustainability), 6 (balance human needs v. habitat needs), 7 (regional planning) Gap Addressed: Wastewater Infrastructure Need (WQ1, WQ2, WQ3), Assimilative Capacity (WQ4)  
+WQ1 - Develop/ Update Local Wastewater Master Plans  ALL  Local entities to evaluate every five years based on wastewater treatment demand or other growth factors to ensure consistency with Regional Water Plan recommendations, as follows: • Update population and wastewater flow projections with local details; compare to Regional Water Plan forecast trend and assumptions • Evaluate future wastewater treatment, collection and disposal needs and options • As needed, apply for new or updated existing waste load allocations to ensure compliance with water quality standards • Evaluate septic disposal options for lower density areas without centralized treatment services • Review and update capital improvements • Review and update funding requirements • Recommended planning horizon: 20 years  
+WQ2 - Upgrade Existing Wastewater Treatment Facilities  ALL  As identified by local wastewater master plans or evaluations, increase treatment capacity or improve level of treatment as necessary to meet future capacity needs and/or water quality standards.  
+WQ3 - Construct New Advanced Wastewater Treatment Facilities  ALL  As identified by local wastewater master plans or evaluations, provide advanced treatment as necessary to meet future capacity needs and water quality standards.    
+
+
+Table 6-1A: Priority Water Management Practices Selected for the Savannah-Upper Ogeechee Planning Region  
+Action(s) Needed  Applicable Area  Description/Definition of Action  
+WQ4 - Develop and Implement TMDL Management Plan  ALL  • Participate in the TMDL development and implementation process • Implement identified TMDL actions • Work with EPD to further model potential impaired waters  
+Educational Initiatives Goals Addressed: : 3 (stakeholder relationships), 4 (education), 5 (water reuse/conservation)  
+ED1 - Develop Regional Educational Program and  Materials for  ALL  Develop regional educational materials for adoption or further customization by local governments or utilities. Materials can cover the following topics depending on local needs: • Water conservation and efficiency for municipal /commercial/industrial/agricultural users • Water conservation/efficiency for landscape professionals  
+Localized Implementation  • Water conservation/efficiency certification program for landscape professionals  • Stormwater management • Current water issues awareness • Septic tank (OSSMS) installation/maintenance • Protection of sensitive lands  
+ED2 - Promote Coordinated Environmental Planning  ALL  Incorporate regional water planning goals and management practices with local comprehensive planning of land use, transportation, and water resources  
+Eden Node includes Burke, Glascock, Jenkins, Jefferson, Screven, Taliaferro, and Warren counties Little Tennessee Node includes portion of Rabun County WD – Water Demand Management WS – Water Supply Management WQ – Water Quality Management ED – Education Initiatives Source: Technical Memorandum - Management Practices Selection (May 2011)  
+
+One of the Council’s goals is to identify opportunities for conservation in the region. The Council supports the implementation of the required Tier 1 demand management practices and encourages each water user or permittee to evaluate Tier 2 practices and implement practices as required by upcoming regulations or permit conditions.  The recommended Tier 1 and Tier 2 conservation practices are applicable to the entire region.  Water users in the Ogeechee and Little Tennessee River watersheds are encouraged to evaluate and implement applicable Tier 3 and 
+
+6. Addressing Water Needs and Regional Goals 
+Tier 4 conservation practices to address the potential shortage in meeting instream uses.  The Council encourages water users/permittees to evaluate the cost and operational implications of these practices, and to implement them when they are beneficial to their operation.  The full list of specific Tier 1 and Tier 2 conservation goals and demand management practices recommended by the Savannah-Upper Ogeechee Council can be found in the supplemental document Technical Memorandum – Demand Management Practices (August 2011), which can be found at the following web address: 
+http://www.savannahupperogeechee.org/pages/our_plan/documents/SupSec6_Dem andManagement_TM_SUO_August2011_FINAL.pdf 
+Development or update of local water and wastewater master plans is recommended to identify specific local needs and issues not examined in detail in this high-level regional plan.  The regional plans evaluated information on a regional and county basis, and the number of entities providing water, wastewater and stormwater services to customers within a county varies greatly.  The Council stressed the importance in providing flexibility for entities within the region to conduct their own planning activities to address specific community issues following Regional Water Plan recommendations. 
+To address the projected 2050 wastewater flows, new wastewater treatment facilities will need to be constructed and some of the existing facilities will need to be expanded and/or upgraded. The water quality management practices identified have been selected to prevent water quality (assimilative capacity) degradation, assuming that future facilities and/or facility expansions (as identified in local master plans) will be designed to meet existing and future water quality standards.  
+6.2.3 Additional Recommended Management Practices 
+Table 6-1B presents additional management practices that can be selected by local entities to address their specific concerns, based on the results of the detailed local master plans. The 14 management practices also are grouped by type of practices, including: 
+• 	
+Two demand management practices,  
+
+• 	
+Two supply management practices, and 
+
+• 	
+Ten water quality management practices: Five addresses wastewater management and infrastructure planning, and the other five focus on non­point source pollution reduction and stormwater management.     
+
+
+
+6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 
+Table 6-1B: Additional Recommended Management Practices For Water Resource Management (Select based on needs identified in local master plans)  
+Action(s) Needed  Issues to be Addressed  Description/Definition of Action  
+Water Demand Management Practices Goals Addressed: 1 (economy and sustainability), 5 (water reuse/conservation)  
+WD5 - Promote Full-Cost System Accounting/ Encourage Conservation-Oriented Rate  • Better planning and management.  • Meeting water/ wastewater systems long-term needs for  maintenance, repair, rehabilitation, as well as new or replacement assets  Utilities or local governments are encouraged to evaluate accounting and management practices to ensure that all costs of operating and maintaining the systems, as well as costs of rehabilitating and providing all needed capital assets, are understood and are reflected in accounting practices and in the schedule of rates and charges.  Evaluation steps can include: • Based on master planning, develop comprehensive lists of long-term system needs • Evaluate internal accounting procedures and practices to reflect all direct and indirect costs • Create a financial planning model and conduct a revenue analysis to determine the ability of the system to meet the full costs of providing services   • Investigate irrigation meter pricing, conservation-  
+Structure  oriented pricing or other appropriate strategies for the locale • Evaluate billing system functionality and determine the ability to implement alternative rate structures • Conduct rate studies and update pricing and fee schedules as appropriate • Implement procedures to verify revenue sufficiency and to support and track the expenditure of funds to meet the long-term needs of the systems  
+WD6 - Evaluate/ Encourage Tier 3 Water Conservation Practices  Additional Demand Management to extend life of existing water supply source and to delay capital expenditure for new supply sources (More applicable to counties in Table 5-4 with projected infrastructure needs)  • Tier 3 water conservation are basic practices that are not addressed in current rules and will not be addressed in upcoming amended rules.  Local governments or utilities are encouraged to evaluate applicability of Tier 3 Practices for: 1) Agricultural Water Use; 2) Electric Generation; 3) Golf Courses; 4) Water-Using Industries and Commercial Businesses; 5) Heavy Landscape Water Use; 6) Urban and Suburban Areas; and 7) State Agency Facilities. Implement where necessary based on local conditions.  • A trigger approach can be considered, such as reaching 85 to 90 percent of treatment capacity.  Local utilities are encouraged to evaluate this approach based on local conditions and comfort level for operation.  
+
+
+Table 6-1B: Additional Recommended Management Practices For Water Resource Management (Select based on needs identified in local master plans)  
+Action(s) Needed  Issues to be Addressed  Description/Definition of Action  
+Water Supply Management Practices Goals Addressed: 1 (economy and sustainability), 5 (water reuse/conservation), 6 (balance human needs v. habitat needs)  
+WS7 - Maximize or Increase Existing Surface Water Reservoir Storage  Local water supply needs as indicated in Table 5-5 (as an option for counties with projected infrastructure needs)  • As part of master planning process, evaluate expansion of existing reservoirs by increasing the height of existing dams or dredging to provide additional storage. This option can be used for all entities with existing reservoir storage to extend and maximize the life of the supply source. • Evaluate potential for Natural Resources Conservation Service impoundments (if any within the service areas) to serve as water supply sources  
+WS8 - Promote and Evaluate Beneficial Reuse  • Local water supply needs • Decrease demand for groundwater and surface water sources  Evaluate the following to decrease overall system water demand:  • Indirect potable reuse: return highly treated wastewater to water supply reservoirs • Non-potable reuse: irrigation with highly treated effluent in areas such as golf courses, parks and residences  
+Water Quality Management Practices Goals Addressed: 1 (economy and sustainability), 5 (water reuse/conservation), 6 (balance human needs v. habitat needs)  
+WQ5 - Decrease Use of Land Application Systems (LAS) in Urban Areas  Reduction of consumptive loss and improved pollution control  • Increase returns to surface waters • Counties with aging LAS may consider discontinuing the practice after 25-30 years of use of the facilities or when it is appropriate to switch to point discharge  
+WQ6 - Decrease Use of On-Site Sewage Management Systems (OSSMS)/ Septic in Urban Areas  Reduction of consumptive loss and improved pollution control  • Increase returns to surface water in urban areas • Prevent long-term water quality problems caused by failing OSSMS • As part of local wastewater master plans, evaluate providing centralized wastewater collection and treatment services where density requires  • Identify areas where centralized sewer would benefit water quality (e.g.,areas around lakes or smaller lots that would not support septic systems)  
+WQ7 - Evaluate Constructed Treatment Wetlands in Non-Urban/Low Density Areas  Improved discharge quality and enhanced pollution control  • Provide polishing treatment • Promote beneficial reuse, wildlife habitat and public use benefits  
+WQ8 - Develop Wastewater Collection System Asset Management Programs  Better planning and management of municipally owned facilities  • Develop and maintain GIS database • Develop Sanitary Sewer Overflow (SSO) Prevention and Response Plan • Develop system maintenance and update schedule • Consider establishing Capacity Management, Operations and Maintenance (CMOM) programs  
+
+
+Table 6-1B: Additional Recommended Management Practices For Water Resource Management (Select based on needs identified in local master plans)  
+Action(s) Needed  Issues to be Addressed  Description/Definition of Action  
+WQ9 - Develop Educational Programs and Support Maintenance for Homeowners with OSSMSs (Septic)  • Reduction of non-point source pollution • Prevention/reduction of septic tank failures  Develop educational programs to emphasize • Proper maintenance of on-site systems • Regular inspection • Pumping/disposal of waste  
+WQ10 - Develop/ Implement Water Supply Watershed Protection Plan Measures  • Water quality protection of source water • Reduction of non-point source pollution  Implement watershed protection plan elements for water supply watersheds:   • Reservoir buffers    • Lot size requirements • Septic setbacks • Reservoir use restrictions  
+WQ11 - Develop and Implement Stormwater Public Education and Outreach  Reduction of non-point source pollution  Develop general education and outreach programs for reduction of non-point source pollution for the following audiences:   • Residential and commercial developments • Industries • Agricultural community  
+WQ12 - Develop/ Update Local Stormwater Master Plan  • Reduction of non-point source pollution • Reduction of potential assimilative capacity gaps  • Prepare or update a local stormwater master plan to identify potential runoff / water quality issues and develop long-term capital improvement programs to better manage drainage systems, floodplains and implement other water quality enhancement programs • Recommended interval: every 5-10 Years  
+WQ13 - Establish a Stormwater Utility  Reduction of non-point source pollution  Local governments (serving > 10,000 people) may consider establishing a stormwater utility (or other mechanism) to increase funding for stormwater management programs.    
+WQ14 - Evaluate Water Quality Trading  Improved assimilative capacity  • Water quality trading is a market based approach that can complement water-quality regulation.   • It allows facilities to buy pollutant reduction credits from other facilities in the same watershed (or non-point sources like agriculture) • Non-point source pollutant reductions are frequently less expensive than treatment-plant upgrades.  Trading programs can cost-effectively improve water quality.  
+WD – Water Demand Management WS – Water Supply Management WQ – Water Quality Management Source: Technical Memorandum - Management Practices Selection (May 2011)  
+
+
+6.2.4 Projected Savings from High Efficiency Plumbing Fixtures 
+The Council recommends the implementation of Tier 1 demand management practices and other SB 370 requirements.  One significant element of SB 370 is the requirement of high efficiency plumbing fixtures using 1.28 gallons per flush (gpf) instead of the currently required 1.6 gpf fixtures.  Table 6-2 summarizes the estimated water savings and revised municipal forecasts as a result of this management practice.  Region-wide, the estimated reduction in water demand and wastewater flow for the 40-year planning period is approximately 4 MGD on an annual average daily basis. 
+Table 6-2: Estimated Demand Reduction (AAD-MGD) from High Efficiency Plumbing Fixtures   
+County  2010  2020  2030  2040  2050  
+Municipal Water Demand  
+Initial Forecast 1  92.3  104.9  118.5  130.7  143.1  
+Estimated Savings 2  0.00  0.4  1.3  2.5  4.2  
+Revised Forecast 2  92.3  104.5  117.2  128.2  138.9  
+Municipal Wastewater Generation  
+Initial Forecast 1  85.9  97.6  110.4  121.9  133.6  
+Estimated Savings 2  0.0  0.4  1.2  2.3  3.8  
+Revised Forecast 2  85.9  97.2  109.2  119.6  129.8  
+Notes: 1. Based on existing plumbing fixtures using 1.6 gallons per flush (gpf). 2. Based on replacement of existing plumbing with 1.28 gpf, as required by Water Stewardship Act (SB 370).  
+
+
+7. IMPLEMENTING WATER MANAGEMENT PRACTICES 
+
+
+7. Implementing Water Management Practices 
+Primary responsibility for 
+Section 7. Implementing Water 
+implementing the regional plan will 
+Management Practices 
+be on the local level; however, State agencies are requested to assist 
+This section presents the Savannah-Upper 
+with implementation. The Council 
+Ogeechee Council’s roadmap for the 
+suggested short-term and long­
+implementation of the water management 
+term actions for the recommended 
+practices identified in Section 6.  As the State 
+priority management practices. 
+Water Plan provides, this plan will be primarily 
+Implementation schedules for 
+implemented by the various water users in the 
+additional management practices 
+region. This section describes the suggested roles and responsibilities of the implementing are to be determined by local parties as well as the fiscal implications of the governments, utilities and permit practices. holders based on needs identified in 
+detailed local master plans. 
+7.1. Implementation Schedule and Roles of Responsible Parties 
+The implementation schedule and roles of responsible parties for priority management practices (management practices selected to address Resource Assessment gaps or existing regulations) are detailed in Table 7-1. The timeframe for implementation has only been identified for the priority management practices detailed in Table 6-1A.  Anticipated timeframes for implementation actions are defined as initial (2011-2012), short-term (2012-2016) and long-term (beyond 2017). 
+The Council recommends that timeframes for implementing other voluntary management practices (Table 6-1B) be determined by affected water users/entities, based on the type of projects selected to address specific needs and following detailed analysis conducted by local entities.  Implementation of infrastructure projects, such as construction of a new reservoir or expansion of a wastewater treatment facility, often require much longer times and cannot be easily compared to implementation of ongoing programmatic measures, such as  stormwater or water conservation education programs.  The Council’s recommended management practices, if implemented, will work toward preventing or closing potential future gaps and meeting regional goals.  The Council advocates that the recommended management practices be reviewed and updated as necessary in subsequent 5-year plan updates, based on newly available data, information, and implementation results. 
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 7. Implementing Water Management Practices 7. Implementing Water Management Practices 7. Implementing Water Management Practices 7. Implementing Water Management Practices 7. Implementing Water Management Practices 7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-1: Implementation Schedule Priority Water Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed  Permit Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2012-2016  Long-term Actions: 2016 and beyond (after 5 year update)  Responsible or Potentially Affected Parties  
+Water Demand Management Practices  
+WD1 - Implement Tier 1 Water Conservation Practices and Other SB370 Requirements  • Municipal / Industrial Water Withdrawals • Agricultural Surface Water Withdrawal (Initial Implementatio n Steps Item 5 only)  • Complete DNR Board Rule Making for new conservation requirements by June 2011 • Public water systems to begin preparing water system audit and water loss detection program report results to EPD Water loss audit:   >10,000 served by 1/1/2012  All others by 1/1/2013 • Adopt outdoor watering ordinance (not allowed between the hours of 10am and 4pm, with exemptions) by 1/1/2011 • Amend local building codes by to require:  (a) submetering for all newly constructed multi-unit buildings;  (b) High efficiency plumbing fixtures (1.28 gal/flush) in all new construction; and (c) high-efficiency cooling towers in new industrial construction. • Agricultural permit holders to comply with new requirements regarding classification of existing agricultural water permits by status (active, inactive and unused permits)  • Comply with existing and new rules by dates specified • As necessary and based on water audits and water loss detection program results, select areas that require improvements and implement loss reduction measures • Continue public education and awareness programs about outdoor watering restrictions  • Conduct surveys (based on annual progress reports) to gauge effectiveness • Revise public education and awareness program if necessary to improve effectiveness  Initial Implementation: • DNR Board, EPD • Municipal and industrial water withdrawal permittees • Local governments (planning and zoning office or department) • Local governments (planning and zoning office or department) • Agricultural permittees and EPD Short-term Actions: Municipal / Industrial Water Withdrawal Permittees Long-term Actions: • Regional Survey: EPD working with Council and Regional Commissions or DCA; Agricultural Survey: EPD with Georgia Soil and Water Conservation Commission (GSWCC) and County Extension Services • Local governments or utilities Agricultural Survey: EPD with GSWCC, County Extension Services and Georgia Farm Bureau  
+
+
+Table 7-1: Implementation Schedule Priority Water Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed  Permit Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2012-2016  Long-term Actions: 2016 and beyond (after 5 year update)  Responsible or Potentially Affected Parties  
+WD2 – Evaluate/ Encourage  Tier 2 (Non-Farm) Water Conservation Practices  Municipal / Industrial Water Withdrawals   • Complete DNR Board Rule Making for new conservation requirements by June 2011; • Continue implementation of existing programs  Comply with existing and new rules by dates specified in rules  • Conduct surveys to gauge effectiveness, • Continue implementation and revise  • DNR Board, EPD • Municipal / Industrial Water Withdrawal Permittees (including  
+and evaluate applicability of additional Tier 2 practices and cost implications  program, if necessary.  thermoelectric power production)  
+WD3 – Evaluate/ Encourage  Tier 3 & Tier 4 Agricultural Water  Agricultural Withdrawal  • Evaluate and identify preferred conservation options based on irrigation conditions  • Identify existing and potential incentive programs, with help from Georgia Soil and Water Conservation Commission and Farm Bureau  • Continue implementation of selected practices  • Agricultural permittees with help from GSWCC, County Extension Services and  
+Conservation Practices  • Evaluate potential inclusion of permit conditions (EPD)  • Work with GSWCC and County Extension Services for outreach and education  • Revise outreach and education based on results  Georgia Farm Bureau • EPD  
+WD4 – Monitor Agricultural Use in the Ogeechee River  Agricultural Withdrawal  Identify current permittees with and without water use meters  • Install meters for major users that do not have metering systems • Develop water use monitoring and reporting structure and database  • Continue water use monitoring and meter calibration program • Update of demand forecasts  • Agricultural permittees • GSWCC, County Extension Services and Georgia Farm Bureau  
+• Develop meter calibration and replacement program  and Resource Assessment models based on monitored use  • EPD (for Resource Assessment Update)  
+
+
+Table 7-1: Implementation Schedule Priority Water Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed  Permit Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2012-2016  Long-term Actions: 2016 and beyond (after 5 year update)  Responsible or Potentially Affected Parties  
+Water Supply Management Practices  
+WS1 Develop/Update Local Water Master Plans  Municipal Water Withdrawals  • Initiate master planning by updating population and demand forecast for local service areas and identifying system needs and options  Conduct alternatives analysis; identify and prioritize projects (including new, replacement repair and  Implement priority projects and update master plan every 5 years based on  Local governments / Utilities  
+• Integrate Regional Water Plan recommendations  rehabilitation projects) to address long-term needs  growth 
+WS2 – Monitor Streamflow to Confirm the Frequency and Magnitude of the Predicted Gap  EPD and USGS to coordinate  • Secure funding for additional flow monitoring and • Determine locations for monitoring in the Ogeechee Basin  Installation of flow monitoring stations and begin monitoring daily flow and low flows; compare monitored flow conditions to model predictions  • Continue low flow monitoring and comparison of observed low flow conditions to model predictions • Update Resource Assessment models based on observed low flows and revised water use and projections  • EPD (coordination and Resource Assessment) • USGS (flow monitoring and record keeping) • GEFA (funding)  
+WS3 Conduct Instream Flow Studies  EPD, WRD and USGS to coordinate  Secure funding for an initial “pilot­scale” study in the Ogeechee Basin  Determine scope and locations to conduct instream flow study (suggest one location each in the Upper and Lower Ogeechee Basins). Begin and complete the “pilot” study in the basin.    Expand study locations as necessary; modify scope and content of studies from lessons learned from the pilot study  • EPD • WRD • USGS • GEFA  
+
+
+Table 7-1: Implementation Schedule Priority Water Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed  Permit Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2012-2016  Long-term Actions: 2016 and beyond (after 5 year update)  Responsible or Potentially Affected Parties  
+WS4 - Increase Groundwater Supplies  Agricultural Withdrawal  • Initiate strategic planning that includes identifying site-specific needs for groundwater wells over the next 40 years • Identify a primary agency to lead outreach program and to develop an incentive program to reduce reliance on surface water for irrigation during summer low flow periods  • Begin permitting process for new wells • Construct new wells as needed and as funding allows • Develop outreach program to explain the need to increase groundwater use during summer low flow periods   • Continue permitting process for new wells • Construct as needed and as funding allows • Revise strategic plan every 5 years in conjunction with  Regional Water Plan update  • EPD (planning) • GSWCC, County Extension Services or Georgia Farm Bureau • Agricultural permittee (Installation of wells)  
+WS5 – Decrease Surface Water Use during Low Flow Periods  Agricultural Withdrawal  • Identify funding sources and a lead agency (such as GSWCC or County Extension Services) to help develop drought management plans for agricultural permittees • Review current agricultural withdrawal permits for potential modifications to protect minimum instream flows during low flow and drought conditions  • Develop drought management plan and implement instream flow protection measures • Incorporate drought management into new agricultural withdrawal permits  • Continue to work with agricultural withdrawal permittees and EPD to develop permit modifications • Update of Resource Assessment models based on monitored use and instream flow protection measures  • EPD • GSWCC, county Extension Services or Georgia Farm Bureau • Agricultural permittees  
+
+
+Table 7-1: Implementation Schedule Priority Water Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed  Permit Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2012-2016  Long-term Actions: 2016 and beyond (after 5 year update)  Responsible or Potentially Affected Parties  
+WS6 - Increase Wastewater Returns to the Little Tennessee River  Municipal and Industrial NPDES Permits  • Initiate strategic master planning that includes identifying site­specific alternatives to OSSMS over the next ten years. • Based on wastewater master planning and  • Begin process to develop alternatives to siting new OSSMS • Request new or revised waste load allocation for the selected local option • Apply for revised  Design and Construction  Local governments, and municipal/ industrial NPDES discharge permittees  
+Regional Water Plan recommendations, evaluate new treatment options  permit based on selected option • Begin preliminary design  
+Water Quality Management Practices  
+WQ1 - Develop/ Update Local Wastewater Master Plans  Municipal NPDES Permits  Initiate master planning that includes the following: • Update of local population and demand forecasts • Evaluate future service area strategies  • Conduct alternatives analysis; identify and prioritize projects (including new, replacement, repair and rehabilitation projects) to address  • Revise master plans every 5 years based growth and  Regional Water Plan Update recommendations  Local governments / Utilities  
+• Identify system needs and options • Integrate Regional Water Plan recommendations  long-term needs • Implement priority projects as appropriate  • Continue implementation of priority projects   
+
+
+Table 7-1: Implementation Schedule Priority Water Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed  Permit Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2012-2016  Long-term Actions: 2016 and beyond (after 5 year update)  Responsible or Potentially Affected Parties  
+WQ2 - Upgrade Existing Wastewater Treatment Facilities  Municipal & Industrial NPDES Permits  Based on wastewater master planning and Regional Water Plan recommendations,  • Request new or revised waste load allocation for the selected local option • Apply for revised permit based on  • Design and Construction • Include results of implementation in 5-year  Local governments, and municipal/ industrial NPDES discharge  
+evaluate options for upgrade  selected option • Begin preliminary design  Regional Water Plan update  permittees  
+WQ3 - Construct New Advanced Wastewater Treatment Facilities  Municipal & Industrial NPDES Permits  Based on wastewater master planning and Regional Water Plan recommendations, evaluate treatment options  • Request for new or revised waste load allocation for the selected option • Apply for revised permit based on selected option • Begin preliminary design  • Design and Construction • Include results of implementation in 5-year Regional Water Plan update  Local governments, and municipal/ industrial NPDES discharge permittees  
+WQ4 - Develop and Implement TMDL Management Plans  Municipal & Industrial NPDES Permits  Continue to participate in the TMDL development and implementation process for the  • Continue to participate in the Savannah Harbor TMDL implementation process • Work with EPD as  Update TMDL implementation plans, as needed, based on water quality and biological monitoring data as well as  Initial Implementation: EPD, Municipal and Industrial NPDES permitees Short-term Actions: EPD, Municipal and Industrial NPDES permittees  
+Savannah Harbor  it further models potential impaired streams  Resource Assessment results  Long-term Actions: EPD working with Council and Regional Commissions or DCA  
+
+
+Table 7-1: Implementation Schedule Priority Water Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed  Permit Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2012-2016  Long-term Actions: 2016 and beyond (after 5 year update)  Responsible or Potentially Affected Parties  
+Other Water Management Practices  
+ED1 - Develop Regional Educational Program and  Materials for Localized Implementation  All Water Withdrawal and NPDES Permits  • Coordinate with DCA, Regional Commissions and other Councils for the establishment of regional education programs. • Perform an inventory of existing education materials from  • Begin developing educational materials and public awareness programs tailored to Region's needs and issues • Develop additional outreach and promotional materials for economic development, focusing on the abundant water resources of the  • Conduct survey to gauge effectiveness • Revise programs as needed  Initial Implementation: EPD and Council to work with Regional Commissions, DCA with support from Association of County Commissioner of Georgia (ACCG), Georgia Municipal Association (GMA), Georgia Rural Water Association and Georgia Association of Water Professionals  
+AWWA, GAWP and established water districts (in State or out of State)  region • Local entities to customize materials as needed and implement educational and outreach programs  Short-term Actions: All of the above plus local governments Long-term Actions: All of the above; survey lead - Regional Commissions or DCA  
+
+
+Table 7-1: Implementation Schedule Priority Water Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed  Permit Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2012-2016  Long-term Actions: 2016 and beyond (after 5 year update)  Responsible or Potentially Affected Parties  
+ED2 - Promote Coordinated Environmental Planning  All Water Withdrawal and NPDES Permits  Coordinate with DCA regarding potential revisions to Chapter 110-12­1, Standards and Procedures for Local Comprehensive Planning and Part V Environmental Planning Criteria to  Implement revised Part V Environmental Planning Criteria (Chapter 391-3-16) of Georgia Planning Act of 1989 for the protection of: • Water supply watersheds  Continue integration of Regional Water Plan and Comprehensive Planning Process and implement  Initial Implementation: Council and EPD to work with Regional Commissions, and DCA Short-term Actions: Local governments /  
+facilitate incorporation of Regional Water Plan in the Comprehensive Planning process  • Groundwater recharge areas • Wetlands • River corridors • Mountains  recommendations as appropriate  Utilities Long-term Actions: Local governments / Utilities  
+WD – Water Demand Management WS – Water Supply Management WQ – Water Quality Management ED – Education Initiatives Source: Technical Memorandum - Management Practices Selection (May 2011)  
+
+
+7.2. Fiscal Implications of Selected Water Management Practices 
+The following sub-sections discuss planning-level cost estimates and potential funding sources and options.  Successful implementation of the Regional Water Plan hinges on the ability of the State and local governments to fund the needed implementation actions. 
+
+7.2.1. Planning Level Cost Estimates 
+Table 7-2 describes the fiscal implications of the priority management practices. Cost estimates for implementation are included to the extent possible, based on possible implementation unit (per capita, per study, per MGD of plant capacity, etc.). The table is designed so that local governments/jurisdictions or other permit holders and water users can estimate budget requirements for the implementation of the recommended management practices.  
+
+7.2.2. Funding Sources and Options  
+The ability of the responsible parties to successfully implement the management practices identified in this plan depends on the availability of funding.  It is essential that a funding mechanism be identified, both at the State and local level to support the long-term implementation of the Regional Water Plan.  Affected parties in the region will be responsible for determining the best combination of funding sources/options for implementing applicable management practices. 
+For local governments/utilities, water and sewer rates can be designed to provide a steady revenue stream to support implementation of certain actions.  Other potential sources of funding for local governments and utilities can include general funds raised through property taxes or service fees, bonds, loans (such as loans from the Georgia Environmental Finance Authority), and grants.  One existing program worth mentioning is DCA’s “WaterFirst”.  WaterFirst communities receive discounts on interest rates for loans.  The program is a voluntary partnership between local governments, State agencies, and other organizations working together to increase the quality of life in communities through the wise management and protection of water resources. It promotes a proactive approach to water resources that makes the connection between land use and water quality and quantity, which is consistent with the Council’s goal. Details of this program can be found on the DCA website1 . 
+For agricultural (farmers) or industrial (industries or businesses) permit holders, the sources of funding include investment by the individual or business, grants, and/or incentive programs.    
+SAVANNAH-UPPER OGEECHEE 
+
+1. http://www.dca.state.ga.us/development/EnvironmentalManagement/programs/water_first.asp 
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-2: Cost Estimates for Implementation Responsibilities (associated with Priority Water Management Practices in Tables 6-1 and 7-1)  
+Management Practice  Capital/ Programmatic Cost Range  Funding Sources and Options  Notes and Sources for Costs  
+WD1 - Implement Tier 1 Water Conservation Practices and Other SB370 Requirements  Cost varies based on practices  Water/wastewater system revenues; State and local government incentive programs  EPD Supplemental Guidance1 for various demand management practices  
+WD2 - Evaluate/ Encourage Tier 2 (Non-Farm) Water Conservation Practices  Cost varies based on practices  Water/wastewater system revenues; State and local government incentive programs  EPD Supplemental Guidance1 for various demand management practices  
+WD3 -Evaluate/ Encourage Tier 3 and Tier 4 Agricultural Water Conservation Practices  Cost varies based on practices  State incentive programs  EPD Supplemental Guidance1  
+WD4 - Monitor Agricultural Use in the Ogeechee River Basin  $2,500 - $5,000 per user monitored $8,000 - $16,000 per year for data keeping and coordination  Local governments; State incentive programs (potential)  EPD Supplemental Guidance1 page 6  
+WS1 Develop/ Update Local Water Master Plans  $30,000 - $300,000 per plan depending on size of the system and scope of study  Water/wastewater system revenues; State incentive programs (potential)  Water system modeling, if desired, may add to overall cost of master plan2  
+WS2 - Monitor Streamflow to Confirm the Frequency and Magnitude of the Predicted Gap  $30,000 to $60,000 / new gage station installation; $15,000 annual maintenance  State and USGS  EPD Supplemental Guidance1 page 6;  Cost for Resource Assessment is not included  
+WS3 - Conduct  Instream Flow Studies  $4,000 - $20,000 biological monitoring per site $70,000 - $200,000 per study - cost varies based on scope  State; State or Federal grant  EPD Supplemental Guidance1 page 6 Colorado Water Supply Reserve Account Annual Report 2009  
+WS4 - Increase Groundwater Supplies  $30,000 -$300,000/MG; cost varies based on location  State Incentive programs, private investment  EPD Supplemental Guidance1  
+WS5 – Decrease Surface Water Use during Low Flow Periods  $1,000 - $5,000/MG  State Incentive programs  EPD Supplemental Guidance1 Cost range is for conservation practices only  
+WS6 - Increase Wastewater Returns to the Little Tennessee River  Cost varies based on density of customers served by sanitary sewer $0.5 to $1 /MGD  Water/wastewater system revenues; State incentive programs (potential)  EPD Supplemental Guidance1  
+
+
+Table 7-2: Cost Estimates for Implementation Responsibilities (associated with Priority Water Management Practices in Tables 6-1 and 7-1)  
+Management Practice  Capital/ Programmatic Cost Range  Funding Sources and Options  Notes and Sources for Costs  
+WQ1 - Develop/ Update Local Wastewater Master Plans  $30,000 - $250,000 per plan depending on size of the system and scope of study  Water/wastewater system revenues; State incentive programs (potential)  Sewer system modeling, if desired, may significantly increase overall cost of master plan2  
+WQ2 - Upgrade Existing Wastewater Treatment Facilities  $4 - $10 Million per MGD  Local governments / utilities, State (GEFA)  EPD Supplemental Guidance1  
+WQ3 - Construct Advanced Wastewater Treatment Facilities  $7 - $11 Million per MGD  Local governments / utilities, State (GEFA)  EPD Supplemental Guidance1  
+WQ4 - Develop and Implement TMDL Management Plan  Cost varies based on complexity of surface water system and number of dischargers  Water/wastewater system revenues; grants  N/A  
+ED1 - Develop Regional Educational Program and  Materials for Localized Implementation  $0.10 - $2.25 per capita  State, Local governments/utilities  EPD Supplemental Guidance1  
+ED2 - Promote Coordinated Environmental Planning  $0.10 - $0.50 per capita  State, local governments/utility fees  EPD Supplemental Guidance1  
+WD – Water Demand Management WS – Water Supply Management WQ – Water Quality Management ED – Education Initiatives Sources: 1. Supplemental Guidance for Regional Planning Contractors: Water Management Practice Cost Comparison, EPD (April 2010); 2. Jacobs JJG, various recent projects  
+
+
+7.3. Alignment with Other Plans 
+The development of this Regional Water Plan builds upon the knowledge base of previous planning efforts by State and local governments and utilities.  Existing water- and wastewater-related plans and information sources are listed in the supplemental document Existing Plans for Savannah-Upper Ogeechee Water Planning Region (May 2011), which can be found at the following web address: 
+http://www.savannahupperogeechee.org/pages/our_plan/documents/SupSec6_Existi ngPlans_SUO_May2011_FINAL.pdf 
+Where appropriate, local planned projects and successful management practices were considered in the development of this plan.  No known major conflicts between this regional plan and other plans have been identified.  The Council encourages continuing alignment with all local and regional efforts for update of future regional plans. Coordinated Environmental Planning is recognized as a priority management practice, so that recommendations in the Regional Water Plan can be incorporated in other major regional or local planning, such as comprehensive land use plans, transportation plans, or local master plans. 
+Some differences exist in planning timing or cycle; for example, local comprehensive plans are typically prepared for a 20-year planning horizon; complete or partial update of the comprehensive plan can be prepared every 5 years.  Water and wastewater master plans and capital improvement plans are typically conducted for a 20- to 30-year planning horizon.  This Regional Water Plan has a 40-year planning horizon to allow major water supply needs and their long-term impacts on water resources to be evaluated.  The differences in planning horizons indicate that the projects identified in local plans may not completely address the resource gaps identified in this Regional Water Plan.  However, the potential trends and issues identified by this plan can be used to guide decision making by both local governments and State agencies to avert potential negative impacts on water resources in the region. 
+The Council also recognizes that specific funding needs to be set aside for continuation of regional water planning, implementation, and Council activities. Without available funding, the future role of the Council is unknown.  The implementation of Regional Water Plans will largely depend on the availability of funding. 
+
+7. Implementing Water Management Practices 
+7.4. Recommendations to the State 
+The Savannah-Upper Ogeechee Council recommends the following actions by the EPD to support implementation of the Regional Water Plan (Table 7-3).  These recommendations include additional funding, data collection, policy, coordination and public education and outreach necessary for improving future regional water planning efforts. 
+Table 7-3: Recommendations to the State  
+Funding  Identify long-term funding options and a coordinating agency(s) to assist responsible parties with Regional Water Plan implementation. Coordinate with GSWCC and develop additional funding to continue the agricultural metering program. Recommend State and Federal funding to support further optimization studies for the USACE lakes to include: minimum release flows and pool elevation modifications (Savannah River Basin Comprehensive Study Phase II)  
+Additional Data (Surface Water)  Consider adding an additional planning node(s) in the Upper Ogeechee Basin for further refinement of the Surface Water Availability Resource Assessment model. Develop agricultural use metering program and monitor withdrawal from the nursery and agricultural industries in the region on a regular basis.   Evaluate instream flow and unimpaired flow assumptions in the Surface Water Availability Resource Assessment.  Consider pilot site-specific instream flow studies in the Ogeechee Basin (at locations predicted to  
+have instream flow shortage).  In combination with a low flow monitoring program and an agricultural use metering program, confirm the magnitude and frequency of predicted gaps.  Update Surface Water Availability and Surface Water Quality Resource Assessment models based on the results of the studies for future Regional Water Plan update.  
+Additional Data (Water Quality)  Continue monitoring on segments of streams predicted to exceed DO assimilative capacity; monitor rate of DO depletion and evaluate possible causes before determining actions to correct the potential impairment.  
+Policy  Continue to study and evaluate current instream flow policy.  Encourage State funding for minimum instream flow and unimpaired flow research. Request EPD assistance in streamlining the reservoir permitting process.  
+
+
+7. Implementing Water Management Practices 
+Table 7-3: Recommendations to the State  
+Coordination  Continue to  coordinate with SCDHEC and SCDNR on Savannah River water resources  Coordinate with USGS regarding its 5-year water use data collection efforts so these data can be aligned with other EPD data reporting efforts and used for future regional planning purposes.  
+Public Education and Outreach  Develop regional education materials for use and customization by local entities.  
+
+The Council specifically requests that EPD, working in conjunction with the USACE and through the Savannah River Basin Comprehensive Study update process, evaluate adaptive management techniques and potential revisions to operating protocols that would minimize the use of the available conservation storage. Currently, the USACE is working with the States of Georgia and South Carolina to secure funding for the next phase of Comprehensive Study update. Topics to be investigated with the Comprehensive Study update are recommended to include: 
+1. 	
+Management of the Savannah River Basin in a more adaptive manner by releasing less water from the Thurmond dam if adequate river flows are occurring downstream.  Generally speaking, it is in the best interest of all stakeholders within the Savannah River Basin to keep the lakes as full as practical and as long as practical, so that stored water is available to release in times of lower rainfall.  
+
+2. 	
+Evaluate potential revisions to the rule curves for Lakes Thurmond and Hartwell. Evaluate whether the winter pool elevations could be beneficially raised. 
+
+3. 	
+Manage the USACE lakes more closely to the existing rule curves.  Evaluate the operational scenario where (a) downstream flow releases are reduced as soon as the lakes drop below the rule curves for Lakes Hartwell and Thurmond, and 
+
+(b) reduce the range of lake level drop between trigger levels. 
+
+4. 	
+Consider further economic impact studies and protection of "the economic well being" of the communities that have developed both around the Corps projects and downstream in the basin as one of the goals of those projects. 
+
+5. 	
+Continue to evaluate the current minimum flow release below the Thurmond dam. 
+
+6. 	
+Evaluate potential negative impacts on the upper basin due to implementation of the Savannah River dissolved oxygen total maximum daily load and the proposed deepening of the Savannah Harbor.  
+
+7. 	
+Continue to evaluate the ecological impacts of any modifications to the management operations strategy. 
+
+
+
+8. MONITORING AND REPORTING PROGRESS 
+
+
+8. Monitoring and Reporting Progress 
+The Savannah-Upper Ogeechee 
+Section 8. Monitoring and 
+Council selected benchmarks to 
+Reporting Progress 
+assess the effectiveness of this Regional Water Plan. Progress 
+This section presents benchmarks for evaluating 
+toward implementation will be 
+the implementation of this Regional Water Plan 
+based on benchmarks designed for 
+and discusses plan update requirements and 
+demand management, water 
+amendment processes. 
+supply, water quality management practices, and educational 
+8.1 Benchmarks 
+initiatives. Measurement tools The benchmarks prepared by the Savannah-include annual, biennial and other Upper Ogeechee Council and listed in Table 8-1 surveys on a 5-year basis prior to below will be used to assess the effectiveness of 
+each Regional Water Plan Update. 
+this plan’s implementation and identify periodic 
+EPD is assumed to be the lead party 
+revisions. As detailed below, the Council 
+responsible to administer these 
+selected both qualitative and quantitative 
+surveys with help from partnering 
+benchmarks that will be used to assess whether 
+agencies and local governments. 
+the water management practices are closing gaps over time and allowing the water planning region to meet its vision and goals.  
+The selected water management practices recommended by the Savannah-Upper Ogeechee Council will be primarily implemented by the various water users in the region, including local governments and others with the capacity to develop water infrastructure and apply for the required permits, grants and loans.  The Council recommends specific benchmarks for all of the recommended priority management practices. Measurement of these benchmarks is primarily conducted by surveys at various frequencies, and some of the data can be gathered from reports already required by permit conditions.  For additional voluntary management practices, the Council recommends a survey prior to the 5-year plan update process.  EPD is assumed to be the lead responsible party to administer surveys with help from partnering agencies or local governments. These benchmarks should be revisited during the 5-year plan update process and revised as necessary, depending on implementation of management practices and other available information. 
+8.2 Plan Updates 
+Meeting current and future water needs will require periodic review and revision of Regional Water Plans. The State Water Plan and associated rules provide that each Regional Water Plan will be subject to review by the appropriate Regional Water Planning Council every five years and in accordance with guidance provided by the Director, unless otherwise required by the Director for earlier review.  These reviews and updates will allow an opportunity to adapt the Regional Water Plan based on changed circumstances and new information arising in the five years after EPD’s adoption of the initial plan.  The recommended benchmarks will serve to guide EPD in the review of the Regional Water Plan. 
+
+8. Monitoring and Reporting Progress 
+Table 8-1: Benchmarks for Priority Management Practices  
+Management Practices  Benchmarks  Measurement Tools  Time Period  
+Water Demand Management Practices  
+WD1 - Implement Tier 1 Water Conservation Practices and Other SB370 Requirements  Maintenance or reduction of  residential per capita water use  Calculation of residential per capita demand (gpcd) for municipal water withdrawal permittees via annual water conservation progress report, with help from Regional Commissions and DCA  Annual  
+WD2 – Evaluate/ Encourage Tier 2 (Non-Farm) Water Conservation Practices  Implementation of recommended water conservation practices for municipal & industrial permittees, including thermoelectric power generation  Survey based on annual water conservation progress report  Annual   
+WD3 – Evaluate/ Encourage Tier 3 & Tier 4 Agricultural Water Conservation Practices  Implementation of recommended water conservation practices  Survey with help from GSWCC, County Extension offices and Georgia Farm Bureau  Every 5 years*  
+WD4 – Monitor Agricultural Use in the Ogeechee River  Establishment of water withdrawal monitoring network/database in the Ogeechee River Basin (also includes part of the Coastal Planning Region)  • Number/location of new meter installed • Total number of agricultural irrigation meter • Revised Resource Assessment (model re­calibration based on newly available data)  Every 5 years*   
+Water Supply Management Practices  
+WS1- Develop/ Update Local Water Master Plans  Number of local water master plans initiated/ completed  Survey  Every 5 years*   
+WS2 – Monitor Streamflow to Confirm the Frequency and Magnitude of the Predicted Gap  Establishment of flow monitoring network/database in the Ogeechee River Basin  • Number/location of new flow monitoring stations • Comparison of monitored low flow to actual or estimated agricultural use • Revised Resource Assessment (model re­calibration based on newly available data)  Every 5 years*   
+WS3 – Conduct  Instream Flow Studies  Number of instream flow studies conducted  Streams with site-specific instream flow requirement based on the studies  Every 5 years*  
+
+DRAF T 
+G e o r gi a St a t
+e-w id eWa ter Ma na g e
+m e n
+t P l
+a n 
+I
+V-2 
+DA
+Y M O NT H YE AR 
+SEPTEMBER 2011 
+
+8. Monitoring and Reporting Progress 8. Monitoring and Reporting Progress 
+Table 8-1: Benchmarks for Priority Management Practices  
+Management Practices  Benchmarks  Measurement Tools  Time Period  
+WS4 - Increase Groundwater Supplies from Floridan Aquifer  Reduction of future water quantity gap in the Ogeechee Basin (Eden Node )  • % of groundwater used for irrigation during low flow seasons • Revised Resource Assessment (model re­calibration based on newly available data)  Every 5 years*   
+WS5 – Decrease Surface Water Use during Low Flow Periods  Reduction of future water quantity gap in the Ogeechee Basin (Eden Node )  • % of surface water used for irrigation during droughts and low flow seasons • Revised Resource Assessment (model re­calibration based on newly available data)  Every 5 years*   
+WS6 - Increase Wastewater Returns to the Little Tennessee River  Avoidance of potential future water quantity gap in the Little Tennessee Basin  % Wastewater return (ratio of discharge vs. water withdrawal)  Every 5 years*   
+Water Quality Management Practices  
+WQ1 - Develop/ Update Local Wastewater Master Plans  Number of local wastewater master plans initiated/ completed  Survey  Every 5 years*  
+WQ2 - Upgrade Existing Wastewater Treatment Facilities  Meeting treatment capacity needs and compliance with water quality standards  Quantities of additional permitted treatment capacities or upgrades  Every 5 years*  
+WQ3 - Construct New Advanced Wastewater Treatment Facilities  
+WQ4 - Develop and Implement TMDL Management Plan  Reduction of future water quality (assimilative capacity) gap in the Savannah Harbor and other impaired stream segments  • Revised Resource Assessments (model re­calibration based on newly available data) • Implementation of identified TMDL actions  Every 5 years*  
+All Other Water Quality Management Practices  Support of  Designated Use  305(b)/303(d) Lists of Impaired Waters  Biennial  
+
+
+Table 8-1: Benchmarks for Priority Management Practices  
+Management Practices  Benchmarks  Measurement Tools  Time Period  
+Other Water Management Practices  
+ED1 - Develop Regional Educational Program and  Materials for Localized Implementation  Number/type of local educational and outreach programs developed based on regional materials  Survey based on annual water conservation progress report; and surveys (for other educational programs) with help from Regional Commissions and DCA  Every 5 years*  
+ED2 - Promote Coordinated Environmental Planning  Incorporation of Regional Water Plan via Comprehensive Planning and Service Delivery Strategy processes  Survey with help from Regional Commissions and DCA  Every 5 years*   
+* prior to 5-year Regional Plan Update WD – Water Demand Management WS – Water Supply Management WQ – Water Quality Management ED – Education Initiatives Note: For all measurement tools listed above, EPD is assumed to be the lead party responsible to administer survey with help from partnering agencies or local governments Source: Technical Memorandum - Management Practices Selection (May 2011)  
+
+DRAF T 
+G e o r gi a St a t
+e-w id eWa ter Ma na g e
+m e n
+t P l
+a n 
+I
+V-2 
+DA
+Y M O NT H YE AR 
+SEPTEMBER 2011 
+
+8. Monitoring and Reporting Progress 
+8.3 Plan Amendments 
+The Council wishes to provide flexibility for plan amendments to adapt to changing circumstances. This Regional Water Plan will be amended, at a minimum, on a 5­year basis, or as required as additional needs arise.  Examples of a major triggering event could include the following: 
+• 	
+Proposal (or expansion) of a major water-using industry or development, including energy generation or military facilities, that would be expected to significantly change the water demand or discharge conditions of the region; 
+
+• 	
+Closure of major existing water use facilities that would significantly change the water demand or discharge conditions of the region; 
+
+• 	
+Major change in regulatory requirements, such as nutrient loading or instream flow requirements based on site-specific studies; 
+
+• 	
+Major changes in operation protocols of USACE lakes; 
+
+• 	
+Major interbasin transfer into or out of the region; 
+
+• 	
+New information that results in gaps in resource availability. 
+
+
+The Council intends to form a permanent Savannah and Ogeechee water planning organization as the conduit for bringing together all stakeholders and assisting the State with implementation of water resource goals in the entire basin. The Council recommends that one third of the current Council members be grandfathered into the permanent organization for continuity.  The discussions on this new organization are in the very initial stage.  The Council recommends that any plan amendments be reviewed and approved by EPD until a future organization is formed.  Any meetings conducted to review and approve future plan amendments should invite stakeholders and allow for general public input. 
+
+
+
+
+

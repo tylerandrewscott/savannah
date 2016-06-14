@@ -1,0 +1,1388 @@
+ Regional Water Plan 
+
+September 2011 
+
+
+Executive Summary ………….……………………………………………...….. ES-1 
+Section 1 INTRODUCTION…………………………………………………... 1-1 
+1.1 The Significance of Water Resources in Georgia………………. 1-1 
+1.2 State and Regional Water Planning Process………………….... 1-3 
+1.3 The Upper Flint Council’s Regional Vision and Goals…………. 1-4
+ Section 2 THE UPPER FLINT WATER PLANNING REGION.…………… 2-1 
+2.1 History Geography………………………………………………….. 2-1 
+2.2 Characteristics of the Region……………………………………… 2-1 
+2.3 Local Policy Context……………………………………………… 2-3 
+Section 3 	CURRENT ASSESSMENT OF WATER RESOURCES OF THE UPPER FLINT REGION……………………………...……… 3-1 
+3.1 	Major Water Uses in the Region………………………………... 3-1 
+3.2 	Resource Assessments………………………………………….. 3-3 
+3.2.1 Surface Water Availability…………………………......…… 3-3 
+3.2.2 Groundwater Availability………………………………….… 3-5 
+3.2.3 Surface Water Quality………………………………………. 3-8 
+3.3 Ecosystem Conditions and In-stream Uses………………………. 3-10 
+3.3.1 303(d) List and TMDLs……………………………………… 3-10 
+3.3.2 Fisheries, Wildlife, and Recreational Resources………… 3-11 
+Section 4 	FORECASTING FUTURE WATER RESOURCE NEEDS……. 4-1 
+4.1 Municipal Forecasts…………………….………………………….. 4-1 
+4.1.1 Municipal Water Forecasts…………………………….…… 4-1 
+4.1.2 Municipal Wastewater Forecasts………………………….. 4-1 
+4.2 	Industrial Forecasts………………………………………………. 4-2 
+4.2.1 Industrial Water Forecasts…………………………………... 4-2 
+4.2.2 Industrial Wastewater Forecasts…………………………... 4-3 
+4.3 	Agricultural Forecasts………………………………………………. 4-3 
+4.4 	Thermoelectric Power Production Water Demand Forecasts.. 4-4 
+4.5 	Total Water Demand Forecasts…………………………………… 4-4 
+Section 5 	COMPARISON OF WATER RESOURCE CAPACITIES AND FUTURE NEEDS..…………..……………………………………… 5-1 
+5.1 Surface Water Availability Comparisons………….……………… 5-1 
+5.2 	Groundwater Availability Comparisons…………………………… 5-2 
+5.3 	Surface Water Quality Comparisons……………………………… 5-4 
+5.4 	Summary of Potential Gaps Between Resource Capacities and            Future Needs……………………………………………………… 5-6 
+September 2011 
+
+Section 6 	ADDRESSING WATER NEEDS AND REGIONAL GOALS…………….………………………………………………… 6-1 
+6.1 	Identifying Water Management Practices……………………… 6-1 
+6.2 	Selected Water Management Practices for the Upper Flint   Region……………………………………………………………… 6-3 
+Section 7 	IMPLEMENTING WATER MANAGEMENT PRACTICES…….. 7-1 
+7.1 	Implementation Schedule and Responsible Parties…………….. 7-1 
+7.2 	Fiscal Implications of Selected Water Management Practices… 7-1 
+7.3 	Alignment with Other Plans………………………………………... 7-13 
+7.4 	Recommendations to the State…………………………………. 7-13 
+Section 8 	MONITORING AND REPORTING PROGRESS………...……… 8-1 
+8.1 	Benchmarks…………………………………………………………. 8-1 
+8.2 	Plan Updates…………………………………………………...…… 8-4 
+8.3 	Plan Amendments……………………...………………………… 8-4 
+8.4 	Conclusion…………………………………………………………… 8-5 
+TABLES 
+3-1: Groundwater Results for Assessed Aquifers in Upper Flint Region – 
+Current Conditions……..…………...………………………………………… 3-6 5-1: Groundwater Results for Assessed Aquifers in Upper Flint Region – 
+2050 Conditions……..…………..............…………………………………… 5-3 6-1: Water Management Practices Selected for the Upper Flint Region…….. 6-4 7-1: Implementation Schedule for the Upper Flint Region……..……………… 7-2 7-2: Cost Estimates for Implementation Responsibilities……………………… 7-8 8-1: Benchmarks for Upper Flint Regional Water Plan………………………. 8-1 
+FIGURES 
+1-1: River Basins and Water Planning Regions of Georgia…………………. 1-2 1-2: State Water Planning Process………………………………………………. 1-3 2-1: Upper Flint Water Planning Region……………………………………….. 2-2 2-2: Upper Flint Region Land Use………………………………………………... 2-3 3-1: Current Water Supply by Source Type……………………………………... 3-2 3-2: Current Surface Water Withdrawal by Category………………………… 3-2 3-3: Current Groundwater Withdrawal by Category……...…………...……… 3-2 3-4: Current Wastewater Treatment by Category………………………………. 3-2 3-5: Assimilative Capacity Results from Dissolved Oxygen Assessment……. 3-9 3-6: Summary of Impaired Waters in Upper Flint Region……………………… 3-12 4-1: Water Demand in 2010 and 2050…………………………………………… 4-5 4-2: Wastewater Flow in 2010 and 2050………………………………………… 4-5 
+I DDLE OC MULGEE 
+MUPPER FLINT 
+DRAF T 
+G e or gi a S
+ta
+te ­
+w i
+de W a te r M an age m ent Pl
+a n I
+V-2 
+DAY M O NT H YE AR 
+September 2011 
+ii 
+
+Table of Contents 
+4-3: Total Water and Wastewater Forecast……………………………………... 4-6 5-1: Assimilative Capacity Results from Dissolved Oxygen Assessment: Flint River (2050)……………………………………………………………… 5-5 
+LIST OF SUPPLEMENTAL DOCUMENTS1 
+Supplemental Document 1 -Memorandum of Agreement Supplemental Document 2 -Public Participation Technical Memorandum Supplemental Document 3 -Council Meeting Summaries Supplemental Document 4 -USGS Map of Georgia Aquifer Recharge Areas Supplemental Document 5 -Existing Regulatory and Local Plan Summary Supplemental Document 6 -2006 Flint River Basin Water Development and 
+Conservation Plan Supplemental Document 7 -Agricultural Water Use Technical Memorandum Supplemental Document 8 -EPD Technical Memorandum - Flow Gap Analysis 
+(May 26, 2010) Supplemental Document 9 - Subarea 4 of the Floridan Aquifer Map Supplemental Document 10 - EPD Technical Memorandum: Surface Water 
+Availability Model Results July 2010 Supplemental Document 11 - Map of Prioritized Aquifers Modeled in EPD Resource 
+Assessment Supplemental Document 12 - Georgia OPB Population Projections March 2010 Supplemental Document 13 - Municipal and Industrial Water and Wastewater 
+Forecasting Memorandum Supplemental Document 14 - Management Practice Selection Technical 
+Memorandum Supplemental Document 15 - Water Conservation Technical Memorandum Supplemental Document 16 - EPD Technical Memorandum - Summary Future 
+(2050) Resource Assessment in ACF River Basins Scenario MidChat_SWFA0001 – Storage Offset Estimate 
+1 All supplemental materials are provided on the Upper Flint Council’s website: 
+http://www.upperflint.org/pages/our_plan/index.php 
+September 2011 
+
+Acronyms and Abbreviations 
+ACF Apalachicola-Chattahoochee-Flint ASR aquifer storage and recovery BMP best management practice 
+CFS cubic feet per second DCA Department of Community Affairs DM demand management DNR Georgia Department of Natural Resources DO dissolved oxygen 
+EPA U.S. Environmental Protection Agency EPD Georgia Environmental Protection Division 
+FERC Federal Energy Regulatory Commission GEFA Georgia Environmental Finance Authority GSWCC Georgia Soil and Water Conservation Commission 
+HUC hydrologic unit code I/I inflow and infiltration LAS land application system MGD million gallons per day 
+MG/L milligrams per liter 
+MNGWPD Metropolitan North Georgia Water Planning District NESPAL National Environmentally Sound Production Agriculture Laboratory NPDES National Pollutant Discharge Elimination System NRCS Natural Resources Conservation Service (U.S. Department of 
+Agriculture) OCGA Official Code of Georgia Annotated 
+
+OPB Governor’s Office of Planning and Budget (Georgia) 
+OSSS Ochlocknee, Suwannee, Satilla and St. Mary’s River Basins, 
+RM water returns management 
+SF supply management and flow augmentation 
+
+TMDL total maximum daily load 
+UGA University of Georgia 
+USACOE U.S. Army Corps of Engineers 
+USGS U.S. Geological Survey 
+
+WP West Point Dam (Chattahoochee) 
+WFG Walter F. George Dam (Chattahoochee) 
+WQ water quality 
+
+7Q10 lowest seven day average daily flow with a 10-year recurrence interval 
+
+UPPER FLINT 
+
+September 2011 
+
+Acknowledgements 
+Acknowledgements 
+We would like to acknowledge the commitment and contributions of the members of the Upper Flint Council. The Council members volunteered their time, expertise, and talents for numerous council meetings, joint council meetings, committee meetings, and conference calls during the development of this Regional Water Plan.  
+Donald G. Chase, Chairman  Oglethorpe  
+Dick Morrow, Vice Chairman  Griffin  
+Clifford J. Arnett  Talbotton  
+Hays Arnold  Thomaston  
+James G. Barineau  Ellaville  
+Michael Beres  Zebulon  
+Michael Bowens  Vienna  
+Gene Brunson  Reynolds  
+Thomas R. Burnsed  Meansville  
+William Culpepper  Cordele  
+Mike J. Donnelly  Americus  
+Beth English  Vienna  
+Harold Fallin  Thomaston  
+Eddie L. Freeman  Griffin  
+Jack Holbrook  Preston  
+Terrell Hudson  Unadilla  
+D. Raines Jordan  Talbotton  
+Frank Keller  Greenville  
+Brant D. Keller      Griffin  
+Buddy Leger  Cordele  
+Lamar J. Perlis  Cordele  
+Gary Powell       Buena Vista  
+Kip Purvis (deceased)     Warm Springs  
+Jim C. Reid, Jr.  Americus  
+Charles C. Rucks  Brooks  
+Bill Sawyer, Jr.  Ellaville  
+Randall L. Starling  Oglethorpe  
+Joel Wood  Cordele  
+Senator George Hooks (Ex-Officio)  
+Representative Lynmore James (Ex-Officio)  
+
+We would also like to thank Tim Cash and Bill Morris of the Georgia Environmental Protection Division for their efforts to support the Council. 
+
+EXECUTIVE SUMMARY 
+
+[This Page Intentionally Left Blank] 
+
+Executive Summary 
+
+Upper Flint Regional Water Plan 
+The Georgia State-wide Water Management Plan (State Water Plan) was adopted by the General Assembly in January 2008. The State Water Plan calls for the establishment of ten water planning regions across the state, each guided by a regional water planning council. These regions do not include the Metropolitan North Georgia Water Planning District (MNGWPD), which has a separate water planning process created by the Metropolitan North Georgia Water Planning District Act of 2001. The State Water Plan requires the preparation of regional water development and conservation plans (Regional Water Plans) to manage water resources in a sustainable manner through 2050. The State Water Plan provides a framework for regional planning consistent with the policy statement that “Georgia manages water resources in a sustainable manner to support the state’s economy, to protect public health and natural systems, and to enhance the quality of life for all citizens.” 
+The Upper Flint Regional Water Planning Council (the Council) was charged with developing this Regional Water Plan. The Council members were 30 individuals from throughout the planning region, which includes 13 counties and 48 towns and cities. 
+
+ES-1 
+
+Executive Summary 
+Vision and Goals 
+The Upper Flint Council adopted the following statement to describe its vision for the future of the region’s water resources: 
+The Upper Flint Regional Water Council’s purpose is to provide guidance, leadership and education on water resource utilization within the region. Through cooperation among stakeholders, this plan will assist the Council's efforts to manage the region's water resources in a sustainable manner, be supportive of public health and natural ecosystems, support the State's economy and enhance the quality of life for its citizens. 
+The Council adopted the following goals to support its vision: 
+1. 
+Lead the development and implementation of water resource policy in this region and work together with the state and federal government and with the other regional councils to ensure that the welfare and needs of our region are met.  
+
+2. 
+Enhance 	public understanding of water resources and provide stakeholders with an opportunity for input into regional water policy.  
+
+3. 
+Maintain and strive to improve the quality and quantity of our water resources in order to protect natural ecosystems and public health. 
+
+4. 
+Manage water resources sustainably through the three “C’s” – conserving, capturing and controlling water – in order to provide for the needs of all water users in the region (agriculture, utilities, residential, commercial, industry, forestry, and recreation). 
+
+5. 
+Sustain the region’s aquifers and surface waters in a way that will continue to support the economic activities of the Upper Flint Region and the economy of the State of Georgia. 
+
+6. 
+Ensure that actions taken by this Council do not impede the agriculture 
+
+
+and forestry based economy of this region. The regional vision and goals were used by the Council to develop this plan. 
+Planning Process 
+The Upper Flint Council met eleven times over a more than two-year period (2009­2011) to develop this regional water plan. During this time, Council members participated in numerous additional meetings, including committee meetings and joint council meetings, to support the work of the Council. Developing the plan required the Council to gather information from a variety of sources to provide a foundation for sound decision making. Often, the Council found information gaps or significant uncertainties that affected its ability to plan. The Council proceeded based on the best information available and made recommendations to address information gaps and improve water planning and policies.  
+The Council sought input from a variety of stakeholders in the development of the plan and implemented a public participation plan that provided many opportunities for 
+September 2011 
+UPPER FLINT 
+
+
+public input into the process. The Council interacted with state and federal agencies and local governments from throughout the region, and it also coordinated with neighboring regional water councils, especially the Middle Chattahoochee and the Lower Flint-Ochlockonee Council, through multiple joint meetings with those councils. The Council used a consensus-oriented approach in its decision-making. 
+Upper Flint Water Planning Region 
+Most of the Upper Flint region is located in the Apalachicola-Chattahoochee-Flint (ACF) River Basin. Small areas of the region are located in the Ocmulgee and Suwannee River Basins. The region is bisected by the fall line dividing the piedmont and the coastal plain.  The region is largely rural, with 29% of the total land area in row crops and pasture and an additional 47% in forest. Urban land area cover has increased in recent years, and it now accounts for 5% of the region. 
+Water Use in the Region 
+Current water use in the Upper Flint Region is approximately 201 million gallons per day (MGD).  Water use in the region is projected to increase to 270 MGD in 2050. Currently, agriculture is the largest water using sector in the region by a significant margin, and it is expected to remain the largest water user through 2050. However, municipal and industrial water uses are expected to increase slightly in their shares of total water use over the planning period. Wastewater flows in the region are currently approximately 49 MGD and expected to increase to 71 MGD in 2050. More than half of the wastewater in the region is discharged through point sources. 
+Water Resource Assessments 
+To support the regional water planning process, EPD developed resource assessment models for surface water availability, groundwater availability, and water quality. The purpose of the assessments was to estimate the capacity of streams and aquifers to meet water consumption demands and the capacity of streams to meet wastewater discharge demands, without causing unreasonable impacts. The results of the assessment models were compared against estimates of current and projected water use and wastewater flows. The assessment models identified potential shortfalls (“gaps”) in the capacity of water resources to meet water supply and wastewater demands while also meeting criteria for flows and assimilative capacity defined by EPD. The Council considered the assessment model results, the region’s water needs, and potential impacts on the region, both environmental and economic. The Council developed the rest of the plan to address gaps identified by the models and to meet the Council’s vision and goals for the region. The results of the assessments and the Council’s approach to addressing the results are summarized in the table on the next page. 
+ES-3 
+
+Executive Summary 
+Resource Assessment Results – Upper Flint Region  
+Resource Assessment  Summary of Model Results  Council Plan to Address Results  
+Surface  The model identified a  Address the shortfalls with  
+Water  substantial shortfall in meeting  conservation and supply  
+Availability  EPD criteria for surface water flows in the Flint River Basin at Bainbridge under both current and forecast demands. No significant shortfalls were identified by the model at in the Flint at Montezuma. A shortfall was identified by the model at Alapaha in the small part of the Suwannee Basin that is in this region.   augmentation practices as much as possible, while also collecting better information to support more thorough evaluation of resource capacity and the impacts of gaps identified by the assessment model on in-stream and downstream uses. Eliminating the surface water availability shortfall in the Flint will require the addition of storage, and the Council recommends the development of new storage in the Flint River Basin.  
+Groundwater  Groundwater use is currently  Use of the Claiborne aquifer should  
+Availability  within the sustainable yield range identified by the model for the Claiborne aquifer and above the sustainable yield range identified by the model for the Upper Floridan aquifer in the Dougherty Plain.  be limited geographically as necessary to protect the sustainable yield of this resource. In the Upper Floridan aquifer in the Dougherty Plain, the impact of groundwater withdrawals on surface water flows in the Flint River Basin should be a determining factor in guiding the location and amount of groundwater use from this aquifer. Collect better and more geographically specific information on groundwater resource capacity, as needed to evaluate specific uses and management practices.  
+Surface  Water quality model results  Implement practices targeted  
+Water Quality  indicated decreasing availability of assimilative capacity in streams as discharge flows increase.  especially toward nonpoint sources of pollutants to improve assimilative capacity in the region’s streams and lakes. It is expected that EPD will adjust point source permit limits over time as needed to address assimilative capacity constraints. Collect more complete information to support refinement of the model to reflect actual conditions and to support the targeting of management practices for water quality in the future.  
+
+September 2011 
+UPPER FLINT 
+
+
+Recommended Management Practices 
+The Council developed a set of eighteen management practices, including seven Demand Management practices, five Supply Management and Flow Augmentation practices, one Returns 
+Management practice, and five Water Quality practices. From this set, the Council selected two high priority management practices, which are highlighted in the box to the right. 
+For each management practice, the plan describes implementation steps, responsible parties, implementation schedules, cost estimates, and funding sources. The plan also identifies benchmarks by which implementation can be evaluated. 
+
+Other Recommendations from the Council 
+The plan includes recommendations to the State and other entities to address information needs and water policy issues. These recommendations are detailed in the plan. In summary, the Council emphasizes the need for information to support better water planning in the future. The Council believes that water planning should be based on data reflecting actual water use and conditions as much as possible. The Council also emphasizes the need for further study to develop better criteria by which to evaluate and manage flows in the region and the Apalachicola­Chattahoochee-Flint River Basin. With respect to water policy, the Council urges the General Assembly to provide the authority and funding to continue the work of the regional water councils in the future. The Council requests additional management authority for the regional water councils in the future. The Council urges the state to seek a timely solution to interstate water issues in the Apalachicola-Chattahoochee-Flint River Basin. The Council coordinated closely with neighboring councils and developed a set of joint recommendations with the Middle Chattahoochee and Lower Flint-Ochlockonee Councils to address shared concerns in the Apalachicola­Chattahoochee-Flint River Basin. These joint recommendations emphasize the need for more water storage capacity in the Basin and to develop a better information base for future water planning and management. 
+ES-5 
+   [This Page Intentionally Left Blank] 
+
+1. INTRODUCTION 
+
+[This Page Intentionally Left Blank] 
+
+Section 1. Introduction 
+1.1 The Significance of Water Resources in Georgia 
+Of all Georgia’s natural resources, none is more important to the future of our state than water. The wise use and management of water is critical to support the state’s economy, to protect public health and natural systems, and to enhance the quality of life for all citizens. 
+Georgia has abundant water resources, with fourteen major river systems and multiple groundwater aquifer systems. These waters are shared natural resources. Streams and rivers run through many political jurisdictions. The rain that falls in one region of Georgia may replenish the aquifers used by communities many miles away. While water in Georgia is abundant, it is not an unlimited resource. It must be carefully managed to meet long-term water needs. 
+Since water resources, their conditions, and their uses vary greatly across the state, selection and implementation of management practices on a regional and local level is the most effective way to ensure that current and future needs for water supply and assimilative capacity are met. 
+Therefore, the State Water Plan calls for the preparation of ten regional water development and conservation plans (Regional Water Plans) for the water planning regions depicted in Figure 1-1, not including the Metropolitan North Georgia Water Planning District (MNGWPD), which has a separate water planning process created by the Metropolitan North Georgia Water Planning District Act of 2001.1 
+This Regional Water Plan prepared for the Upper Flint water planning region (Upper Flint Region) by the Upper Flint regional water planning council (Upper Flint Council) describes the regionally appropriate water management practices to be employed in Georgia’s Upper Flint Region over the next 40 years. 
+1 The plans of the Metropolitan North Georgia Water Planning District can be found on the District’s website:  http://www.northgeorgiawater.org/ 
+
+1. Introduction 
+
+UPPER FLINT 
+
+September 2011 
+
+1.2 State and Regional Water Planning Process 
+The State Water Plan calls for the preparation of regional water plans designed to manage water resources in a sustainable manner through 2050. It establishes ten regional water planning councils and provides a framework for regional planning consistent with the policy statement that “Georgia manages water resources in a sustainable manner to support the state’s economy, to protect public health and natural systems, and to enhance the quality of life for all citizens.” 
+This regional water plan has been prepared following the consensus-based planning process illustrated in Figure 1-2. As detailed in the Upper Flint Council’s Memorandum of Understanding with the Georgia Environmental Protection Division (EPD) and the Department of Community Affairs (DCA), as well as the Council’s Public Involvement Plan, the process required and benefited from the input of local governments, other regional water planning councils, and the public.2 
+
+2 The Council’s Memorandum of Agreement and Public Participation Technical Memorandum are available as Supplemental Documents 1 and 2 on the Upper Flint Council’s website: 
+http://www.upperflint.org/pages/our_plan/index.php 
+September 2011 
+
+1. Introduction 
+The full Upper Flint Council met eleven times in quarterly meetings between May 2009 and September 2011, and its members participated in numerous additional meetings and conference calls.3 The Council created several committees that supported the development of this plan, including a Water Quantity Committee, a Water Quality Committee, an Agricultural Demand Forecasts Committee, a Municipal and Industrial Demand Forecasts Committee, a Vision and Goals Committee, and a Plan Review Committee. These committees met between Council meetings, reviewed materials, and developed recommendations regarding the plan for the full Council. Also, the Upper Flint Council coordinated closely with its neighboring councils, especially the Lower Flint-Ochlockonee and Middle Chattahoochee Councils, through multiple joint meetings to discuss shared resource concerns. 
+1.3 The Upper Flint Council’s Regional Vision and Goals 
+The Upper Flint Council adopted the following statement to describe its vision for the future of the planning region’s water resources: 
+The Upper Flint Regional Water Council’s purpose is to provide guidance, leadership and education on water resource utilization within the region. Through cooperation among stakeholders, this plan will assist the Council's efforts to manage the region's water resources in a sustainable manner, be supportive of public health and natural ecosystems, support the State's economy and enhance the quality of life for its citizens. 
+The Council adopted the following goals to support its vision: 
+1. 	
+Lead the development and implementation of water resource policy in this region and work together with the state and federal government and with the other regional councils to ensure that the welfare and needs of our region are met.  
+
+2. 	
+Enhance public understanding of water resources and provide stakeholders with an opportunity for input into regional water policy.  
+
+3. 	
+Maintain and strive to improve the quality and quantity of our water resources in order to protect natural ecosystems and public health. 
+
+4. 	
+Manage water resources sustainably through the three “C’s” – conserving, capturing and controlling water – in order to provide for the needs of all water users in the region (agriculture, utilities, residential, commercial, industry, forestry, and recreation). 
+
+5. 	
+Sustain the region’s aquifers and surface waters in a way that will continue to support the economic activities of the Upper Flint Region and the economy of the State of Georgia. 
+
+
+3 Meetings summaries for the Upper Flint Council meetings are available as Supplemental Document 3 on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+UPPER FLINT 
+
+September 2011 
+
+1. Introduction 
+6. 	Ensure that actions taken by this Council do not impede the agriculture and forestry based economy of this region. 
+The regional vision and goals were used by the Council to develop this plan and guide the selection of water management practices, which are discussed in Section 
+6. 
+[This Page Intentionally Left Blank] 
+
+2. THE UPPER FLINT WATER PLANNING REGION 
+[This Page Intentionally Left Blank] 
+
+Section 2. The Upper Flint Water Planning Region 
+2.1 History and Geography 
+The Upper Flint Region (Figure 2-1) encompasses over 4,355 square miles in west­central Georgia and includes 13 counties (Crisp, Dooly, Macon, Marion, Meriwether, Pike, Schley, Spalding, Sumter, Talbot, Taylor, Upson, and Webster) as well as 48 towns and cities partially or wholly within these counties. Major regional river basins include the Flint, Chattahoochee and small areas in both the Ocmulgee and Suwannee River Basins. 
+The small cities and towns in the Upper Flint Region developed around train depots in the late 19th century. Those cities and towns developed into industrial centers which have experienced cyclical growth and decline in the past century. From 1985 to 2005, urban land use increased from 1.4% to 5.2% of the region. This trend signals a greater presence of industrial and commercial development in the region and the spillover influence of growth in the Metro Atlanta area. Agriculture is the leading economic sector and water user in the region. Agricultural development in west Georgia expanded in the 19th century with the development of the cotton gin, and major crop diversification began in the 1930’s due to farm mechanization advances, New Deal policies, and cotton yield reductions caused by the boll weevil. Widespread use of irrigation in the region began to develop in the 1970’s. 
+2.2 Characteristics of the Region 
+The Upper Flint Region is largely rural, with 29% of the total land area in row crops and pasture and an additional 47% in forest. As noted above, urban land area cover has increased in recent years, and it now accounts for 5% of the region. Land use in the region is illustrated in Figure 2-2. 
+
+UPPER FLINT 
+
+
+September 2011 
+
+
+Natural features in the region provide habitat for an abundance of flora and fauna as well as areas critical for recharging the region’s aquifers.1 The region is bisected by the fall line dividing the piedmont and the coastal plain. At the fall line, metamorphic rock and clayey soils give way to sedimentary rock and sandy soils. The coastal plain physiographic region, south of the fall line “is underlain by relatively soft, weakly consolidated rocks and unconsolidated sediments deposited by the sea or streams when the shoreline was at or near the fall line between 80 and 100 million years ago” (Flint River Water Development and Conservation Plan, March 2006). Aquifers in the region include the Crystalline Rock aquifers in the piedmont and the Cretaceous, Clayton, Claiborne, and Floridan aquifer systems in the Coastal Plain. 
+2.3 Local Policy Context 
+The Upper Flint Region is subject to several overlapping layers of water resource management by state and federal agencies.2 State permitting programs for water withdrawals and wastewater dischargers affect all water users (OCGA §§12-5-32, 12-5-30(a), 12-5-30(b), 12-5-96, 12-5-105; DNR Rules 391-3-6-.06, 391-3-6-.07, 
+1 A USGS map of aquifer recharge areas in Georgia is provided as Supplemental Document 4 on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+2 A detailed discussion of existing water related laws, policies, regulations, and plans affecting the region is provided in Supplemental Document 5 - Existing Regulatory and Local Plan Summary, available on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+
+UPPER FLINT 
+
+391-3-2-.03). In this region, the following laws, regulations, and programs are also directly relevant to water management:  
+. 	The Flint River Water Development and Conservation Plan of 2006 serves as guidance for the Georgia Environmental Protection Division (EPD) for agricultural water use permit issuance in the Flint River Basin and for implementation of the Flint River Drought Protection Act. The 2006 Flint Plan was developed under the authority of the Water Quality Act (OCGA §12-5­31(h)) and Groundwater Use Act (OCGA §12-5-96(e)) in response to a prolonged drought, increased agricultural irrigation in southwest Georgia since the 1970’s, and scientific studies that predicted severe impacts on streamflow in the Flint River Basin due to withdrawals from area streams and the Floridan aquifer (Flint River Water Development and Conservation Plan, 2006). The Upper Flint Regional Water Plan builds on the existing 2006 plan for the Flint River Basin. The 2006 plan provides a scientific and policy foundation for water resources planning in the Flint River Basin and will be implemented in concert with it.3 
+. 	The Flint River Drought Protection Act (OCGA §12-5-540) and its implementing rules (DNR Rule 391-3-28) provide for demand management through agricultural irrigation suspension in times of drought. 
+. 	Federal Energy Regulatory Commission (FERC) licensing requirements for privately-owned hydroelectric impoundments apply to Lake Blackshear in the Upper Flint Region. 
+. 	Under the federal Endangered Species Act, four species of freshwater mussels have been listed as endangered or threatened in the Upper Flint Region: 
+Endangered: Shinyrayed pocketbook, Gulf moccasinshell, Oval pigtoe 
+Threatened: Purple bankclimber 
+Additionally, the Gulf sturgeon is listed as threatened, and flow requirements for the Gulf sturgeon affect the management of the Apalachicola­Chattahoochee-Flint System as a whole. The Endangered Species Act prohibits takings of these species and sets requirements for protection of their critical habitats.4 
+. 	The U.S. Army Corps of Engineers (USACOE) operates five federal reservoir projects on the Chattahoochee River (Lake Sidney Lanier, West Point Lake, Walter F. George Lake, George W. Andrews Lake, and Lake Seminole). The operation of these projects affects the parts of the Upper Flint Region that are within the Chattahoochee Basin, and it also affects the region as a key 
+3 The 2006 Flint River Water Development and Conservation Plan is included as Supplemental Document 6 on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php It is also available on the Georgia EPD website: http://www1.gadnr.org/frbp/index.html 
+4 More information on federally listed endangered and threatened species of freshwater mussels in the region can be found on the following U.S. Fish and Wildlife Service website: http://www.fws.gov/panamacity/mussels.html  Information on gulf sturgeon can be found on the following U.S. Fish and Wildlife Service website: http://www.fws.gov/panamacity/gulfsturgeon.html 
+September 2011 
+
+2. The Upper Flint Water Planning Region 
+component of water management in the Apalachicola-Chattahoochee-Flint (ACF) Basin as a whole. The Master Water Control Manual for the ACF is currently being revised by the USACOE.5 
+Additionally, the ACF system is the subject of protracted litigation over the management and allocation of water resources among Florida, Georgia, and Alabama and other interested parties. Because the states have not yet resolved these issues, this plan is based on current conditions and will be revised as appropriate in the future to reflect any final agreements reached by the three states. The Council notes that plan revisions may also be necessary after the USACOE’s revision of the Master Water Control Manual for the ACF. 
+With regard to water quality regulation, the U.S. Environmental Protection Agency (EPA) recently promulgated nutrient standards for free flowing streams and lakes in Florida as a result of a federal lawsuit under the Clean Water Act. These criteria are currently subject to legal challenge, but they are expected to require increased control of nutrients in Georgia in order to meet standards downstream in river basins that cross into Florida. These new nutrient standards could have substantial implications for water quality management in this region and other regions that share river basins with Florida. 
+5 Information on the ACF Master Water Control Manual update can be found on the following USACOE website: http://www.sam.usace.army.mil/pa/acf-wcm/index.htm 
+   [This Page Intentionally Left Blank] 
+
+3. 	CURRENT ASSESSMENT OF WATER RESOURCES OF THE UPPER FLINT REGION 
+[This Page Intentionally Left Blank] 
+
+Section 3. Current Assessment of Water Resources of the Upper Flint Region 
+3.1 Major Water Uses in the Region 
+Current water use information for this region was compiled as a part of the development of water use forecasts for major categories of water use, including: 
+. 	Municipal -water withdrawn by public and private water suppliers and delivered for a variety of uses (e.g., residential, commercial, light industrial) 
+. 	Industrial - water withdrawn for fabrication, processing, washing, and cooling for facilities that manufacture products, including steel, chemical and allied products, paper, and mining 
+. 	Energy -water withdrawn primilary for cooling purposes in the production of electricity at thermoelectric plants (Hydroelectric energy uses water to produce energy, but because this use is nonconsumptive, hydroelectric water use was not included in the forecasts.)  
+. 	Agriculture - water withdrawn for crop irrigation1 
+As shown in Figure 3-1, groundwater is the predominant source of water in the Upper Flint Region. The leading use of both surface water and groundwater is agriculture, as shown Figures 3-2 and 3-3. The leading method for treating wastewater is by point source discharge treatment facilities, as shown in Figure 3-4.2 
+1 Forecasts of agricultural water use included nursery water use. Water use by golf courses with agricultural water withdrawal permits were included in these forecasts at current levels. Animal operations were not included in the forecasts, but estimates of current use were considered. More information on the agricultural water use estimates and forecasts, including estimates of current water use for animal operations and golf courses (with agricultural withdrawal permits), is provided in Supplemental Document 7 - Agricultural Water Use Technical Memorandum, available on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+2 Figures 3-1 through 3-4 are estimates of current demands in the Upper Flint Region for water and wastewater.  These are based on data on water use from recent years, although different years are used for different sectors due to the availability of data. For example, the agricultural data is based on 2008 baseline use estimates made by the University of Georgia National Environmentally Sound Production Agriculture Laboratory (NESPAL), and the municipal, industrial and energy sector water demands are based on 2005 USGS estimates. The wastewater estimates for point sources and land application systems are based on 2005 wastewater discharge data from EPD. In Section 4, the 2010 numbers presented are not the same as the current numbers given here because the 2010 numbers are forecast estimates that were prepared as a part of the forecasts described in that section. 
+
+UPPER FLINT 
+
+The agricultural water use estimates for the region provided in Figure 3-2 and 3-3 include water used by specialty crops and nursery operations in addition to row crops, but they do not include water used by animal operations or golf courses with agricultural withdrawal permits. The current use of water by animal operations in this region is estimated to be 4.0 MGD. Golf courses with agricultural withdrawal permits in the region are estimated to use 0.862 MGD in an average year and 1.839 MGD in a dry year. 
+September 2011 
+
+For planning purposes, it is important to understand the amount of water that is returned to the hydrologic system after it is used. Consumptive use is the difference between the total amount of water withdrawn from a defined hydrologic system and the total amount of the withdrawn water that is returned to the same hydrologic system. In this planning process, on-site sewage treatment and land application systems are treated as 100 percent consumptive. Similarly, agricultural water use for irrigation is treated as 100 percent consumptive. While water may be returned to the hydrologic system from these treatment methods and from irrigated farm land, it is not returned within a timeframe that allows for it to offset the impacts of related water withdrawals. 
+3.2 Resource Assessments 
+For this planning process, the Georgia Environmental Protection Division developed three resource assessments for the state’s water resources: surface water availability, groundwater availability, and surface water quality. These assessments used models to estimate the capacity of streams and aquifers to meet water consumption demands and of streams to meet wastewater discharge demands, within sustainability criteria described by EPD. The assessments were conducted on a resource basis (i.e., river basins and aquifers). The results of these assessments for current conditions are summarized in this section, as they relate to the Upper Flint Region. Section 5 describes the future conditions of these resources, as projected by the assessment models. Full details of each resource assessment can be found at the following website: 
+http://www.georgiawaterplanning.org/pages/resource_assessments/index.php 
+3.2.1 Surface Water Availability 
+The surface water availability assessment modeled the flow response of surface water streams to meeting consumptive water demands for current and forecast municipal, industrial, agricultural, and thermal power uses. Flow responses predicted by the model were evaluated at selected points in a river basin to determine the frequency and magnitude with which consumptive use caused the modeled stream flows to fall below sustainability criteria for flows established by EPD. The points of evaluation occurred at planning nodes, which were located at stream gages where the effect on stream flows of cumulative upstream consumptive uses of water (i.e., withdrawals minus returns) and authorized reservoir operations could be evaluated (see Figure 2-1). Critical inputs for the model included: desired flow of the river system, expected return of treated wastewater to the system, water supply demands, and desired reliability of the water supply. 
+Flow responses were evaluated for each day in a 68-year period of record (1939­2007). The period of record used in the model was selected to represent the longest and most complete range of historical stream flow data available in Georgia and the range of stream hydrology likely to be experienced throughout the planning horizon. 
+
+UPPER FLINT 
+
+In unregulated portions of a basin, the sustainability criteria established by EPD for flows were monthly 7Q10 (lowest seven day average daily flow with a ten-year recurrence interval) or natural inflow, whichever was lower for each day in the period of record. In regulated portions of a basin, the sustainability criteria for flows were set only where an explicit flow requirement was specified, such as by the U.S. Army Corps of Engineers. Otherwise, in regulated nodes, the ability to meet demands was evaluated relative to the availability of storage to meet demands and any downstream flow criteria. 
+Most of the Upper Flint Region occurs within the Flint River Basin, which has two unregulated nodes: Montezuma and Bainbridge (see Figure 2-1). Montezuma is upstream of the lower boundary of the Upper Flint Region. Bainbridge is located in the Lower Flint-Ochlockonee Region, but in the Upper Flint Region, all of Webster and Sumter Counties and portions of Marion, Macon, Dooly, Schley, and Crisp Counties occur downstream of Montezuma and in the area evaluated at the Bainbridge planning node.  
+The resource assessment model evaluated how consumptive water use (and reservoir operation, where applicable) would impact water availability at the planning nodes if use were held constant over the period of record. The assessment identified days when a shortfall occurred in meeting the sustainability criteria given consumptive use and flow conditions. The results in this section concern current conditions. For the model, current water use data were developed based on the maximum observed monthly net water use aggregated across all use categories from 2002 through 2007. Reservoir operation data used in the model, where applicable, was that which is currently in effect for the major reservoirs. 
+Given current water use in the Flint River Basin, the model indicated that flows would fall below the EPD sustainability criteria on only two days in the period of record (25,202 days) at Montezuma. At Bainbridge, however, the model identified a much larger shortfall. Modeled flows fell below the sustainability criteria on 3,276 days in the period of record (13% of the time). The average shortfall identified on those days was 352 cfs (227 MGD). The maximum shortfall (which occurred on one day) identified was 1,376 cfs (889 MGD). 
+The shortfall identified by the model at Bainbridge resulted from consumptive water use and the effect of model assumptions about withdrawals of water for storage above Montezuma. A more complete explanation of these model assumptions is provided in Supplemental Document 8 on the Upper Flint Council’s website.3 The Council’s position is that the model assumptions regarding withdrawals to fill upstream reservoirs do not reflect actual conditions and resulted in an overestimation of flow shortfalls in the Flint River Basin. The Council recommends that future modeling to assess surface water flows in the Flint River Basin be preceded by an 
+3 See Supplemental Document 8 - EPD Technical Memorandum - Flow Gap Analysis (May 26, 2010) available on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+September 2011 
+
+evaluation of actual withdrawals to fill reservoirs in the upper part of the basin to support more accurate modeling of surface water flows. 
+The Bainbridge node results were affected by the use of surface water and groundwater. Groundwater use with an impact at the Bainbridge node occurs in Subarea 4 of the Upper Floridan Aquifer (Dougherty Plain), where interconnection of the aquifer with the surface water is high. Subarea 4 includes the Flint River Basin south of Dooly County, part of the lower Chattahoochee River Basin, and a narrow strip on the eastern side of the Ochlockonee and Suwannee River Basins.4 
+Part of the Upper Flint Region falls in the Chattahoochee watershed (see Figure 2-1). In the resource assessment model, the Chattahoochee River Basin had several regulated nodes. The model results identified no shortfalls in meeting flow targets. Downstream needs for water use and flow were met in the model by using available conservation storage in the system’s reservoirs. The model results estimated the amount of conservation storage remaining when storage reached its lowest in the period of record. At that time, aggregate conservation storage in the basin’s major reservoirs was 40% of available conservation storage.5 
+Small portions of the Upper Flint Region occur in the Ocmulgee and Suwannee River Basins. Results for these basins are not included in this report, but can be found in the plans for the Suwannee-Satilla and Middle Ocmulgee Councils. The Upper Flint Council coordinated with these councils in evaluating assessment results and developing management practices for their respective plans. 
+3.2.2 Groundwater Availability 
+The groundwater availability assessment estimated the sustainable yield for prioritized groundwater resources based on existing data. EPD prioritized the aquifers for assessment based on the characteristics of the aquifer, evidence of negative effects, anticipated negative impacts, and other considerations. 
+The sustainable yields calculated by the groundwater availability assessment model estimated the volume of groundwater that can be used without causing adverse impacts, including: limiting use of neighboring wells (drawdown), reducing groundwater contributions to stream baseflows, and permanent reduction of aquifer levels. Sustainable yield estimates were determined by simulating withdrawals from existing wells and, where applicable, simulated new wells. Aquifer use was evaluated by the model against various threshold levels that defined unacceptable impacts. Model results are shown in Table 3-1. The sustainable yield results in Table 3-1 
+4 A map of Subarea 4 of the Floridan Aquifer is available as Supplemental Document 9 on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+5 A more complete discussion of the surface water availability model results for the Flint and Chattahoochee River Basins can be found in Supplemental Document 10 – EPD Technical Memorandum – Surface Water Availability Model Results (July 2010) on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+
+indicate the levels of use at which a threshold indicating an adverse impact threshold was exceeded in model simulations. Sustainable yield was estimated as a range for each aquifer based on multiple model runs with different assumptions about aquifer use. These assumptions varied for different aquifers.6 
+In Table 3-1, current aquifer use levels are given for comparison to the sustainable yield model results. Current aquifer use is expressed as a range; the range reflects variation in agricultural use of the aquifer. The lower end of the range represents use levels when agricultural use is moderate (average year), and the upper end represents use levels when agricultural use is high (dry year). 
+Table 3-1: Groundwater Results for Assessed Aquifers in Upper Flint Region – Current Conditions  
+Aquifer  Estimated Current Groundwater Withdrawal (mgd)*  Sustainable Yield of Individual Aquifer (Min/Max, mgd)  
+Claiborne Aquifer  123-148 (190-229 cfs)  140-635 (217-982 cfs)  
+Cretaceous Aquifer  213-246 (330-381cfs)  347-445 (537-689 cfs)  
+South-Central Georgia Upper Floridan  282-366 (436-566 cfs)  622 – 836 (962-1293 cfs)  
+Upper Floridan Aquifer in the Dougherty Plain  450-587 (696-908 cfs)  237 – 328 (367-507 cfs)  
+Source: Georgia EPD, March 2010 Synopsis Report: Groundwater Availability Assessment  and subsequent results updates provided by EPD7  
+* The lower end of the range for withdrawals represents agricultural use in a moderate year, while the upper end represents agricultural water use in a dry year.   
+
+The Upper Flint Region includes the Cretaceous, the South-Central Georgia Upper Floridan, and Piedmont crystalline rock aquifers and small portions of the Claiborne and Upper Floridan (Dougherty Plain) aquifers.8 The area of the Piedmont crystalline rock aquifers assessed did not fall within the Upper Flint Region. For the Cretaceous aquifer, in the Upper Flint Region, only the portion of the aquifer in Crisp County, Dooly County, and the eastern half of Macon County was included in the assessment; other parts of the Cretaceous in the Upper Flint Region were not 
+6 For more detail on the groundwater availability resource assessment and results, see the March 2010 Synopsis Report: Groundwater Availability Assessment available on the EPD water planning website at: 
+http://www.georgiawaterplanning.org/news/March_2010_Water_Resource_Assessments_for_Review_a nd_Comment.php 
+7 See note 6. 
+8 A map of the assessed aquifers is available as Supplemental Document 11 on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+UPPER FLINT 
+
+September 2011 
+
+assessed. The results in Table 3-1 indicate that in two aquifers that occur in the Upper Flint Region, current use is within or above the sustainable yield range: Claiborne and Upper Floridan (Dougherty Plain). 
+As noted above, only a small portion of the Claiborne is located in the Upper Flint Region. The assessment model results showed that estimated current use of the Claiborne during dry years (when use levels are high) exceeds the lower end of the sustainable yield range. The sustainable yield results for this aquifer were expressed as a range to encompass two model scenarios with different assumptions about groundwater use. The lower end of the range was defined a model scenario assuming that groundwater use will increase uniformly across the aquifer from existing well locations. The upper end of the range was defined based on a model scenario assuming that groundwater use will increase in a non-uniform manner geographically. The non-uniform assumption allowed for greater use because withdrawals could be held constant in areas where adverse impacts were a concern and increased in other areas where impacts were not harmful. Under current conditions, use of the Claiborne slightly exceeds the lower end of the sustainable yield range, but is well below the upper end of the sustainable yield range. The model results indicate that adverse impacts on this aquifer are dependent upon the location of withdrawals. The results showed that some areas of the aquifer have substantial amounts of water that can be used sustainably, while other parts will show potential adverse impacts of use. These results indicate the need for caution in the management of withdrawals from the Claiborne aquifer and the need for more specific analysis, based on the location of withdrawals, directed at preventing future adverse impacts.  
+As noted above, the sustainable yield results estimate the volume of groundwater that can be used without causing adverse impacts. In the model, increasing levels of use were evaluated against various threshold levels that defined an unacceptable level of impact. While most of the impacts evaluated related to the health of the aquifer directly, the impact on groundwater contributions to stream baseflows was also evaluated where interconnection between surface water and groundwater is present. In the case of the Upper Floridan aquifer in the Dougherty Plain, the sustainable yield results were defined by the modeled impact of groundwater withdrawals on groundwater contributions to stream baseflows. In the resource assessment model runs for this aquifer, adverse impacts on groundwater contributions to stream baseflows were observed when impacts on the aquifer itself were minimal (i.e., drawdown of the aquifer was less than five feet at modeled use levels). Therefore, the results for this aquifer relate closely to those observed in the surface water availability assessment at the Bainbridge node.9  It is noted that surface water and groundwater availability were modeled using different types of computer programs. 
+9 The sustainable yield results for the Upper Floridan in the Dougherty Plain are expressed as a range as a result of two model scenarios involving two different assumptions about increases in pumping from one hydrologic unit (HUC 03130004), which crosses state lines into Florida and Alabama. For more information on the groundwater resource assessment results, see note 6. 
+
+UPPER FLINT 
+
+3.2.3 Surface Water Quality 
+The water quality assessment modeled the capacity of Georgia’s surface waters to naturally reduce pollutant levels without unacceptable degradation of water quality. The term assimilative capacity refers to the ability of a water body to naturally reduce pollutants to a level that does not exceed state water quality standards or harm aquatic life. 
+The water quality assessment focused on available assimilative capacity for oxygen consuming wastes (affecting dissolved oxygen), nutrients (specifically nitrogen and phosphorus) and chlorophyll-a (a green pigment found in algae; the concentration of chlorophyll-a is used to assess lake water quality). Assessment of the ability to assimilate oxygen consuming wastes is important because aquatic life is dependent upon the amount of residual dissolved oxygen available in a stream.  
+Two water quality model evaluations were performed: 
+1.
+ River Model (Dissolved Oxygen Modeling) – This model evaluated dissolved oxygen due to existing point discharges under critical conditions. 
+
+2.
+ Lake and Watershed Models (Nutrient Modeling) – These models evaluated the impacts of point and nonpoint sources from nutrient loadings, nutrients (specifically nitrogen and phosphorus) and chlorophyll-a (a green pigment found in algae; the concentration of chlorophyll-a is a parameter used to assess lake water quality). The watershed and lake models accounted for nutrient sources from both wastewater discharges and nonpoint source stormwater runoff based on various land uses. 
+
+
+The water quality assessment is not the same as the 303(d) list of impaired waters because this assessment only looked at dissolved oxygen and nutrients; the 303(d) list includes stream reaches listed as impaired on the basis of dissolved oxygen and other parameters, such as metals, bacteria, and biota. Furthermore, the 303(d) list is based on analytical results from stream monitoring and not model results. Waters in the Upper Flint Region that are included on the 303(d) list of impaired waters are discussed in Section 3.3.1. Determining assimilative capacity is dependent on different parameters and requires information on the stream flow, in-stream water quality, wastewater discharges, water withdrawals, land application systems, weather information, land use, stream hydrology, topography, and the state’s water quality standards. The water quality models were developed to show the current status of the available assimilative capacity based on current discharges. They were also used to evaluate future conditions, which are discussed in Section 5.3. 
+Dissolved Oxygen Modeling 
+Figure 3-5 shows the in-stream dissolved oxygen (DO) model results for current discharges given critical low flow (7Q10), high temperature conditions. Stream segments that were predicted by the model to have exceeded the available assimilative capacity are shown in red. Streams that are at the allowable DO levels are shown in pink, and those predicted to have very good DO levels relative to state 
+September 2011 
+
+water quality standards are shown in blue. It is important to note that some streams are naturally low in DO, but these streams cannot necessarily be discerned in Figure 3-5 because the map indicates the effects of discharges as well as natural conditions for all streams.  Assimilative capacity appears to be available for stream reaches in the region based on dissolved oxygen modeling results. The number of stream miles where assimilative capacity was exceeded or unavailable under current conditions in the model was 8.80 miles in the Flint River Basin (as a whole). 
+
+
+Nutrient Modeling 
+Watershed and lake models were run assuming current levels of water use and wastewater disposal and current land use profiles as inputs. These inputs accounted for nutrient loading from the contributing watershed over an eight year hydro-period based on historical data. The model results indicated that in the Flint River Basin, nonpoint sources currently contribute more nutrients (nitrogen and phosphorus) than point sources. 
+The lake models estimated the algal response, in terms of chlorophyll-a levels, to nutrient loading at current conditions over a multi-year modeling period. The model results can be compared to existing chlorophyll-a standards, where they exist. Only one lake in the Upper Flint Region was modeled: Lake Blackshear. The results indicated that in Lake Blackshear, current phosphorus loading is primarily from nonpoint souces. At this time, nutrient standards have not been established for Lake Blackshear, and therefore, these results cannot be compared against nutrient standards, but the results do indicate how nutrient control efforts should be directed to manage current and future nutrient loading.10 Downstream of the Upper Flint Region at the Florida border, Lake Seminole was also modeled. Similar to Blackshear, the results for Seminole indicated that current phosphorus loading is primarily from nonpoint souces. Like Blackshear, nutrient standards have not been established for Lake Seminole.  
+The Council received the lake and watershed model results late in the planning process, but in its review of the models and their results, the Council had several concerns about the model assumptions and inputs. See Section 7.4 for a recommendation related to the Council’s concerns about the lake and watershed models. 
+3.3 Ecosystem Conditions and In-stream Uses 
+3.3.1 303(d) list and TMDLs 
+The state of Georgia assesses its water bodies for compliance with water quality standards, as required by the federal Clean Water Act. Waters of the state are monitored by EPD, USGS, and other local authorities contracted by EPD. If an assessed water body is found not to meet standards, then it is considered “not supporting” its designated uses, and it is included on a list of impaired waters (303(d) list). Impairments must be addressed through the development of a Total Maximum Daily Load (TMDL), which sets a pollutant load and outlines a strategy for corrective action. Several stream reaches in the Upper Flint Region are on the state’s list of 
+UPPER FLINT 
+
+10 See Section 5.3 for a discussion of future water quality modeling results. 
+September 2011 
+
+impaired waters. A summary of impaired waters in the region is provided in Figure 3­
+6.11 
+3.3.2 Fisheries, Wildlife, and Recreational Resources 
+In 2005, Georgia’s Wildlife Resources Division published A Comprehensive Wildlife Conservation Strategy for Georgia, which outlines a plan “to conserve Georgia’s animals, plants, and natural habitats through proactive measures emphasizing voluntary and incentive-based programs on private lands, habitat restoration and management by public agencies and private conservation organizations, rare species survey and recovery efforts, and environmental education and public outreach activities.” The strategy is available on-line at the following Georgia Department of Natural Resources website: http://www1.gadnr.org/cwcs/ In the Upper Flint Region, this strategy includes rare aquatic species on the federal or state lists of rare species, including eight fish species, thirteen invertebrate species, two reptile species, and one vascular plant species.12 Critical habitat areas have been identified for federally listed endangered and threatened species of freshwater mussels in the region; more information can be found on the following U.S. Fish and Wildlife Service website: http://www.fws.gov/panamacity/mussels.html 
+The Upper Flint Region provides boaters, fishermen, and other outdoor enthusiasts with a diverse and easily accessible river environment. Near the fall line, the river provides a scenic area for canoeists and kayakers. Lake Blackshear offers boating and fishing opportunities. Camping, hunting, and hiking trails are recreational options across the region. Important recreational fisheries in the region include shoal bass, largemouth bass, sunfish, bluegill, channel catfish, and flathead catfish. The Department of Natural Resources manages State Parks and Historic Sites, Public Fishing Areas, and Wildlife Management Areas throughout the Upper Flint Region.  
+11 A more complete list of impaired waters in the region is provided in Supplemental Document 5 - Existing Regulatory and Local Plan Summary on the Upper Flint Council’s website: 
+http://www.upperflint.org/pages/our_plan/index.php 
+12 A list of rare aquatic species in the region is provided in Supplemental Document 5 - Existing Regulatory and Local Plan Summary. See note 11.  
+
+September 2011 
+
+4. FORECASTING FUTURE WATER RESOURCE NEEDS 
+[This Page Intentionally Left Blank] 
+
+Section 4. Forecasting Future Water Resource Needs 
+4.1 Municipal Forecasts 
+4.1.1 Municipal Water Forecasts 
+Municipal water and wastewater forecasts were based on population projections that were developed by the Governor’s Office of Planning and Budget (OPB). In summary, these forecasts projected that population in the Upper Flint Region is expected to increase by 63.1% from 245,827 in 2010 to 401,059 in 2050.1 
+The municipal water forecasts were calculated by multiplying an estimate of per capita water use by the population to be served. Per capita use rates were adjusted to reflect expected water savings over time from the transition to ultra low flow toilets 
+(1.28 gallons per flush), required by the Water Stewardship Act.  Additional details regarding development of the municipal water forecasts, including the per capita rate, plumbing code savings, and results, are provided in the Municipal and Industrial Water and Wastewater Forecasting Memorandum and Water Conservation Technical Memorandum.2 
+The resulting municipal water forecasts projected that demand for municipal water is expected to increase from 31 MGD (48 cfs) in 2010 to 47 MGD (73 cfs) in 2050 in the region. Of these amounts (current and future), the forecasts estimated water sources as follows: 50% from surface water, 30% from groundwater withdrawals by municipal systems, and 20% from private wells (self-supply). 
+4.1.2 Municipal Wastewater Forecasts 
+Municipal wastewater forecasts were calculated based on the municipal water demand forecasts with adjustment for outdoor water use (not treated) and inflow and infiltration into municipal systems. Wastewater may be treated by one of three disposal systems: municipal wastewater treatment plant to point source discharge, municipal wastewater treatment to land application system, or onsite sanitary sewage system, also called septic systems. For the forecasts, the mix of discharge 
+1 County-level population estimates and projections for the region, provided to EPD by EPB, are included in Supplemental Document 12 – Georgia OPB Population Projections (March 2010), available on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+2 A more complete discussion of the forecast methods, results, and impacts of water conservation are provided in Supplemental Documents 13 and 15, available on the Upper Flint Council’s website: 
+http://www.upperflint.org/pages/our_plan/index.php 
+
+4. Forecasting Future Water Resource Needs 
+to point source facilities versus land application systems was held proportionate to current conditions. 
+The resulting municipal wastewater forecasts for the region projected that the demand for municipal wastewater treatment is expected to increase from 29 MGD in 2010 to 44 MGD in 2050 (45 to 68 cfs) in the region. For these amounts (current and future), wastewater treatment is expected to be as follows: 11% by land application systems, 38% by systems with point source discharges, and 51% by septic systems.3 
+Wastewater generation allocated to central system disposal (i.e. land application and point discharges) in the forecasts included an inflow and infiltration (I/I) estimate of 20%, a typical value for municipal systems. (The increase in anticipated wastewater flows associated with I/I was not utilized in the surface water quality assessment since that model was used as a tool to project water quality during dry, low flow conditions.) 
+4.2 Industrial Forecasts 
+Industrial water and wastewater forecasts anticipate the future needs for industries in the region. Industries require water for use in their production processes, sanitation, cooling, as well as employee use and consumption. The forecasts presented in this section were based upon estimates of the rate of growth in employment for specific industrial sectors, estimates of the rate of growth in the units of production for specific industrial sectors, or other relevant information provided by specific industrial water users. The industrial demands forecast in this section include major industrial water users and wastewater generators that supply their own water and/or treat their own wastewater. Some industries rely on municipal systems for water supply and wastewater treatment. Where data were available, municipally supplied or treated industrial water was included in the industrial water and wastewater forecasts. Other municipally-served industrial users, generally with lesser demands, were included in the municipal forecasts. 
+4.2.1 Industrial Water Forecasts 
+Industrial water forecasts were calculated using information and data specific to each of the major water using industries. For industries where information was available on water use per unit of production, water forecasts were based on production. For industries where production-based forecasts were not possible, industry-specific workforce projections were assumed to reflect the anticipated growth in water use within the industry. The employment projections for the Upper Flint Region indicated that overall employment in major water using industries is expected to increase by 19% over the 2010-2050 planning horizon. 
+3 Additional details regarding the methods and results for the municipal wastewater forecasts can be found in Supplemental Document 13. See note 2. 
+UPPER FLINT 
+
+September 2011 
+
+4. Forecasting Future Water Resource Needs 
+Industrial demand for water was forecast to increase from 20 MGD (31 cfs) in 2010 to 31 MGD (48 cfs) in 2050 in the region. Of these amounts (current and future), the forecasts estimated water sources as follows: 74% from surface water and 26% from groundwater.4 
+4.2.2 Industrial Wastewater Forecasts 
+Industrial wastewater forecasts were calculated for each sector by multiplying the industrial water forecasts by the ratio of wastewater generated to water used for that industrial sector. The primary mechanism for deriving the wastewater to water ratios was through a state-wide analysis of multiple years of data on actual annual average water return and withdrawal data for permitted users. Information provided by industrial stakeholder groups was also used to adjust ratios within a region or industry, as appropriate. Further detail regarding the industrial water and wastewater forecasts is included in the Municipal and Industrial Water and Wastewater Forecasting Memorandum. The forecasts projected that industrial wastewater treatment will increase from 18 MGD (28 cfs) in 2010 to 27 MGD (42 cfs) in 2050 in the region. Of these amounts (current and future), wastewater treatment is expected as follows: 6% treated by land application systems and 94% treated by systems with point source discharges. 
+4.3 Agricultural Forecasts 
+Agricultural water use forecasts, developed by the University of Georgia, provided a range of irrigation water use estimates under dry, medium and wet climate conditions. In addition to row crops, the forecasts included current and future estimates of nursery water use and current estimates of water use by golf courses with agricultural withdrawal permits. While included in the forecasts, golf course use was held constant at current levels throughout the planning horizon because future estimates were not available. Water use by animal operations was not included in the forecasts, but estimates of current use are included in the discussion of agricultural use in Section 3.5 
+In summary, the forecasts for this sector projected that dry year agricultural water use in this region will increase by 16% from 2010 to 2050. Dry year use estimates for agriculture correspond to the 75th percentile of use estimates across a range from lowest to highest use levels. The forecasts projected the following for agricultural water use for the region by source type over the planning horizon: 
+. 2010 Annual Average Dry Year Use (75th Percentile) = 165 MGD (255 cfs) Groundwater Use = 118 MGD (183 cfs) Surface Water Use = 47 MGD (73 cfs) 
+4 Employment projections and more details on the methods and results for the industrial water and wastewater forecasts are provided in Supplemental Document 13.  See note 2. 
+5 More information on the agricultural water use estimates and forecasts is provided in Supplemental Document 7 - Agricultural Water Use Technical Memorandum, available on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+
+4. Forecasting Future Water Resource Needs 
+. 2050 Annual Average Dry Year Use (75th Percentile) = 192 MGD (297 cfs) Groundwater Use = 137 MGD (212 cfs) Surface Water Use = 55 MGD (85 cfs) 
+4.4 Thermoelectric Power Production Water Demand Forecasts 
+Forecasts of water use in thermoelectric power production were made with the guidance of an advisory panel that included power industry representatives and the Georgia Environmental Facilities Authority. In the Upper Flint Region, there is currently no thermoelectric power production. The forecasts projected future water demands from this sector by region where the location of future capacity was known; there are no known plans for new thermoelectric power production facilities in the Upper Flint Region, and therefore, the forecast demand for this sector specific to this region was zero. 
+The forecasts for this sector also projected water demand statewide associated with future power production that is not currently allocated to a specific water planning region, because it is uncertain where this production capacity will be located. For 2050, the forecasts projected that thermoelectric power production will require 313­346 MGD of additional water use (170-189 MGD of consumptive use)6 statewide that is not currently allocated to specific regions. This additional production will require water supply wherever it is ultimately located. The Upper Flint Council recommends that as a part of water withdrawal permitting decisions for new thermoelectric power production or any other water-intensive industry, a thorough evaluation should be conducted to determine if an adequate and sustainable water supply is available to meet the demands of the new permittee.   
+4.5 Total Water Demand Forecasts 
+In the Upper Flint Region, forecasts estimated total 2010 water use at 217 MGD (335 cfs) and projected use to increase to 270 MGD in 2050 (418 cfs). As shown in Figure 4-1, agricultural water use makes up the largest proportion of 2010 water use by a significant margin, and it is expected to continue to be the largest future water use in the region. However, municipal and industrial water uses are expected to increase slightly in their shares of total water use over the period. As shown in Figure 4-2, the forecasts projected that wastewater flows in the region will increase from 47 MGD in 2010 to 71 MGD in 2050. Figure 4-3 details the sources of current and forecast water demand and the treatment methods for current and forecast wastewater flows.  
+UPPER FLINT 
+
+6
+ 484-535 cfs total use (263-292 cfs of consumptive use) 
+September 2011 
+
+
+4. Forecasting Future Water Resource Needs 
+
+Million Gallons per Day
+300 
+250 
+
+200 
+LAS 
+
+Point Discharge 
+
+
+150 
+Self-Supplied 
+100 
+Groundwater 
+
+Septic 
+
+
+244  257  269  
+217  232  
+
+
+47  55  60  66  70  
+
+ 
+ 
+ 
+ 
+ 
+
+50 
+0 
+
+Surface Water 
+2010 2020 2030 2040 2050 
+
+UPPER FLINT 
+
+September 2011 
+
+5. 	COMPARISON OF WATER RESOURCE CAPACITIES AND FUTURE NEEDS 
+[This Page Intentionally Left Blank] 
+
+Section 5. Comparison of Water Resource Capacities and Future Needs 
+This section discusses the results of the future resource assessments, which modeled how the forecasts of water and wastewater needs in the region (Section 4) compare with the capacities of the water resources. The results provided the Council with information on where the model identified potential gaps between water resource needs and capacities. They supported the Council in selecting appropriate management practices (Section 6) that will help the region to meet its future water needs, protect water resources, and meet the Council’s vision and goals for the region. Where gaps were identified by the resource assessment models, the Council considered the potential adverse impacts, both environmental and economic, of the identified gaps and of closing those gaps. Management practice selection was guided by the Council’s understanding of the modeling results and identified gaps, as well as by the Council’s vision and goals for the region (see Section 1.3). 
+5.1 Surface Water Availability Comparisons 
+To assess future conditions, the surface water availability assessment model described in Section 3.2.1 was run using 2050 forecast water demands. The results for 2050 were similar to those under current demand conditions (discussed in Section 3.2.1). In the Flint River Basin at Montezuma, EPD sustainability criteria1 for in-stream flows were met almost 100% of the time during the period of record under 2050 forecast demand conditions. A significant shortfall between resource capacity and demand persisted in the model results for Bainbridge in 2050. The modeled shortfall occurred 13% of the time in the period of record, and the average shortfall identified by the model on those days was 355 cfs (229 MGD). The maximum shortfall identified by the model was 1,295 cfs (837 MGD). 
+The forecasts projected that consumptive water demand measured at the Montezuma node will increase by 5% between 2010 and 2050. This change is expected as the net result of a projected increase of 10 MGD (15 cfs) in consumptive demand by municipal, industrial, and agricultural users in the region and a projected decrease in consumptive demand upstream of the region of 8 MGD (12 cfs). The upstream decrease is expected from conversions of septic systems to centralized treatment and greater use of 
+1 See Section 3.2.1 for a description of the EPD sustainability criteria for the surface water availability assessment. 
+
+centralized treatment associated with implementation of the wastewater management plan of the Metropolitan North Georgia Water Planning District.2 
+At the Bainbridge node, the shortfall identified by the model was affected both by consumptive use of surface water and by groundwater withdrawals in Subarea 4 of the Upper Floridan aquifer in the Dougherty Plain, where interconnection with the surface water is high. Subarea 4 includes the Flint River Basin south of Dooly County, part of the lower Chattahoochee River Basin, and a narrow strip on the eastern side of the Ochlockonee and Suwannee River Basins.3 The shortfall identified by the model at Bainbridge also resulted from model assumptions used to project diversion of water to upstream reservoirs.4 The water use forecasts projected that net consumptive water use measured at the Bainbridge node will increase by 16% between 2010 and 2050.  
+As noted in Section 3.2.1, part of the Upper Flint Region falls in the Chattahoochee watershed.5 In the Chattahoochee under 2050 demand conditions, the model results showed that in-stream flows would not fall short of the EPD sustainability criteria, but storage levels would fall lower to meet in-stream needs and demands than under 2010 demand conditions. The model results estimated that the amount of conservation storage remaining when storage reached its lowest in the period of record. At that time, aggregate conservation storage in the system’s major reservoirs was 35% of available conservation storage (vs. 40% under 2010 demand conditions).6 
+5.2 Groundwater Availability Comparisons 
+Section 3.2.2 discusses the groundwater resource assessment, sustainable yield results, and current use of assessed aquifers. Table 5-1 compares the sustainable yield results from the groundwater availability assessment model to 2050 forecast demands for the assessed aquifers. As discussed in Section 3, the groundwater availability assessment modeled the effects of increasing levels of aquifer use and compared the results against 
+2 The Metropolitan North Georgia Water Management Planning District’s Wastewater Management Plan (May 2009) is available on the Internet:  http://www.northgeorgiawater.org/html/19.htm 
+3 A map of Subarea 4 of the Floridan Aquifer is available as Supplemental Document 9 on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+4 A more complete discussion of these model assumptions is provided in Supplemental Document 8 - EPD Technical Memorandum - Flow Gap Analysis (May 26, 2010), available on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php  Also, see Section 3.2.1 of this plan for a discussion and recommendations related to the Council’s concern that the model assumptions regarding withdrawals to fill upstream reservoirs do not reflect actual conditions and resulted in an overestimation by the model of flow shortfalls in the Flint River Basin. 
+5 As noted in Section 3, small portions of the Upper Flint Region are located in the Ocmulgee and Suwannee River Basins. Results for these basins are not included in this report, but can be found in the plans for the Suwannee-Satilla and Middle Ocmulgee Councils. The Upper Flint Council coordinated with these councils in evaluating assessment results and developing management practices for their respective plans. 
+6  A more complete discussion of the surface water availability model results for the Flint and Chattahoochee River Basins can be found in Supplemental Document 10 – EPD Technical Memorandum – Surface Water Availability Model Results (July 2010) on the Upper Flint Council’s website: 
+http://www.upperflint.org/pages/our_plan/index.php 
+UPPER FLINT 
+
+5-2 
+September 2011 
+
+thresholds that defined unacceptable impacts. Table 5-1 indicates that in the Claiborne and Upper Floridan (Dougherty Plain), forecast 2050 use will be within or above the sustainable yield range identified by the model for these aquifers.7,8 
+Table 5-1: Groundwater Results for Assessed Aquifers in Upper Flint Region – 2050 Conditions  
+Aquifer  Estimated 2050 Groundwater Withdrawal (mgd)*  Sustainable Yield of Individual Aquifer (Min/Max, mgd)  
+Claiborne Aquifer  146-174 (225-270 cfs)  140-635 (217-982cfs)  
+Cretaceous Aquifer  267-303 (413-468 cfs)  347-445 (537-689 cfs)  
+South-Central Georgia Upper Floridan  371-471 (573-729 cfs)  622 – 836 (962-1293 cfs)  
+Upper Floridan Aquifer in the Dougherty Plain  521-681 (806-1054 cfs)  237 – 328 (367-507 cfs)  
+Source: Georgia EPD, March 2010 Synopsis Report: Groundwater Availability Assessment and subsequent results updates provided by EPD9  
+*The lower end of the range for withdrawals represents agricultural use in a moderate year (50th percentile), while the upper end represents agricultural use in a dry year (75th percentile).   
+
+As noted in Section 3, only a small portion of the Claiborne aquifer is located in the Upper Flint Region. Projected 2050 use of the Claiborne during dry years (when use levels are high) exceeds the lower end of the sustainable yield range identified by the model, but it is well below the upper end of the sustainable yield range for this aquifer. The lower end of the sustainable yield range for the Claiborne resulted from a model run in which aquifer use was assumed to increase in a uniform manner geographically, and the upper end of the range resulted from a model run in which non-uniform increases were allowed. As discussed in Section 3, the non-uniform assumption allowed for greater use of the aquifer because withdrawals could be held constant in some areas where adverse impacts were a concern and increased in other areas where impacts were not harmful. Adverse impacts on this aquifer are dependent upon the location of withdrawals. The model results indicated that some areas of the aquifer have substantial amounts of water that can be used sustainably, while other parts will show potential adverse impacts of use. These results indicate the need for caution in the management 
+7 More detail on the groundwater availability assessment is provided in the March 2010 Synopsis Report: Groundwater Availability Assessment, available on the EPD water planning website: 
+http://www.georgiawaterplanning.org/news/March_2010_Water_Resource_Assessments_for_Review_and_ Comment.php Also, a map of assessed aquifers is available as Supplemental Document 11 on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+8 For more discussion on how the sustainable yield range was defined, see Section 3.2.2 of this plan and the synopsis report cited in note 7. 
+9 See note 7. 
+
+of withdrawals from this aquifer and the need for more specific analysis, based on the location of withdrawals, directed at preventing future adverse impacts.  
+As discussed in Section 3, the sustainable yield results for the Upper Floridan aquifer in the Dougherty Plain were determined based upon the impact of groundwater withdrawals on groundwater contributions to stream baseflows, rather than on the condition of the aquifer itself. Therefore, these results relate closely to those observed in the surface water availability assessment at the Bainbridge node. 
+5.3 Surface Water Quality Comparisons 
+In Section 3, Figure 3-5 shows the water quality model results regarding the availability of assimilative capacity under current conditions for flow and oxygen consuming wastes that affect levels of dissolved oxygen. Figure 5-1 shows the model results related to the availability of assimilative capacity for these pollutants under projected future conditions. It was assumed that future flows will be distributed among existing discharge points. The assessment results showed where modeled conditions predicted that water quality standards would be exceeded under critical conditions. It is important to note that treatment plants usually operate below their permit limits (not at their limits), and future permit limits are likely to be different than current permit limits. In fact, facility permit limits were adjusted in the 2050 modeling scenario so that assimilative capacity of streams into which they discharge are not exceeded.  Figure 5-1 indicates that the model projected that the number of stream miles in the Flint River Basin where assimilative capacity is exceeded or unavailable will increase from 8.80 miles under current conditions to 10.92 miles by 2050.   
+Watershed and lake models were also run at future conditions (2050). The model results indicated that in the Flint River Basin, while nonpoint sources currently contribute more nutrients (nitrogen and phosphorus) than point sources, future increases in nutrient loading will come more from point sources than nonpoint sources. The lake model results indicated that in Lake Blackshear, phosphorus loading in the future will be primarily from nonpoint sources, as it is under current conditions. Downstream of the region, at the Florida border, the model results for Lake Seminole indicated that while current phosphorus loading is primarily from nonpoint sources, future increases in phosphorus loading will be primarily point source related. As noted in Section 3.3, these lakes do not have established nutrient standards, and so, the lake model results cannot be compared against standards for these two lakes. However, the model results are an indication of where management practices should be directed in order to control nutrient loading. 
+The Council received the lake and watershed model results late in the planning process, but in its review of the models and their results, the Council had several concerns about the model assumptions and inputs. See Section 7.4 for a recommendation related to the Council’s concerns about the lake and watershed models. 
+Water quality is also assessed by compliance with water quality standards. Impaired waters where water quality standards are not met are discussed in Section 3.3.1, and a 
+UPPER FLINT 
+
+5-4 
+September 2011 
+
+detailed list is provided in Supplemental Document 5 - Existing Regulatory and Local Plan Summary, available on the Upper Flint Council’s website (http://www.upperflint.org/pages/our_plan/index.php). 
+
+
+
+
+5.4 	Summary of Potential Gaps between Resource Capacities and Future Needs 
+The resource assessment model results discussed in Section 3 and this section identified the following as gaps between resource capacities and water needs: 
+. 	The model identified a substantial shortfall in meeting EPD’s sustainability criteria for surface water flows in the Flint River Basin at Bainbridge under both current and forecast demands 
+. 	Groundwater use is within the sustainable yield range identified by the model for the Claiborne aquifer and above the sustainable yield range identified by the model for the Upper Floridan aquifer in the Dougherty Plain 
+. 	Water quality model results indicated decreasing availability of assimilative capacity in streams as discharge flows increase 
+The Council has considered these gaps and their potential adverse impacts on the region, both environmental and economic. In order to meet the Council’s vision and goals for the region and given the results considered in this section, the Council developed the rest of this plan to address the gaps identified by the resource assessment models as follows: 
+. 	Surface water availability: Address the gap with conservation and supply augmentation practices as much as possible, while also collecting better information to support more thorough evaluation of resource capacity and the impacts of gaps identified by the assessment model on in-stream and downstream uses. Eliminating the surface water availability gap in the Flint will require the addition of storage, and the Council recommends the development of new storage in the Flint River Basin in Section 6. 
+. 	Groundwater availability: Use of the Claiborne aquifer should be limited geographically as necessary to protect the sustainable yield of this resource. In the Upper Floridan aquifer in the Dougherty Plain, the impact of groundwater withdrawals on surface water flows in the Flint River Basin should be a determining factor in guiding the location and amount of groundwater use from this aquifer. Collect better and more geographically specific information on groundwater resource capacity, as needed to evaluate specific uses and management practices. 
+. 	Surface water quality: Implement practices targeted especially toward nonpoint source of pollutants to improve assimilative capacity in the region’s streams and lakes. It is expected that EPD will adjust point source permit limits over time as needed to address assimilative capacity constraints. Collect more complete information to support the targeting of management practices for water quality in the future. 
+UPPER FLINT 
+
+September 2011 
+5-6 
+
+6. ADDRESSING WATER NEEDS AND REGIONAL GOALS 
+[This Page Intentionally Left Blank] 
+
+Section 6. Addressing Water Needs and Regional Goals 
+6.1 Identifying Water Management Practices 
+The Upper Flint Council considered the following as it selected management practices for this plan: 
+. 	Existing plans and practices 
+. 	Gaps identified by the resource assessment models in the comparison of 
+resource needs and resource capacities (see Sections 3 and 5) 
+. 	Council’s Vision and Goals (see Section 1) 
+. 	Results of a survey of Council members on management practices and 
+criteria for evaluation 
+.	 Public input 
+. 	Coordination with local governments and neighboring councils 
+The Council’s decision making process to adopt sets of recommendations was consensus-based, where possible, according to the Council’s Operating Procedures and Rules for Meetings.1 In cases where consensus could not be reached, decisions were approved by voting. In order to coordinate beyond the region, Council members met with representatives of neighboring councils to discuss shared resource issues on multiple occasions. In these meetings, the Council worked with its neighbors toward adoption of coordinated or complementary management practices. Within the region, the Council sought to coordinate with local governments and build support for this plan through implementation of the Council’s Public Involvement Plan.2 
+The Council identified several uncertainties that could impact plan implementation, including: 
+. 	Update of the Master Water Control Manual for the Apalachicola­Chattahoochee-Flint (ACF) River Basin by the U.S. Army Corps of Engineers: This process is ongoing.  More information can be found at 
+1 These documents are available with the Council’s Memorandum of Agreement in Supplemental Document 1 on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+2 The process of selecting management practices is discussed in more detail in Supplemental Document 14 - Management Practice Selection Technical Memorandum, and the Council’s public involvement plan is described in Supplemental Document 2 - Public Participation Technical Memorandum. Both documents are available on the Upper Flint Council’s website: 
+http://www.upperflint.org/pages/our_plan/index.php 
+
+6. Addressing Water Needs and Regional Goals 
+the following website: http://www.sam.usace.army.mil/pa/acf­wcm/index.htm 
+. 	Consultation regarding the 2008 Biological Opinion provided to the U.S. Army Corps of Engineers by the U.S. Fish and Wildlife Service: This process has been reinitiated pursuant to provisions of the Endangered Species Act as of September 20, 2010. The consultation will continue on­going depth distribution data collection and analysis to determine the minimum flows needed to protect listed species. More information on the process can be found at the following website: http://www.sam.usace.army.mil/ACF.htm3 
+. 	Implementation of recently adopted federal nutrient criteria for Florida’s lakes and flowing waters: These new water quality criteria have implications for water quality dischargers and other stakeholders in Georgia, because Georgia must meet the criteria at the state line. More information on the nutrient criteria is available on the following website: 
+http://water.epa.gov/lawsregs/rulesregs/florida_index.cfm 
+. 	Potential state regulatory changes: The State Water Plan proposed several changes to water management regulations, such as modifying the dissolved oxygen water quality standard and developing new water conservation requirements. Proposed rule-making will be considered by the Board of Natural Resources. Public notice of rule-making by the Board is provided on the following website: http://www.gadnr.org/board4 
+. 	Information needs to support improved water quality and quantity management: Throughout the planning process, the limits of available information constrained planning decisions, and the Council identified numerous information needs to support improved future planning and management.  For more detail on recommendations to address information needs, see Section 7.4. 
+. 	On-going litigation over ACF Basin water management and allocation with neighboring states: The on-going litigation casts substantial uncertainty over future water resource management in the ACF and this water planning region. 
+Despite these uncertainties, the Council proceeded with plan development based on the best information currently available. The Council intends that future revisions of this plan will improve upon the current plan when possible, as conditions change and new information becomes available, and better promote the attainment of the Council’s vision and goals for the region. 
+3 The Council does not believe that the current flow target at Woodruff Dam has adequate scientific justification, and it states its position and recommendation regarding the flow target in Section 7.4 of this plan. 
+4On January 26, 2011, the DNR Board adopted new rules addressing permits for interbasin transfers of water based on a recommendation in the State Water Plan (see DNR Rules Chapter 391-3-6). 
+UPPER FLINT 
+
+September 2011 
+
+6. Addressing Water Needs and Regional Goals 
+6.2 	Selected Water Management Practices for the Upper Flint Region 
+The management practices selected by the Council are summarized in Table 6-1; the table is organized by the type of practice: Demand Management (DM), Supply Management and Flow Augmentation (SF), Water Returns Management (RM), and Water Quality (WQ). Two management practices were selected by the Council as most important to fulfilling the Council’s vision and goals and addressing identified by the resource assessment models. These practices are marked as “high priority” management practices. A discussion of the management practices follows the table. 
+Table 6-1: Water Management Practices Selected for the Upper Flint Region  
+Management Practice  Description/Definition of Action  
+DEMAND MANAGEMENT (DM)5  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint) and Alapaha (Suwannee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 3, 4, 5, 6  
+DM1: Improve the  . The Council recommends continued improvement in the  
+agricultural water  implementation of the agricultural water metering program to  
+withdrawal metering  ensure that the data collected is as comprehensive, accurate,  
+program  and useful as possible.  
+**HIGH PRIORITY**  . The Council recommends additional investment by the state  
+MANAGEMENT  in the metering program to ensure these outcomes.  
+PRACTICE  . The Council also recommends that the program provide annual reporting to the public on collected data (while recognizing the confidentiality constraints on the use of the data).  
+DM2: Implement Tier 1  Tier 1 and 2 water conservation practices include those required  
+and 2 non-farm water  by existing law or anticipated in upcoming state rule-making:  
+conservation practices in  . Submittal of water conservation plans by withdrawal  
+the region  permittees (DNR Rule 391-3-6-.07 and 391-3-2-.04(11)) . Landscape irrigation limits (4pm to 10am), as required by Water Stewardship Act of 2010, Section 4 (with exemptions)  (OCGA §12-5-7) . Even-odd watering restrictions for non-irrigation outdoor water uses (DNR Rule 391-3-30)  
+
+5 Supplemental Document 15 - Water Conservation Technical Memorandum reviews the information that the Council considered in selecting water conservation management practices. This document is available on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+
+6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Upper Flint Region  
+Management Practice  Description/Definition of Action  
+. Public car wash facility regulations, which require best management practices (DNR Rule 391-31) . Demonstration by water withdrawal permittees of progress toward water conservation goals or water efficiency standards (State Water Plan, Section 8) . International Water Association standards and practices required for drinking water providers (Water Stewardship Act, Section 3, OCGA §12-5-4.1) . Amendment of local building codes to require sub-metering in multi-tenant buildings, installation of high efficiency plumbing fixtures in all new construction, and installation of high­efficiency cooling towers in new construction (Water Stewardship Act, Sections 7, 8, and 9, OCGA §§ 12-5-180.1, 8-2-3, 8-2-23)  
+DM3: Implement Tier 3 and 4 non-farm water conservation practices with the support of incentive programs  . Utilize incentive programs to support the use of these practices.  
+DM4: Implement Tier 1 and 2 agricultural water conservation practices in the region  Tier 1 and 2 water conservation practices required by existing law or anticipated in upcoming state rule-making: . Implementation of conservation requirements under the Flint River Basin Water Development and Conservation Plan (2006) . Compliance with forthcoming requirement (established by Water Stewardship Act of 2010, OCGA §12-5-31) regarding active, inactive, and unused permits  
+DM5: Implement Tier 3 and 4 agricultural water conservation practices in the region with the support of incentive programs  . Incentive funding is available from the Soil and Water Conservation Districts and the Georgia Soil and Water Conservation Commission. . The Council endorses the following benchmarks for this practice: By January 2012, all new, and by January 2020, all existing agricultural irrigation systems will have application efficiencies of 80% or greater. By January 2050, all irrigation systems will have application efficiencies of 90% or greater. By January 2015, 25% of farmers using irrigation on their fields will adopt irrigation scheduling based on crop needs and available water supplies. By January 2020, 50% of farmers using irrigation on their  
+
+UPPER FLINT 
+
+September 2011 
+
+6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Upper Flint Region  
+Management Practice  Description/Definition of Action  
+fields will adopt irrigation scheduling based on crop needs and available water supplies. . A focus on a desired performance outcome will support increased conservation while allowing farmers to select what practices and approach will work best for their own operations. . Practices that farmers can use to attain this benchmark include low-pressure/full-drop nozzle irrigation systems, Variable Rate Irrigation, conservation tillage, irrigation scheduling, drip irrigation, as well as other conservation measures not listed here that best suit an individual farmer’s operation.  
+DM6: Manage new  The 2006 Flint River Basin Water Development and  
+agricultural water  Conservation Plan limits new agricultural withdrawal permits  
+withdrawal permits in the  based upon expected impact on nearby wells and streams.6  
+region according to the  Under the 2006 plan, the following requirements apply to new  
+2006 Flint River Basin  agricultural water withdrawal permits in the Flint River Basin:  
+Water Development and  . New permits require mandatory conservation measures, such  
+Conservation Plan  as end-gun shut off switches and leak prevention and repair, as a condition of the permit . New surface water permits in Ichawaynochaway and Spring Creek sub-basins must suspend use when streamflow drops below 25% Average Annual Discharge instead of 7Q10 . New permits in the Flint River Basin have a $250 application fee  
+DM7: Create an awards program to recognize agricultural irrigators for exemplary implementation of best management practices (BMPs) for water conservation  . Program to be modeled after Georgia Forestry Commission awards program for BMP implementation. . This program should be coordinated with existing Georgia Soil and Water Conservation Commission programs.  
+SUPPLY MANAGEMENT AND FLOW AUGMENTATION (SF)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint) and Alapaha (Suwannee); groundwater modeled shortfalls in  
+
+6 The 2006 Flint River Basin Water Development and Conservation Plan is available as Supplemental Document 6 on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+September 2011 
+
+6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Upper Flint Region  
+Management Practice  Description/Definition of Action  
+Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 2, 3, 4, 5  
+SF1: Evaluate storage  . Eliminating the modeled gap for surface water availability at  
+options in the Upper Flint  Bainbridge will require the addition of storage that can be  
+Region that can provide  used to augment supply and flows in the Flint River Basin.  
+for supply and  . The Council recommends creation of a study commission to  
+flow augmentation in dry  evaluate storage options within the Upper Flint Region.  
+periods  . A full range of storage and reservoir options should be  
+**HIGH PRIORITY**  evaluated.  
+MANAGEMENT  . The study commission’s evaluation should assess potential  
+PRACTICE  locations, viability, cost, and implementation.  
+SF2: Evaluate streamflow  . In dry periods, streamflow might be augmented through direct  
+augmentation via direct  pumping of groundwater into surface water streams.   
+pumping from aquifers in  . Several factors could limit the potential use of this practice,  
+order to support in-stream  including: groundwater yields, water quality, cost, aquifer  
+flows in dry periods  impacts, and streamflow impacts of aquifer pumping.  
+SF3: Replace surface  . This practice could support increased in-stream flows in some  
+water withdrawals with  places in the region.  
+groundwater withdrawals,  . The Council recommends that this practice be implemented  
+where feasible  with incentives. . The Council recognizes that environmental and financial factors may limit the implementation of this practice. However, the Council supports reducing pressure on in­stream flows through an emphasis on increased use of groundwater in the region – for new and existing withdrawals. . The practice should only be used where site specific evaluation indicates that it is practical and it will not adversely impact environmental resources, especially groundwater. . The Council recommends further evaluation of the feasibility of this practice and its potential impacts on groundwater aquifers in the region.  
+SF4: Use Aquifer Storage  . ASR could be used in the region to withdraw and store  
+and Recovery (ASR) as  surface water during periods of high flow and provide  
+needed for future water  augmentation for flows or supply in dry periods.   
+supplies in the region,  . The feasibility of an ASR project can vary greatly depending  
+with thorough evaluation  on location, condition of the receiving aquifer and water  
+of potential impacts  quality considerations. . ASR is probably best suited to provide water supply storage; its capability to provide for in-stream flow augmentation has not been directly evaluated.  
+
+UPPER FLINT 
+
+September 2011 
+
+6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Upper Flint Region  
+Management Practice  Description/Definition of Action  
+. The Council recognizes the need for further evaluation of specific proposals for ASR in the region on a case-by-case basis.   
+SF5: Encourage continued development of farm ponds in the region through existing incentive programs  . On-farm water storage filled in periods of high flow can replace direct pumping for irrigation from surface streams or wells during drought periods. . Impacts on flows through intercepted drainage and evaporative loss should be considered to minimize adverse impacts on surface water availability. . Incentive funding is available from the Soil and Water Conservation Districts and the Georgia Soil and Water Conservation Commission. . Future permits for farm pond withdrawals should include low flow protection requirements similar to those required in the Flint River Basin Water Development and Conservation Plan of 2006.  
+WATER RETURNS MANAGEMENT (RM)  
+Issues Addressed  Surface water availability sustainability criteria  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint) and Alapaha (Suwannee)  
+Council Goals Addressed  1, 3, 4  
+RM1: Restrict the development of new land application systems for wastewater treatment  . A preference for treatment systems that discharge to surface water over land application of wastewater supports increased return flows to the surface water. . The Council recommends that new Land Application Systems be used only as an option of last resort. . Treatment by land application systems currently accounts for 11% of total wastewater volume in the region. In Section 4.1.2, this proportion held constant in the wastewater treatment forecast. This management practice would seek to reduce the proportion treated by land application systems in the future.  
+WATER QUALITY (WQ)  
+Issues Addressed  Point and nonpoint source water pollution  
+Gaps Addressed  Water quality violations  
+Council Goals Addressed  1, 2, 3, 5, 6  
+WQ1: Improve  . Increase technical assistance from EPD to local communities  
+
+
+Table 6-1: Water Management Practices Selected for the Upper Flint Region  
+Management Practice  Description/Definition of Action  
+enforcement of existing  for improved education and improved enforcement of erosion  
+permits and regulations  and sediment control.  
+and implementation of  
+existing plans and  
+practices  
+WQ2: Improve  The Council recommends the following:  
+implementation of  . Encourage use of the Georgia Stormwater Management  
+nonpoint source controls  Manual or alternative equivalent stormwater management throughout the region. . Increase implementation of best management practices throughout the region for all industries. . Investigate and promote best management practices for water quality for all industries. . Encourage use of wastewater treatment systems with point source discharges where practicable and consider additional land application systems discharges only as a last resort (see management practice RM1). . Encourage local communities to increase stream buffer quality in the region. . Create a conservation land program that targets voluntary acquisition of stream buffers for water quality.  
+WQ3: Increase education directed toward improving water quality  . Improve education of local governments, industries, and individuals regarding the impact of activities on water quality in the region through multiple activities such as training courses for government staff and leaders focused on water quality and periodic water summits to highlight the water quality impacts challenges, and solutions shared by separate government agencies. . Establish a speakers’ bureau to assist in educating local communities. . Encourage increased education on best management practices for dirt road maintenance; use of the Georgia Better Back Roads Field Manual should be encouraged.7 . Encourage local communities to increase stream buffer quality in the region.  
+WQ4: Improve water quality monitoring  . Develop a better information base on water quality conditions to support improved resource assessment in the future.    
+
+UPPER FLINT
+
+7 The Georgia Better Back Roads Field Manual (2009) is available from the Georgia Resource Conservation & Development Council, Inc.  Electronic copies are available on the Internet: 
+http://www.tworiversrcd.org/GABBR.htm 
+September 2011 
+
+6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Upper Flint Region  
+Management Practice  Description/Definition of Action  
+. Increase sampling sites in the riverine portion of the basin, where data was limited in the water quality resource assessment for this plan. . Include more wet weather samples to support evaluation of nonpoint source impacts. . Increase parameters sampled at each sampling location as needed to improve water quality database and future assessments.  
+WQ5: Utilize technology to improve water resource management information  Use tools such as computer mapping  and database systems to:  . Identify water quality “hot spots”. . Document ongoing activities, such as existing monitoring programs.  
+
+The Council selected these management practices to apply to the whole Upper Flint Region. Although the region’s boundaries encompass multiple surface water and groundwater resources, the Council believes that the management practices will benefit all of these resources. 
+The selected management practices were adopted by the Council because they address gaps identified by the resource assessment models between resource needs and resource capacities, discussed in Sections 3 and 5. The practices were also selected to fulfill the Council’s vision and goals for the region (see Section 1.3).  
+The Council has extensively discussed the gaps identified by the surface water availability and groundwater availability assessment models. The model results indicated substantial gaps for these resources at the Bainbridge node of the Flint River Basin and in the Upper Floridan aquifer in the Dougherty Plain (the latter only has a small amount of overlap with the Upper Flint Region). The identified gap in the Flint at Bainbridge relates to the depletion of surface water flows in drought periods, as a result of consumptive use of surface water and groundwater (from Subarea 4 of the Upper Floridan aquifer). It also results from model assumptions used to project water diversions to upstream reservoirs.8 At many points in the period of record, the surface water availability gap identified by the model at Bainbridge is sufficiently large that it cannot be addressed without drastic suspension of consumptive water use, construction of large-scale storage, or both. 
+The Council requested additional modeling from EPD to determine the scale of storage that would be needed to offset the gap at Bainbridge identified by the surface water availability assessment. The Council did not make this modeling 
+8 As discussed in Sections 3 and 5, the Council questions the validity of these model assumptions and believes that they resulted in an overestimation of flow shortfalls in the Flint River Basin. 
+
+6. Addressing Water Needs and Regional Goals 
+request with the intention of proposing storage as the only management practice to address the gap, but rather, it made this request to aid Council members and others in understanding the magnitude of the gap and the potential management practices (storage or otherwise) needed to address it. 9 
+The resource assessment model was run with this objective, and it was determined that the amount of storage needed to offset flow shortfalls identified by the model at Bainbridge is 162,223 acre-feet. This amount accounts only for the volume needed to offset the modeled flow shortfall. It does not include additional volume that would be necessary (e.g., to offset evaporation, seepage, and other loss factors) or that might be added to provide for additional purposes (e.g., recreation). According to the model results, in 2007, a reservoir of 162,223 acre-feet would have been emptied completely. Furthermore, it would not have completely offset the modeled flow shortfall because of evaporation and seepage losses. Therefore, this estimate is not a design estimate for a reservoir. It does, however, indicate that a reservoir, or reservoirs, of significant size would be needed to close the modeled gap at Bainbridge.10 
+As described above, the Council selected management practices to address its vision and goals and gaps identified by the resource assessment models. However, the implications of the modeled gaps for other users, in-stream needs, and aquifer health are not fully understood; evaluation is needed to delineate and quantify the impacts of the modeled gaps. Without a more complete understanding of severity of these impacts, the Council would violate its own vision and goals if it were to recommend complete closing of the modeled gaps at this time. The Council's vision and goals call for sustainable management of water resources that ensures that the welfare and needs of the region are met. They call for providing for the needs of all users, while protecting the economy, public health, and natural systems, and they specifically call for protection of the forestry and agricultural sectors of the regional economy. Complete closure of the modeled gaps would require complete cessation of water withdrawals by agriculture in dry periods unless and until offsetting storage or augmentation are implemented. Even with complete cessation of water withdrawal by agriculture in dry periods, the entire modeled gap cannot be closed. The complete cessation of consumptive use would have severe economic impacts for water users in the region, especially agriculture, and the economic impact on the state would be devastating. It would be a major water policy shift with extraordinary implications for the region’s economy and quality of life. Such drastic action is not justified. Construction of large-scale storage or augmentation will close gaps identified by the 
+9 The Council urges implementation of management practice SF1 in this plan. The Council has ranked this management practice as one of its highest priorities. This management practice calls for the evaluation of storage options in the Upper Flint Region to provide for supply and flow augmentation in dry periods. 
+10 The results of the storage estimate model run for the Bainbridge node are described in Supplemental Document 16 - EPD Technical Memorandum: Summary Future (2050) Resource Assessment in ACF River Basins Scenario MidChat_SWFA0001, available on the Upper Flint Council’s website: 
+http://www.upperflint.org/pages/our_plan/index.php 
+UPPER FLINT 
+
+September 2011 
+
+6. Addressing Water Needs and Regional Goals 
+model. Therefore, it is the Council’s position that the only way to satisfy the modeled gap at Bainbridge is to build one or more reservoirs in the Flint River Basin. 
+Water conservation is a top priority management practice in this plan. The Upper Flint Council recognizes that water users have already invested in and implemented a substantial portfolio of conservation practices in the region. Their prior conservation efforts should be taken into account and given credit toward compliance in the design of conservation programs and policies.11 
+Water quality is another priority for the Council. The Council recognizes that a large investment has been made in the region in Best Management Practices that have been implemented by municipalities, agriculture, forestry, and industry to protect and improve water quality. These prior efforts should be taken into account and given credit toward compliance in the design of water quality programs and policies. 
+As the planning process evolves, the Council recommends the development of more precise measures of the health of its water resources. This recommendation is explored further in Section 7.4. 
+11 See Section 7.4 for a related recommendation on water conservation policy. 
+6-11 
+[This Page Intentionally Left Blank] 
+
+7. IMPLEMENTING WATER MANAGEMENT PRACTICES 
+[This Page Intentionally Left Blank] 
+
+Section 7. Implementing Water Management Practices 
+7.1 	Implementation Schedule and Responsible Parties 
+Table 7-1 details actions, identifies responsible parties, and provides timeframes for implementation of the management practices in Table 6-1. Near-term practices are those which will be implemented or encouraged over the five year timeframe leading up to the next update of this Regional Water Plan. Long-term management practices vary in duration and scope and will require further study and development to define time requirements. As noted in Section 6, the Council selected these management practices to apply to the whole Upper Flint Region. Although the region’s boundaries encompass multiple surface water and groundwater resources, the Council believes that the management practices will benefit all of these resources. 
+7.2 	Fiscal Implications of Selected Water Management Practices 
+Table 7-2 describes the fiscal implications of this plan. Cost estimates for implementation are included, to the extent possible, based on available information. Sources of potential funding are also listed. 
+The availability of funding is a critical determinant in the ability of the responsible parties to successfully implement the management practices identified in this plan. In general, sources of funding for individuals, such as farmers, include investment by the individual and grants and incentive programs. Sources of funding for implementing management practices at the local government or utility level could come directly from revenues generated by water and wastewater providers, local government general funds raised through property taxes, or service fees charged by local governments to citizens. Local governments and utilities can also apply for loans and grants to finance implementation. Affected authorities and individuals in the region will be responsible for determining the best method for funding and implementing applicable management practices. 
+
+7. Implementing Water Management Practices 
+UPPER FLINT 
+
+Table 7-1: Implementation Schedule for the Upper Flint Region  
+Management Practice  Initial Implementation Steps  Short-term Actions  Long-term Actions  Responsible Parties  
+DEMAND MANAGEMENT (DM)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint) and Alapaha (Suwannee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 3, 4, 5, 6  
+DM1: Improve the  Initiate review  Complete  Continue  Georgia Soil  
+agricultural water  of how to make  comprehensive  improved  and Water  
+withdrawal  meter data  meter  implementation  Conservation  
+metering program  usable in water  installations as  (on-going)  Commission  
+**HIGH  planning  soon as  (GSWCC);  
+PRIORITY**  process by  possible  EPD;  
+MANAGEMENT  January 2012  (statutory  Universities  
+PRACTICE  deadline was  
+July 2009);  
+Begin annual  
+reporting on  
+results by  
+January 2012;  
+Implement data  
+management  
+improvements  
+per review  
+DM2: Implement  Complete DNR  Comply with  Continue  DNR Board,  
+Tier 1 and 2 non- Board Rule  existing and  implementation  EPD, Municipal  
+farm water  Making for new  new rules by  of existing  Surface Water  
+conservation  conservation  dates specified  programs (on­ and  
+practices in the  requirements  in rules  going)  Groundwater  
+region  by June 2011  Withdrawal Permittees  
+DM3: Implement  Continue implementation of existing programs (on- EPD, DNR  
+Tier 3 and 4 non­ going); Evaluate need for new incentive programs  Sustainability  
+farm water  Division,  
+conservation  Municipal  
+practices with the  Surface Water  
+support of incentive  and  
+programs  Groundwater Withdrawal  
+
+September 2011 
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-1: Implementation Schedule for the Upper Flint Region  
+Management Practice  Initial Implementation Steps  Short-term Actions  Long-term Actions  Responsible Parties  
+Permittees  
+DM4: Implement  Continue implementation of Flint River Basin Water  EPD,  
+Tier 1 and 2  Development and Conservation Plan (2006) and  Agricultural  
+agricultural water  Water Stewardship Act (on-going)  Surface Water  
+conservation  and  
+practices in the  Groundwater  
+region  Withdrawal Permittees  
+DM5: Implement  Continue  Attain  Attain  Agricultural  
+Tier 3 and 4  implementation  benchmarks:  benchmarks:  irrigators,  
+agricultural water  of existing  . New irrigation  . Existing  GSWCC, Soil  
+conservation  incentive  systems will  irrigation  and Water  
+practices in the  programs (on­ have  systems will  Conservation  
+region with the  going)  application  have  Districts, US  
+support of incentive  efficiency of  application  Department of  
+programs  80% or  efficiency of  Agriculture  
+greater by  80% or  Natural  
+January  greater by  Resources  
+2012;  January 2020;  Conservation  
+. 25% of  . All irrigation  Service (NRCS)  
+farmers using  systems will  
+irrigation will  have  
+adopt  application  
+irrigation  efficiency of  
+scheduling by  90% or  
+January 2015  greater by  
+January 2050;  
+. 50% of  
+farmers using  
+irrigation will  
+adopt  
+irrigation  
+scheduling by  
+January 2020  
+DM6: Manage new  Continue implementation of 2006 Flint River Basin  EPD,  
+agricultural water  Water Development and Conservation Plan (on- Agricultural  
+withdrawal permits  going)  Surface Water  
+in the region  and  
+
+
+UPPER FLINT 
+
+Table 7-1: Implementation Schedule for the Upper Flint Region  
+Management Practice  Initial Implementation Steps  Short-term Actions  Long-term Actions  Responsible Parties  
+according to the  Groundwater  
+2006 Flint River  Withdrawal  
+Basin Water  Permittees  
+Development and  
+Conservation Plan  
+DM7: Create an  Initiate awards  Implement awards program  GSWCC; EPD;  
+awards program to  program by  annually  Universities;  
+recognize  July 2012  Agricultural  
+agricultural  commodity  
+irrigators for  groups  
+exemplary  
+implementation of  
+best management  
+practices (BMPs)  
+for water  
+conservation  
+SUPPLY MANAGEMENT AND FLOW AUGMENTATION (SF)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint) and Alapaha (Suwannee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 2, 3, 4, 5  
+SF1: Evaluate  Identify funding  Report to  Implement per  Council,  
+storage options in  for evaluation  Council and  recommen- Neighboring  
+the Upper Flint  and establish  policymakers  dations of study  councils, EPD,  
+Region that can  Study  by December  University  
+provide for flow  Commission by  2013  researchers/  
+augmentation in  December   consulting  
+dry periods  2011  firms, Georgia  
+**HIGH  Environmental  
+PRIORITY**  Finance  
+MANAGEMENT  Authority  
+PRACTICE  (GEFA)  
+SF2: Evaluate  Initiate  Report to  Implement per  Council,  
+streamflow  feasibility study  Council and  recommen- University  
+augmentation via  by December  EPD by  dations of study  researchers/  
+direct pumping  2011  December  consulting  
+
+September 2011 
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-1: Implementation Schedule for the Upper Flint Region  
+Management Practice  Initial Implementation Steps  Short-term Actions  Long-term Actions  Responsible Parties  
+from aquifers in  2012; Identify  firms; EPD  
+order to support in­ funding  
+stream flows in dry  sources to  
+periods  support practice if feasibility study is favorable  
+SF3: Replace  Identify  Provide incentives for  EPD, University 
+surface water  potential  conversions  researchers/  
+withdrawals with groundwater  conversion sites by  consulting firms  
+withdrawals, where  December  
+feasible  2012; identify funding for conversion incentives  
+SF4: Use Aquifer  No specific action  Evaluate  EPD,  
+Storage and  potential  Underground  
+Recovery (ASR) as  impacts of any  injection permit  
+needed for future  ASR proposal  applicants (for  
+water supplies in  thoroughly  ASR systems),  
+the region, with  Municipal or  
+thorough  industrial water  
+evaluation of  users that  
+potential impacts  pursue ASR  
+SF5: Encourage  Continue implementation of existing incentive  GSWCC, Soil  
+continued  programs (on-going)  and Water  
+development of  Conservation  
+farm ponds in the  Districts, NRCS  
+region through  
+existing incentive  
+programs  
+WATER RETURNS MANAGEMENT (RM)  
+Issues Addressed  Surface water availability sustainability criteria  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint) and Alapaha (Suwannee)  
+Council Goals Addressed  1, 3, 4  
+RM1: Restrict the  Preference for return flows via discharge as  EPD;  
+
+
+UPPER FLINT 
+
+Table 7-1: Implementation Schedule for the Upper Flint Region  
+Management Practice  Initial Implementation Steps  Short-term Actions  Long-term Actions  Responsible Parties  
+development of  opposed to land application should be considered in  Wastewater  
+new land  new and expanding permits for wastewater  treatment  
+application systems  treatment facilities  facilities  
+for wastewater  (existing and  
+treatment  planned)  
+WATER QUALITY (WQ)  
+Issues Addressed  Point and nonpoint source water pollution  
+Gaps Addressed  Water quality violations  
+Council Goals Addressed  1, 2, 3, 5, 6  
+WQ1: Improve  Initiate EPD  EPD, local  
+enforcement of  training for  governments  
+existing permits  local erosion  
+and regulations  and sediment  
+and implementation  control  
+of existing plans  programs by  
+and practices  July 2012  
+WQ2: Improve  Initiate program  Continue  Continue  EPD, GSWCC,  
+implementation of  to encourage  implementation  implementation  Georgia Land  
+nonpoint source  adoption of  of existing  of existing  Conservation  
+controls  Georgia  programs (on­ programs (on- Program, local  
+Stormwater  going); adopt  going)  governments  
+management  Georgia  
+manual or  Stormwater  
+alternative  management  
+equivalent  manual or  
+stormwater  alternative  
+management  equivalent  
+by December  stormwater  
+2011; initiate  management  
+design and  by December  
+development of  2013 (local  
+regional land  governments);  
+conservation  implement  
+program  regional  land  
+directed at  conservation  
+stream buffers  program  
+by December  directed at  
+2011  stream buffers  
+
+September 2011 
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-1: Implementation Schedule for the Upper Flint Region  
+Management Practice  Initial Implementation Steps  Short-term Actions  Long-term Actions  Responsible Parties  
+by June 2013  
+WQ3: Increase  Establish a  Continue implementation of  EPD, GSWCC,  
+education directed  speakers’  education programs per plan  local  
+toward improving  bureau to  governments  
+water quality  assist in  
+educating local  
+communities by  
+July 2012;  
+Develop  
+coordinated  
+nonpoint  
+source  
+education plan  
+by January  
+2012  
+WQ4: Improve  Identify funding  Implement increased level of  EPD, Council  
+water quality  source for  monitoring per identified priorities  
+monitoring   increased  and funding availability;  
+monitoring by  incorporate monitoring results into  
+December  future resource assessments for  
+2011; identify  future cycles of regional water  
+priority sites for  planning   
+increased  
+monitoring by  
+July 2012  
+WQ5: Utilize  Develop data  Implement coordinated data  EPD, water  
+technology to  coordination  analysis (on-going)  withdrawal and  
+improve water  initiative to  wastewater  
+resource  compile water  treatment  
+management  quality data by  permittees  
+information  July 2012  
+
+
+UPPER FLINT 
+
+Table 7-2: Cost Estimates for Implementation Responsibilities  
+Management Practice  Capital and Programmatic Costs  Potential Funding Sources  Notes and Sources  
+DEMAND MANAGEMENT (DM)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint) and Alapaha (Suwannee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 3, 4, 5, 6  
+DM1: Improve the  Cost per meter  GSWCC, Georgia  Meters provided by state to  
+agricultural water  installed: $1,540  General Assembly  withdrawal permittees with  
+withdrawal metering  Maintenance of  permits as of July 1, 2003;  
+program  installed meters:  New permittees must  
+**HIGH PRIORITY**  $270,000/year  purchase own meter  
+MANAGEMENT  Analysis and  
+PRACTICE  Reporting: $100,000/year  
+DM2: Implement  $100 - $3,000 per  State agencies,  Low Range: Includes  
+Tier 1 and 2 non­ million gallons b, c  Water and  residential water audits,  
+farm water  wastewater  leak response, training,  
+conservation  revenues,  rate structure modifications   
+practices in the  individuals as  High Range: Includes  
+region  required by law  rebate programs, facility upgrades, water line replacement, water reuse, and programs targeting high water usersc  
+DM3: Implement  $100 - $3,000 per  State agencies,  Low Range: Includes  
+Tier 3 and 4 non­ million gallonsb, c  Water and  education,  audits, rain  
+farm water  wastewater  sensor shutoffs  
+conservation  revenues  High Range: Includes  
+practices with the  rebate programs, facility  
+support of incentive  upgrades, water line  
+programs  replacement, water reuse, and programs targeting high water usersc  
+DM4: Implement  $100-$4,000 per  Individual  
+Tier 1 and 2  million gallonsb, c  investment;  
+agricultural water  incentive programs  
+conservation  (GSWCC; Soil and  
+
+September 2011 
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-2: Cost Estimates for Implementation Responsibilities  
+Management Practice  Capital and Programmatic Costs  Potential Funding Sources  Notes and Sources  
+practices in the region  Water Conservation Districts)  
+DM5: Implement  $100-$4,000 per  Individual  Low Range: Sod based  
+Tier 3 and 4 agricul  million gallonsb, c  investment;  rotation with conservation  
+tural water conser­ incentive programs  tillage  
+vation practices in  (GSWCC; Soil and  High range: Variable rate  
+the region with the  Water Conservation  irrigation  
+support of incentive  Districts)  
+programs  
+DM6: Manage new  No new costs  EPD  Withdrawal permits issued  
+agricultural water  associated with  after the 2006 Flint Plan  
+withdrawal permits  implementing  have a $250 application fee  
+in the region accord­ existing permit  
+ing to the 2006 Flint  program  
+River Basin Water  
+Development and  
+Conservation Plan  
+DM7: Create an  Basic program  Georgia General  
+awards program to  could be  Assembly, private  
+recognize  implemented for  donations  
+agricultural irrigators  approximately  
+for exemplary  $10,000 annually  
+implementation of  
+best management  
+practices (BMPs) for  
+water conservation  
+SUPPLY MANAGEMENT AND FLOW AUGMENTATION (SF)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint) and Alapaha (Suwannee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 2, 3, 4, 5  
+SF1: Evaluate  Cost of evaluation:  Municipal or  Reservoir cost dependent  
+storage options in  $0.5 to $3 million  industrial capital  on land value and con­ 
+the Upper Flint  (dependent on  investment; state  struction materials; costs of  
+Region that can  scope)  and federal funding;  piping, land acquisition,  
+provide for supply  private investment;  permitting, conveyance,  
+and flow  water/wastewater  and treatment not included;  
+
+
+UPPER FLINT 
+
+Table 7-2: Cost Estimates for Implementation Responsibilities  
+Management Practice  Capital and Programmatic Costs  Potential Funding Sources  Notes and Sources  
+augmentation in dry  revenues  Cost estimate for new  
+periods  storage:$10,000-$350,000  
+**HIGH PRIORITY**  per million gallons (annual  
+MANAGEMENT  average yield); Cost  
+PRACTICE  estimate for increasing capacity of existing storage: $10,000-$150,000 per million gallons annual average yield);b, c Evaluation may include costs for (but not limited to): development of yield and performance criteria, site selection; property assessments/appraisals; definition of permit requirements  
+SF2: Evaluate  $1,000-$100,000  Federal or state  Well costs do not include  
+streamflow  per million gallons  agencies  land acquisition;  
+augmentation via  per yearb, c  Costs dependent on well  
+direct pumping from  depth, soil conditions,  
+aquifers in order to  piping distance, and  
+support in-stream  number of pump stations;   
+flows in dry periods  Cost estimates include piping and treatment for municipal supply wells; Costs of wells for irrigation, which does not require treatment, may be lessc  
+SF3: Replace  $1,000-$100,000  Individual  See comments for SF2  
+surface water  per million gallons  investment;  above  
+withdrawals with  annual yieldb, c  incentive programs  
+groundwater  (GSWCC; Soil and  
+withdrawals, where  Water Conservation  
+feasible  Districts)  
+SF4: Use Aquifer  $30,000-$225,000  Municipal or  Dependent on well depth,  
+Storage and  per million gallons  industrial capital  soil conditions, piping  
+Recovery (ASR) as  annual yieldb, c  investment;  distance, and number of  
+needed for future  water/wastewater  pump stationsc  
+water supplies in the  revenues   
+region, with  
+
+September 2011 
+
+7. Implementing Water Management Practices 
+Table 7-2: Cost Estimates for Implementation Responsibilities  
+Management Practice  Capital and Programmatic Costs  Potential Funding Sources  Notes and Sources  
+thorough evaluation of potential impacts  
+SF5: Encourage continued development of farm ponds in the region through existing incentive programs  $12.50 per cubic yard of earth excavation and grading  Individual investment; Incentive programs from NRCS and GSWCC  Estimated cost for earth excavation and grading; Cost does not include pumping and piping costs  
+WATER RETURNS MANAGEMENT (RM)  
+Issues Addressed  Surface water availability sustainability criteria  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint) and Alapaha (Suwannee)  
+Council Goals Addressed  1, 3, 4  
+RM1: Restrict the development of new land application systems for wastewater treatment  No new costs  
+WATER QUALITY (WQ)  
+Issues Addressed  Point and nonpoint source water pollution  
+Gaps Addressed  Water quality violations  
+Council Goals Addressed  1, 2, 3, 4, 5, 6  
+WQ1: Improve enforcement of existing permits and regulations and implementation of existing plans and practices  Costs to improve implementation and enforcement of existing programs are variable  State and federal funding; permit fees  Need to evaluate whether implementation and enforcement can be improved without additional expenditures; costs could include (but not limited to): site visits, training, enhanced tools/practices  
+WQ2: Improve implementation of nonpoint source controls  $0-$2 per capitac  State and federal funding and incentive programs; private investment  Costs could include (but not limited to): education; new ordinancesc  
+WQ3: Increase  $0-$2 per capitac  State and federal  Low range: print materials  
+
+7-11 
+
+7. Implementing Water Management Practices 
+Table 7-2: Cost Estimates for Implementation Responsibilities  
+Management Practice  Capital and Programmatic Costs  Potential Funding Sources  Notes and Sources  
+education directed  funding and  High range: mass media  
+toward improving  incentive programs;  
+water quality  local governments; water/ wastewater revenues  
+WQ4: Improve  $4,000-$8,000 per  State agencies  Grab sampling includes  
+water quality  site (grab sample);  monitoring chemical water  
+monitoring  $5,000-$20,000  per site (habitat and benthos monitoring)c  quality annually for fecal coliform bacteria and traditional stormwater parameters (no metals); Habitat and benthos monitoring includes monitoring biological water quality annually looking at habitat and macroinvertebrate populationsc  
+WQ5: Utilize  Variable  State agencies; local  
+technology to  governments;  
+improve water  water/wastewater  
+resource  revenues  
+management  
+information  
+Notes and Sources: a) Programmatic costs will vary widely depending on the specific actions selected. Further study and data are needed to refine the evaluation of costs and benefits of selected practices. All values should be viewed as planning level numbers that can be improved through further study and data collection regarding the level of baseline implementation already in place and the corresponding water quantity and quality benefits achieved. b) Cost per million gallons is a cost benefit metric, which is defined as the total 2010 costs divided by the total millions of gallons yielded or saved through conservation per year. c) Source: Georgia EPD. Supplemental Guidance for Regional Planning Contractors: Water Management Practice Cost Comparison, April 2010. Available on the EPD water planning website: http://www.georgiawaterplanning.org/pages/technical_guidance/regional_planning_guidance.php  
+
+UPPER FLINT 
+
+September 2011 
+
+7. Implementing Water Management Practices 
+7.3 Alignment with Other Plans 
+The development of this plan by the Upper Flint Council builds upon a knowledge base developed in previous planning efforts by state and local governments and authorities. Numerous existing water resources related plans and information sources were consulted in the development of this plan. More information on these documents can be found in Supplemental Document 5 - Existing Regulatory and Local Plan Review and Supplemental Document 14 - Management Practice Selection Technical Memorandum, which are available on the Upper Flint Council’s website (http://www.upperflint.org/pages/our_plan/index.php). 
+The council also ensured alignment with other Regional Water Plans was achieved by participating in a series of joint meetings, especially with the Lower Flint-Ochlockonee and Middle Chattahoochee Councils. In these meetings, council members discussed shared issues relating to resource availability and quality and policy, regulatory, and funding issues. As a result of this collaboration, where possible, the councils coordinated their plans. No conflicts between these regional water plans have been identified. 
+Alignment with the existing Flint River Basin Regional Water Development and Conservation Plan (2006) was discussed by the Council throughout the planning process. While the Council’s recommendations improve upon the 2006 plan, none of its recommendations conflict with that plan.1 
+7.4 Recommendations to the State 
+The Upper Flint Council has identified several recommended actions that would improve water resource management and planning in this region and the state as a whole. 
+Information Needs: 
+Addressing the following information needs would support improved water resources management and future water planning. Implementation of research and assessments to fill these information needs will require funding (state, federal, other). Implementing agencies are not indicated here; if funding is identified, qualified researchers from state universities, institutions, and agencies, as well as private sector firms, can fulfill these information needs. As new information becomes available, it should be incorporated into future cycles of this regional water planning process, and the resource assessment models should be modified to reflect up-to­date information as it is developed. 
+1 The 2006 Flint River Basin Regional Water Development and Conservation Plan is described in Section 2.3 and a copy of the 2006 plan is provided as Supplemental Document 6 on the Upper Flint Council’s website: http://www.upperflint.org/pages/our_plan/index.php 
+7-13 
+
+7. Implementing Water Management Practices 
+. 	Improve resource assessment models used in the regional water planning process through increased use of actual water use and resource conditions data. 
+. 	Evaluate the environmental and other impacts of low flow conditions modeled at the Bainbridge planning node; determine a low flow criteria below which adverse ecosystem impacts are predicted. 
+. 	Increase the number of surface water availability model planning nodes (used as evaluation points) in the Flint River Basin to support more detailed geographic understanding of water resource conditions. 
+. 	Improve assessment of groundwater use and recharge to support better understanding of impacts of use on aquifers and streamflow and to support protection for aquifer recharge areas. 
+. 	Conduct a comprehensive assessment of baseline implementation of water conservation and water quality Best Management Practices (BMPs) by agricultural producers. The Council recognizes that state and federal agencies have existing programs that measure BMP implementation, but at this time, a comprehensive baseline assessment is lacking. A comprehensive field survey of BMP implementation, such as the one conducted periodically by the forestry industry, would support estimation of potential benefits of future implementation, tracking of implementation progress, and BMP prioritization. 
+. 	Evaluate the full water cycle impacts of irrigation and evaporative losses from reservoirs to support better understanding of these factors in water resource planning. 
+. 	Encourage State and Federal agencies to reevaluate the scientific justification for the minimum flow requirements for maintaining healthy aquatic ecosystems below Jim Woodruff Lock and Dam in the Apalachicola River. It is the opinion of this Council that the 5,000 cubic feet per second instantaneous flow target in the 1989 Water Control Manual (current operating plan when this plan was published) does not have sound scientific justification. 
+. 	Improve implementation of the agricultural water withdrawal metering program of the Georgia Soil and Water Conservation Commission by: 
+o 	Completing comprehensive installation of meters 
+
+o 	Ensuring the meters are functioning properly through regular maintenance inspection 
+
+o 	Increasing data collection on parameters including monthly use, crops, inputs 
+
+o 	Reporting aggregate results annually to permittees and policymakers 
+
+o 	Preparing collected data in a manner that will facilitate use in future resource assessments 
+
+
+UPPER FLINT 
+
+September 2011 
+
+7. Implementing Water Management Practices 
+. 	Evaluate implementation and effectiveness of water conservation practices. Water conservation is a priority focus of the management practices in this plan, but there are currently several practical limitations to measuring progress and impact in conservation implementation, such as inconsistent terminology, lack of available data and the need to identify practical ways of collecting data. Periodically, it will be important to assess the progress and benefit of the water conservation program. 
+. 	Evaluate the impacts of farm ponds on stream flows through intercepted drainage and evaporative loss.  Also improve how farm pond withdrawals are incorporated into the resource assessment models. 
+. 	Evaluate the use designations assigned to stream reaches in the Upper Flint Region as a part of the Triennial Review of Georgia Water Quality Standards. This review is intended to ensure that water quality performance criteria reflect actual conditions, in terms of both use and quality. 
+. 	Conduct a peer review of the lake and watershed water quality assessment models to better understand the methodology as it relates to the output and calibration. Pending the review, the council recommends that the model outputs not be utilized for setting water quality standards in-stream or for any other regulatory purposes including point source permitting in the region. 
+Water Policy Recommendations: 
+The following recommendations urge the General Assembly and other policymakers in Georgia (e.g., Board of Natural Resources) to pursue actions to improve water resource management in the state and in the Upper Flint Region.  
+. 	The Council recommends that the Georgia General Assembly provide funding for continued planning by the regional water councils, as described in Section 14 of the State Water Plan, in order to ensure continued progress toward the vision and goals of the state and regional water plans. The Council also recommends that the General Assembly provide funding to support monitoring of plan implementation, data collection to support future planning by the regional water councils, and continued refinement of water resource assessments used in the development of the regional water plans. 
+. 	The Council recommends that the Georgia General Assembly and implementing agencies, such as EPD, explore all possible funding sources to offset or pay for many of the management practices outlined in the Plan. Financial incentives and reimbursement for implementation of practices will expedite the progress needed to achieve the goals of the Plan. 
+. 	The Council recommends that EPD and other agencies with water policy responsibilities should design water conservation policy and regulations to recognize and credit water users for conservation practices that they have already implemented. Conservation policies and regulations should prioritize addressing consumptive over nonconsumptive uses. Additionally, 
+7-15 
+
+7. Implementing Water Management Practices 
+UPPER FLINT 
+
+conservation policy and regulations should be designed with an emphasis on cost-effectiveness as a key criterion. 
+. 	The Council urges the Georgia General Assembly and other state policymakers not to preclude interbasin transfer as an option for future water management in the region, as needed and following thorough scientific evaluation. Interbasin transfers of water exist in many places in Georgia at this time. The Council recognizes that interbasin transfers (existing or future) can play an important role in water resource management. Interbasin transfers of water can provide supply or flows to a receiving basin where water is needed. Rules recently adopted by the Georgia Board of Natural Resources in January 2011 will help to ensure that future permits for interbasin transfers are thoroughly evaluated.2 
+. 	The Council recommends that irrigation suspension be used only through implementation of the Flint River Drought Protection Act, only by voluntary means, with notification to farmers before March 1 when possible, and only as a last resort when other options are not available to address severe flow depletions. The Council supports voluntary implementation of the Flint River Drought Protection Act (OCGA §12-5-40) by EPD through an irrigation suspension auction, when absolutely necessary in abnormally dry periods and when other options are not available to address severe flow depletions. When possible, EPD should provide notification of use of the Flint River Drought Protection Act before the March 1 drought declaration deadline. Earlier notification to farmers would inform planting decisions and help reduce the cost to farmers and to the state for irrigation suspension. The Council acknowledges the need to improve drought prediction tools to support earlier notification and supports EPD efforts to develop better predictive tools.  The Flint River Drought Protection Act has not had adequate funding in recent years, and a reliable source of funding is needed. 
+. 	The Council recommends that the Georgia General Assembly legislate authority to the Regional Water Councils, including the Upper Flint Council, to manage, plan and provide oversight of water resources within each region around the State. Funding should be provided to the Councils from State appropriations.  Revenue raising authority should be considered for these councils (similar to the Metropolitan North Georgia Water Planning District). Funding raised should be used to provide for coordination and implementation of regional and state water plans and for studies, assessments and future plan updates within the respective regions. 
+. 	The Council urges the State to seek a timely resolution of current interstate water issues that directly affect the Apalachicola-Chattahoochee-Flint Basin. The Council recommends the development of a tri-state framework designed 
+2 See DNR Rules Chapter 391-3-6. 
+September 2011 
+
+7. Implementing Water Management Practices 
+to address interstate water issues in the future and the inclusion of the Regional Water Councils within this framework. 
+. 	The Council recommends continued coordination and cooperation among neighboring water councils.  The Upper Flint Council has worked closely with the Middle Chattahoochee and Lower Flint-Ochlockonee Councils, and our joint efforts will benefit our regions and the state as a whole. 
+Coordinated Recommendations with Neighboring Councils: 
+Throughout the process of developing this plan, the Upper Flint Council met several times with neighboring regional water councils to discuss shared water resources and topics of concern. The Council met several times with the Lower Flint-Ochlockonee and Middle Chattahoochee Councils and developed a collaboration with these councils that led to their agreement on a set of joint recommendations. The following joint recommendations were approved by all three councils. The agreement among these councils on these recommendations indicates the importance of these recommendations to the Apalachicola-Chattahoochee-Flint Basin, of which all three councils are a part, and to the state as a whole. 
+These joint recommendations overlap with some of the Upper Flint Council’s own management practices and recommendations. Where overlap does occur, the Council does not see any conflict; the Council’s management practices and recommendations generally provide more detail than the joint recommendations. In all cases, the Council’s own regional water plan takes precedence over the joint recommendations.  
+The Upper Flint, Lower Flint-Ochlockonee, and Middle Chattahoochee Councils:  
+. 	Recognize the critical need for more storage in the Apalachicola­Chattahoochee-Flint (ACF) System and recommend that a plan for additional storage be developed and implemented and that it consider the following: better utilization of existing storage in the Chattahoochee, new storage in the Flint, and enhancement of existing storage capacity. 
+. 	Urge EPD and those involved in the resource assessment modeling to improve upon existing models for future regional water planning by making greater use of actual and current data on water use and conditions and by developing assumptions that more closely approximate actual conditions.  
+. 	Request that state and federal agencies reevaluate the scientific justification for the minimum flow requirements at Woodruff Dam that are intended to maintain healthy aquatic ecosystems. 
+7-17 
+   [This Page Intentionally Left Blank] 
+
+8. MONITORING AND REPORTING PROGRESS 
+[This Page Intentionally Left Blank] 
+
+Section 8. Monitoring and Reporting Progress 
+8.1. Benchmarks 
+The benchmarks listed in Table 8-1 below will be used to assess the effectiveness of this regional water plan’s implementation and identify required revisions. The Council selected both qualitative and quantitative benchmarks that will be used to assess whether the water management practices are addressing gaps identified by the resource assessment models between resource capacity and demand over time and whether the council’s vision and goals are being met (or progress is being made toward attainment). The benchmarks will be used to evaluate the Regional Water Plan effectiveness at the next five-year plan review. 
+Table 8-1: Benchmarks for Upper Flint Regional Water Plan  
+Management Practice  Benchmark  Measurement Tools  Time Period  
+All Management Practices  Revised resource assessments  Quantify the impacts of implemented management practices on gaps identified by the models in the Flint, Ochlockonee, Suwannee Basins and in the Upper Floridan (Dougherty Plain) and Claiborne aquifers  Data to be gathered and compiled at the five- year update to this regional water plan  
+DEMAND MANAGEMENT (DM)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint) and Alapaha (Suwannee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 3, 4, 5, 6  
+
+8-1 
+
+8. Monitoring and Reporting Progress 
+Table 8-1: Benchmarks for Upper Flint Regional Water Plan  
+Management Practice  Benchmark  Measurement Tools  Time Period  
+All Demand  Per capita water use  Updated per capita use  Per capita water  
+Management  (non-farm);  estimates for next  use: every five  
+Practices (DM1  agricultural water  iteration of regional water  years; agricultural  
+through DM7)  use (note that interpretation requires adjustment for climate and crops)  plan; agricultural water meter readings  meter readings: annually  
+DM1  Complete meter installations as soon as possible (statutory deadline was July 2009)  Evaluate meter installations against number of permitted withdrawals; availability of annual summary report  Annual  
+DM2  Compliance with permit requirements  Progress reporting required for permittees  Annual  
+DM4 and DM5  Compliance with permit requirements; New irrigation systems will have application efficiency of 80% or greater by January 2012; Existing irrigation systems should have  Permit enforcement actions; incentive program implementation reporting; NRCS/ Extension agent estimates of implementation; survey of baseline implementation with updates  Enforcement actions: on-going; practice implementation: summary report at next regional water plan iteration (5 years)  
+application efficiency of 80% or greater by January 2020; All irrigation systems will have application efficiency of 90% or greater by January 2050; 25% of farmers using irrigation will adopt irrigation scheduling by January 2015; 50% of farmers using irrigation will adopt irrigation scheduling by January 2020  
+
+MIDDLE OC MULGEE 
+DRAFT 
+IV ­
+2 G e o r
+gi
+a S ta te ­
+wi d
+e Wa t
+er
+M a na gem e nt Pl
+a n 
+DAY M O N T
+H Y E A R 
+UPPER FLINT 
+
+September 2011 
+
+8. Monitoring and Reporting Progress 
+Table 8-1: Benchmarks for Upper Flint Regional Water Plan  
+Management Practice  Benchmark  Measurement Tools  Time Period  
+SUPPLY MANAGEMENT AND FLOW AUGMENTATION (SF)  
+Issues Addressed  Surface water availability sustainability criteria; groundwater sustainable yields  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint) and Alapaha (Suwannee); groundwater modeled shortfalls in Upper Floridan (Dougherty Plain) and Claiborne  
+Council Goals Addressed  1, 2, 3, 4, 5  
+All Supply Management and Flow Augmentation Practices (SF1 through SF5)  Implementation of management practices  Perform regional survey to quantify implementation; survey to gather details regarding implementation challenges/roadblocks where applicable  Data to be gathered and compiled at the 5 year update to this plan  
+SF1  Completion of feasibility evaluation; implementation of recommendations   Feasibility evaluation; reservoir permitting and construction/improvement  Complete feasibility evaluation report by December 2013; status report at next regional water plan iteration (5 years)  
+SF3  Number of surface water withdrawal conversions to groundwater withdrawals; evaluation of groundwater impacts  Permit conversion records (EPD); groundwater resource assessment for next regional water planning cycle  Next regional water plan iteration (5 years)  
+WATER RETURNS MANAGEMENT (RM)  
+Issues Addressed  Surface water availability sustainability criteria  
+Gaps Addressed  Surface water modeled shortfalls at Bainbridge (Flint) and Alapaha (Suwannee)  
+Council Goals Addressed  1, 3, 4  
+RM1  Limited or no construction of new land application systems in region  Number of new land application system permits in region (EPD)  On-going  
+WATER QUALITY (WQ)  
+Issues Addressed  Point and nonpoint source water pollution  
+
+8-3 
+
+8. Monitoring and Reporting Progress 
+Table 8-1: Benchmarks for Upper Flint Regional Water Plan  
+Management Practice  Benchmark  Measurement Tools  Time Period  
+Gaps Addressed  Water quality violations  
+Council Goals Addressed  1, 2, 3, 5, 6  
+All Water Quality Management Practices (WQ1 through WQ6)  Implementation of recommended practices  Perform regional survey to determine the level of implementation; survey to gather details regarding implementation challenges/roadblocks where applicable  Data to be gathered and compiled at the 5 year update to this plan  
+WQ1, WQ2, and WQ3  De-listing of impaired streams  303d/305b report  Biennial for impaired streams listing  
+WQ4  Increased availability of monitoring results that can be used in planning  Summary status report on monitoring reach  Next iteration of regional water plan (5 years)  
+
+8.2. Plan Updates 
+Meeting current and future water needs will require periodic review and revision of this plan. The State Water Plan and associated rules provide that each Regional Water Plan will be subject to review by the appropriate Regional Water Planning Council every five years and in accordance with this guidance provided by the Director, unless otherwise required by the Director for earlier review. These reviews 
+DRAFT 
+MIDDLE OC MULGEE 
+IV ­
+2 G e o r
+gi
+a S ta te ­
+wi d
+e Wa t
+er
+M a na gem e nt Pl
+a n 
+DAY M O N T
+H Y E A R 
+and updates will allow an opportunity to adapt this plan based on changed circumstances and new information arising in the five years after EPD’s adoption of these plans. These benchmarks will guide EPD in the review of this Regional Water Plan. 
+8.3. Plan Amendments 
+The Council notes that plan amendments may be necessary as water resource policy conditions change in the region and in the larger ACF system. As noted in Section 2, developments in the litigation over the management and allocation of water resources in the ACF system and revision of the U.S. Army Corps of Engineers Operations Manual for the ACF may create the need to revisit the contents of this plan. The Council intends that this plan will be modified as necessary to address significant changes in the region. 
+UPPER FLINT 
+
+September 2011 
+
+8. Monitoring and Reporting Progress 
+8.4. Conclusion 
+In this plan, the Upper Flint Council has made numerous recommendations to provide for a sustainable future for the Upper Flint Region.  The Council sees this work as a starting point. The Council emphasizes the need for continued regional water planning in order to ensure that the water resources of this region and the state as a whole are managed in a sustainable manner that supports public health, natural ecosystems, and the economy, and enhances the quality of life for all citizens. 
+8-5 
+[This Page Intentionally Left Blank] 
+
+
+
