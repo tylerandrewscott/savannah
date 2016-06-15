@@ -1,0 +1,1535 @@
+Regional Water Plan 
+
+September 2011 
+
+
+
+Table of Contents
+ Executive Summary .................................................................................. ES-1 
+
+1. 
+Introduction .................................................................................................. 1-1 
+
+
+1.1 The Significance of Water Resources in Georgia................................... 1-1 
+
+1.2 State and Regional Water Planning Process ......................................... 1-2 
+
+1.3 The Middle Ocmulgee Regional Vision and Goals ................................. 1-3 
+
+
+2. 
+The Middle Ocmulgee Planning Region .................................................... 2-1 
+
+
+2.1. History and Geography ........................................................................... 2-1 
+
+2.1.1 Watersheds and Water Bodies..................................................... 2-1 
+
+2.1.2 Physiography and Groundwater Resources ................................. 2-3 
+
+2.1.3 Unique Physical Features ............................................................ 2-3 
+
+2.2. Characteristics of the Region ................................................................. 2-5 
+
+2.2.1 Population .................................................................................... 2-5 
+
+2.2.2 Employment ................................................................................. 2-5 
+
+2.2.3 Land Use ...................................................................................... 2-5 
+
+2.3 Local Policy Context ............................................................................... 2-7 
+
+
+3. 
+Water Resources of the Middle Ocmulgee Water Planning Region ........ 3-1 
+
+
+3.1 Major Water Uses in the Region ............................................................. 3-1 
+
+3.2 Baseline Resource Assessments ........................................................... 3-3 
+
+3.2.1 Surface Water Quality (Assimilative Capacity) ............................. 3-3 
+
+3.2.2 Surface Water Availability ............................................................ 3-4 
+
+3.2.3 Groundwater Availability............................................................... 3-6 
+
+3.3 Ecosystem Conditions and Instream Uses ............................................. 3-8 
+
+3.3.1 Monitored and Impaired Waters ................................................... 3-8 
+
+3.3.2 Priority Conservation Areas.......................................................... 3-8 
+
+3.3.3 Wildlife and Fisheries Resources ............................................... 3-11 
+
+
+4. 
+Forecasting Future Water Resource Needs .............................................. 4-1 
+
+
+4.1 Municipal Forecasts ................................................................................ 4-1 
+
+4.1.1 Municipal Water Demand Forecasts ............................................ 4-2 
+
+4.1.2 Municipal Wastewater Flow Forecasts ......................................... 4-3 
+
+4.2 Industrial Forecasts ................................................................................ 4-4 
+
+4.2.1 Industrial Water Demand Forecasts ............................................. 4-4 
+
+4.2.2 Industrial Wastewater Flow Forecasts ......................................... 4-5 
+
+4.3 Agricultural Forecasts ............................................................................. 4-6 
+
+4.4 Thermoelectric Generation Forecasts .................................................... 4-7 
+
+4.5 Total Water Demand Forecasts .............................................................. 4-9 
+
+
+5. 
+Comparison of Water Resource Capacities and Future Needs ............... 5-1 
+
+
+
+5.1 Groundwater Availability Comparisons ................................................... 5-1 
+
+5.2 Surface Water Availability Comparisons ................................................ 5-3 
+
+5.3 Surface Water Quality Comparisons (Assimilative Capacity) ................. 5-5 
+
+5.3.1 Future Treatment Capacity Needs ............................................... 5-5 
+
+5.3.2 Assimilative Capacity Assessments ............................................. 5-6 
+
+5.3.3 Existing Stream Impairment ....................................................... 5-12 
+
+
+1. Table of Contents 
+5.4 Summary of Potential Water Resources Issues ................................... 5-15 
+
+5.4.1 Potential Water Resources Issues ............................................. 5-15 
+
+5.4.2 Resource Assessment Concerns ............................................... 5-15 
+
+6. 
+Addressing Water Needs and Regional Goals .......................................... 6-1 
+
+
+6.1 Identifying Water Management Practices ............................................... 6-1 
+
+6.2 Selected Water Management Practices for the Middle Ocmulgee Region . 6-1 
+6.2.1 Management Practice Selection Process ..................................... 6-1 
+
+6.2.2 Management Practices................................................................. 6-2 
+
+6.2.3 Projected Savings from High Efficiency Plumbing Fixtures ........ 6-16 
+
+
+7. 
+Implementing Water Management Practices ............................................. 7-1 
+
+
+7.1 Implementation Schedule and Roles of Responsible Parties ................. 7-1 
+
+7.2 Fiscal Implications of Selected Water Management Practices ............... 7-9 
+
+7.2.1 Planning Level Cost Estimates ..................................................... 7-9 
+
+7.2.2 Funding Sources and Options ...................................................... 7-9 
+
+7.3 Alignment with Other Plans .................................................................. 7-12 
+
+7.4 Recommendations to the State ............................................................ 7-13 
+
+
+8. 
+Monitoring and Reporting Progress .......................................................... 8-1 
+
+
+
+8.1 Benchmarks ............................................................................................ 8-1 
+
+8.2 Plan Updates .......................................................................................... 8-1 
+
+8.3 Plan Amendments .................................................................................. 8-5 
+
+Tables 
+2-1 Middle Ocmulgee Region 2010 Population by County .................................. 2-5 
+
+3-1 Baseline Assimilative Capacity Modeling Results for Dissolved Oxygen ...... 3-4 
+4-1 Population Projections by County .................................................................. 4-1 
+4-2 Agricultural Water Forecasts by County ........................................................ 4-7 
+4-3 Energy Sector Water Demand Forecasts ...................................................... 4-8 
+
+5-1 Municipal Permitted Withdrawal vs. 2050 Forecasted Demand .................... 5-5 5-2 Municipal Permitted Discharge vs. 2050 Forecasted Wastewater Flows ...... 5-6 5-3 Summary of Potential Water Resources Issues by County ......................... 5-16 
+6-1 Water Management Practices Selected for Middle Ocmulgee Planning Region 6-5 6-2 Estimated Demand Reduction from High Efficiency Plumbing Fixtures ...... 6-16 
+7-1 Implementation Schedule .............................................................................. 7-2 
+7-2 Cost Estimates for Implementation Responsibilities .................................... 7-10 
+7-3 Recommendations to the State .................................................................... 7-13 
+
+8-1 Benchmarks for Water Management Practices ............................................. 8-2 
+
+MIDDLE OCMULGEE 
+
+
+Table of Contents 
+Figures 
+1-1 Georgia Regional Water Planning Councils ................................................... 1-1 
+1-2 Planning Process ........................................................................................... 1-2 
+
+2-1 Middle Ocmulgee Water Planning Region ..................................................... 2-2 
+2-2 Water Planning Regions with Aquifers ........................................................... 2-4 
+2-3 2005 Land Cover in the Middle Ocmulgee Region ........................................ 2-6 
+
+3-1 2005 Water Supply by Source Type .............................................................. 3-2 
+3-2 2005 Surface Water Withdrawal by Category ................................................ 3-2 
+3-3 2005 Groundwater Withdrawal by Category .................................................. 3-2 
+3-4 2005 Wastewater Treatment by Category ..................................................... 3-2 
+3-5 Baseline Assimilative Capacity (Dissolved Oxygen) Modeling Results ......... 3-5 
+3-6 Middle Ocmulgee Resource Assessment Study Basins ................................ 3-7 
+3-7 Middle Ocmulgee Region Impaired Waters ................................................... 3-9 
+3-8 Middle Ocmulgee Priority Watersheds ......................................................... 3-10 
+
+4-1 Municipal Water Forecast .............................................................................. 4-2 
+4-2 Municipal Wastewater Forecast ..................................................................... 4-3 
+4-3 Industrial Water Forecast ............................................................................... 4-5 
+4-4 Industrial Wastewater Forecast ..................................................................... 4-6 
+4-5 Total Water Forecasts .................................................................................... 4-9 
+4-6 Water Demand in 2010 and 2050 ................................................................ 4-10 
+4-7 Total Wastewater Forecasts ........................................................................ 4-11 
+4-8 Wastewater Flow in 2010 and 2050 ............................................................. 4-11 
+
+5-1 Cretaceous Aquifer Demand vs. Yield ........................................................... 5-2 5-2 Surface Water Resource Assessment Results at Planning Nodes ................ 5-4 5-3 Full Permit Scenario Dissolved Oxygen (Assimilative Capacity) Results ...... 5-7 5-4 2050 Conditions Scenario Dissolved Oxygen (Assimilative Capacity) Results .... 5-9 5-5 Lake Jackson Mid-Lake Chlorophyll-a Concentration 2050 Scenario ......... 5-10 5-6 Lake Jackson Mid-Lake Total Phosphorus Specific Loading 2050 Scenario .... 5-11 5-7 Lake Jackson Nitrogen Concentration in the Photic Zone 2050 Scenario ... 5-11 5-8 Upper Ocmulgee Basin Subwatersheds Predicted 2050 Nutrient Loadings .......... 5-13 5-9 Upper Ocmulgee Watershed Nutrient Loadings – Wet Year ....................... 5-14 
+Supplemental Documents (May 2011) 
+Supplemental data and technical memorandums listed below may be found at the Council website: http://www.middleocmulgee.org/pages/our_plan/index.php. 
+Section 1 Public Outreach and Involvement Section 3 Existing EPD Permits and Impaired Stream Maps Section 4 Agricultural Water Demand Forecasts 
+Municipal and Industrial Water and Wastewater Forecasts Section 5 Comparison of Permitted Municipal Capacities and Future Needs 
+and Additional Resource Assessment Materials Section 6 Demand Management Practices 
+Management Practices Selection 
+Existing Plans for Middle Ocmulgee Water Planning Region 
+
+Acronyms and Abbreviations 
+AAD Annual Average Day AADF Annual Average Daily Flow ACCG Association County Commissioners of Georgia AWWA American Water Works Association 
+DCA Department of Community Affairs DNR Department of Natural Resources DO dissolved oxygen 
+EPD Environmental Protection Division of DNR 
+FERC Federal Energy Regulatory Commission 
+GEFA Georgia Environmental Finance Authority GAWP Georgia Association of Water Professionals GRWA Georgia Rural Water Association GLCP Georgia Land Conservation Program GMA Georgia Municipal Association gpcd gallons per capita per day gpf gallons per flush gpm gallons per minute GSWCC Georgia Soil and Water Conservation Commission 
+I/I inflow and infiltration 
+LAS land application system LID low impact development 
+Metro District Metro North Georgia Water Planning District MGD million gallons per day MMD maximum monthly demand MMF maximum monthly flow MLRA major land resource area 
+NPDES National Pollutant Discharge Elimination System 
+OSSMS Onsite Sewage Management Systems 
+PSC Public Service Commission PFA Public Fishing Area 
+RAB Robins Air Force Base 
+TMDL total maximum daily load 
+UGA University of Georgia USGS U.S. Geological Survey 
+WRD Wildlife Resources Division of DNR 
+
+Acknowledgements 
+We would like to acknowledge the contributions of the following members of the Middle Ocmulgee Water Planning Council and Technical Subcommittee.  The council and subcommittee members volunteered their time and talents over countless meetings and conference calls during the 3-year period for the development of this Regional Water Plan. 
+Middle Ocmulgee Regional Water Planning Council Members 
+Russell R. Adams, Houston County (Ex-officio)  Jay Matthews, Lamar County  
+Tony Bass, Peach County  Lawrence E. McSwain, Newton County  
+John W. Bembry, Pulaski County  Hal Newberry, Bibb County  
+Jason E.Briley, Jones County  Harvey Norris, Butts County  
+Blair Cleveland, Bibb County  Eva Turpin Persons, Monroe County  
+Ben Copeland Jr. **, Peach County  Barry Peters, Monroe County  
+Keith Dalton, Newton County  Robert F. Ray, Peach County  
+Jerry D. Davis, Pulaski County  Elmo A. Richardson *, Bibb County  
+Robert L. Dickey, Crawford County  Tony Rojas, Bibb County  
+Richard Haddock, Bibb County  Terry M. Scarborough, Houston County  
+Jim Ham, Monroe County  Gator Hodges, Butts County  
+Bobby Hamby, Newton County  William Whitten, Jasper County  
+Charles F. Harris, Crawford County  Thomas Wicker, Bibb County  
+William R. Lazenby, Jones County  David Knight (Ex-officio)  
+Paul Leath, Bibb County  Ross Tolleson (Ex-officio)  
+*Chair  
+** Co-chair  
+
+Middle Ocmulgee Technical Subcommittee Members 
+Elmo A. Richardson (Chair) 
+Ben Copeland, Jr. (Co-chair) 
+Russel R. Adams 
+Tony Bass 
+John W. Bembry 
+Tony Rojas 
+Thomas Wicker 
+Marianne Golmitz, City of Warner Robins* 
+Mike Hopkins, Newton County Water and Sewerage Authority * 
+Marcie Seleb, Butts County Water and Sewerage Authority * 
+Mark Wyzalek, Macon Water Authority* 
+
+*Non-Council Members 
+MIDDLE OCMULGEE 
+
+
+EXECUTIVE SUMMARY 
+
+
+
+Executive Summary 
+Executive Summary 
+The Comprehensive Statewide Water Management Plan calls for the preparation of regional plans designed to manage water resources in a sustainable manner through 2050. The Middle Ocmulgee Water Planning Region is one of ten such regions established by the Georgia General Assembly.  The region’s Water Planning Council consists of 30 volunteer members who began working on the Regional Water Plan (Plan) in March 2009.  The Plan describes current water resources conditions, projects future demands, identifies resource issues and recommends appropriate water management practices to be employed in the region through 2050. 
+Local governments/utilities and other permitted water users will be primarily responsible for implementing the Plan.  Other agencies, also discussed in the Plan, will have implementation roles. The Plan includes benchmarks selected to measure progress and identifies entities responsible for monitoring and reporting those benchmarks. Continued funding at both state and local levels is key to successful Plan implementation. 
+Regional Overview 
+The Middle Ocmulgee Water Planning Region includes 12 counties and 28 municipalities.  In 2010, the total population for the region was estimated at 567,728. Approximately 70 percent of the total population now resides in Bibb, Houston, and Newton counties. Major population centers include the cities of Macon, Warner Robins, and Covington. Approximately 51 percent of the region’s land area is covered by forested land and only 8 percent by urban development. Land use generally transitions from suburban in the north to rural in the south.  The region’s leading economic sectors include government, health care, service industries, and agriculture. 
+The Middle Ocmulgee Region receives between 40 to 52 inches of rain per year and is fortunate to have an abundant water supply to support long­term growth.  The region is supported about equally by surface water and groundwater. Approximately 76 percent of the region lies in the Ocmulgee River Basin. Above the Fall Line, larger water suppliers generally rely on surface water sources; smaller suppliers typically access groundwater from the Crystalline-Rock Aquifer. The Cretaceous and Upper Floridan Aquifer systems provide significant amounts of groundwater supply below the Fall Line.  In 2010, the Middle Ocmulgee Region withdrew over 250 million gallons per day (MGD) for water supply, with approximately 54 percent drawn from surface water.  The region generated nearly 155 MGD of wastewater in 2010, with 81 percent treated and returned to streams and 19 percent managed by onsite sewage management systems (septic systems) or land application systems.  Currently, about 92 percent of the streams have adequate capacity to assimilate treated discharges. 
+
+
+Demand Forecasts 
+With projected population nearly doubling - reaching 1,180,000 in 2050 - the Middle Ocmulgee Region’s annual average daily water demand is projected to increase 38 percent (to 346 MGD) in 2050.  The region’s wastewater generation will increase 62 percent (to 251 MGD) in 2050 on an annual average daily basis, requiring significantly more treatment and disposal into the region’s waterways.  The Georgia Environmental Protection Division (EPD) conducted three Resource Assessments to predict future resource conditions based on these demand projections. 
+
+Water Resources Issues 
+The Surface Water Availability Resource Assessment (July 2010) indicates that surface water resources in the region are generally adequate to meet future water demands. The model predicted no shortage in the two planning nodes (planning units representing major sub-watersheds) that include the Middle Ocmulgee Region. However, the more rapidly-growing counties will require additional water supply infrastructure to meet their projected needs.  In particular, Newton County is expected to have a significant local water supply shortage in 2050.  Jasper County also is projected to need additional water supply. 
+MIDDLE OCMULGEE 
+
+
+Executive Summary 
+reduce nitrogen loadings into the lake.  There is additional need for wastewater planning and treatment capacity in fast-growing Newton, Butts, and Houston counties; management of onsite sewage management systems (septic systems) in rural counties also is important. 
+• 	Based on the 303(d) list published biennially by EPD, 664 miles of the region’s streams are not supporting their designated uses and are listed as impaired streams.   
+MIDDLE OCMULGEE 
+
+The Groundwater Availability Resource Assessment (January 2011) indicates that groundwater resources in the region are adequate to meet future water demands in the areas relying on groundwater sources (generally south of the Fall Line). Rapidly­growing Houston County may require additional water supply infrastructure to meet its projected 2050 needs. 
+The region’s major future water quality issues, based on EPD’s Water Quality Resource Assessments (March 2010) and existing assessments of impaired streams, are as follows: 
+• 	
+Some stream segments (mostly south of the Fall Line) are predicted to have limited capacity for assimilating future pollutant loads. Upgrade of existing wastewater treatment facilities or advanced treatment in new facilities may be required to assimilate future pollutant loads. 
+
+• 	
+High nutrient loadings (primarily nitrogen) are predicted in Lake Jackson and its tributary watersheds, including contributions from point source discharges in the Metro North Georgia Water Planning District. Advanced treatment may be needed for wastewater treatment facilities located upstream of Lake Jackson to 
+
+
+Middle Ocmulgee Water Planning Region Vision Statement 
+The Middle Ocmulgee Water Council will work so that our water resources, both surface and subsurface, are of exceptional quality and quantity for the well being and prosperity of all that will follow. Our plan will consider the resource’s natural integrity, wise conservation, and prudent management for continuing economic development and enhanced quality of life for all the region’s citizens. 
+Goals 
+1. 
+Maximize existing water supply sources to the extent practicable. 
+
+2. 
+Support the protection of natural stream integrity and the recreation it provides. 
+
+3. 
+Promote sufficient water supply for the region. 
+
+4. 
+Promote efficient use of water. 
+
+5. 
+Promote properly managed wastewater discharges and beneficial reuse. 
+
+6. 
+Support the reduction of non-point source pollution by advocating better land management practices. 
+
+7. 
+Support planning and management of water resources to maintain a healthy economy, ensure a high quality of life, and protect our natural resources. 
+
+
+
+Executive Summary 
+Recommended Management Practices 
+The Middle Ocmulgee Water Planning Council recommends 35 water management practices to help address the region’s water resources issues and to meet the Council’s vision and goals (see previous page).  Of the 35 practices, 15 are priority water management practices selected to address potential water resource shortages and existing regulations.  The Middle Ocmulgee Council suggests initial, short-term (years 2-5), and long-term (beyond 2018 and after next Plan update) actions for the recommended priority management practices.  These priority practices include: 
+• 	
+Water conservation (demand management) practices to further manage and reduce municipal, industrial, energy and agricultural demands in the entire region. 
+
+• 	
+Water supply management practices including development of local water master plans, and a coordinated regional effort evaluating the quantity and quality impacts of the metro Atlanta area’s discharges into Lake Jackson. 
+
+• 	
+Water quality management practices including development of local wastewater master plans, adoption and coordination of statewide regional and local water quality monitoring programs, upgrade of existing wastewater treatment facilities, construction of advanced treatment facilities, and promotion of coordinated environmental planning. 
+
+• 	
+Water quality (enhanced pollution - non-point source management) practices for improving the existing impaired streams, including reduction of runoff from impervious surfaces, adoption of ordinances or incentive programs to protect sensitive lands, development/implementation of watershed assessment and protection plans, encouragement of total maximum daily load implementation and watershed improvement/restoration projects. 
+
+
+In addition to the 15 priority practices, the Council also recommends 20 additional management practices to be considered by local governments and water users based on needs identified in detailed local master planning studies.  These management practices, if implemented, will prevent or work toward closing predicted water resources shortages.  Implementation timeframes for additional management practices are to be determined by local governments/utilities/permittees, based on needs identified in detailed local master plans.  
+MIDDLE OCMULGEE 
+
+
+Executive Summary 
+Conclusions 
+Water resources in the Middle Ocmulgee Water Planning Region are generally abundant, from surface water in the Ocmulgee River Basin to groundwater from the Crystalline-Rock and Cretaceous Aquifer systems. The Council recognizes that the wise use and management of water is critical to support the region’s economy, to protect public health and natural systems, and to enhance the quality of life for all citizens.  Based on forecasted 2050 demand and Resource Assessments conducted by EPD, the Council evaluated critical resource issues in the Region and has recommended a set of management practices and benchmarks to help ensure appropriate water management from now until 2050.  This information will help guide more localized planning and decision making.  
+The Council also recognizes that the Resource Assessment tools developed for this initial round of regional water planning can be further improved for use in subsequent 5-year plan updates. The Council developed a set of recommendations to the State to further improve future water planning activities. Highlights of these recommendations include: 
+• 	
+Development of an outreach program to feature the Middle Ocmulgee Region’s abundant water resources and promote future economic growth. 
+
+• 	
+Additional data collection and model improvements to aid in future regional water planning efforts. 
+
+• 	
+Evaluation of the alternative instream flow policy and initiation of pilot instream flow studies in each Water Planning Region. 
+
+• 	
+Further evaluation of EPD’s nutrient policy, particularly nitrogen loading, for Lake Jackson and its watershed; and additional research on the impact of emerging contaminants in discharges from the Metro North Georgia District. 
+
+• 	
+Identification of long-term funding mechanism for implementation of this Plan. 
+
+
+Additional recommendations are included in Section 7 of the Plan. 
+
+1. INTRODUCTION 
+
+
+
+Section 1. Introduction 
+The Comprehensive Statewide Water Management Plan (State Water Plan) calls for the preparation of regional plans designed to manage water resources in a sustainable manner through 2050. It establishes ten regional water planning councils and provides a framework consistent with Georgia’s water resource management goals. 
+1.1. The Significance of Water Resources in Georgia 
+Of all Georgia’s natural resources, none is more important to the future of our state than water. The wise use and management of water is critical 
+The Middle Ocmulgee Water Planning Region is one of ten such regions established by the Georgia General Assembly. The region’s Water Planning Council consists of 30 volunteer members who began working on the Regional Water Plan in March 2009. The plan describes water resources conditions, projects future demands, identifies resource gaps and recommends appropriate water management practices to be employed in the region through 2050. 
+to support the state’s economy, to protect public health and natural systems, and to enhance the quality of life for all citizens. 
+Georgia has abundant water resources, with fourteen major river systems and multiple groundwater (aquifer) systems. These waters are shared natural resources; streams and rivers run through many political jurisdictions. The rain that falls in one region of Georgia may replenish the aquifers used by communities many miles away. Although water in Georgia is generally abundant, it is not an unlimited resource. It must be carefully managed to meet long-term water needs. 
+
+
+Because water resources, their conditions, and their uses vary greatly across the state, selection and implementation of management practices on a regional and local level is the most effective way to ensure that current and future needs for water supply and assimilative capacity are met. 
+Therefore, the State Water Plan calls for the preparation of ten regional water development and conservation plans (Regional Water Plans). This Middle Ocmulgee Regional Water Plan, prepared by the Middle Ocmulgee Regional Water Planning Council, was developed to identify the appropriate water management practices to be employed in the region through 2050.  The Middle Ocmulgee Regional Water Council recognizes that this Plan is to be revised, as per the Georgia Comprehensive State-wide Water Management Plan, at a minimum every 5 years. 
+1.2. State and Regional Water Planning Process 
+This Regional Water Plan has been prepared following the consensus-based planning process illustrated in Figure 1-2. The process required and benefited from input of other regional water planning councils, local governments, and the public, as detailed in Middle Ocmulgee Water Planning Council’s Memorandum of Understanding with the Georgia Environmental Protection Division (EPD) and the Department of Community Affairs (DCA), as well as  the Council’s Public Involvement Plan [see Technical Memorandum – Public Outreach and Involvement (May 2011)]. 
+
+
+1. Introduction 
+The Middle Ocmulgee Water Planning Council met regularly during the period of March 2009 to April 2011 to discuss water resource issues.  The Council had one ongoing committee and several Ad Hoc committees assisting with specific aspects of plan development. The Technical Subcommittee consisted of 11 members, including seven Council members and four non-Council members appointed by the Chair.  The Technical Subcommtiee members brought technical backgrounds and experiences in the represented sectors (municipal/utility, agriculture, energy, industrial and environmental).  Working within a compressed timeline and a significant amount of data produced for this planning process, this committee reviewed Resource Assessment data and the draft plan on behalf of the Council, and guided the selection of management practices.  The Municipal Ad Hoc Demand Forecast Committee, consisting of seven members from the municipal sector, reviewed the demand forecast methodology and assumptions during the initial phase of this planning process.  Several Council members representing the agricultural sector attended ad hoc meetings held by EPD and contributed to refinement of the agricultural water demand forecast.  Following the committee’s initial review and feedback process, subcommitee recommendations regarding major decisions were brought to the full Council for discussion and approval, under the guidance of Chairman Elmo A. Richardson. 
+1.3. The Middle Ocmulgee Regional Vision and Goals 
+The Middle Ocmulgee Regional Water Planning Council adopted the following vision statement: 
+The Middle Ocmulgee Water Council will work so that our water resources, both surface and subsurface, are of exceptional quality and quantity for the well being and prosperity of all that will follow.  Our plan will consider the resource’s natural integrity, wise conservation, and prudent management for continuing economic development and enhanced quality of life for all the region’s citizens. 
+The Council adopted the vision and a set of draft goals in September 2009.  The draft goals were revisited and revised after the Council had a better understanding of potential future water resource issues in the region, based on resource assessments performed by EPD. In September 2010, the following goals were adopted to guide the Council with selection of management practices: 
+1. 	
+Maximize existing water supply sources to the extent practicable. 
+
+2. 	
+Support the protection of natural stream integrity and the recreation it provides.  
+
+3. 	
+Promote sufficient water supply for the region. 
+
+4. 	
+Promote efficient use of water.  
+
+5. 	
+Promote properly managed wastewater discharges and beneficial reuse. 
+
+6. 	
+Support the reduction of non-point source pollution by advocating better land management practices. 
+
+7. 	
+Support planning and management of water resources to maintain a healthy economy, ensure a high quality of life, and protect our natural resources.  
+
+
+
+2. THE MIDDLE OCMULGEE WATER PLANNING REGION 
+
+
+2. The Middle Ocmulgee Water Planning Region 
+Section 2. The Middle 	The Middle Ocmulgee Region’s population and economy are 
+Ocmulgee Water Planning 
+supported equally by surface water 
+Region 
+and groundwater. The Ocmulgee River Basin covers 76 percent of the 
+The Middle Ocmulgee Water Planning Region 
+region. The Cretaceous and Upper 
+(Figure 2-1) is 3,548 square miles in size and 
+Floridan aquifers provide significant 
+includes 12 counties and 28 municipalities. 
+amounts of groundwater supply. 
+Macon is the largest city in the region.  The local governments are responsible for land use and Land use spans from suburban zoning decisions that affect the management of north to rural south. Forested land water resources. Many local governments are covers about 50 percent of the also responsible for the planning, operation, and region. The leading economic management of water, wastewater, and sectors include governments, health stormwater infrastructure.  
+care, service industry, and agriculture. 
+2.1. History and Geography 
+The Middle Ocmulgee Water Planning Region, located in the central portion of the state, spans from suburban Newton County in the north to rural Pulaski County in the south. It borders the Metro North Georgia Water Planning District to the northwest, Upper Oconee Water Planning Region to the east, Altamaha Water Planning Region to the southeast, and Upper Flint Water Planning Region to the west. 
+2.1.1 Watersheds and Water Bodies 
+Portions of three river basins are within the region: Flint, Ocmulgee, and Oconee (Figure 2-1). The Ocmulgee River Basin covers 76 percent of the region. The Oconee River Basin, covering about 17 percent of the region, drains toward the Upper Oconee Water Planning Region.  The Ocmulgee and Oconee Rivers are major tributaries that flow south to form the Altamaha River, and constitute shared resources with the Altamaha Water Planning Region.  The Flint River Basin comprises approximately seven percent of the region and drains into the Upper Flint Water Planning Region. 
+The Ocmulgee River Basin, located entirely in Georgia, is flanked by the Flint River Basin to the west, the Suwannee and Satilla River basins to the south, and the Oconee River Basin to the east.  The Ocmulgee River’s headwaters are located in Fulton, DeKalb, and Gwinnett counties and consist of the Alcovy, Yellow, and South Rivers. These rivers travel through the eastern and southeastern metropolitan Atlanta area, join at Lake Jackson west of Monticello, and form the Ocmulgee River. Tussahaw Creek, which originates in Henry County, is also a significant tributary of Lake Jackson. South of Lake Jackson, the Towaliga River and several large creeks (including Tobesofkee, Echeconnee, and Big Indian Creeks) join the Ocmulgee River. The Ocmulgee River continues in a generally southern direction until it swings eastward north of Ben Hill County, converges with the Little Ocmulgee River at Lumber City in Telfair County, and downstream joins the Oconee River to form the Altamaha River.   
+
+MIDDLE OCMULGEE 
+
+
+
+2. The Middle Ocmulgee Water Planning Region 
+Major lakes in the area include Georgia Power’s Lake Jackson, bordering Butts, Jasper and Newton Counties on the Ocmulgee River, and Lake Juliette on Rum Creek in Monroe County. Discharges below the Lloyd Shoals dam (Lake Jackson) are regulated by the Federal Energy Regulatory Commission (FERC) and influence the flow regime of the Ocmulgee River through the Macon area. Lake Juliette is bordered by the Rum Creek Wildlife Management Area. 
+2.1.2. Physiography and Groundwater Resources 
+The Middle Ocmulgee Water Planning Region is divided by the Fall Line (Figure 2-2).  The northern part of the region is located in the Piedmont physiographic province, and the southern part of the region is located in the Coastal Plain physiographic province of central Georgia. The Piedmont province is characterized by rolling hills, narrow valleys, and faster moving streams with occasional rapids and falls.  The Coastal Plain is characterized by slower, flatter streams with wide floodplain areas. The region receives between 40 and 52 inches of rain per year, typically with a wet spring and a dry season from mid-summer to late fall.  
+Aquifers in the Middle Ocmulgee Water Planning Region include (Figure 2-2): 
+• 	
+Crystalline-Rock Aquifer – located in the northern portion of the region; generally provides amounts of groundwater adequate for rural single-family residential use 
+
+• 	
+Cretaceous Aquifer – forms a narrow band through the middle of the state and consists mainly of sands and gravels; generally very productive 
+
+• 	
+Upper Floridan Aquifer – limestone aquifer that underlies most of south Georgia (only Pulaski County and portions of Houston and Twiggs counties in the region have access to this aquifer); extremely productive 
+
+
+Wells from the major Coastal Plain aquifers south of the Fall Line (Cretaceous and Upper Floridan) are generally very productive, with yields on the order of 1,000 gallons per minute (gpm).  Wells that draw from the Crystalline-Rock Aquifers are generally much less productive (less than 100 gpm). 
+2.1.3. Unique Physical Features 
+The geology is very different between the Piedmont and the Coastal Plain provinces. The Piedmont province is composed of crystalline igneous rocks (formed by the cooling of magma) and metamorphic rocks (caused by extremely high temperature and pressure).  The Coastal Plain province is composed of sands and clays, including valuable deposits of kaolin.  The Middle Ocmulgee Region has several kaolin processing industries (mostly in Twiggs County) with significant groundwater needs. 
+According to the United States Department of Agriculture land use categories, the region crosses four Major Land Resource Areas (MLRAs): Southern Piedmont, Carolina and Georgia Sand Hills, Southern Coastal Plain, and Black Lands (a small MLRA that comprises less than one percent of the Ocmulgee River Watershed).  
+
+
+2. The Middle Ocmulgee Water Planning Region 
+Traversing the watershed from northwest to southeast, general landscape and soil property trends include a decrease in soil’s clay content and an increase in sand content; a decrease of slope gradient; a decrease of water table depth (soils become wetter); and an increase in the prominence of flood plains. 
+2.2.  Characteristics of the Region  
+2.2.1. Population  
+In 2010, the total population for the 12-county Middle Ocmulgee Water Planning Region was  In 2010, the region’s total  
+estimated at 567,728.  Table 2-1 shows the  estimated population was 567,728  
+population  per  county,  highest  to  lowest.  
+
+Approximately 70 percent of the total 2010 population resides in Bibb, Houston, and Newton counties.  Major population centers include the cities of Macon, Warner Robins, and Covington. 
+Table 2-1 Middle Ocmulgee Region 2010 Population by County  
+Bibb  155,547  Jones  28,669  Butts  23,655  Crawford  12,630  
+Houston  139,900  Peach  27,695  Lamar  18,317  Pulaski  12,010  
+Newton  99,958  Monroe  26,424  Jasper  13,900  Twiggs   9,023  
+Source: U.S. Census Bureau: http://www.census.gov/popest/estimates.html  
+ 
+
+2.2.2. Employment 
+Based on U.S. Department of Labor and Census data, the region’s total employment increased slightly from an estimated 151,700 jobs in 2000 to an estimated 155,540 jobs in 2007.  The leading employment sectors include government, health care, service industries (retail and food), and agriculture.  The region’s economic base has shown a continued increase in service industry jobs since 1980 and the number of manufacturing jobs has decreased.  Employment in the agricultural sector has remained strong because of the peach, pecan, and strawberry facilities within the region’s southern counties.  Major employers include Robins Air Force Base (RAFB), Medical Center of Central Georgia, the Blue Bird Corporation, Georgia Power, the timber industry and higher learning institutions. 
+2.2.3 Land Use 
+Figure 2-3 illustrates the distribution of land cover across the Middle Ocmulgee Water Planning Region in 2005.  Approximately 51 percent of the region’s land area was covered by forested land. Agriculture (row crops and pasture) is a significant land use (20 percent land cover), supporting a variety of animal operations and commodity production.  In addition to forests and agriculture, wetlands comprise 9 percent and urban areas comprise 8 percent of the land cover of the region.  The majority of the urban areas exist in Bibb, Houston, and Newton counties.  There are a number of high priority streams, protected species, and significant recreational uses, which are described in Section 3 of the plan.   
+
+
+2. The Middle Ocmulgee Water Planning Region 
+2.3 Local Policy Context  
+Three regional commissions - Northeast Georgia,  
+Three Rivers, and Middle Georgia – work with the  The  Northeast  Georgia,  Three  
+DCA  to  assist  communities  in  the  Middle  Rivers, and Middle Georgia regional  
+Ocmulgee Water Planning Region with a variety  commissions  work  with  the  
+of planning issues.   The commissions review  Department of Community Affairs  
+local comprehensive land use plans and can help  to  assist  the  region’s  local  
+make connections between growth and water  governments  with  a  variety  of  
+planning.  They assist local governments in  planning issues.  
+securing funds for the water and  wastewater  
+
+infrastructure necessary for economic development. The commissions also provide planning support for compliance with environmental regulations, some of which pertain to water quality (e.g. watershed assessment/protection plans). 
+
+3. 	WATER RESOURCES OF THE MIDDLE OCMULGEE WATER PLANNING REGION 
+
+
+3. Water Resources of the Middle Ocmulgee Water Planning Region 
+Section 3. Water Resources of 	The Middle Ocmulgee Water Planning Region used 213 million 
+the Middle Ocmulgee Water 
+gallons per day of surface and 
+Planning Region 
+groundwater for water supply in 2005. There is generally abundant 
+This section discusses current major water uses 
+water supply for long-term growth 
+in the region, based on reported water withdrawals from 2005, and results from the of the region. Baseline Resource baseline Resource Assessments developed by Assessments indicated that 92 EPD. In addition, a summary of current 
+percent of the streams evaluated 
+ecosystem conditions and instream uses are 
+have sufficient assimilative capacity 
+provided in this section. 
+for dissolved oxygen, and existing nutrient standards are being met in 
+3.1. Major Water Uses in the Lake Jackson and its tributary Region watersheds. Efforts to improve In 2005, the Middle Ocmulgee Water Planning impaired streams will need to Region’s daily water withdrawals totaled continue. approximately 213 million gallons per day (MGD) on an annual average daily basis for municipal, industrial, energy, and agricultural use. Of the 213 MGD withdrawn, approximately 60 percent (128 MGD) was obtained from surface water supply sources and 40 percent (85 MGD) was obtained from groundwater supply sources (Figure 3-1).  The analysis of withdrawal data and locations indicated that the portion of the region north of the Fall Line generally relies on surface water sources for water supply, and the southern portion of the region is supplied mainly by groundwater sources.  Figure 3-1 also illustrates the total water withdrawal in 2005 in four major water use categories.  Municipal use (as defined in “Water Use in Georgia by County for 2005, and Water Use Trends, 1980-2005”, U.S.G.S.) included residential, commercial, and industrial uses supplied by publicly­owned water providers and estimated uses from self-supplied population.  Industrial use (water used for fabrication, processing, washing, and cooling for manufacturing facilities) included only reported withdrawals from industries that have state water withdrawal permits. Energy use included only water used by major thermoelectric facilities (mainly for cooling purposes) and excluded withdrawals from hydroelectric 
+facilities because the withdrawal is returned 100 percent and not considered consumptive. 
+Figure 3-2 and Figure 3-3 present breakdowns of surface water and groundwater use by category, respectively.  In 2005, thermoelectric energy production was the largest water withdrawal by category (46 percent) for surface water, followed by municipal use (35 percent).  Of the 59 MGD withdrawn in 2005 for energy production at Plant Scherer (one of the largest single generating stations in the United States, located near Forsyth in Monroe County), approximately 58 percent is considered consumptive (loss through evaporation for cooling purposes).  Most surface water withdrawal is from the Ocmulgee River Basin and a small percentage is from the Oconee River Basin, portions of which are located within the Middle Ocmulgee Water Planning Region (see Figure 2-1).  For groundwater withdrawals, municipal (43 percent) is the largest water use category, followed by agriculture (33 percent), and industrial (24 percent). 
+
+In 2005, the region generated approximately 133 MGD of wastewater on an annual average daily basis.  The majority (82 percent) was treated in public wastewater facilities with permitted surface water discharges, and approximately three percent was disposed of in land application systems (LAS).  Approximately 15 percent of the region’s total 2005 wastewater flow was disposed of through on-site sewage management systems (OSSMS), also known as septic systems.  Figure 3-4 shows wastewater treatment by category. 
+
+MIDDLE OCMULGEE 
+
+
+3.2. Baseline Resource Assessments 
+As a major component of the State Water Plan, EPD developed three Resource Assessments: (1) surface water quality1; (2) surface water availability2; and (3) groundwater availability3 .  The Resource Assessments estimated the capacity of our water resources to support Georgia communities in a sustainable fashion while continuing to meet water management goals.  The assessments were made based on river basins and aquifers shared by multiple regions.  The results of the baseline Resource Assessments (as of March 2010, EPD) evaluating current water use and discharge conditions are summarized here as they relate to the Middle Ocmulgee Water Planning Region.  Future water supply and wastewater needs are discussed in Section 4, followed by Resource Assessments for future conditions in Section 5. Full details of each Resource Assessment can be found on the website: (http://www.georgiawaterplanning.org/pages/resource_assessments/index.php). The Council recognizes that the Regional Water Plan will need to be updated based on revised Resource Assessments as a result of changed conditions and updated information in the future. 
+3.2.1. Surface Water Quality (Assimilative Capacity) 
+Assimilative capacity is the amount of contaminant load that can be discharged to a specific waterbody without exceeding water quality standards or criteria.  Assimilative capacity is used to define the ability of a waterbody to naturally absorb and use a discharged substance without water quality becoming impaired or aquatic life being harmed. The Assimilative Capacity Resource Assessment results focus on available assimilative capacity for dissolved oxygen (DO), nutrients (specifically nitrogen and phosphorus), and chlorophyll-a (a green pigment found in algae and a parameter commonly used to assess lake water quality).   
+Georgia’s DO standards are based on stream-specific water use classifications.  The Middle Ocmulgee Water Planning Region contains mostly “freshwater fishing” streams. Assessment of the ability to assimilate oxygen-consuming substances is important because aquatic life is dependent on the amount of residual DO available in the streams.  The DO standards for freshwater fishing, drinking water supply and recreation water use classifications require a daily average of 5 milligrams per liter (mg/L) and no less than 4 mg/L at all times. 
+Using planning level models, DO was modeled in the Ocmulgee River Basin.  Table 3-1 and Figure 3-5 show the results of the modeling.  Additional monitoring and studies will be required to assess actual conditions and to help determine whether or not upgrades of treatment facilities are needed to improve existing water quality in these streams. 
+MIDDLE OCMULGEE
+
+1 http://www.georgiawaterplanning.org/documents/CurrentAssimilativeCapacityReport-REV0_000.pdf 2 
+http://www.georgiawaterplanning.org/documents/Synopsis_SurfaceWaterAssessment_FullReport_March2010_000.pdf 
+3 
+http://www.georgiawaterplanning.org/documents/LRG1403reviewdraft031810.pdf 
+
+Table 3-1: Baseline Assimilative Capacity Modeling Results for Dissolved Oxygen  
+Ocmulgee Basin  Very Good  Good  Moderate  Limited  None or Exceeded  
+Stream Miles  560  249  92  41  43  
+% Total  57%  25%  10%  4%  4%  
+Source: EPD Review  Surface Water Quality (Assimilative Capacity) Assessment (as of March 2010) Note: Stream miles shown include all modeled streams in the basin, including those outside of the MOC region.  
+
+Nutrients provide food for aquatic organisms. However, high nutrient concentrations can potentially encourage algal blooms, which may indirectly reduce fish population (and other aquatic life), cause unpleasant taste and odor in water supplies, and impact recreational use of water.  A watershed model for the Upper Ocmulgee Watershed and a lake model for Lake Jackson were developed to evaluate the impacts on nutrient levels of current wastewater discharges, stormwater runoff, and land application systems (assuming current water withdrawals, land use, and meteorological conditions).  The baseline watershed model simulated conditions for a 10-year period (1998 to 2007) capturing several wet years and two drought periods. The baseline lake model simulated conditions for a 7-year period (2001 to 2007). 
+Lake Jackson has existing standards for chlorophyll-a (growing season average concentration), total phosphorus loadings for the lake and four tributaries, and a total nitrogen limit (for the photic zone).  The watershed and lake modeling results confirmed that the lake met its chlorophyll-a standard at the mid-lake station every year for the period of record analyzed.  The watershed model also confirms that, at current water use and return conditions, Lake Jackson and its major tributaries generally meet their total annual phosphorus loading standards.  However, the modeling results showed that in dry years (with weather condition similar to 2007), the total nitrogen limit was exceeded in the South River reach. 
+3.2.2. Surface Water Availability 
+The Surface Water Availability Assessment estimates the availability of surface water to meet current municipal, industrial, agricultural, and thermoelectric generation needs, as well as the needs of instream and downstream users.  Minimum instream flows are based on EPD policy, existing federal reservoir management policy, or existing FERC license requirements. 
+The assessment determines the ability of surface water resources to meet water demands in terms of both magnitude (i.e., the amount by which the stream flow would fall below the instream flow standards adopted by the Department of Natural Resources (DNR) Board) and duration (i.e., the number of days the stream flow falls below the instream flow standard).  A shortfall or “gap” indicates that the natural streamflow cannot meet the off-stream consumptive demands (withdrawals minus returns) and in-stream flow targets (for maintaining aquatic life) at all times. 
+MIDDLE OCMULGEE 
+
+
+
+
+
+
+The Resource Assessments are conducted based on river basin boundaries rather than Water Planning Region boundaries. The upstream consumption and instream flow demands are summarized on a sub-basin level, each represented by a planning node. There are two planning nodes associated within the Ocmulgee River Study Basin (Figure 3-6). Although only one node (Jackson) is located within the region, conditions at the Lumber City node (downstream of the region in the Altamaha River Water Planning Region) also need to be assessed to determine impacts of upstream users on downstream users.  Current water withdrawals and returns were calculated for water users within each of these planning nodes.  Modeling of current conditions indicates that there is sufficient surface water availability at the planning nodes associated with the Middle Ocmulgee Region.   
+3.2.3. Groundwater Availability 
+The Groundwater Availability Assessments estimate the sustainable yield for prioritized groundwater resources based on existing data.  EPD prioritized the aquifers for modeling efforts based on the characteristics of the aquifer, evidence of negative effects, anticipated negative impacts, and other considerations.  The assessments identify the sustainable yield, or the quantity of groundwater that can be used without negative impacts.  Negative impacts include limiting use of neighboring wells (drawdown), reducing groundwater contributions to stream baseflows, and the permanent reduction of groundwater levels.  
+The Middle Ocmulgee Water Planning Region has access to three aquifer systems: the Crystalline-Rock, the Cretaceous, and the Upper Floridan. The Crystalline-Rock Aquifer supplies mostly private wells in the northern portion of the region.  The Cretaceous Aquifer underlies counties in the lower reach of the planning region south of the Fall Line and is the primary groundwater supply source for the Middle Ocmulgee Region.  The Cretaceous Aquifer is shared by the Upper Oconee and Savannah-Upper Ogeechee planning regions, as well as a small portion of the Upper Flint region.  Only Pulaski County and portions of Houston and Twiggs counties within the region have access to the Upper Floridan Aquifer. 
+The Resource Assessment indicated that the sustainable yields of the prioritized aquifers are generally higher than the current baseline withdrawals from the Middle Ocmulgee Water Planning Region and other regions that also obtain groundwater from these aquifers. The baseline modeling results indicate that there are relatively large quantities of water available above existing use in the Upper Floridan Aquifer in the eastern Coastal Plain, and smaller amounts available in the Cretaceous aquifer before its sustainable yields are reached.  Data analysis for the Crystalline-Rock aquifer in the Piedmont study basin indicates that there is additional groundwater available above its current use, assuming that conditions in the region are similar to those in the study basin. However, the portion of the Upper Floridan located within the region is at its updip edge, where yields are much lower than in other areas of the aquifer. 
+MIDDLE OCMULGEE 
+
+
+
+
+3.3. Ecosystem Conditions and Instream Uses 
+The water resources of the region serve multiple purposes, including drinking water, recreation, and tourism.  Fish and wildlife are abundant and diverse in the region, and include the red-cockaded woodpecker, a federally listed endangered species, and four species found on Georgia’s list of protected animals (Altamaha shiner, goldstripe darter, Piedmont blue burrower, and robust redhorse).  The region also provides important aquatic habitat for several anadromous (migrating from oceans or estuaries into rivers to spawn) species and supports significant sport fisheries.  The Middle Ocmulgee River also is very popular for recreational canoeist and kayakers. 
+3.3.1 Monitored and Impaired Waters 
+EPD assesses water bodies for compliance with water quality standards as required by the Clean Water Act and monitors streams throughout the state and publishes the results every other year.  If an assessed water body is found not to meet standards, it is considered “not supporting” its designated use and is included on a list of impaired waters, also known as the 303(d) list.  Impairments can be based on various parameters such as DO, fecal coliform, copper, biota (aquatic species), fish consumption guidance, pH, and toxicity.  Impairments must be addressed through the development of a Total Maximum Daily Load (TMDL), which sets a pollutant budget and outlines strategies for corrective action.  A TMDL is defined by the U.S. Environmental Protection Agency as a calculation of the maximum amount of a pollutant that a waterbody can receive and still meet water quality standards, and an allocation of that amount to the pollutant's sources.  In addition to TMDL’s, impairments are addressed through watershed assessments and watershed protection plans that are required for treatment facility upgrades or permit increases. In 2010, EPD evaluated approximately 1500 stream miles in the Region; of these, 44 percent (654 miles) were not supporting their designated use.  Figure 3-7 highlights the locations of the impaired stream segments in the region.  A full list of Georgia’s impaired waters can be found on the EPD website http://www.georgiaepd.org/Documents/305b.html. 
+3.3.2 Priority Conservation Areas 
+High priority waters for protecting aquatic biodiversity were identified as part of a larger effort (the State Wildlife Action Plan) by the DNR’s Wildlife Resources Division (WRD) to develop a comprehensive wildlife conservation strategy for Georgia.  The streams included on the final priority list are those that are a high priority for restoration, preservation, or other conservation activity. Although the individual stream reaches were the basis for the selection process, nearly the entire Ocmulgee Watershed was identified as a high priority watershed.  Figure 3-8 shows the high priority waters (streams and watersheds) for the Middle Ocmulgee Water Planning Region. 
+MIDDLE OCMULGEE 
+
+
+
+
+
+
+Further information may be found at http://www.georgiawildlife.com/node/1377. A revision of the list of high priority waters is scheduled to begin in 2011.  Figure 3-8 also shows existing conservation lands based on the Georgia Land Conservation Database. Within the Middle Ocmulgee Water Planning Region (2.3 million total acres), there are over 120,000 acres of protected land managed by federal and state governments.  
+The Council and local governments within the region may consider land conservation as a management practice to increase protection of environmentally sensitive lands (such as stream buffers, flood plains, wetlands, springs, and other critical habitats), to minimize the impacts of development on water quality, and to reduce non-point source pollution. Coordination with WRD and the Georgia Land Conservation Program can be an effective way to obtain funding and to achieve multiple conservation purposes.  The Georgia Land Conservation Program offers grants, low­interest loans, and tax incentives which augment local, state, and federal funding sources to achieve the permanent conservation of land through the acquisition of conservation easements and fee simple ownership. More information on the Georgia Land Conservation Program can be found at http://glcp.georgia.gov/02/glcp/home/0,2682,82613131,00.html. 
+3.3.3 Wildlife and Fisheries Resources 
+The region has significant lakes that are home to wildlife and/or serve as fisheries, including Lake Varner, Javors Lucas Lake (formerly Town Creek Reservoir), Lake Jackson, High Falls State Park Lake, Lake Juliette (within Rum Creek Wildlife Management Area), Lake Tobesofkee, Marben Farms Public Fishing Area (PFA), and Flat Creek PFA. The Ocmulgee River basin is home to four aquatic species found on Georgia’s list of protected animals: Altamaha shiner (state Threatened), goldstripe darter (state Rare), Piedmont blue burrower (state Endangered), and robust redhorse (state Endangered, see below). More information about these species can be found at the following website: http://www.georgiawildlife.com/node/1085. The Ocmulgee River basin offers excellent sport fishing at a number of lakes in the region.  Downstream of the region, the Fisheries Section of the DNR operates several facilities within the river basin: Bowens Mill Fish Hatchery in Ben Hill and Wilcox counties; Dodge County PFA; and the portion of Ocmulgee PFA in Bleckley and Pulaski counties.  The WRD also operates the Go Fish Georgia Education Center in Perry, Georgia (Houston County). 
+The robust redhorse, an imperiled fish species native to Georgia and the Carolinas, was reintroduced into the Ocmulgee River between Lake Jackson (Lloyd Shoals Dam) and Lake Juliette in 2002 as part of a range-wide recovery program facilitated by several partners, including state and federal natural resource agencies, power generation companies, and conservation groups.  For a list of Georgia plants and animals that are protected, see (http://www.georgiawildlife.com/node/1366). 
+The Middle Ocmulgee region also provides riverine habitat for American shad, striped bass, and Atlantic sturgeon, three anadromous fishes that have experienced declines in the past.  There are various ongoing programs to research and restore the habitat of these species.  The Ocmulgee River and its major tributaries also support sport fisheries for largemouth bass, shoal bass, redbreast sunfish, bluegill, redear sunfish, and channel catfish. 
+
+4. FORECASTING FUTURE WATER RESOURCE NEEDS 
+
+
+4. Forecasting Future Water Resource Needs 
+Section 4. Forecasting Future 	The Middle Ocmulgee Region’s annual average daily (AAD) water 
+Water Resource Needs 
+demand is projected to increase 38 percent for the 40-year planning 
+This section presents the regional water and wastewater forecasts for 10-year intervals from period, from 250 MGD in 2010 to 2010 through 2050 for four water use sectors: 346 MGD in 2050. The region’s municipal, industrial, agriculture, and wastewater generation will thermoelectric generation.  Detailed descriptions increase 62 percent, from 155 MGD of the methodology and data used to generate 
+in 2010 to 251 MGD in 2050 on an 
+the forecasts can be found in Technical 
+AAD basis, requiring significantly 
+Memorandum – Municipal and Industrial Water 
+more treatment and disposal into 
+and Wastewater Forecasts (April 2011). 
+the region’s waterways. 
+4.1 Municipal Forecasts 
+Municipal water demand forecasts include water supplied to residences, commercial businesses, small industries, institutions, and military bases.  The forecasts are closely tied to the population projections for the counties within the Middle Ocmulgee Region (Table 4-1). The Governor’s Office of Planning and Budget developed the population projections for the entire state, in accordance with state law.  These projections were adopted by EPD for this planning process. 
+Table 4-1: Population Projections by County  
+County  2010 1  2020 2  2030 2  2040 3  2050 3  Difference 3 (2010 -2050)  % Change 3 (2010 – 2050)  
+Bibb  155,547  166,118  175,447  183,839  192,368  36,821  24%  
+Butts  23,655  34,274  44,811  58,443  76,147  52,492  222%  
+Crawford   12,630  15,594  18,257  20,683  23,264  10,634  84%  
+Houston  139,900  162,609  189,897  216,985  246,718  106,818  76%  
+Jasper  13,900  20,237  27,065  34,079  41,499  27,599  199%  
+Jones   28,669  37,004  45,743  52,089  56,784  28,115  98%  
+Lamar  18,317  21,392  25,727  30,832  36,859  18,542  101%  
+Monroe  26,424  34,204  43,094  51,895  59,840  33,416  126%  
+Newton   99,958  157,414  227,537  302,887  371,631  271,673  272%  
+Peach  27,695  32,514  37,974  42,745  48,118  20,423  74%  
+Pulaski  12,010  11,213  12,210  12,979  13,573  1,563  13%  
+Twiggs  9,023  11,866  13,041  13,318  13,165  4,142  46%  
+TOTAL  567,728  704,439  860,803  1,020,774  1,179,966  612,238  108%  
+Notes: 1. 2010 Census Data, U.S. Census Bureau 2. Georgia 2030 Population Projections, Office of Planning and Budget, March 2010.  3. Data provided for regional water planning purposes only (the 2030 projections were extended through 2050 for this planning process), March 2010.  
+
+SEPTEMBER 2011 
+4-1 
+
+4.1.1 Municipal Water Demand Forecasts 
+Municipal water demand forecasts (Figure 4-1) include demands for population that will be served by public water systems and by private wells (self supply).  The projected demand for public water systems is further divided by the type of water supply source (groundwater or surface water). The total municipal water demand for the Middle Ocmulgee Region is projected to increase significantly - from 79 MGD in 2010 to 151 MGD in 2050 - as a result of population growth.  These demand figures do not include any large publicly-supplied industries (Section 4.2).  
+
+Annual Average Daily Demand (MGD) 
+160 140 120 100 80 60 40 20 0 
+131  
+112  
+94  
+79  
+
+
+
+
+
+2010 2020 2030 2040 2050 Public Supply Groundwater 
+Public Supply Surface Water 
+Self Supply Groundwater 
+
+Municipal water demand forecasts were estimated by multiplying the per capita water use by the population served.  Per capita water use differs for public water systems and self-supplied users.  Self-supplied water users were assumed to use a standard 75 gallons per capita per day (gpcd), unless feedback dictated otherwise.  Per capita water use rates for public water systems for each county were initially developed using reported withdrawal data from EPD (2005) and water use data from the USGS publication, Water Use by County in Georgia 2005; and Water Use Trends, 1980­2005. To accurately account for the per capita water use rate for the population served, adjustments were made to subtract large wholesale and industrial water uses where necessary based on feedback provided by municipalities and public water suppliers. Water use for large industries supplied by public water systems was subtracted from municipal withdrawals and forecasted separately in the industrial category. 
+MIDDLE OCMULGEE 
+
+
+4. Forecasting Future Water Resource Needs 
+Adjustments to per capita water use rates were made to account for water savings as a result of changes in plumbing codes requiring high-efficiency plumbing fixtures. These water savings were calculated based on U.S. Census housing information and an assumption of a two percent annual replacement rate of older fixtures to new high-efficiency plumbing fixtures throughout the planning period. The assumed plumbing improvements lowered future per capita water use rates; these were incorporated into the demand forecasts. 
+4.1.2 Municipal Wastewater Flow Forecasts 
+The goal of the municipal wastewater flow forecasts is to estimate how much treated wastewater will be returned to waterways. These forecasts were based on estimated indoor water use, inasmuch as outdoor water use does not require wastewater treatment. Figure 4-2 shows the municipal wastewater flow forecasts by category. Wastewater may be treated by one of three disposal methods: 1) municipal wastewater treatment facilities to point source discharges; 2) municipal wastewater treatment facilities to LAS; or 3) OSSMS (septic systems).  This study assumes that all privately-supplied population (on wells) uses OSSMS (septic systems) for wastewater management. 
+
+Annual Average Daily Flow (MGD) 
+160 140 120 100 80 60 40 20 0 
+143  
+105  124  
+88  
+74  
+ 
+
+ 
+
+
+
+
+2010 2020 2030 2040 2050 Point Source Discharge 
+Septic System 
+Land Application System 
+
+Estimated flows to centralized municipal treatment facilities were modified to include infiltration and inflow (I/I) - groundwater and stormwater that enters into public sewer systems. An estimate of 20 percent I/I was used for each county throughout the planning period, unless specifically adjusted based on stakeholder feedback. 
+OSSMS (septic systems) account for approximately 15 percent of the 2005 wastewater generation in the Middle Ocmulgee Water Planning Region (Section 3). Despite efforts to extend sewer service in some counties, the presence of septic 
+SEPTEMBER 2011 
+4-3 
+
+4. Forecasting Future Water Resource Needs 
+systems will remain relatively steady for counties with lower population densities. The percentages of future wastewater flow that will be treated by centralized facilities (such as municipal treatment plant or LAS) versus OSSMS (septic systems) are based on current ratios for each county; adjustments to future ratios were made based on feedback provided by local governments and utilities. 
+4.2 Industrial Forecasts 
+Industrial water demand and wastewater flow forecasts anticipate the future needs for major water-using industries in the region through 2050.  Industries require water for their production processes, sanitation, and cooling, as well as employee use and consumption.  The industrial forecasts are based upon: 1) the rate of growth in employment for specific industrial sectors; 2) the rate of growth in units of production for specific industrial sectors: or 3) other credible and relevant information and data provided by specific industrial water users.  Industrial water demand and wastewater generation forecasts in this section include both publicly-supplied and self-supplied industries. While many industries supply their own water and/or treat their own wastewater, some industries are supplied by public water systems and/or send their wastewater to a public treatment plant.  
+4.2.1 Industrial Water Demand Forecasts 
+Industry-specific rates of employment growth for heavy water-using industry sectors (University of Georgia (UGA), March 2010) were used to calculate future water needs for specific industries within the Middle Ocmulgee Water Planning Region. General industrial employment shows an upward trend through the planning period, but employment in some heavy water-using industries - such as the textile and apparel sectors - is expected to drop substantially during the 40-year planning period. 
+Industrial water demand forecasts were calculated using information and data specific to each major water-using industry.  For industries where information was available on water use per unit of production, forecasts were based on production. For industries where product-based forecasts were not possible, industry-specific workforce projections were assumed to reflect the anticipated growth in water use within the industry. For industries with projected decreases in future employment (such as the textile and apparel industries), their current water demands were held constant throughout the 40-year planning period, assuming that the withdrawal and treatment capacities will be used by future industries or businesses recruited into the region. Figure 4-3 indicates a continual increase in industrial water demands through the planning period, from 40 MGD in 2010 to 66 MGD in 2050.  The stone and clay industry and the paper industry will continue to be the two most significant water-using industries for the Middle Ocmulgee region.  While the stone and clay industry obtains most of its supply from groundwater, the paper industry relies heavily on surface water. 
+MIDDLE OCMULGEE 
+
+
+4.2.2 Industrial Wastewater Flow Forecasts 
+Industrial wastewater flow forecasts were estimated by multiplying the industrial water forecast by the ratio of wastewater generated to water used for each industrial sector. The wastewater return ratios were initially developed based on a state-wide analysis of multiple years (1997-2007) of actual wastewater return and water withdrawal data (Industrial Wastewater Return Ratios Memorandum, EPD, October 2009); some ratios were later adjusted based on feedback provided by industry representatives. Figure 4-4 shows the industrial wastewater flow forecasts.  The projected wastewater quantity is higher than projected water demand, generally because the clay and stone industry’s wastewater returns (as wastewater discharges to streams) include captured stormwater in addition to their water withdrawals.  On average, the stone and clay industry in Georgia discharges approximately 29 percent more than it withdraws because of its use of stormwater.  This was based on a water balance calculated using three years of recent data collected by the industry. 
+SEPTEMBER 2011 
+4-5 
+
+4.3 Agricultural Forecasts 
+Agricultural water use includes irrigation for both crop and non-crop agricultural water users. The future irrigation needs for crop production were developed by UGA. These forecasts provide a range of irrigation water use under dry, medium and wet climate conditions, based on the acres irrigated for each crop type.  Table 4-2 shows the medium year crop irrigation water demand for each county.   
+With help from respective industry associations, UGA also compiled the current non­crop (including non-permitted) agricultural water uses, such as water use for nurseries/greenhouses, golf courses, and livestock production.  Water forecasts for future non-crop agricultural use were not developed because of the lack of available historical data.  For this planning effort, the non-crop water uses are assumed to remain at current levels throughout the planning period. 
+The bulk of agricultural water needs are located in the southern part of the region, in Crawford, Houston, Peach, and Pulaski counties.  Groundwater is the primary source for irrigation.  Agricultural demand for the planning period is shown in Table 4-2. More description of the agricultural forecasts is provided in the Technical Memorandum – Agricultural Demand Forecast (May 2011); the detailed forecasts by UGA can be found on the State Water Plan website. 
+MIDDLE OCMULGEE 
+
+
+4. Forecasting Future Water Resource Needs 
+Table 4-2: Agricultural Water Forecasts by County (in AAD-MGD)  
+County  Medium Year Crop Demand  Non Crop Demand  
+2010  2020  2030  2040  2050  2010-2050  
+Bibb  0.33  0.33  0.33  0.33  0.33  0.24  
+Butts  0.07  0.08  0.08  0.08  0.09  0.47  
+Crawford   6.09  6.21  6.36  6.53  6.71  0.69  
+Houston  11.90  12.17  12.50  12.87  13.25  0.62  
+Jasper  0.37  0.39  0.40  0.41  0.43  0.53  
+Jones   0.02  0.02  0.02  0.02  0.02  0.34  
+Lamar  1.02  1.04  1.08  1.11  1.15  1.71  
+Monroe  0.10  0.10  0.11  0.11  0.11  0.71  
+Newton   0.03  0.03  0.03  0.04  0.04  0.65  
+Peach  16.05  16.16  16.33  16.53  16.73  0.18  
+Pulaski  14.22  14.65  15.19  15.77  16.40  0.18  
+Twiggs  1.45  1.49  1.55  1.62  1.69  0.07  
+TOTAL  51.65  52.67  53.98  55.42  56.95  6.40  
+Source: UGA Agricultural Demand Forecasts (July 2010)  
+
+4.4 Thermoelectric Generation Forecasts 
+EPD and an energy sector ad-hoc group developed statewide water demand forecasts for future energy production through 2050 (Technical Memorandum for Statewide Energy Sector Water Demand Forecast, October 2010: 
+http://www.georgiawaterplanning.org/documents/Energy_Tech_Memo_102910.pdf). The energy sector ad hoc group is composed of representatives from three major electric utilities in the state: Georgia Power, Oglethorpe Power Corporation, MEAG Power and the Georgia Environmental Finance Authority (GEFA).  The group provided guidance related to assumptions used in the statewide and regionally distributed water demand forecasts.  The forecasts were distributed at a regional level through 2020 based on the location of existing and planned power generating facilities.  Regional forecasts were not made beyond 2020; the effort would be speculative, as the location and types of generating facilities that may be built is not known. 
+Using the current base year (2005), the 16 existing thermoelectric facilities in Georgia withdrew a total of approximately 2.7 billion gallons per day.  Only 7 percent (approximately 187 MGD) of this withdrawal is considered “consumptive use” (loss through evaporation).  Consumptive use represents water that is consumed during the power production process and not returned to streams, thus having implications for potential water supply gaps. The statewide consumption water need projection is 430 to 472 MGD; projected new consumptive use amounts to 170 to 187 MGD of this total, but locations and power generation processes are not yet identified. 
+SEPTEMBER 2011 
+4-7 
+
+4. Forecasting Future Water Resource Needs 
+The energy sector represents a significant portion of surface water demand in the Middle Ocmulgee Region.  The only major thermoelectric generation facility in the Middle Ocmulgee Water Planning Region - Plant Scherer, located near Forsyth in Monroe County – is one of the largest single generating stations in the United States. The coal-fired facility is a joint venture of Oglethorpe Power Corporation, Georgia Power Company, Florida Power & Light, Municipal Electric Authority of Georgia, Gulf Power, Jacksonville Electric Authority, and Dalton Utilities.  The plant withdraws from Lake Juliette, which receives water transferred by a pumping station from the nearby Ocmulgee River.  In 2005, the plant had an average withdrawal of approximately 59 MGD and returns of 25 MGD, effectively consuming an estimated 34 MGD of water on an annual average daily basis. 
+Based on the assumption that known existing and planned facilities will be in operation from 2020 through the year 2050, the Middle Ocmulgee Region’s 2050 total water withdrawal will range between 66 and 75 MGD, and the respective consumptive water use (withdrawal minus discharge) is estimated to range from 33 to 38 MGD (Table 4-3).  The overall water demand (withdrawal and consumption) for energy production in the region is projected to decrease slightly because newer facilities are expected to require less water for cooling (with improved processes and technology), resulting in less consumptive water loss. These ranges are shown in Table 4-3 as baseline and alternative forecasts. 
+The baseline forecast was determined using a regression analysis based on population growth and power generation.  The alternative forecast used a higher power demand scenario where power generation needs grow at a slightly faster rate than the power/population growth relationship that was used in the baseline scenario. Including this alternative analysis is important because future power needs could be affected by power and population trends outside the State of Georgia and/or may be different than the current assumptions. 
+Table 4-3: Energy Sector Water Demand Forecasts  
+County  Middle Ocmulgee Region (MGD-AAD)  
+2010  2020  2030  2040  2050  
+Baseline Withdrawal  73  69  68  67  66  
+Alternative Withdrawal  83  77  77  76  75  
+Baseline Consumption  36  35  34  33  33  
+Alternative Consumption  41  39  39  38  38  
+Source: Technical Memorandum for Statewide Energy Sector Water Demand Forecast, October 2010 Note: The figures shown in the table do not include any of the 170 MGD within the statewide consumption water need projections that have no identified location of generation  
+
+MIDDLE OCMULGEE
+
+The Middle Ocmulgee Council chose to use the current projections (based on existing and known planned facilities) for the development of this initial Regional Water Plan.  Georgia’s investor-owned utilities (Georgia Power, Atlanta Gas Light Company and Atmos Energy) forecast future demand and develop comprehensive plans for supply and demand management for their service territories under the guidance of the Georgia Public Service Commission (PSC). Oglethorpe Power 
+
+4. Forecasting Future Water Resource Needs 
+Company, Georgia Transmission Corporation (GTC) and the Georgia Systems Operations Corporation help coordinate the electricity capacity and generation planning of Georgia’s electric membership cooperatives. Similarly, the Municipal Electric Authority of Georgia (MEAG) and the Municipal Gas Authority of Georgia (MGAG) help coordinate the forecasting and planning of municipal electric and gas utilities. Finally, the Integrated Transmission System of Georgia facilitates coordination among the four utilities (Georgia Power, GTC, MEAG and Dalton Utilities) in developing new electricity transmission capacity in Georgia. All of these efforts reflect careful forecasting and resource planning by the individual market participants and in some cases reflect coordinated planning by groups of market participants. Yet no entity in Georgia compiles a comprehensive analysis of forecasted energy demand and supply for the state.  The Middle Ocmulgee Water Planning Council has stated (in Council Meeting 8) that, while the current forecast is sufficient for this planning effort, updates to the Regional Water Plans should incorporate data from future integrated resource plans. 
+4.5 Total Water Demand Forecasts 
+In total, the water needs of the Middle Ocmulgee Water Planning Region are projected to increase steadily from approximately 250 MGD in 2010 to an estimated 346 MGD in 2050 (Figure 4-5) on an annual average daily basis. Municipal water use is the greatest, with approximately 44 percent of the projected 2050 total water demand, followed by industrial, agricultural, and energy water use (Figure 4-6).   
+
+Annual Average Daily Demand (MGD) 
+400 350 300 250 200 150 100 50 0 
+346  
+272  298  325  
+250  
+
+
+
+
+
+
+2010 2020 2030 2040 2050 Groundwater 
+Surface Water 
+
+SEPTEMBER 2011 
+4-9 
+
+
+The region’s wastewater flows are projected to increase from approximately 155 MGD in 2010 to an estimated 251 MGD in 2050 (Figure 4-7).  Municipal and industrial wastewater flows are projected to comprise 90 percent of the estimated wastewater return in 2050 (Figure 4-8).  The increase in wastewater quantity is particularly significant in fast-growing counties such as Newton and Houston. Region-wide, the wastewater return ratio is predicted to increase from approximately 60 percent in 2010 to 72 percent in 2050, primarily because of additional planned wastewater services in Newton and Houston counties.  Strategic planning for future wastewater management is essential in protecting the region’s surface water quality. 
+MIDDLE OCMULGEE 
+
+
+
+SEPTEMBER 2011 
+4-11 
+
+5. 	COMPARISON OF WATER RESOURCE CAPACITIES AND FUTURE NEEDS 
+
+
+ 5. Comparison of Water Resource Capacities and Future Needs 
+Crystalline-Rock Aquifer – Most of the existing users of this aquifer in the region are on private wells; in the Middle Ocmulgee Region, only Jasper County and the City of Flovilla has active groundwater withdrawal permits from this aquifer for its public water supply. This trend – the aquifer primarily supplying small users on private wells - is likely to continue. The demand for the aquifer from the Middle Ocmulgee Region is estimated to be approximately 20 MGD in 2050. 
+The sustainable yield available from the portion of the Crystalline-Rock Aquifer in the Middle Ocmulgee Region is estimated to be approximately 21 MGD on an annual average daily basis (assuming that the aquifer in the Middle Ocmulgee Region exhibits similar characteristics to the same aquifer in the adjacent Middle Oconee study basin for which a water balance was generated, and using the low range of the area normalized sustainable yield - 0.01 MGD per square mile of area - for conservative planning). Based on this estimate, supplies from the Crystalline-Rock Aquifer will be sufficient for private well users in the region.  
+MIDDLE OCMULGEE 
+
+Section 5. Comparison of Water Resource Capacities and Future Needs 
+This section summarizes the potential water resource management issues for the Middle Ocmulgee Water Planning Region. The potential gaps – areas where future demands exceed the capacity of the resources 
+– were determined by comparing the Baseline Resource Assessments (Section 3) with the water demand and wastewater flow forecasts (Section 4). These gaps, if any, will be addressed through the water management practices identified in Section 6. 
+5.1. Groundwater Availability Comparisons 
+The Groundwater Availability Assessments (as of July 2010 and revised January 2011, EPD) estimated potential sustainable yield for each of the prioritized aquifers, based on the models developed for the respective aquifers.  The future conditions Resource Assessment evaluated the potential for groundwater capacity to meet the projected 2050 demands across the water planning regions. The assessment concluded that supplies from the Crystalline-Rock, Upper Floridan and Cretaceous Aquifers are generally sufficient in meeting the forecasted groundwater demand from areas with access to these aquifers. 
+There is no predicted surface water or groundwater availability shortage in the Middle Ocmulgee Region; however, water supply infrastructure will be needed to meet projected 2050 demands in several rapidly growing counties. Major potential future water quality issues include: 
+• 	
+additional treatment capacity 
+for fast growing counties 
+
+
+• 	
+limited assimilative capacity for some stream segments in the southern part of the region 
+
+• 	
+high nutrient loadings predicted in Lake Jackson and its tributary watersheds, including contribution from point source discharges from counties in the Metro North Georgia Water Planning District 
+
+• 	
+existing stream impairment (46 percent of streams in the region not supporting their designated uses) 
+
+• 	
+Management of OSSMS (septic systems) in rural areas 
+
+
+
+Cretaceous Aquifer – The Cretaceous Aquifer is a significant water supply source in the Middle Ocmulgee Region, supplying major municipal, agricultural, and industrial users in the portion of the area south of the Fall Line.  This aquifer is used heavily in Houston County, Twiggs County (especially for the kaolin industry), and to a lesser extent, in Peach and Jones counties. The sustainable yield for the prioritized aquifer units modeled is estimated to range from 347 to 445 MGD.  Projections for water use from the multiple regions with access to this aquifer show that future demand is not expected to exceed that sustainable yield in any of the projection years (Figure 5-1). Because current Resource Assessment modeling is not specific to individual planning regions, it is uncertain how the aquifer yield applies specifically to the Middle Ocmulgee Region. Site-specific studies would likely be required to determine the sustainable yield in any particular local area. Additional monitoring of groundwater use, especially agricultural and industrial uses, could be a valuable tool in identifying any potential localized gaps. 
+
+
+Upper Floridan Aquifer – The sustainable yield for the Upper Floridan Aquifer in south­central Georgia and the eastern Coastal Plain is estimated to be higher than the combined forecasted 2050 groundwater needs from regions with access to this aquifer. The projected water supply need from this aquifer for Middle Ocmulgee Water Planning Region is approximately 13 MGD in 2050, mostly from the very southern tip of the region (Pulaski County and portions of Houston and Peach counties have access to this aquifer). 
+MIDDLE OCMULGEE 
+
+
+5.2. Surface Water Availability Comparisons 
+The evaluation of surface water availability is based on the results of the Surface Water Availability Assessment (as of July 2010, EPD) compared to the projected surface water demands in 2050. For modeling purposes, the Middle Ocmulgee Basin was divided into sub-basins or planning nodes; the Jackson node encompasses the Lake Jackson drainage area in the upper portion of the basin and the Lumber City node includes the lower portion of the basin.  The location, drainage area, forecasted demands, and projected gaps are summarized by planning nodes in Figure 5-2.  The assessment modeling and future availability are based on meeting and sustaining a flow regime that supports water quality standards and downstream aquatic resource communities. A gap exists when the surface water supplies cannot meet the forecasted demand or the required flow regimes at the node. 
+The majority of the future surface water demand is projected to be in Newton County in the upper portion of the basin, followed by Bibb County in the central portion of the basin. Based on Resource Assessment modeling, there are no projected gaps in meeting projected future surface water needs and required flow regimes for either the Jackson or Lumber City nodes.  Future surface water demand upstream of the Jackson node, whether in the form of a direct withdrawal from the stream or to maintain off-stream storage, will potentially decrease flow downstream of the Jackson node after prolonged drought periods. However, as long as all upstream withdrawals maintain minimum required instream flows (i.e. no withdrawal during low flow periods for maintaining required instream flow), future withdrawals are not expected to impact flows downstream of the Jackson node during drought periods. During a wetter period after prolonged droughts, when either off-stream storage or Lake Jackson are being refilled, flows could be lower downstream of the Jackson node for a longer period of time, until the storage is replenished. 
+Lake Jackson is owned and operated by the Georgia Power Company and the lake storage is reserved for hydropower generation. Any additional future use of Lake Jackson’s storage capacity for water supply purposes would have to be negotiated and approved by Georgia Power and permitted by EPD. 
+Although the Resource Assessment modeling shows no projected gaps at the planning nodes, localized needs may exist.  Current permitted municipal surface water and groundwater withdrawals were compared to the forecasted future water demands in each county (Table 5-1) to supplement the Resource Assessments to assess local water supply or infrastructure needs.  The Surface Water Availability Resource Assessment only assessed aggregated demands, withdrawals and available storage at the planning nodes, and the Groundwater Resource Assessment was performed on the basis of aquifer (or aquifer system) and all planning regions with access to the particular aquifer evaluated. The anticipated population growth in Newton County is expected to result in significant shortages in local water supply and treatment capacity.  According to the county’s recent comprehensive plan, in addition to promoting water conservation and efficiency, Newton County has a surface water supply project in development for meeting its long-term projected needs (the 404 permit application and water withdrawal applications have been submitted for the proposed Bear Creek Reservoir and for the Alcovy River for filling the reservoir).  The completion of this project will significantly increase the storage capacity available for the northern part of the region that relies on surface water.  Other shortage shown in Table 5-1 is generally smaller and practices other than major infrastructure projects should be investigated for meeting potential needs (more discussion in Section 6). 
+
+
+Jackson Node: • Middle Ocmulgee counties with withdrawal above node: Butts, Jasper, and Newton (excluding Metro District counties) • 2050 Demand: 52.9 MGD (only includes counties within the Middle Ocmulgee Region) • No gap at planning node due to existing reservoir  
+Lumber City Node: • Middle Ocmulgee counties with withdrawal above node: Bibb, Butts, Crawford, Houston, Jasper, Jones, Lamar, Monroe, Pulaski, Peach, and Twiggs • 2050 Demand: 136.7 MGD (only includes counties within the Middle Ocmulgee Region) • No gap at planning node due to existing reservoir  
+
+2050 Demand by Node (AAD- MGD)  
+Jackson1  Lumber City1  
+Municipal  46.9  38.5  
+Industrial  5.5  32.8  
+Agricultural  0.5  5.4  
+Energy  0  66.0  
+Total  52.9  142.7  
+1Note: Demand shown does not include demand outside of Middle Ocmulgee Region  
+
+
+MIDDLE OCMULGEE 
+
+
+Table 5-1: Municipal Permitted Withdrawal vs. 2050 Forecasted Demand1 (MGD)  
+  County  Current Permitted Withdrawal 2  Projected 2050 Water Demand 2  2050 Permitted Capacity Need  Year Exceeded  Primary Water Supply Sources  
+Bibb3  63 3  37.1  None  Surface  
+Butts  11.0  10.6  None  Surface  
+Crawford   0.5  0.6  0.1  2050  Groundwater  
+Houston   44.7  47.1  2.4  2050  Groundwater  
+Jasper  1.1  2.4  1.3  2020  Surface  
+Jones  3.3  2.7  None  Groundwater  
+Lamar  5.5  3.6  None  Surface  
+Monroe4  4.5  4.5  None  Surface  
+Newton  32.9  50.1  17.2  2040  Surface  
+Peach  5.3  4.8  None  Groundwater  
+Pulaski  1.9  1.7  None  Groundwater  
+Twiggs  0.9  0.4  None  Groundwater  
+Source: EPD Permit Data, Middle Ocmulgee Municipal & Industrial Forecasts (Jacobs JJG 2010), Energy Forecasts (EPD 2010), Agricultural Forecasts (UGA 2010) 1 Municipal Water Demand includes industries that obtain their water from a municipal source. 2 All units shown are MGD Maximum Monthly Demand (MMD) 3 110 MGD permit from Ocmulgee River for pumped storage at Lake Lucas.  Withdrawal of 63 MGD from Lake Lucas is under a separate permit. 4 The City of Forsyth recently submitted a new raw water withdrawal permit application on the Towaliga River (2.5 MGD) and Monroe County has purchased and is considering plans to reactivate a 6-MGD intake and water treatment facility in the future.  However, the information above became available after the forecasts were developed and the forecasted 2050 demand above does not include additional population that may be served by these facilities, if approved and constructed.  
+
+5.3. Surface Water Quality Comparisons (Assimilative Capacity) 
+This section summarizes the results of the Initial Future Water Quality Assessment, Oconee, Ocmulgee, and Altamaha River Basins (as of June and October 2010, EPD) and the water quality gaps that the Middle Ocmulgee Water Planning Region may face based on projected 2050 wastewater flows and assumptions. 
+5.3.1 Future Treatment Capacity Needs 
+Future treatment capacity needs were determined based on a comparison of forecasted 2050 wastewater flow and current permitted capacity in the region (Table 5-2).  The permitted quantities are based on existing municipal facilities permitted under the National Pollutant Discharge Elimination System (NPDES) and permitted LAS. 
+Design capacities and discharge permits are typically based on maximum monthly flow (MMF).  For the purpose of this study, the MMF was calculated by multiplying a peaking factor of 1.2 times the annual average daily flow (AADF).  Based on this analysis, Butts, Houston, and Newton counties will need approximately 5, 15, and 29 MGD of additional capacity, respectively. Crawford, Jasper, Jones, Lamar, and Monroe counties also are projected to have small treatment capacity needs of less than 1 MGD.  Some of the counties have already begun planning for future expansion or new treatment facilities and these planned facilities will be included in the consideration of management practices (Section 6). 
+
+Table 5-2: Municipal Permitted Discharge vs. 2050 Forecasted Wastewater Flows (MGD) 1  
+County  Current Permitted Quantity 2  Projected 2050 Flow 2  2050 Permitted Capacity Need  Year Exceeded  
+Bibb  44.0  36.8  None  
+Butts  2.1  8.4  6.3  2020  
+Crawford  0.4  0.6  0.2  2030  
+Houston  19.04  33.8 4  14.8  2020  
+Jasper  0.3  0.6  0.3  2020  
+Jones  0.4  0.8  0.4  2020  
+Lamar  1.2  1.9  0.7  2030  
+Monroe  3.6  2.8  None  
+Newton  11.1  39.6  28.5  2030  
+Peach  3.2  2.8  None  
+Pulaski  2.3  0.9  None  
+Twiggs  0.7  0.3  None  
+Source: EPD Permit Data, Middle Ocmulgee Municipal & Industrial Forecasts (Jacobs JJG 2010) 1 Municipal Treatment Capacity includes industries that send their water to municipal plants for treatment 2 All units shown are MGD - MMF 4 Includes Robins Air Force Base (RAB); permitted quantity for RAB is assumed to be equal to 2050 projected flow  
+
+5.3.2 Assimilative Capacity Assessments 
+The future condition assessment evaluated assimilative capacity with municipal and industrial facilities at their full permit levels (both flow and effluent discharge limits) during minimum streamflow conditions. The evaluation of water quality (assimilative capacity) was based on modeling of both DO conditions and nutrient loadings. The assumptions used in the protective future condition scenario are very unlikely to occur simultaneously, but were used for conservative planning. 
+Dissolved Oxygen Results 
+Full Permit Scenario.  The impacts of point discharges at full permit levels were evaluated based on DO conditions in the streams.  Figure 5-3 presents the results for DO conditions. In the upper portion of the region, the DO conditions will generally be adequate to accept additional wastewater discharges.  In the region’s lower portion, the model predicted mostly moderate to good available assimilative capacity.  Some stream segments in the lower portion of the basin have no or limited remaining assimilative capacity at the full permit limits modeled. For most of these segments, actions may not be required immediately because of the high permit limits modeled; further monitoring and evaluation are required to verify modeling results.  
+MIDDLE OCMULGEE 
+
+
+
+
+
+In the lower Ocmulgee Basin, Alligator and Sugar creeks have been found to have naturally low DO (EPD is currently considering revising DO standards for streams with naturally occurring low DO levels).  For Bay Creek, a DO TMDL has been prepared requiring a treatment plant upgrade in the future.  Based on future condition assumptions, the Resource Assessment found that a short segment of the Ocmulgee River below the confluence of Tobesofkee Creek would also have limited additional wastewater assimilative capacity. Future management practices for wastewater demands will have to consider these areas of lower available assimilative capacity. 
+It should be noted that these future scenario conditions assume that treatment facilities will operate at their full permitted levels (both flow and effluent discharge limits), which is unlikely to occur, particularly during summer minimum flow periods.  In some cases, the actual permitted capacity significantly exceeds the projected 2050 flow.  Continued monitoring of DO in stream segments predicted to have future assimilative capacity issues is important to confirm actual DO levels and whether DO impairment exists. 
+2050 Conditions Scenario. Based on the results shown in Figure 5-3, EPD also conducted modeling assessments based on modified permit conditions and projected 2050 flows. In reality, EPD cannot issue permit that will violate water quality standards. EPD will continue to evaluate and modify future permit requests and adjust permit limits to prevent potential DO violations (either at renewal time or for new permits).  The Water Quality Resource Assessment models developed for this planning process will continued to be used by EPD for future wasteload allocation and for assessing DO conditions in the streams. Assuming that 1) permit limits will be tightened in streams with water quality violation, and 2) planned projects will be constructed to handle future flows with alternative discharge locations or treatment processes to produce higher quality effluent, the Resource Assessment models predicted that future DO violations in streams (red segments in Figure 5-3) can be prevented. The results of the 2050 condition simulations is shown on Figure 5-4 and additional water quality resource assessment data can be found at the following link: 
+http://www.middleocmulgee.org/documents/SupSec5_PermitVsForecastTables_MOC_M ay2011_FINAL.pdf#page=64. 
+MIDDLE OCMULGEE 
+
+
+
+
+
+Nutrient Results 
+A watershed-based model for the Upper Ocmulgee Watershed and a lake model for Lake Jackson also were completed to evaluate nutrient loadings under the 2050 conditions. Watershed models account for water withdrawal, wastewater discharges and stormwater runoff from various projected land uses.  The lake model is primarily used to evaluate the impacts of nutrients.  The 2050 scenario assumed full permit limits for permitted discharges and when the projected 2050 flow exceeds permitted flow, assumptions were made for point source discharges to meet the projected 2050 need. The models simulated a 7-year period which captured several drought periods (2001­2002, 2006-2007) and several dry years (2003 and 2005).  Unacceptable impacts (i.e. not meeting state water quality standards for dissolved oxygen and/or nutrients), are identified by the watershed and lake models.   
+Lake Jackson currently has a growing season average chlorophyll-a limit at mid-lake of 20 micrograms per liter (µg/L). The lake model simulated mid-lake chlorophyll-a concentration during various wet and dry year conditions.  Figure 5-5 indicates that the chlorophyll-a limit is likely to be exceeded during drought years with the projected 2050 flows. However, the model predicted that the total phosphorus specific loadings for the lake will not be exceeded, as long as all point discharges are treated to effluent total phosphorus limits similar to that of wastewater treatment facilities in the Metro North Georgia Water Planning District (Figure 5-6). 
+
+MIDDLE OCMULGEE 
+
+
+
+Analysis of surface layer nitrogen concentration also indicated that the nitrogen standard of 4 mg/L is likely to be exceeded in dry years (years 1, 2, and 7 in Figure 5-7). Excessive nutrients can encourage growth of algae and aquatic plants, which indirectly leads to a decrease in animal or plant diversity and may also affect recreational use of the lake. 
+
+
+The Upper Ocmulgee Watershed model includes counties from Metro North Georgia Water Planning District (DeKalb, Gwinnett, Rockdale, Henry), Middle Ocmulgee Region (Newton and portions of Jasper and Butts), and Upper Oconee Region (part of Walton). Analysis of total phosphorus loadings in the four sub-watersheds upstream of Lake Jackson indicated that point source discharge is the main source of nutrient (total phosphorus and total nitrogen) loadings for the South River, Yellow River, and Tussahaw Creek Watersheds, while non-point sources contribute slightly more in the Alcovy River Watershed (Figure 5-8).  Figure 5-9 shows the predicted phosphorus loadings in a typical wet year (year 3), with the assumption that all facilities above Lake Jackson will have Metro North Georgia Water Planning District phosphorus loading limits. Total nitrogen loadings are projected to increase significantly from the baseline conditions, but there are currently no loading limits for total nitrogen. Figure 5-9 also shows the predicted nitrogen loadings in a wet year (year 3).  The predicted nutrient loadings during wet years are generally higher than during dry years.  Further studies conducted by the State will be required to examine policies regarding nitrogen loadings. Additional resource assessment materials can be found on EPD’s website: 
+http://www.middleocmulgee.org/documents/SupSec5_PermitVsForecastTables_MOC_M ay2011_FINAL.pdf#page=64. 
+5.3.3 Existing Stream Impairment 
+In addition to the conditions predicted in the Resource Assessments, 654 out of approximately 1500 miles (or 44 percent) of the Middle Ocmulgee Region’s streams are listed on the 303(d) list (published in 2010) as impaired waters that do not support their designated uses).  Figure 3-7 (Section 3.3.1) includes a graphic presentation of the location of the impaired waters and the parameters of impairment.  EPD has developed TMDL plans outlining corrective actions for some of the watersheds, and has been requiring permittees to develop watershed protection and improvement plans in the past 10 years, as part of the permitting process for wastewater treatment plant upgrades or new discharges.  However, additional actions such as a coordinated water quality monitoring program (an analysis of water quality data obtained through required monitoring conducted by local utilities), continued development of TMDL and watershed improvement plans, and strong local actions are needed to improve the health of the streams in the Middle Ocmulgee Region. 
+MIDDLE OCMULGEE 
+
+
+
+Total PhosphorusTotal PhosphorusSouth River at Island Shoals Yellow River at Georgia Highway 212 
+No n-Point So u r ce, 16 % 
+
+
+Total NitrogenTotal NitrogenSouth River at Island Shoals Yellow River at Georgia Highway 212 
+Non-Po i n t 
+Non-Poi n t Sou r ce, 9 
+
+So u r ce, 17 
+% 
+
+% 
+
+Total PhosphorusTotal PhosphorusAlcovy River at Newton Factory Bridge Rd Tussahaw Creek at Fincherville Rd 
+
+Total NitrogenTotal NitrogenAlcovy River at Newton Factory Bridge Rd Tussahaw Creek at Fincherville Rd 
+
+Non-Po i n t 
+So u rce, 10 
+% 
+
+
+
+
+
+
+5.4. Summary of Potential Water Resources Issues 
+This section summarizes the potential water resources issues in the Middle Ocmulgee Region. These potential water resources issues are the basis for the recommended management practices in Section 6.  In addition, the Council’s concerns regarding the Resource Assessments are summarized.  These concerns led to recommendations for further data collection and Resource Assessments improvements in Section 7. 
+5.4.1 Potential Water Resources Issues 
+The Middle Ocmulgee Region is fortunate to have abundant water supply sources; the surface water availability assessment indicated that there is no predicted shortage at the two planning nodes. In other words, the surface water sources in the region are capable of supplying the projected demand through 2050.  However, there are needs for additional infrastructure, especially in fast growing areas such as Newton and Houston counties. The completion of the planned Bear Creek reservoir in Newton County will be essential in meeting local water supply and infrastructure needs. 
+In summary, major future water quality issues for the Middle Ocmulgee Region include: 
+• 	
+Need for additional wastewater planning and treatment capacity, especially in fast growing areas such as Newton, Houston and Butts counties 
+
+• 	
+Need for additional wastewater planning and monitoring to address potential low available DO or limited assimilative capacity in several stream segments south of the Fall Line 
+
+• 	
+Potential high nutrient loadings into Lake Jackson (particularly total nitrogen) and in the watersheds above Lake Jackson because of significant point source discharge contribution 
+
+• 	
+Need for additional watershed protection and management of non-point and point discharge sources to further improve existing impaired stream status 
+
+• 	
+Need for OSSMS (septic system) management in rural counties 
+
+
+Table 5-3 summarizes the potential water resource issues and permitted capacity needs in the Middle Ocmulgee Region by County.  Section 6 discusses the management practices appropriate to address these potential water resources issues. 
+
+Table 5-3: Summary of Potential Water Resources Issues by County1, 2  
+County  Municipal Water Permitted Capacity Need3  Municipal Wastewater Permitted Capacity Need3  Water Quality Assimilative Capacity Issues4  Existing Impaired Streams5  
+Source  Table 5 1  Table 5 2  Figure 5-3  Figure 3-7  
+Bibb  Yes  Yes  
+Butts  Yes  Yes  
+Crawford  Yes  Yes  Yes  
+Houston  Yes  Yes  Yes  Yes  
+Jasper  Yes  Yes  Yes  
+Jones  Yes  Yes  
+Lamar  Yes  Yes  
+Monroe  Yes  
+Newton  Yes  Yes  Yes  Yes  
+Peach  Yes  Yes  
+Pulaski  Yes  Yes  
+Twiggs  Yes  
+Notes: 1) "Yes" indicates a predicted capacity need or the existence of impaired streams or assimilative capacity issues. 2) No surface water or groundwater availability shortage is predicted for the Middle Ocmulgee Region for the 40­year planning period 3) Permitted capacity need is based on the comparison of permitted municipal capacity versus 2050 forecasted demand 4) Treatment upgrade may be required in these counties based on EPD's Water Quality Resource Assessment (as of July 2010) 5) Impaired streams based on 2008 303d list published by EPD  
+
+5.4.2 Resource Assessment Concerns 
+The Council stated that the limited Resource Assessments data available affected the quality of this planning effort. The following is a summary of the Council’s major concerns: 
+• 	Only one planning node (Jackson) is located within the Middle Ocmulgee Region for the Surface Water Resource Assessment and only 10 percent of the total area of the Middle Ocmulgee Region is upstream of this node.  The remaining area of the region within the Ocmulgee River Basin is assessed at the second planning node (Lumber City) located in the Altamaha Water Planning Region, approximately 100 miles downstream of the border of the two regions. Furthermore, both of the planning node locations are affected (regulated) by the releases from Lake Jackson.  The Council identified a need to add additional planning nodes: 1) on the main stretch of the Ocmulgee River below Macon discharges for better assessment in the southern portion of the region; and 2) on major unregulated tributaries of the Ocmulgee River - such as the Towaliga River and/or Echeconnee Creek - to better assess the sustainable capacity of the unregulated streams. 
+MIDDLE OCMULGEE 
+
+
+• 	
+Different flow values were used for the two Surface Water Resource Assessments.  The Surface Water Availability Resource Assessments used simulated unimpaired flows and critical minimum flow conditions developed based on the unimpaired flow assumptions, while the Surface Water Quality Resource Assessments used observed flows for both.  There is a need to further coordinate the use of flow values and to ensure the period of records used as basis of the analyses are consistent among various Resource Assessments. 
+
+• 	
+The Surface Water Resource Assessments analyzed conditions based on the current minimum instream flow policy (monthly 7Q10 - the 7-day average flow with an occurrence frequency of once in 10 years) and provided no analysis of alternative minimum instream flow scenarios for the Council’s consideration in protecting key stream resources in the Middle Ocmulgee Region. 
+
+
+Based on these concerns, the Council developed recommendations to the State in Section 7 for incorporation prior to the next round of Regional Water Planning.  
+
+6. ADDRESSING WATER NEEDS 
+AND REGIONAL GOALS 
+
+
+
+6. Addressing Water Needs and Regional Goals 
+Section 6. Addressing Water 	The Middle Ocmulgee Water Planning Council recommends 15 
+Needs and Regional Goals 
+priority water management practices to begin addressing the 
+This section presents the water management practices recommended by the Middle Ocmulgee region’s potential water resource Water Planning Council. These practices have issues and existing regulations. The been selected to meet the Council’s vision and Council also recommended 20 goals stated in Section 1 and to address additional management practices resource shortfalls or gaps identified and to be considered by local described in Section 5. 
+governments and water users based on needs identified in 
+6.1 	Identifying Water Management detailed local master planning studies. These maangement 
+Practices 
+practices, if implemented, will 
+In order to select management practices, the 
+prevent or work toward closing 
+Council considered the following: 
+predicted water resources “gaps.” 
+• 	
+practices identified in existing plans;  
+
+• 	
+the region’s vision and goals (see Section 1); and 
+
+• 	
+public input: extensive coordination with stakeholders, including local governments, water providers, and major industrial water users or their respective industry associations. 
+
+
+With help from its planning contractor, the Council conducted a review of existing local and regional water and wastewater master plans, TMDL implementation plans, watershed assessment/management plans, and comprehensive plans to frame the selection of management practices. When possible, successful management practices already planned for and/or in use in the region formed the basis for the water management practices selected by the Council.  A list of existing local plans considered for the development of this Regional Water Plan is included in the 
+Supplemental Document: Existing Plans for Middle Ocmulgee Water Planning Region. 
+6.2 	Selected Water Management Practices for the Middle Ocmulgee Region 
+This section briefly discusses the management practices selection process and presents the selected water management practices.  The detailed decision-making process and ranking of management practices are documented in Technical Memorandum - Management Practices Selection (May 2011). 
+6.2.1 Management Practice Selection Process 
+The needs and interests of the stakeholders in the region are diverse.  One of the Council’s major concerns was that the recommended management practices not dictate what each stakeholder group or entity should do.  Rather, they are presented as a menu for selection by entities within the Middle Ocmulgee Region, based on local needs and conditions.  
+
+6. Addressing Water Needs and Regional Goals 
+MIDDLE OCMULGEE 
+
+The Council’s Technical Subcommittee examined an extensive list of potential water quantity and quality management practices. The planning contractor refined the initial list of management practices based on input received from the committee, other council members and stakeholders.  The Council’s Technical Subcommittee, and then the full Council, was requested by EPD to incorporate additional demand management practices according to Detailed Guidance for Evaluating Practices to Manage Demands (September 21, 2010, EPD).  The Subcommittee led the iterative development, review and revision of management practices, and the full Council reviewed these recommendations in subsequent Council meetings. 
+A survey of council members on management practices was conducted in Council Meeting 6 (June 30, 2010) to gauge understanding of various demand management practices after resource assessment results became available.  At Council Meeting 7 (September 22, 2010), the council members ranked the importance of the programmatic management practices as low (1), medium (2), and high (3).  The average ranking of each programmatic management practice was calculated from these individual rankings.  No practices were ruled out, because the applicability of each practice will vary by the specific situation, type, and size of the implementing entity. The Council chose not to rank infrastructure management practices (such as construction of reservoirs, groundwater wells, or treatment facilities) because the necessary type of infrastructure or facility will be determined based on the availability of water resources (generally surface water north of the Fall Line and groundwater south of the Fall Line) and the available assimilative capacity of streams for potential discharges.  Each entity may conduct detailed feasibility studies that evaluate its individual issues and resources to determine appropriate management practices. 
+6.2.2 Management Practices 
+After multiple discussions on management practices and considering feedback from stakeholders and EPD, the Council prioritized the recommended management practices so that stakeholders can focus their efforts on the most important and pressing water resource issues.  The recommended management practices (Table 6-1) are divided into two groups: 
+• 	
+Priority Management Practices are selected to address water resource gaps and existing regulations (including demand management practices listed in the Water Stewardship Act, SB370).   
+
+• 	
+Additional Management Practices can be selected by local entities to address specific concerns based on the results of detailed local planning. 
+
+
+The management practices are grouped by type (demand management, supply management, enhanced water quality standards and monitoring, and enhanced pollution management) and address all of the goals identified by the Council.  The Council selected a total of 35 management practices. 
+Table 6-1 includes priority demand management practices (applicable to the entire region) aligned with the region’s vision and the goal to promote efficient use of water. The State Water Plan (Section 7, Policy 3) states that “water conservation will be a priority water quantity management practice implemented to help meet water needs in all areas of the state and will be practiced by all water user sectors.” In Detailed 
+
+6. Addressing Water Needs and Regional Goals 
+Guidance for Evaluating Practices to Manage Demands (EPD), demand management practices were divided into four tiers, as follows: 
+• 	
+Tier One includes basic water conservation activities and practices that are currently required by statute or will soon be required in EPD’s upcoming amended rules (regarding the State Water Plan and SB370 – Water Stewardship Act). 
+
+• 	
+Tier Two includes basic water conservation activities and practices that will be addressed in EPD’s upcoming amended rules, but not required of all permit applicants. 
+
+• 	
+Tier Three includes basic water conservation activities and practices that will not be addressed in current or upcoming amended rules. 
+
+• 	
+Tier Four includes “beyond basic” water conservation practices to be considered if a gap exists between current or future water supplies and demands for the region. 
+
+
+The Council supports the implementation of the required Tier 1 demand management practices and encourages each water user or permittee to evaluate Tier 2 practices and implement these practices where practicable, or as required by permit conditions. Implementation of Tier 3 practices is voluntary and should be determined based on each entity’s needs.  The Council encourages water users/permittees to evaluate the cost and operational implications of these practices, and to implement them when they are beneficial to their operation.  The full list of specific Tier 1 and Tier 2 conservation goals and demand management practices recommended by the Middle Ocmulgee Council can be found in Supplemental Document: Technical Memorandum - Demand Management Practices (May 2011). 
+Development or update of local water and wastewater master plans is recommended to identify specific local needs and issues not examined in detail in this high-level regional plan.  The regional plans evaluated information on a regional and county basis, and the number of entities providing water, wastewater and stormwater services to customers within a county varies greatly.  There can be a single entity (e.g., Macon Water Authority for Bibb County) or as many as seven entities (e.g. Newton County) within a county serving municipalities and unincorporated areas. The Council stated repeatedly that it is important for entities within the region to conduct their own master planning following Regional Water Plan recommendations. 
+To address the 2050 projected wastewater flows in the region’s fast growing counties, such as Newton, Butts, and Houston (Table 5-2), new wastewater treatment facilities will need to be constructed and some of the existing facilities will need to be expanded and/or upgraded.  The water quality management practices identified in Table 6-1 have been selected to close the assimilative capacity gaps, assuming that future facilities and/or facility expansions (as identified in local master plans) will be designed to meet existing and future water quality standards.  While most of these practices address point source discharges for improving assimilative capacity, the Council also recommends management practices that address the 
+
+6. Addressing Water Needs and Regional Goals 
+equally important non-point source pollution reduction.  The enhanced pollution management practices in Table 6-1 are selected to improve the existing impaired streams and assimilative capacity by strengthening non-point source pollution reduction and watershed protection efforts in the region.  Many more beneficial practices for improvement of impaired streams and reduction of non-point source pollution are included for customization of efforts based on local issues. 
+There is no existing nitrogen loading limit in either Lake Jackson or its tributary watersheds.  The Council recommends that EPD conduct further studies to evaluate the impacts of potentially high nitrogen levels and determine whether nitrogen loading limits and instream nutrient standards are required to protect future water quality in Lake Jackson and in the Upper Ocmulgee basin.  
+Also, while the Council recognizes that there may be water quality effects, both current and future, from facilities and runoff in the Metro North Georgia Water Planning District (Metro District) that discharge into the Upper Ocmulgee basin, this plan does not address those effects or potential future changes needed to address them. In addition to water availability considerations, impacts to water quality (assimilative capacity) in Lake Jackson and the Ocmulgee River will need to be evaluated by the State if changes in discharge conditions in the Upper Ocmulgee basin are proposed. The wastewater projections and discharge data for DeKalb, Gwinnett, Clayton, and Spalding counties used in the Resource Assessments are consistent with the current plans developed by the Metro North Georgia Water Planning District (Wastewater Management Plan Update, May 2009).  For example, the Resource Assessment assumes that the combined plant discharges into the Ocmulgee Basin from DeKalb County’s Pole Bridge and Snapfinger Water Pollution Control Facilities continue at current permit levels (56 MGD) through 2050 and that any effluent above 56 MGD is returned to the Chattahoochee River Basin.  If there are any future changes in the discharge conditions resulting from a change in interbasin transfer policy or changes in permit conditions (i.e. phosphorus or nitrogen effluent or loading limits), impacts of these changes will need to be studied by the State. 
+MIDDLE OCMULGEE 
+
+
+6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Middle Ocmulgee Planning Region  
+Action(s) Needed  Issues to be Addressed   Description/Definition of Action  
+WATER DEMAND MANAGEMENT PRACTICES GOALS ADDRESSED: 1 (maximize existing supply), 4 (water efficiency), 7 (better planning and management) GAP ADDRESSED: no regional gap  
+PRIORITY MANAGEMENT PRACTICES  
+WD1-Implement Tier 1 Water Conservation Practices and Other SB370 Requirements  Overall demand reduction and management (municipal and industrial) in all areas of the region  Tier 1 water conservation practices include those required by SB370 (Water Stewardship Act of 2010) and those anticipated in upcoming state-rule making. Water providers will be required to: • Conduct water loss audit and report results to EPD using International Water Association standards and practices • Demonstrate progress toward Tier 1 water conservation goals and practices (non-farm water withdrawal permittees) in annual water conservation plan progress report Local governments will be required to: • Adopt ordinance restricting outdoor watering between the hours of 10am and 4pm (with some exemptions) • Amend local building codes to require submetering for all newly constructed multi-unit residential,  
+industrial and retail buildings • Amend local building codes to require high efficiency plumbing fixtures (1.28 gal/flush) in all new construction • Amend local building codes to require high-efficiency cooling towers in new industrial construction EPD and existing agricultural withdrawal permittees will need to evaluate and comply with new requirement regarding classification of existing agricultural water permits by status (active, inactive, and unused permits)  
+
+
+Table 6-1: Water Management Practices Selected for the Middle Ocmulgee Planning Region  
+Action(s) Needed  Issues to be Addressed   Description/Definition of Action  
+WD2-Evaluate /Encourage Tier 2 (Non-Farm) Water Conservation Practices  Demand reduction and management, as required by non­farm permit conditions or future amended rules  Tier 2 water conservation practices include basic water conservation practices that will be addressed in upcoming state rule-making, but not required of permit applicants. Municipal and industrial (including thermoelectric production facilities) water withdrawal permit holders may be asked to demonstrate progress toward water conservation goals or water efficiency standards. Note for WD1 and WD2: The full list of specific Tier 1  
+and Tier 2 conservation goals and demand management practices recommended by the Middle Ocmulgee Council can be found in Technical Memorandum - Demand Management Practices (May 2011)  
+ADDITIONAL MANAGEMENT PRACTICES  
+WD3-Promote Full-Cost System Accounting  Better planning and management Meeting water/ wastewater systems' long-term needs for maintenance, repair, rehabilitation, as well as new or replacement assets  Utilities or local governments are encouraged to institute accounting and management practices to ensure that all costs of operating and maintaining the systems, as well as costs of rehabilitating and providing all needed capital assets, are understood and reflected in accounting practices and in the schedule of rates and charges.  Evaluation steps may include: • Develop comprehensive lists of long-term system needs, based on master planning • Evaluate internal accounting procedures and practices to reflect all direct and indirect costs • Conduct a revenue analysis to determine the ability of the system to meet the full costs of providing services • Investigate irrigation meter pricing, conservation- oriented pricing, or other appropriate strategies for the locale  
+• Evaluate billing system functionality and determine the ability to implement alternative rate structures • Conduct rate studies and update pricing and fee schedules, as appropriate • Implement procedures to verify revenue sufficiency and to support and track the expenditure of funds to meet the long-term needs of the systems  
+
+MIDDLE OCMULGEE 
+
+
+6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Middle Ocmulgee Planning Region  
+Action(s) Needed  Issues to be Addressed   Description/Definition of Action  
+WD4-Evaluate/ Encourage Tier 3 Water Conservation  Additional Demand Management to extend life of existing water supply source and to delay capital expenditure for new supply  Tier 3 water conservation practices are basic practices that are not addressed in current rules and will not be addressed in upcoming amended rules.  Permittees/water users are encouraged to evaluate applicability of Tier 3 practices for:  • Agricultural Water Use • Electric Generation • Golf Courses • Water-Using Industries and Commercial Businesses • Heavy Landscape Water Use • Urban and Suburban Areas • State Agency Facilities  
+Practices  sources (More urgent for counties in Table 5­2 with projected capacity shortfall )   Implement where necessary based on local conditions. A trigger approach can be considered, such as reaching 85 to 90 percent of treatment capacity or experiencing low system pressure (less than 30  
+pounds per square inch). Local utilities are encouraged to evaluate this approach based local conditions and operational and performance requirements.  
+Note: The full list of specific Tier 3 conservation goals and demand management practices recommended by the Middle Ocmulgee Council can be found in Technical Memorandum -Demand Management Practices (May 2011)  
+WATER SUPPLY MANAGEMENT PRACTICES GOALS ADDRESSED: 1 (maximize existing supply), 3 (sufficient water supply), 7 (better planning and management GAP ADDRESSED: no regional gap  
+PRIORITY MANAGEMENT PRACTICES  
+WS1-Develop /Update Local Water Master Plans  Reduction of local water supply needs and better planning and management of water resources; (more urgency for counties in Table 5- Local entities to evaluate the following every 5 to 10 years based on system demand or other growth factors, to ensure consistency with Regional Water Plan recommendations: • Adequacy of water supply sources • Need for additional water supply/alternatives supply source analysis • Water use efficiency  
+2 with capacity shortfall)  • Treatment and distribution system needs • Capital improvements • Funding requirements • Recommended planning horizon: 20 to 30 years  
+
+
+MIDDLE OCMULGEE 
+
+Table 6-1: Water Management Practices Selected for the Middle Ocmulgee Planning Region  
+Action(s) Needed  Issues to be Addressed   Description/Definition of Action  
+WS2-Investigate Impacts of Metro Area Discharges  Potential impacts of (1) change in Metro District's discharge conditions in the Upper Ocmulgee basin, if proposed; (2) impacts of nutrient loadings and emerging contaminants; (3) effects on local assimilative capacity  Evaluate: • Impacts to pollutant loads in Lake Jackson and Ocmulgee River downstream of the Lake if effluent discharges from Gwinnett, DeKalb, Clayton and Spalding counties are proposed to be discontinued (if all interbasin transfer from the Chattahoochee is to be returned) • Impacts of pollutant  loadings (especially nutrient) and emerging contaminants from various discharge scenarios in the Metro District • Effects on local assimilative capacity in Lake Jackson and Ocmulgee River downstream of the Lake  
+ADDITIONAL MANAGEMENT PRACTICES  
+WS3-Existing Surface Water Reservoir Storage  Local water supply needs in areas north of the Fall Line and as indicated in Table 5-1 (as an option for counties with projected capacity shortfalls)  As part of master planning process, evaluate expansion of existing reservoirs by increasing the height of existing dams or dredging to provide additional storage.  This option can be used for all entities with existing reservoir storage to extend and maximize the life of the supply source. Evaluate potential for impoundments managed by Natural Resources Conservation Service to serve as water supply sources (in general, larger impoundments and if within the service areas).   
+WS4-Evaluate New Surface Water Storage Reservoirs  Local water supply needs in areas north of the Fall Line and as indicated in Table 5-1 (as an option for counties with projected capacity shortfalls)  As part of local water system master plan, conduct feasibility study for potential new sources based on identified needs and conditions (generally for areas north of the Fall Line).  
+WS5-Investigate New Groundwater Sources  Local water supply needs in areas south of the Fall Line and as indicated in Table 5-1 (as an option for counties with projected capacity shortfall)  Conduct feasibility study based on local needs and conditions, as identified in water system master plans (generally for areas south of the Fall Line).  
+WS6-Evaluate System Interconnections for Water Supply  Local water supply needs and overall system reliability improvements  Evaluate obtaining water from neighboring entities for regular or emergency supply as part of water system master plans.  
+
+
+6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Middle Ocmulgee Planning Region  
+Action(s) Needed  Issues to be Addressed   Description/Definition of Action  
+WS7-Expand Existing Water Treatment Plant  Local water supply needs  Maximize capacity potential at existing facilities or upgrade existing facilities based on local water master plans.  
+WS8-Construct Water Treatment Plant (New)  Local water supply needs  Treatment of surface water, or a combination of surface and groundwater, based on needs identified in local water master plans.  
+WS9-Promote and Evaluate Beneficial Reuse  Local water supply needs; decrease demand  Evaluate the following to decrease overall system water demand: • Indirect potable reuse: return highly treated wastewater to water supply reservoirs • Non-potable reuse: irrigation with highly treated effluent in areas such as golf courses, parks, and residences  
+WATER QUALITY: ENHANCED WATER QUALITY STANDARDS AND MONITORING MANAGEMENT PRACTICES GOALS ADDRESSED: 5 (properly managed discharges and beneficial reuse),  7 (better planning and management)  GAP ADDRESSED: assimilative capacity gaps, infrastructure need  
+PRIORITY MANAGEMENT PRACTICES  
+WQ1­Develop/Update Local Wastewater Master Plans  Management of point source discharges and future capacity needs (more urgency for counties in Table 5­2 with capacity shortfall); improve pollution controls to aid in closing  Local entities to perform the following every 5 to 10 years based on wastewater treatment demand or other growth factors: • Update population and wastewater flow projections with local details; compare to Regional Water Plan forecast trend and assumptions • Evaluate future wastewater treatment, collection, and disposal needs and options • As needed, apply for new or update existing wasteload allocations to ensure compliance with water quality standards  
+assimilative capacity gaps in identified stream segments  • Include planning and treatment of septage from lower density areas in expansion of existing centralized treatment facilities and for new treatment facilities • Recommended planning horizon: 20 to 30 years   
+WQ2-Adopt and Coordinate Statewide, Regional and Local Water Quality Monitoring  Tracking long-term point and non-point source pollutant loads to aid in managing future gaps for low DO at or below the Fall  Long-term monitoring can help evaluate whether pollution reduction practices for point sources and watershed practices for non-point sources are effective. • Continue existing state-led monitoring efforts and coordinate with USGS and local entities to consolidate  
+
+
+Table 6-1: Water Management Practices Selected for the Middle Ocmulgee Planning Region  
+Action(s) Needed  Issues to be Addressed   Description/Definition of Action  
+Programs  Line and potential  all water quality data  
+nutrient issue in Upper Ocmulgee Watershed (north  • Include water quality, habitat, and biological parameters  
+of Lake Jackson)  • Evaluate impacts of potentially inadequate instream flows on the above-mentioned parameters • Include additional nutrient (Nitrogen and Phosphorus) monitoring and analysis in Lake Jackson and watersheds upstream of Lake Jackson • Verify water quality trends and modeled violations prior to implementing costly infrastructure upgrade or improvements  
+WQ3-Upgrade Existing Wastewater Treatment Facilities  Potential water quality (assimilative capacity) gaps in the southern portion of the region; local wastewater capacity needs  As identified by local wastewater master plans or evaluations, increase treatment capacity or improve level of treatment as necessary to meet future capacity needs and/or water quality standards.  
+WQ4-Construct Advanced Wastewater Treatment Facilities  Potential water quality (assimilative capacity) gap; local wastewater capacity needs  As identified by local wastewater master plans or evaluations, provide advanced treatment as necessary to meet future capacity needs and water quality standards.    
+WQ5-Promote Coordinated Environmental Planning  Integrated planning and management of water resources  Incorporate regional water planning goals and management practices with local comprehensive planning of land use, transportation, and water resources.  
+ADDITIONAL MANAGEMENT PRACTICES  
+WQ6-Evaluate Constructed Treatment Wetlands (Beneficial Reuse)  Improved discharge quality and enhanced pollution control  • Consider wetlands for polishing treatment following traditional treatment • Promote beneficial reuse, wildlife habitat, and public use benefits  
+
+MIDDLE OCMULGEE 
+
+
+6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Middle Ocmulgee Planning Region  
+Action(s) Needed  Issues to be Addressed   Description/Definition of Action  
+WATER QUALITY: ENHANCED POLLUTION (Non-Point Source) MANAGEMENT PRACTICES GOALS ADDRESSED: 2 (natural stream integrity), 5 (properly managed discharges and beneficial reuse),  6 (non-point source pollution reduction), 7 (better planning and management) GAP ADDRESSED: assimilative capacity gaps, existing impaired streams  
+PRIORITY MANAGEMENT PRACTICES  
+WQ7-Reduce Runoff from Impervious Surfaces  Reduction of non­point source pollution  Local governments may consider the following programs to address non-point source pollution and stormwater management issues: • Low Impact Development (LID) • Reduction of impervious surfaces in development and building design • Land (green space) conservation • Transfer of development rights Local governments may adopt incentive programs, such as tax credits for developers.  
+WQ8- Adopt Ordinances and /or Incentive Programs to Protect Sensitive Land  Protection of environmentally sensitive lands and non-point source pollution reduction   Local governments may consider adopting ordinances or incentive programs for developers to protect or conserve environmentally sensitive lands and to minimize impacts of development.  The programs may include any combination of the following based on local needs or issues (such as impaired streams):  • Stream buffer protection (wider buffer requirement to filter pollutants, various buffer width for different slopes) • High priority watersheds (based on Wildlife Resource Division's published list) • Floodplain protection (wider buffer along larger streams or in lower part of watersheds)   
+• Wetlands protection • Protection of areas with steep slopes (minimize development in these area or mitigate the effects of sediment and erosion) • Site plan review to prohibit or minimize development in floodplain or other sensitive areas  
+
+
+Table 6-1: Water Management Practices Selected for the Middle Ocmulgee Planning Region  
+Action(s) Needed  Issues to be Addressed   Description/Definition of Action  
+WQ9-Encourage Total Maximum Daily Load (TMDL) Implementation  Reduction of water quality (assimilative capacity) gap and impaired water improvements  When a TMDL is to be established to address water quality violation(s) in the impaired water body, local governments or utilities should: • Participate in the TMDL development and   implementation planning process (evaluate potential pollutant sources of impaired waters) • Implement identified TMDL actions (this can include management practices to address both point and non­point source pollutants in the watersheds)  
+WQ10-Develop/ Implement  Proper management of discharges;  Work with EPD to (1) develop watershed assessment and protection plans as part of wastewater treatment/discharge upgrade and/or expansion process, and (2) implement watershed monitoring and protection measures identified in these plans.  
+Watershed Assessment/ Protection Plan Measures  reduction of non­point source pollution; protection of water supply sources  Implement the following watershed protection plan elements if a  water supply watershed is located within the jurisdiction: • Reservoir buffers • Lot size requirements • Septic setbacks • Reservoir use restrictions  
+WQ11-Implement Watershed Improvement Projects  Reduction of non­point source pollution; restoration of substantially impacted watersheds  Implement watershed improvement projects to help restore streams to attain designated uses, as well as impacted habitats and flow regimes.  Projects can include physical improvements, such as • Retrofit existing stormwater infrastructure • Restore ecosystem (stream/wetlands restoration)  
+ADDITIONAL MANAGEMENT PRACTICES  
+WQ12-Decrease Use of Land Application Systems (LAS) in Urban Areas  Reduction of consumptive loss and improved pollution control  Increase returns to surface water in urban areas. Counties with aging LAS may consider discontinuing the practice after 25-30 years of use of the facilities or when it is appropriate to switch to point discharge (for example, to minimize potential leaking of nutrients into the watersheds if monitoring shows potential water quality issues).  
+
+MIDDLE OCMULGEE 
+
+
+6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Middle Ocmulgee Planning Region  
+Action(s) Needed  Issues to be Addressed   Description/Definition of Action  
+WQ13-Decrease Use of On-Site Sewage Management Systems (OSSMS)/Septic in  Reduction of consumptive loss and improved pollution control  As part of long-term wastewater master planning, municipalities or local governments should consider future services area of centralized wastewater collection and treatment services based on future population or land use density to • Increase returns to surface water in urban areas • Prevent long-term water quality problems caused  by failing OSSMS (septic systems)  
+Urban Areas  Identify areas where centralized sewer would benefit water quality (e.g., areas around lakes, streams, or smaller lots such as less than 0.5 acre per lot that would not support OSSMS).  
+WQ14-Develop Commercial/ Industrial Pollution Prevention Programs  Reduction of non­point source pollution  Adopt pollution prevention and good housekeeping programs that will eliminate or prevent pollutants from entering stormwater systems and reaching water bodies.  
+WQ15-Develop and Implement Stormwater Public Education and Outreach  Reduction of non­point source pollution  Develop general education and outreach programs for reduction of non-point source pollution for the following audiences: • Residential and commercial developments • Industries • Agricultural community  
+WQ16-Adopt Stormwater Management Standards for New Development for Rural Areas  Reduction of non­point source pollution  • Adopt ordinances/policies that require stormwater management for new development • Adopt Georgia Stormwater Management Manual (Blue Book) or an equivalent local design manual  
+WQ17­Develop/Update Local Stormwater Master Plan  Reduction of non­point source pollution; reduction of potential assimilative capacity gaps  Prepare or update a local stormwater master plan to identify potential runoff / water quality issues and develop long-term capital improvement programs to better manage drainage systems and floodplains and to implement other water quality enhancement programs. • Recommended interval: every 5-10 Years  
+
+
+Table 6-1: Water Management Practices Selected for the Middle Ocmulgee Planning Region  
+Action(s) Needed  Issues to be Addressed   Description/Definition of Action  
+WQ18-Include and implement septage disposal options  Proper treatment and disposal of pumped septage  Include planning and treatment of septage from lower density areas in expansion of existing centralized treatment facilities and for new treatment facilities. Develop educational programs to emphasize • Proper maintenance of OSSMS (septic systems) • Regular inspection • Pumping/disposal of waste  
+WQ19-Establish a Stormwater Utility  Reduction of non­point source pollution  Local governments (serving > 10,000 people) may consider establishing a stormwater utility (or other mechanism) to ensure proper operation funding for stormwater management programs.    
+WQ20-Evaluate Water Quality Trading  Improved assimilative capacity  Consider watershed-based water quality trading program that can complement water-quality regulation; evaluate regulatory framework that would allow pollutant reduction credits to be obtained from other facilities in the same watershed (or non-point sources like agriculture). Non-point source pollutant reductions are frequently less expensive than treatment-plant upgrades. Trading programs can cost-effectively improve water quality.  Wetlands/stream banks mitigation projects, if beneficial to water quality, can also be considered.    
+WQ21-Encourage Forest and Dirt Road Best Management Practices (BMPs)  Reduction of non­point source pollution  • Implement the measures outlined in the Georgia Forestry Commission Best Managements Practices (BMP) manual. • Expand education and enforcement of the measures outlined in the Georgia Forestry Commission BMP manual. • Implement dirt road BMPs (i.e. Georgia Resource Conservation & Development Council’s Better Back Roads Program).  
+
+MIDDLE OCMULGEE 
+
+
+6. Addressing Water Needs and Regional Goals 6. Addressing Water Needs and Regional Goals 
+Table 6-1: Water Management Practices Selected for the Middle Ocmulgee Planning Region  
+Action(s) Needed  Issues to be Addressed   Description/Definition of Action  
+WATER DEMAND, SUPPLY and QUALITY MANAGEMENT PRACTICES GOALS ADDRESSED: all  
+PRIORITY MANAGEMENT PRACTICES  
+ED1-Develop Regional Educational Program and Materials for Localized Implementation  Improved public awareness of water issues, water efficiency, and water quality gaps  Develop regional educational materials for adoption or further customization by local governments or utilities. Materials can cover the following topics depending on local needs: • Water conservation/efficiency for municipal/ commercial/industrial/agricultural users • Water conservation/efficiency for landscape professionals • Water conservation/efficiency certification program for landscape professionals • Stormwater management and non-point source pollution reduction  
+• Current water issues awareness • OSSMS (septic systems) installation/maintenance • Protection of sensitive lands • Energy use and its impacts on water resources • Proper technique for residential well drilling and construction  
+WD – Water Demand Management WS – Water Supply Management WQ – Water Quality Management ED – Education Initiatives Source: Technical Memorandum - Management Practice Selection, May 2011, Jacobs JJG  
+
+
+6.2.3 Projected Savings from High Efficiency Plumbing Fixtures 
+The Council recommends the implementation of Tier 1 demand management practices and other SB 370 requirements.  One significant element of SB 370 is the requirement of high efficiency plumbing fixtures using 1.28 gallons per flush (gpf) instead of the currently required 1.6 gpf fixtures.  Table 6-2 summarizes the estimated water savings and revised municipal forecasts as a result of this management practice.  Region-wide, the estimated reduction in water demand and wastewater flow for the 40-year planning period is approximately 5 MGD on an annual average daily basis. 
+Table 6-2: Estimated Demand Reduction (AAD-MGD) from High Efficiency Plumbing Fixtures   
+Year  2010  2020  2030  2040  2050  
+Municipal Water Demand  
+Initial Forecast 1  79.1  94.0  112.3  131.3  150.8  
+Estimated Savings 2  0.00  0.5  1.4  2.9  4.9  
+Revised Forecast 2  79.1  93.5  110.9  128.4  145.9  
+Municipal Wastewater Generation  
+Initial Forecast 1  74.2  88.2  105.5  123.8  142.9  
+Estimated Savings 2  0.0  0.4  1.3  2.7  4.6  
+Revised Forecast 2  74.2  87.8  104.2  121.1  138.3  
+Notes: 1. Based on existing plumbing fixtures using 1.6 gpf. 2. Based on replacement of existing plumbing with 1.28 gpf, as required by Water Stewardship Act (SB 370).  
+
+MIDDLE OCMULGEE 
+
+7. IMPLEMENTING WATER MANAGEMENT PRACTICES 
+
+
+7. Implementing Water Management Practices 
+Local governments/utilities and 
+Section 7. Implementing Water 
+other permittees/water users, 
+Management Practices 
+along with citizens (through water conservation), will be primarily 
+This section presents the Middle Ocmulgee 
+responsible for implementing the 
+Council’s strategy for the implementation of the 
+regional plan. The state (including 
+water management practices identified in Section 
+EPD, DCA, regional commissions 
+6. The State Water Plan identified that Regional 
+and other partnering agencies) can 
+Water Plans will be primarily implemented by the 
+improve the planning process 
+various water users in the respective regions. 
+through various data collection and 
+This section describes the suggested roles and responsibilities of the various implementing monitoring practices recommended parties, as well as the fiscal implications of their by the Council. The Middle management practices. Ocmulgee Council suggested initial, 
+short-term (years 2-5), and long­term (beyond 2018 and after next 
+7.1 Implementation Schedule and 
+update) actions for the 
+Roles of Responsible Parties 
+recommended priority management practices. 
+The implementation schedule and roles of 
+Implementation timeframes for 
+responsible parties for priority management 
+additional management practices 
+practices to address Resource Assessment gaps 
+are to be determined by local 
+or existing regulations are detailed in Table 7-1. 
+governments/utility/permittees 
+The time frame for implementation has only been 
+based on needs identified in 
+identified for the priority management practices detailed in Table 6-1. The Council recommends detailed local master plans. that time frames for implementing additional voluntary management practices be determined by affected water users/entities, based on the type of projects selected to address specific needs following detailed analysis conducted by local entities.  Implementation of infrastructure projects, such as construction of a new reservoir or expansion of a wastewater treatment facility, often require much longer times and cannot be easily compared to implementation of ongoing programmatic measures, such as stormwater or water conservation education programs. The Council’s recommended management practices, if implemented, will work toward preventing or closing potential future gaps and meeting the Council’s goals.  The Council advocates that the recommended management practices be reviewed and updated as necessary in subsequent 5-year plan updates, based on newly available data, information, and implementation results. 
+
+7. Implementing Water Management Practices 
+Table 7-1: Implementation Schedule Priority Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed   Permittee Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2013-2017  Long-term Actions: 2018 and beyond (after 5-year WDCP update)  Responsible or Potentially Affected Parties  
+WATER DEMAND MANAGEMENT PRACTICES GOALS ADDRESSED: 1 (maximize existing supply), 4 (water efficiency), 7 (better planning and management); GAP ADDRESSED: no regional gap  
+WD1 Implement Tier 1 Water Conservation Practices and Other SB370 Requirements  Municipal / Industrial Water Withdrawals  Agricultural Withdrawal (Initial Implementation Steps, Item 5 only)  1) Complete DNR Board Rule Making for new conservation requirements by June 2011 2) Public water systems to begin preparing water system audit and water loss detection program report results to EPD  Water loss audit:     >10,000 served by 1/1/2012    all others by 1/1/2013 3) Adopt outdoor watering ordinance (restricted between the hours of 10am and 4pm with exemptions) by 1/1/2011 4) Amend local building codes by 7/1/2010 to require (a) submetering for all newly constructed multi-unit residential, industrial and retail buildings; (b) high efficiency plumbing fixtures (1.28 gpf) in all new construction; and  1) Comply with existing and new rules by dates specified 2) As necessary and based on water audits and water loss detection program results, select areas that require improvements and implement loss reduction measures 3) Continue public education and  1) Conduct surveys (based on annual progress reports) to gauge effectiveness 2) Revise public education and awareness program, if necessary, to improve effectiveness  Initial Implementation: 1) DNR Board, EPD 2) Municipal and industrial water withdrawal permittees 3) Local governments (planning and zoning office or department) 4) Local governments (planning and zoning office or department) 5) Agricultural permittees and EPD Short-term Actions: Municipal / industrial water withdrawal permittees Long-term Actions:  
+(c) high-efficiency cooling towers in new industrial construction. 5) Agricultural permit holders to comply with new requirements regarding classification of  awareness programs about outdoor watering restrictions  1) Regional Survey: EPD, with assistance from DCA or Regional Commissions 2) Local governments or utilities  
+existing agricultural water permits by status (active, inactive, and unused permits) and timeframe [not a specific date in the bill - only timeframe based on EPD notification of permit classification]  Agricultural Survey: EPD with Georgia Water and Soil Conservation Commission (GWSCC) and County Extension Services  
+
+MIDDLE OCMULGEE 
+
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-1: Implementation Schedule Priority Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed   Permittee Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2013-2017  Long-term Actions: 2018 and beyond (after 5-year WDCP update)  Responsible or Potentially Affected Parties  
+WD2-Evaluate /Encourage Tier 2 (Non-Farm) Water Conservation  Municipal / Industrial Water Withdrawals   1) Complete DNR Board Rule Making for new conservation requirements by June 2011; 2) Continue implementation of existing programs and evaluate  Comply with existing  and new rules by dates specified in rules  1) Conduct surveys to gauge effectiveness, 2) Continue implementation and revise program, if  1) DNR Board, EPD 2) Municipal / Industrial Water Withdrawal  
+Practices  additional Tier 2 practices and cost implication as necessary  necessary.  Permittees  
+WATER SUPPLY MANAGEMENT PRACTICES GOALS ADDRESSED: 1 (maximize existing supply), 3 (sufficient water supply), 7 (better planning and management) GAP ADDRESSED no regional gap  
+WS1 Develop /Update Local Water Master Plans  Municipal Water Withdrawals  • Initiate master planning by updating population and demand forecast for local service areas and identifying system needs and options • Integrate Regional Water Plan recommendations  Conduct alternatives analysis; identify and prioritize projects (including new, replacement, repair, and rehabilitation projects) to address long-term needs  Implement priority projects and update master plan every 5 to 10 years based on growth  Local governments / utilities  
+WS2 Investigate Impacts of Metro Atlanta area discharges  Municipal NPDES Discharges and Water Withdrawals  • Identify funding sources for the study • Initiate coordination with EPD and Metro District to draft scope of study  Evaluate quantity and quality impacts (including emerging pollutants) of current discharges from Metro counties into Upper Ocmulgee basin being returned to the donor basin (Chattahoochee)  Include findings in the next Regional Water Plan Update; Implement recommendations where necessary  EPD, Middle Ocmulgee Council, and Metro District   
+
+
+Table 7-1: Implementation Schedule Priority Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed   Permittee Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2013-2017  Long-term Actions: 2018 and beyond (after 5-year WDCP update)  Responsible or Potentially Affected Parties  
+WATER QUALITY MANAGEMENT PRACTICES (Enhanced Water Quality Standards and Monitoring) GOALS ADDRESSED: 5 (properly managed discharges and beneficial reuse),  7 (better planning and management)  GAP ADDRESSED: assimilative capacity gaps  
+WQ1 Develop/ Update Local Wastewater Master Plans  Municipal NPDES Wastewater Discharges  Initiate master planning that includes the following: • Update of local population and demand forecasts • Evaluation of future service area strategies  • Identification of system needs and options • Integration of Regional Water Plan recommendations  • Conduct alternatives analysis; identify and prioritize projects (including new, replacement, repair, and rehabilitation projects) to address long-term needs • Implement priority projects as appropriate   • Revise master plans every 5 to 10 years based on growth and  Regional Water Plan Update recommendations • Continue implementation of priority projects   Local governments / utilities  
+WQ2 Adopt and Coordinate Statewide, Regional, and Local Water Quality Monitoring Programs  Municipal / Industrial NPDES Wastewater Discharges  • Identify monitoring needs (including monitoring sites, parameters, and frequency), in addition to existing EPD and local monitoring programs   • Identify a mechanism to consolidate and analyze reported water quality data and establish a regional monitoring network • Identify potential funding sources for new monitoring sites  • Implement regional long-term ambient trend monitoring network • Build on EPD's online data management system to maximize access to this data  Update and revise Regional Water Plan recommendations (during 5-year Update) based on available data from the regional long-term water quality monitoring network  Initial Implementation: EPD, local governments, and municipal/industrial NPDES discharge permittees Short-term Actions: EPD, local governments, and municipal/industrial NPDES discharge  
+• Identify potential funding sources or cost share opportunities for any locally sponsored network locations  permittees Long-term Actions: EPD and Council  
+WQ3-Upgrade Existing Wastewater Treatment Facilities  Municipal / Industrial NPDES Wastewater Discharges  Based on local wastewater master planning and Regional Water Plan recommendations, evaluate options for upgrade if required  • Request new or revised wasteload allocation for the selected local option • Apply for revised permit based on selected option • Begin preliminary design  Design and construction  Local governments and municipal/industrial NPDES discharge permittees  
+
+MIDDLE OCMULGEE 
+
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-1: Implementation Schedule Priority Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed   Permittee Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2013-2017  Long-term Actions: 2018 and beyond (after 5-year WDCP update)  Responsible or Potentially Affected Parties  
+WQ4 Construct Advanced Wastewater Treatment Facilities  Municipal NPDES Wastewater Discharges  Based on local wastewater master planning and Regional Water Plan recommendations, evaluate options if required  • Request for new or revised wasteload allocation for the selected local option • Apply for revised permit based on selected option • Begin preliminary design  Design and construction  Local governments and municipal/industrial NPDES discharge permittees  
+WQ5 Promote Coordinated Environmental Planning  Municipal Water Withdrawals and NPDES Wastewater Discharges  Coordinate with DCA regarding potential revisions to Georgia Planning Act of 1989, Chapter 110-12-1, Standards and Procedures for Local Comprehensive Planning and Part V Environmental Planning Criteria to facilitate incorporation of Regional Water Plan into the Comprehensive Planning process  Implement revised Part V Environmental Planning Criteria (Chapter 391-3-16) of Georgia Planning Act of 1989 for the protection of • Water supply watersheds • Groundwater recharge areas • Wetlands • River corridors • Mountains  Continue integration of Regional Water Plan and Comprehensive Planning Process and implement recommendations as appropriate  Initial Implementation: Council and EPD to work with Regional Commissions and DCA Short-term Actions: Local governments / utilities Long-term Actions: Local governments/ utilities/ environmental advocacy groups  
+
+
+Table 7-1: Implementation Schedule Priority Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed   Permittee Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2013-2017  Long-term Actions: 2018 and beyond (after 5-year WDCP update)  Responsible or Potentially Affected Parties  
+ENHANCED POLLUTION MANAGEMENT PRACTICES GOALS ADDRESSED: 2 (natural stream integrity), 6 (non-point source pollution reduction), 7 (better planning and management)  GAP ADDRESSED: assimilative capacity gaps  
+WQ7-Reduce Runoff from Impervious Surfaces  Stormwater (Municipal, Industrial, and Construction)  • Consider establishing regional recommendations or guidelines to encourage the use of pervious areas to mimic natural water cycles • Incorporate recommended concepts in transportation, land use (higher density and low impact development), and  • Consider adopting ordinances to reduce impervious surface area in new construction and for existing development retrofits • Consider offering  educational programs  • Revise guidelines as needed based on 5­year Regional Water Plan Update • Continue public education and  Initial Implementation: Council to work with EPD, Regional Commissions, DCA, and GSWCC Short-term Actions: Local governments / utilities with support from DCA  
+building design strategies via the comprehensive planning process • Identify incentives and funding sources  for transportation and building design professionals  awareness program  and EPD Long-term Actions: Local governments / utilities with support from DCA and EPD  
+WQ8 Adopt Ordinances and /or Incentive Programs to Protect Sensitive Land  Municipal NPDES Discharge and Water Withdrawals  • Develop regional recommendations on    model stream protection buffer ordinances and floodplain management ordinances that go beyond current minimum state standards • Evaluate incentive program options   • Identify and prioritize critical streams and environmentally sensitive areas • Consider adoption of model stream buffer and floodplain protection ordinances • Consider revising local development  Revise guidelines during 5-year Regional Water Plan Update process and thereafter, as necessary  Initial Implementation: EPD, Council, Regional Commissions, DCA, WRD, and Georgia Land Conservation Program (GLCP), environmental advocacy groups Short-term and  
+• Identify potential funding sources  review processes, if needed.  Long-term Actions: Local governments / utilities  
+
+MIDDLE OCMULGEE 
+
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-1: Implementation Schedule Priority Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed   Permittee Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2013-2017  Long-term Actions: 2018 and beyond (after 5-year WDCP update)  Responsible or Potentially Affected Parties  
+WQ9-Encourage Total Maximum Daily Load (TMDL) Implementation  Municipal NPDES Discharge and/or stormwater   Implement corrective actions defined in existing TMDL implementation   • Follow development of new and updated TMDL plans • Continue implementation of corrective actions  Implement and monitor effects of corrective actions from TMDL plans  Initial Implementation: Local governments / utilities, industries and EPD Short-term and Long-term Actions:  Local governments / utilities, industries with support from  
+DCA, Regional Commissions and EPD  
+WQ10-Develop/ Implement Watershed Assessment/ Protection Plan Measures  Municipal NPDES Discharge and and/or stormwater  • Continue implementation of existing watershed protection plans • Development of watershed monitoring and protection measures if they have not been developed (following watershed assessments)  • Develop implementation schedule • Continue watershed monitoring and protection measures  • Continue implementation • Secure funding for long-term maintenance and monitoring  Local governments / utilities with support from DCA, Regional Commissions and EPD  
+WQ11-Implement Watershed Improvement Projects  Municipal NPDES Discharge and and/or stormwater  • Develop regional priority for candidate projects based on impaired water status and priority habitats • Evaluate incentive program options for local governments • Identify potential funding sources  • Develop implementation schedule for priority projects • Determine project needs: infrastructure retrofit or stream/wetlands restoration • Implement priority projects  • Continue implementation • Evaluate and refine priority watershed projects • Secure long-term funding for maintenance and monitoring of completed projects  Initial Implementation: Council to work with EPD, Regional Commissions, DCA, and GSWCC Short-term and Long -term Actions: Local governments / utilities with support from DCA, Regional Commissions, and EPD  
+
+
+Table 7-1: Implementation Schedule Priority Management Practices to Address Resource Assessment Gaps or Existing Regulations  
+Action(s) Needed   Permittee Category of Responsible Parties  Initial Implementation Step(s) 2011-2012  Short-term Actions (Years 2-5) 2013-2017  Long-term Actions: 2018 and beyond (after 5-year WDCP update)  Responsible or Potentially Affected Parties  
+WATER DEMAND, SUPPLY, and QUALITY MANAGEMENT PRACTICES GOALS ADDRESSED: All  
+ED1 Develop Regional Educational Programs and Materials for Localized Implementation  Municipal NPDES Discharge and Water Withdrawals  • Coordinate with DCA, Regional Commissions, and other councils for the establishment of regional education programs • Perform an inventory of existing education materials from American Water Works Association (AWWA), Georgia Associations of Water  • Begin developing educational materials and public awareness programs tailored to Middle Ocmulgee Region's needs and issues • Develop additional outreach and promotional materials for economic development, focusing on the abundant water resources of the  • Conduct survey to gauge effectiveness • Revise programs as needed  Initial Implementation: EPD and Council to work with Regional Commissions and DCA, with support from Association of County Commissioners of Georgia (ACCG), Georgia Municipal Association (GMA), Georgia Rural Water Association (GRWA),  (GAWP), and  environmental advocacy groups  
+Professionals (GAWP), and established water districts (in state or out of state)  region • Local entities to customize materials as needed and implement educational and outreach programs  Short-term Actions: All of the above, plus local governments and environmental advocacy groups  
+Long-term Actions: All of the above; survey –led by regional commissions or DCA  
+WD – Water Demand Management WS – Water Supply Management WQ – Water Quality Management ED – Education Initiatives Source: Technical Memorandum - Management Practice Selection, May 2011, Jacobs JJG  
+
+MIDDLE OCMULGEE 
+
+
+7. Implementing Water Management Practices 
+7.2 Fiscal Implications of Selected Water Management Practices 
+The following sub-sections discuss planning level cost estimates and potential funding sources and options.  Successful implementation of the Regional Water Plan hinges on the ability of the state and local governments to fund the needed implementation actions. 
+7.2.1 Planning Level Cost Estimates 
+Table 7-2 describes the fiscal implications of the priority management practices. Cost estimates for implementation are included to the extent possible, based on possible implementation unit (per capita, per study, per MGD of plant capacity, etc.). The table is designed so that local governments/jurisdictions or other permittees/water users can estimate budget requirements for the implementation of the recommended management practices. 
+7.2.2 Funding Sources and Options 
+The ability of the responsible parties to successfully implement the management practices identified in this plan depends on the availability of funding.  It is essential that funding mechanisms be identified, both at the state and permittee/user level to support the long-term implementation of Regional Water Plans.  Affected parties in the region will be responsible for determining the best combination of funding sources/options for implementing applicable management practices. 
+For local governments/utilities, water and sewer rates can be designed to provide a steady revenue stream to support implementation of actions.  Other potential sources of funding for local governments and utilities can include general funds raised through property taxes or service fees and grants.  Bonds or other loan options (such as loans from the GEFA) can provide up-front funding for required one­time investments, but must be repaid through user charges or other recurring revenues. 
+It is not likely that the costs of implementation can be supported by non-rate revenues in many communities. Grants are only available in limited quantities and under certain conditions, and sources of ongoing revenues such as general government tax receipts and sales tax proceeds are often already over committed. As a result, most communities may need to reflect most implementation costs in their operating budgets and recover these costs through water and sewer or stormwater user charges.  
+One existing program worth mentioning is DCA’s “WaterFirst.” program. WaterFirst communities receive discounts on interest rates for loans.  The program is a voluntary partnership between local governments, state agencies, and other organizations working together to increase the quality of life in communities through the wise management and protection of water resources.  It promotes a proactive approach to water resources that makes the connection between land use and water quality and quantity, which is consistent with the Council’s goal.  Details of this program can be found on the DCA website1 . 
+
+7. Implementing Water Management Practices 
+For agricultural (farmers) or industrial permittees (industries or businesses), the sources of funding include investment by the individual or business, grants, and/or incentive programs.  The Council and stakeholders in the Middle Ocmulgee Region have identified that creation of new or expansion of existing incentive programs can encourage implementation of demand management practices.  
+1. http://www.dca.state.ga.us/development/EnvironmentalManagement/programs/water_first.asp 
+Table 7-2: Cost Estimates for Implementation Responsibilities  (associated with Priority Management Practices in Tables 6-1 and 7-1)  
+Management Practice  Capital/ Programmatic Cost Range  Funding Sources and Options  Notes and Sources for Costs  
+WD1 - Implement Tier 1 Water Conservation Practices and Other SB370 Requirements  Cost Varies Based on Practices  Water/wastewater system revenues; state and local government incentive programs  See Appendix A, EPD Supplemental Guidance1 for various demand management practices   
+WD2 -Evaluate/Encourage Tier 2 (Non-Farm) Water Conservation Practices  Cost Varies Based on Practices   Water/wastewater system revenues; state and local government incentive programs  See Appendix A, EPD Supplemental Guidance1 for various demand management practices   
+WS1 - Develop/Update Local Water Master Plans  $30,000 - $300,000 per plan, depending on size of the system and scope of study  Water/wastewater system revenues; state incentive programs (potential)  Water system modeling, if desired,  may significantly increase the overall cost of master plan2  
+WS2 - Investigate Impacts of Metro Atlanta area discharges  $250,000 - $500,000, depending on scope of study  State, local governments  Additional watershed modeling to evaluate impacts of nutrient loadings, if desired, may add to overall cost of master plan 2  
+WQ1 - Develop/Update Local Wastewater Master Plans  $30,000 - $250,000 per plan, depending on size of the system and scope of study  Water/wastewater system revenues; state incentive programs (potential)  Sewer system modeling, if desired,  may significantly increase overall cost of master plan2  
+
+MIDDLE OCMULGEE 
+
+
+7. Implementing Water Management Practices 7. Implementing Water Management Practices 
+Table 7-2: Cost Estimates for Implementation Responsibilities  (associated with Priority Management Practices in Tables 6-1 and 7-1)  
+Management Practice  Capital/ Programmatic Cost Range  Funding Sources and Options  Notes and Sources for Costs  
+WQ2 - Adopt and Coordinate Statewide, Regional, and Local Water Quality Monitoring Programs  $4,000 - $8,000 / grab sample site $30,000 to $60,000 / new gage station installation ($15,000 annual maintenance) $4,000 - $20,000 biological monitoring per site  State (lead) with continuous operation of existing monitoring stations by local governments and utilities  EPD Supplemental Guidance1 page 6  
+WQ3 - Upgrade Existing Wastewater Treatment Facilities  $4-$10 Million /MGD  Local governments / utilities, state (GEFA)  EPD Supplemental Guidance1  
+WQ4 - Construct Advanced Wastewater Treatment Facilities  $7-$11 Million /MGD  Local governments / utilities, state (GEFA)  EPD Supplemental Guidance1  
+WQ5 - Promote Coordinated Environmental Planning  $0.10 - $0.50 /capita  State, local governments/utility fees  EPD Supplemental Guidance1  
+WQ7 - Reduce Runoff from Impervious Surfaces  $0.10 - $0.50 /capita  Local governments / utilities (can be a stormwater utility if applicable) and private investments, state and federal funds  EPD Supplemental Guidance1  
+WQ8 – Adopt Ordinances and /or Incentive Program to Protect Sensitive Land  $0.10 - $0.50 /capita Land cost varies by locations  Local governments / utilities and private investments, state and federal funds  EPD Supplemental Guidance1  
+WQ9 – Encourage TMDL Implementation  $0.10 - $2 /capita  Local governments / utilities , and private investments, state and federal funds  EPD Supplemental Guidance1  
+WQ10 – Develop/Implement Watershed Assessment and Protection Measures  $0.10 - $0.50 /capita  Local governments / utilities , and private investments, state and federal funds  EPD Supplemental Guidance1  
+
+
+Table 7-2: Cost Estimates for Implementation Responsibilities  (associated with Priority Management Practices in Tables 6-1 and 7-1)  
+Management Practice  Capital/ Programmatic Cost Range  Funding Sources and Options  Notes and Sources for Costs  
+WQ11 – Implement Watershed Improvement Projects  $0.10 - $0.50 /capita  Local governments / utilities (can be a stormwater utility if applicable) and private investments, state and federal funds  EPD Supplemental Guidance1  
+ED1 - Develop Regional Educational Program and Materials for Localized Implementation  $0.10 - $2.25 /capita  State, Local governments/utilities   EPD Supplemental Guidance1  
+WD – Water Demand Management WS – Water Supply Management WQ – Water Quality Management ED – Education Initiatives Sources: 1. Supplemental Guidance for Regional Planning Contractors: Water Management Practice Cost Comparison, EPD (APRIL 2010) 2. Jacobs JJG, various recent projects  
+
+7.3 Alignment with Other Plans 
+The development of this Regional Water Plan builds upon the knowledge base of previous planning efforts by state and local governments and utilities.  Existing water- and wastewater-related plans and information sources are discussed in Section 6 and in Supplemental Documents: Technical Memorandum - Demand Management Practices (May 2011) and Technical Memorandum - Management Practices Selection (May 2011).  Where possible, local planned projects and/or successful management practices are considered in the development of this plan. No known major conflicts between this regional plan and other plans have been identified. The Council encourages continuing alignment with all local and regional efforts for update of future regional plans.  Coordinated environmental planning is recognized as a priority management practice, so that recommendations in the Regional Water Plan can be incorporated in other major regional or local planning, such as comprehensive land use plans, transportation plans, or local master plans. 
+Some differences exist in planning timing or cycles. Local comprehensive plans are typically prepared for a 20-year planning horizon and complete or partial update of the comprehensive plan can be prepared every 5 years.  Water and wastewater master plans and capital improvement plans are typically conducted for a 20- to 30­year planning horizon.  Georgia’s investor-owned utilities (Georgia Power, Atlanta Gas Light Company and Atmos Energy) forecast future demand and develop comprehensive plans for a 10-year planning horizon for supply and demand management for their service territories under the Guidance of the Georgia Public Service Commission (PSC).  This Regional Water Plan has a 40-year planning horizon to allow major water supply needs and their long-term impacts on water 
+MIDDLE OCMULGEE 
+
+
+7. Implementing Water Management Practices 
+resources to be evaluated.  The differences in planning horizons indicate that the projects identified in local plans may not completely address the resource gaps identified in this Regional Water Plan.  However, the potential trends and issues identified by this plan can be used to guide decision making by both local governments and state agencies to avert potential negative impacts on water resources in the region. 
+The Council also recognizes that specific funding needs to be set aside for continuation of regional water planning, implementation, and Council activities. Without available funding, the future role of the Council is unknown.  The implementation of Regional Water Plans will largely depend on the availability of funding. 
+7.4 Recommendations to the State 
+The Council recommends the following actions by the state that support implementation of the Regional Water Plan (Table 7-4).  The recommendations include additional data collection and modeling needs for improving future regional water planning efforts. 
+Table 7-3: Recommendations to the State  
+Public Education and Outreach  Develop an outreach program to feature the Middle Ocmulgee Region’s abundant water resources to promote future economic growth. Develop regional education materials for use and customization by local entities.  
+Policy  Continue to study and evaluate current instream flow policy.  Consider alternative minimum instream flow policy such as stream-specific instream flow values instead of the current monthly 7Q10 requirement (especially for ecologically sensitive streams). Encourage state or federal funding for minimum instream flow research that includes a pilot stream-specific study in each of the river basin or planning region, beginning with streams designated as DNR high priority streams, other ecologically sensitive streams, or streams predicted to fall short of instream flow target in other water planning regions.  These studies should be used to establish an updated DNR instream flow policy for all similar streams in that basin or region. These studies should be completed before the next regional water planning cycle. Continue the current adaptive management and instream flow strategy for permitting additional water supply reservoirs in the state (all regions).    
+Evaluate future nutrient policy based on analysis of additional monitoring and data for nitrogen levels in Lake Jackson and its watersheds and the impacts of elevated nutrient loadings.  
+
+
+7. Implementing Water Management Practices 
+Table 7-3: Recommendations to the State  
+Additional Data (Surface Water)  Add planning nodes for the Surface Water Availability Model for the Ocmulgee-Oconee-Altamaha Basin.  Potential locations can include a planning node below Macon area discharges (priority) and on major unregulated tributaries of the Ocmulgee River such as Towaliga River and Echeconnee Creek.  Synthetic/ simulated streamflow using the long-term streamflow data from the Macon stage and other downstream short-term record gages can be considered if long-term monitoring data is not available.  
+Evaluate minimum instream flow and unimpaired flow assumptions in the Surface Water Availability Resource Assessment.  Evaluate and better integrate “critical (minimum instream flow) conditions” in Surface Water Availability and Surface Water Quality Resource Assessment models for the future Regional Water Plan Update.  Coordinate and ensure consistency for period of records used for all Resource Assessments.  
+Additional Data (Water Quality)  Conduct additional monitoring on segments of streams predicted to have exceeded DO assimilative capacity in the future Resource Assessment (full permit limits assumptions) and evaluate possible causes before determining actions to correct the potential impairment.  
+Encourage further research on emerging contaminants.  
+Conduct additional monitoring on nutrient loadings in Lake Jackson and its watersheds and evaluate the impacts of elevated nutrient loadings, especially nitrogen.     
+Funding  Identify long-term funding mechanism, beyond grants, to assist responsible parties with implementation.  
+Identify a mechanism to allow for ongoing Middle Ocmulgee Council input between the 5-year updates and during implementation of this plan.  
+Coordination  Coordinate with USGS regarding its 5-year water use data collection efforts so these data can be aligned with other EPD data reporting efforts and used for future regional planning purposes.  
+Coordinate local watershed monitoring efforts with regional or state monitoring efforts and make better use of the data collected by local entities.  
+
+MIDDLE OCMULGEE 
+
+8. MONITORING AND REPORTING PROGRESS 
+
+
+8. Monitoring and Reporting Progress 
+Section 8. Monitoring and 	The Middle Ocmulgee Water Planning Council selected benchmarks to 
+Reporting Progress 
+measure the effectiveness of this This section presents benchmarks for regional plan. Measurement tools for evaluation of implementation of this Regional the benchmarks include annual surveys Water Plan and discusses plan update based on water withdrawal permittees’ requirements and amendment processes. water conservation progress reports, or 
+other surveys conducted on a 5-year 
+basis prior to each Regional Water Plan 
+8.1 Benchmarks 
+update. Future amendments will need 
+The benchmarks prepared by the Middle 
+to be reviewed and approved by the 
+Ocmulgee Council (listed in Table 8-1 below) 
+Council. Examples are given of 
+will be used to assess the effectiveness of 
+triggering events that may require a 
+this Regional Water Plan.  As detailed below, 
+plan amendment to provide flexibility 
+the Council selected both qualitative and quantitative benchmarks that will be used to 
+for adapting to changes and new assess whether the water management information. practices are closing gaps over time and allowing the water planning region to meet its vision and goals. 
+The selected water management practices recommended by the Middle Ocmulgee Council will be primarily implemented by the various water users in the region, including local governments and others with the capacity to develop water infrastructure and apply for the required permits, grants and loans.  The Council recommends specific benchmarks for all of the recommended priority management practices. Measurement of these benchmarks is primarily conducted by surveys at various frequencies and some of the data can be gathered from reports already required by permit conditions.  For additional voluntary management practices, the Council recommends a survey prior to the 5-year plan update process.  EPD is assumed to be the lead responsible party to administer surveys with help from partnering agencies or local governments. These benchmarks should be revisited during the 5-year plan update process and revised as necessary depending on implementation of management practices and other available information. 
+8.2 Plan Updates 
+Meeting current and future water needs will require periodic review and revision of Regional Water Plans. The State Water Plan and associated rules provide that each Regional Water Plan will be subject to review by the appropriate Regional Water Planning Council every five years and in accordance with this guidance provided by the Director, unless otherwise required by the Director for earlier review.  These reviews and updates will allow an opportunity to adapt the Regional Water Plan based on changed circumstances and new information arising in the five years after EPD’s adoption of these plans. These benchmarks will guide EPD in the review of the Regional Water Plan.   
+SEPTEMBER 2011 
+8-1 
+
+8. Monitoring and Reporting Progress 
+Table 8-1: Benchmarks for Water Management Practices PRIORITY MANAGEMENT PRACTICES  
+Management Practices  Benchmarks  Measurement Tools  Time Period  
+WATER DEMAND MANAGEMENT PRACTICES  
+All Demand Management Practices  Implementation of Recommended Tiered Non-Farm (municipal and industrial, including energy generation) Conservation Practices  Survey based on annual water conservation progress report, with help from Regional Commissions and DCA  Annual  
+Implementation of Recommended Tiered Agricultural (including landscape and golf course) Conservation Practices  Survey, with help from GSWCC, Regional Commissions, Farm Bureau and County Extension Service  Every 5 years*  
+Reduction of Residential Per Capita Water Use  Calculation of residential per capita demand (gpcd) for municipal water withdrawal permittees via annual water conservation progress report  Annual  
+Reduction of Industrial Water Use Intensity  Calculation of water use intensity for industrial water withdrawal permittees via annual water conservation progress report; examples include 1) gallons consumed per square foot of production space, 2) gallons of water consumed per kilowatt produced for energy generation facilities, or 3) other appropriate water consumption per production unit  Annual  
+WATER SUPPLY MANAGEMENT PRACTICES  
+WS1-Develop /Update Local Water Master Plan  Number of local master plans initiated or completed  Survey  Every 5 years*  
+WS2-Investigate Impacts of Metro Area Discharges  Initiation or completion of regional interbasin study  Completion of study  Every 5 years*  
+
+MI DD
+LE OCMULGEE 
+MIDDLE OCMULGEE 
+DRAF T 
+I
+V-2 
+G e o r
+gi
+a S t
+at
+e ­
+w i
+de W a t er M a n age m
+en
+t Pl
+a n 
+DAY M ONT H YE AR 
+
+8. Monitoring and Reporting Progress 
+Table 8-1: Benchmarks for Water Management Practices PRIORITY MANAGEMENT PRACTICES  
+Management Practices  Benchmarks  Measurement Tools  Time Period  
+WATER QUALITY MANAGEMENT PRACTICES  
+WQ1­Develop/Update Local Wastewater Master Plan  Number of local wastewater master plans initiated/completed  Survey  Every 5 years*  
+WQ2-Adopt and Coordinate Statewide, Regional and Local Water Quality Monitoring Programs  Initiation of regional water quality monitoring network  1) Percentage of stream miles or lake assessed for long-term water quality trend 2) Availability of online (or other alternative methods) water quality monitoring results  Every 5 years*  
+WQ3-Upgrade Existing Wastewater Treatment Facilities  Meeting treatment capacity needs and compliance with water quality standards  Quantities of additional permitted treatment capacities or upgrades  Every 5 years*  
+WQ4-Construct Advanced Wastewater Treatment Facilities  
+WQ5-Promote Coordinated Environmental Planning  Incorporation of Regional Water Plan via Comprehensive Planning and Service Delivery Strategy processes  Survey with help from Regional Commissions and DCA  Every 5 years*  
+ENHANCED POLLUTION /NATURAL SYSTEM MANAGEMENT PRACTICES  
+General Stream Health  Support Designated Uses  305(b)/303(d) List of Impaired Waters  Every 2 years*  
+WQ7-Reduce Runoff from Impervious Surfaces  Adoption of ordinances related to reduction of impervious surface or incentive programs for pervious surfaces  Survey with help from Regional Commissions and DCA  Every 5 years*  
+
+SEPTEMBER 2011 
+8-3 
+
+8. Monitoring and Reporting Progress 
+Table 8-1: Benchmarks for Water Management Practices PRIORITY MANAGEMENT PRACTICES  
+Management Practices  Benchmarks  Measurement Tools  Time Period  
+WQ8-Adopt Ordinances and/or Incentive Programs to Protect Sensitive Land  Adoption of ordinances for stream buffer, floodplain, or other sensitive lands protection beyond minimum requirement Number of acres of lands identified as environmentally sensitive lands  Survey with help from DCA, GSWCC, Regional Commissions and WRD of DNR  
+Number of acres placed as "conservation land" for protection of sensitive lands  
+WQ9-Encourage TMDL Implementation  Number and list of TMDL plans completed List of TMDL actions implemented  Survey with help from Regional Commissions, Farm Bureau, and DCA  Every 2 years*  
+WQ10-Develop/ Implement Watershed Assessment/ Protection Plan Measures  Number and list of watershed protection plans completed  305(b)/303(d) List of Impaired Waters  Every 2 years*  
+WQ11-Implement Watershed Improvement Projects  Number and list of watershed improvement/restoration projects completed  Survey with help from Regional Commissions, Farm Bureau, and DCA  Every 2 years*  
+GENERAL - WATER DEMAND, SUPPLY and QUALITY MANAGEMENT PRACTICES  
+ED1-Develop  
+Regional  Number/type of local  Survey based on annual water  
+Educational  educational and outreach  conservation progress report; and  
+Program and  programs developed  surveys (for other educational  Every 5 years*  
+Materials for  based on regional  programs) with help from Regional  
+Localized  materials  Commissions and DCA  
+Implementation  
+
+MI DD
+LE OCMULGEE 
+MIDDLE OCMULGEE 
+DRAF T 
+I
+V-2 
+G e o r
+gi
+a S t
+at
+e ­
+w i
+de W a t er M a n age m
+en
+t Pl
+a n 
+DAY M ONT H YE AR 
+
+8. Monitoring and Reporting Progress 
+Table 8-1: Benchmarks for Water Management Practices PRIORITY MANAGEMENT PRACTICES  
+Management Practices  Benchmarks  Measurement Tools  Time Period  
+GENERAL - ALL OTHER MANAGEMENT PRACTICES FROM Table 6 2  
+Additional Management Practices  Implementation of selected practices based on local needs and conditions  Survey with help from Regional Commissions and DCA  Every 5 years*  
+WD – Water Demand Management WS – Water Supply Management WQ – Water Quality Management ED – Education Initiatives Source: Technical Memorandum - Management Practice Selection, May 2011, Jacobs JJG  * For these measurement tools, EPD is assumed to be the lead responsible party to administer surveys with help from partnering agencies or local governments  
+
+8.3 Plan Amendments 
+The Council wishes to provide flexibility for plan amendment to adapt to changing circumstances. This Regional Water Plan will be amended, at a minimum, on a 5­year basis, or as required as additional needs arise.  Examples of a major triggering event could include the following: 
+• 	
+Proposal (or expansion) of a major water-using industry or development, including energy generation, military or agricultural facilities, that would be expected to significantly change the water demand or discharge conditions of the region; 
+
+• 	
+Closure of major existing water use facilities that would significantly change the water demand or discharge conditions of the region; 
+
+• 	
+Major change in regulatory requirements, such as nutrient loading or instream flow requirements based on in-depth studies; 
+
+• 	
+Major political or judicial decisions that may impact the region; 
+
+• 	
+Major interbasin transfer into or out of the region; 
+
+• 	
+New information that results in gaps in resource availability. 
+
+
+The Middle Ocmulgee Water Planning Council recommends that the Council continues to operate in a similar capacity after the expiration of its initial three-year term in February 2012. The Council also recommends that some portion of the existing members be re-appointed in the future Council for continuity and EPD continues to lead the coordination of future regional water planning activities.  Any future plan amendments would need to be considered and approved by the Council. If the Council considers making changes to the Regional Water Plan, the Council would call a meeting for such consideration between plan updates. Council meetings conducted to review and approve future plan amendments should invite stakeholder and general public input. 
+SEPTEMBER 2011 
+8-5 
+
+
