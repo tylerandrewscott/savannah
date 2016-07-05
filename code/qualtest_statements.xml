@@ -1,0 +1,58 @@
+<QuestionForm xmlns="http://mechanicalturk.amazonaws.com/AWSMechanicalTurkDataSchemas/2005-10-01/QuestionForm.xsd">
+    <Overview>
+    <Title>Categorize Goal Statements</Title>
+    <Text>
+        The following goal statement comes from a regional environmental plan. Please read the statement and assess the following question:
+        
+        Does the goal statement include a measurable future outcome that could be tested in a clear, straightforward manner?
+    </Text>
+    </Overview>
+    <Question>
+        <QuestionIdentifier>screener1</QuestionIdentifier>
+        <IsRequired>true</IsRequired>
+        <QuestionContent>
+            <FormattedContent><![CDATA[
+            <p>Increase public awareness and practice of water conservation strategies.</p>
+            ]]></FormattedContent>
+       </QuestionContent>
+       <AnswerSpecification>
+            <SelectionAnswer>
+                <StyleSuggestion>radiobutton</StyleSuggestion>
+                <Selections>
+                    <Selection>
+                        <SelectionIdentifier>1</SelectionIdentifier>
+                        <Text>YES it does</Text>
+                    </Selection>
+                    <Selection>
+                        <SelectionIdentifier>2</SelectionIdentifier>
+                        <Text>NO it does not</Text>
+                    </Selection>
+                </Selections>
+            </SelectionAnswer>
+        </AnswerSpecification>
+    </Question>
+    <Question>
+        <QuestionIdentifier>screener2</QuestionIdentifier>
+        <IsRequired>true</IsRequired>
+        <QuestionContent>
+            <FormattedContent><![CDATA[
+            <p>Protect water quality and quantity while fostering sustainable economic growth.</p>
+            ]]></FormattedContent>
+        </QuestionContent>
+        <AnswerSpecification>
+            <SelectionAnswer>
+                <StyleSuggestion>radiobutton</StyleSuggestion>
+                <Selections>
+                    <Selection>
+                        <SelectionIdentifier>1</SelectionIdentifier>
+                        <Text>YES it does</Text>
+                    </Selection>
+                    <Selection>
+                        <SelectionIdentifier>2</SelectionIdentifier>
+                        <Text>NO it does not</Text>
+                    </Selection>
+                </Selections>
+            </SelectionAnswer>
+        </AnswerSpecification>
+    </Question>
+</QuestionForm>
