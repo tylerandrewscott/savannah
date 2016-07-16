@@ -1,44 +1,83 @@
 library(googlesheets)
 library(dplyr)
 library(lubridate)
+library(tidyr)
+library(ggplot2)
+library(ggthemes)
 att_link = 'https://docs.google.com/spreadsheets/d/15RrfB5JKJs74vaKqNFK43ucocQIV6HnwHlzNWDwtLL0/edit?usp=sharing'
 roster_link = 'https://docs.google.com/spreadsheets/d/1IiNvfbnyvDyJpUmRgoCtPpCUJjbgPIv1i-DkqeFdK_I/pubhtml'
+forecast_link = 'https://docs.google.com/spreadsheets/d/14Xj5BtadVkx1wTYeK-7U_QivDLeau7Pm9PSa6F_IDms/pubhtml'
 
 temp = googlesheets::gs_read(gs_url(att_link)) %>% rename(Meeting = `Meeting #`,Meeting_Topic = `Meeting Topic`) %>%
   mutate(Date = zoo::na.locf(Date),Meeting = zoo::na.locf(Meeting), Council = zoo::na.locf(Council))
 temp = temp %>% mutate(Date = mdy(Date)) %>% mutate(uq.event = paste(Date,Council),
                        full_name = paste(First, Last,sep=' '))  %>% filter(!is.na(First))
 
-roster = googlesheets::gs_read(gs_url(roster_link)) %>% mutate(member = paste(First,Last,sep=' '))
-
-attendance = temp %>% filter(is.na(Organization)) %>% group_by(Council,Meeting) %>% summarize(n = n())
-attendance = left_join(attendance,attendance %>% summarise(avg = mean(n)))
-nmem = roster %>% group_by(Planning.Council) %>% summarize(num_members = n()) %>%
+roster = googlesheets::gs_read(gs_url(roster_link)) %>% mutate(member = paste(First,Last,sep=' '))%>% 
   rename(Council = Planning.Council)
+attendance = temp %>% filter(!is.na(Council.position) & Council.position=='Council Member',)%>% group_by(Council,Meeting) %>% summarize(n = n())
+attendance = left_join(attendance,attendance %>% summarise(avg = mean(n)))
+nmem = roster %>% group_by(Planning.Council) %>% summarize(num_members = n()) 
 attendance = left_join(attendance,nmem)
 temp = temp %>% mutate(member =  !is.na(Council.position) & Council.position == 'Council Member')
 meetings_attended = temp %>% #filter(is.na(Organization)) %>%
   group_by(Council,full_name,member) %>% summarize(meetings_attended = n())
 
-mheld = temp %>% group_by(Council,Council.position) %>% summarize(meetings_held = length(unique(uq.event)))
+mheld = temp %>% group_by(Council) %>% summarize(meetings_held = length(unique(uq.event)))
 meetings_attended = left_join(meetings_attended,mheld)%>% mutate(prop = meetings_attended/meetings_held)
+members_attended = meetings_attended %>% filter(member)
 
+avg_by_c = members_attended %>% group_by(Council) %>% 
+  summarize(avg_prop = mean(prop),avg_num = mean(meetings_attended),
+            sd_num = sd(meetings_attended))
 
-ggplot(meetings_attended,aes(x=meetings_attended,fill=Council.position)) + 
+members_attended = left_join(members_attended,avg_by_c)
+
+ggplot(members_attended,aes(x=meetings_attended)) + 
   theme_tufte(ticks=F) + geom_bar(position= 'dodge')+
-  facet_wrap(~Council) + scale_y_continuous(name='Individuals') + 
-  scale_x_continuous(name='# meetings attended by individual') +
+  facet_wrap(~Council) + 
+  scale_x_continuous(name='# meetings attended by individual')+
   scale_fill_colorblind(name='') + 
-  theme(legend.position = c(0.8,.2),legend.text=element_text(size=16),
-        axis.title=element_text(size=16),axis.text=element_text(size=14))
+  scale_y_continuous(name='Council Members') +
+ geom_errorbarh(aes(y = 4,xmin=avg_num-sd_num,xmax=avg_num+sd_num,colour='sd'),lty=1,lwd=1)+
+  geom_point(aes(y=4,x=avg_num,colour='avg'),size=3)+
+   scale_colour_manual(name="", values=c('#56B4E9','#E69F00'),labels=c('Mean','+/- 1 SD'))+
+  scale_linetype_manual("", values = c(NA, 1),labels=c('Mean','+/- 1 SD')) +
+  scale_size_manual("", values = c(0.5, 25),labels=c('Mean','+/- 1 SD'))+
+  theme(legend.position = c(0.7,.2),legend.text=element_text(size=16),
+        axis.title=element_text(size=16),
+        strip.text=element_text(size=15),
+        axis.text.x=element_text(size=14),
+        axis.text.y=element_blank())+
+  guides(colour = guide_legend(override.aes = list(linetype=c(0,1),shape=c(19,NA))))
 
 
+
+library("ggplot2")
+library(scales)
+
+members_attended %>% group_by(Council) %>% 
+  summarize(sd = round(sd(prop),2),mn = round(mean(prop),2))
+
+
+avg_by_c %>% select(-avg_num) %>% mutate(avg_prop = round(avg_prop,2))
+
+modele = lm(n ~ Meeting*Council, data=members_attended)
+slps =  c(coef(modele)[grep('Meeting',names(coef(modele)))][1],
+  coef(modele)[grep('Meeting',names(coef(modele)))][1] + 
+    coef(modele)[grep('Meeting',names(coef(modele)))][-1])
+names(slps)[1] = 'Altamaha'
+names(slps) = gsub('Meeting:Council','',names(slps))
+slps.df = as.data.frame(slps)
+slps.df$Council = names(slps)
+
+attendance = left_join(attendance,slps.df)
 
 
 library(ggplot2)
 library(ggthemes)
 p2 = ggplot(attendance,aes(y=n,x=Meeting)) + 
-  stat_smooth(method='lm',alpha=0.2,se=FALSE,colour='grey80') + 
+  stat_smooth(method='lm',alpha=0.2,se=FALSE,colour='grey80',show_guide=TRUE) + 
   geom_line() + geom_point() + 
   #scale_colour_colorblind() + 
   theme_tufte(ticks=F) + 
@@ -46,24 +85,136 @@ p2 = ggplot(attendance,aes(y=n,x=Meeting)) +
   scale_y_continuous(name='# Attendees') + 
   scale_colour_tableau() + guides(colour=FALSE)+
   #coord_flip() + 
+  annotate("text", x = 9, y = 32, label = paste0('b = ',round(slps,2)))+
+ # annotate(aes(x=9,y=30,label=round(slps,2)))+
   facet_wrap(~Council) + geom_abline(aes(intercept=num_members,slope=0,lty='d')) +
   scale_linetype_manual(name='',labels='# members',values = 2) +
   theme(legend.position = c(0.8,.2),legend.text=element_text(size=16),
         axis.title=element_text(size=16),axis.text=element_text(size=14))
 
+just_mems = temp %>% filter(paste(full_name,Council) %in% paste(roster$member,roster$Council))
+just_mems$gr_row = NA
+just_mems=as.data.frame(just_mems)
 
 
-test = temp %>% select(Council,full_name,Council.position)
-unique(test$Council.position)
+for (i in 1:nrow(just_mems))
+{
+  gp = roster %>% filter(Council==just_mems$Council[i])
+ just_mems$gr_row[i] =  
+   which(just_mems$full_name[i] == unique(gp$member))
+}
+
+avg.meet = just_mems %>% group_by(Council,gr_row) %>% 
+  summarise(avg_mt_n = mean(Meeting))
+just_mems = left_join(just_mems,avg.meet)
+
+ggplot(avg.meet,aes(x=avg_mt_n,y=Council,colour=Council)) + geom_jitter(pch=21) + 
+  theme_tufte(ticks=F) + ylab('') + scale_color_tableau() + 
+  guides(colour='none') + xlab('Average Meeting #')
+
+just_mems$col = 'red'
+p3 = ggplot(just_mems,aes(x=Meeting,y=gr_row,group=gr_row)) + 
+ # geom_path(colour='black') + 
+  geom_tile(colour='black') + 
+  geom_point(data = just_mems[just_mems$avg_mt_n!=0,],
+             aes(x=avg_mt_n,y=gr_row,colour=col),pch=21)+
+  facet_wrap(~Council) + scale_x_continuous(breaks=c(3,6,9),
+    limits=c(1,11))+ scale_fill_colorblind() + 
+  theme_tufte(ticks=F) + ylab('Member') + 
+  scale_colour_manual(name='',values='red',labels='Average meeting #')+
+  theme(axis.text.y=element_blank(),
+        legend.text=element_text(size=16),
+        axis.title=element_text(size=16),
+        strip.text=element_text(size=15),
+        legend.position = c(0.7,0.2))
+
+forecasts = googlesheets::gs_read(gs_url(forecast_link)) 
+
+forecasts = forecasts %>% select(-`2030`,-`2040`)
+
+forecasts = forecasts %>% mutate(lt_perc_change = abs(100*(`2010` - `2050`)/`2010`),
+                                 st_perc_change = abs(100*(`2010` - `2020`)/`2010`))
+
+totalcasts = forecasts %>% filter(grepl('Total',Demand.Category))
+
+totalcasts = totalcasts %>% 
+  mutate(Demand.Category = ifelse(Demand.Category=='Total_Demand','Water Demand','Wastewater Produced'))
+
+ggplot(totalcasts,aes(x=Council,y=lt_perc_change))+
+  geom_bar(stat='identity',position='dodge') + 
+#  scale_fill_tableau()  + 
+  theme_tufte(ticks=F) + facet_wrap(~Demand.Category) + coord_flip() +
+  xlab('') + ylab('Projected % change from 2010 to 2050') +
+  theme(axis.text=element_text(size=12),
+        legend.text=element_text(size=16),
+        axis.title=element_text(size=16),
+        strip.text=element_text(size=15),
+        legend.position = c(0.7,0.2))
 
 
-p3 = ggplot(meetings_attended,aes(x=meetings_attended,fill=)) + geom_bar() + 
+bmp_link = 'https://docs.google.com/spreadsheets/d/1FHPQYSghLryzkWtojWRNVY2K8oCPyFlIE0zK9mvBMfQ/pubhtml'
+bmps = googlesheets::gs_read(gs_url(bmp_link))
+
+nbmps = bmps %>% group_by(Council) %>% summarize(nbmps = n())
+
+totalcasts$nbmp = nbmps$nbmps[match(totalcasts$Council,nbmps$Council)]
+
+master_df = totalcasts
+
+totalcasts$avg_prop_attended = members_attended$avg_prop[match(master_df$Council,members_attended$Council)]
+totalcasts$avg_num_attended = members_attended$avg_num[match(master_df$Council,members_attended$Council)]
+totalcasts$sd_meet_attended = members_attended$sd_num[match(master_df$Council,members_attended$Council)]
+
+slpsdf
+members_attended$Council
+ggplot(totalcasts,aes(x=lt_perc_change,y=nbmp)) + geom_point() + 
+ facet_wrap(~Demand.Category)
+
+totalcasts$Demand.Category
+?geom_label
+head(forefilt)
+
+  
+
+
+  geom_line()
+forefilt$Demand.Category
+
+  tidyr::gather(Council,MGD,-Demand.Category)
+
+
+
+temp %>% filter(full_name=='Harold West')
+test = just_mems %>% filter(Council=='Middle Ocmulgee')
+test
+test[test$avg_mt_n==7,]
+
+ggplot(avg.meet, aes(y=Council,x=avg_mt_n)) + geom_point()
+
+sum(is.na(meetings_attended$Council.position))
+
+member_attendance = meetings_attended %>% 
+  filter(!is.na(Council.position)&Council.position=='Council Member')
+
+%>%
+  group_by(Council) %>% summarize(round(mean(meetings_attended),2))
+
+
+
+unique(member_attendance$Council.position)
+ggplot(member_attendance,aes(x=meetings_attended)) + geom_bar() + 
+  theme_tufte(ticks=F) + facet_wrap(~Council)
+
+ggplot(meetings_attended,aes(x=meetings_attended) + 
+  geom_bar() + 
   theme_tufte(ticks=F) +
 facet_wrap(~Council) + scale_y_continuous(name='Individuals') + 
   scale_x_continuous(name='# meetings attended by individual') +
   scale_fill_colorblind(name='',labels=c('Board Member','Professional')) + 
   theme(legend.position = c(0.8,.2),legend.text=element_text(size=16),
         axis.title=element_text(size=16),axis.text=element_text(size=14))
+
+
 
 p3b = ggplot(meetings_attended[!meetings_attended$prof,],
              aes(x=meetings_attended)) +
@@ -296,6 +447,7 @@ summary(model1)
 require(xergm)
 model1 <- btergm(observed_network ~ edges + b2star(2:3), R = 1000)
 summary(model1)
+
 
 
 warnings()
