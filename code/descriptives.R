@@ -449,6 +449,9 @@ model1 <- btergm(observed_network ~ edges + b2star(2:3), R = 1000)
 summary(model1)
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f0731d12e55606431c9b2202995dd4d60a335203
 warnings()
 
