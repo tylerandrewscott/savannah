@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8'/>
+  <title>Categorization Task</title>
+  <script type='text/javascript' src='https://s3.amazonaws.com/mturk-public/externalHIT_v1.js'></script>
+ </head>
+ <body>
+  <form name='mturk_form' method='post' id='mturk_form' action='https://www.mturk.com/mturk/externalSubmit'>
+  <input type='hidden' value='' name='assignmentId' id='assignmentId'/>
+  <p> The following goal statement comes from a regional environmental plan. Please read the statement and assess the following question:</p>
+        
+ <p> Does the goal statement include a measurable future outcome that could be tested in a clear, straightforward manner?</p>
+ <p src="${wording}" alt="${wording}"/>
+  <p>
+    <input type="radio" name="QuestionId1" value="person" id="q1a" /><label for="q1a">YES it does</label><br />
+    <input type="radio" name="QuestionId1" value="animal" id="q1b" /><label for="q1b">NO it does not</label><br />
+  </p>
+  <input type="hidden" name="imageurl" value="${imageurl}" />
+  <p><input type='submit' id='submitButton' value='Submit' /></p></form>
+  <script>turkSetAssignmentID();</script>
+ </body>
+</html>

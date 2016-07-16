@@ -452,17 +452,3 @@ summary(model1)
 
 warnings()
 
-?btergm::btergm
-xergm::
-table(Arow)
-
-sum(inc_matrix[,uq])
-
-
-
-temp[temp$full_name=='Deatre Denion',][1:4,]
-unique(temp$Date)
-table(temp$uq.event)
-
-
-rm(list=ls())
