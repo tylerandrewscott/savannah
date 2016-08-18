@@ -20,20 +20,29 @@ temp = temp %>% mutate(member =  !is.na(Council.position) & Council.position == 
 meetings_attended = temp %>% #filter(is.na(Organization)) %>%
   group_by(Council,full_name,member) %>% summarize(meetings_attended = n())
 
-mheld = temp %>% group_by(Council,Council.position) %>% summarize(meetings_held = length(unique(uq.event)))
-meetings_attended = left_join(meetings_attended,mheld)%>% mutate(prop = meetings_attended/meetings_held)
+mheld = temp %>% group_by(Council) %>% summarize(meetings_held = length(unique(uq.event)))
+meetings_attended$meetings_held = mheld$meetings_held[match(meetings_attended$Council,mheld$Council)]
+meetings_attended = meetings_attended %>% mutate(prop = meetings_attended/meetings_held)
 
 
-ggplot(meetings_attended,aes(x=meetings_attended,fill=Council.position)) + 
-  theme_tufte(ticks=F) + geom_bar(position= 'dodge')+
-  facet_wrap(~Council) + scale_y_continuous(name='Individuals') + 
-  scale_x_continuous(name='# meetings attended by individual') +
-  scale_fill_colorblind(name='') + 
-  theme(legend.position = c(0.8,.2),legend.text=element_text(size=16),
-        axis.title=element_text(size=16),axis.text=element_text(size=14))
+name_ref = data.frame(region_name = 
+                        c('Altamaha','Coastal Georgia','Coosa-North Georgia',
+                          'Lower Flint-Ochlockonee','Middle Chattahoochee',
+                          'Middle Ocmulgee','Suwanee-Satilla','Savannah-Upper Ogeechee',
+                          'Upper Flint','Upper Oconee','Metro North Georgia'),
+                      Council = c('ALT','CGA','CNG','LFO','MCH',
+                                  'MOC','SSA','SUO','UFL','UOC','MNG'))
 
 
 
+attendance = left_join(attendance,name_ref)
+
+
+att_slopes = data.frame(slopes = sapply(unique(attendance$Council),function(x) 
+coef(lm(n~Meeting,data = attendance %>% filter(Council==x)))['Meeting']),
+Council = unique(attendance$Council))
+
+attendance = left_join(attendance,att_slopes)
 
 library(ggplot2)
 library(ggthemes)
@@ -46,37 +55,63 @@ p2 = ggplot(attendance,aes(y=n,x=Meeting)) +
   scale_y_continuous(name='# Attendees') + 
   scale_colour_tableau() + guides(colour=FALSE)+
   #coord_flip() + 
-  facet_wrap(~Council) + geom_abline(aes(intercept=num_members,slope=0,lty='d')) +
-  scale_linetype_manual(name='',labels='# members',values = 2) +
+  facet_wrap(~region_name) + geom_abline(aes(intercept=num_members,slope=0,lty='d')) +
+  scale_linetype_manual(
+    name='',values = 2,label='# total members') +
   theme(legend.position = c(0.8,.2),legend.text=element_text(size=16),
-        axis.title=element_text(size=16),axis.text=element_text(size=14))
+        axis.title=element_text(size=16),
+        strip.text = element_text(size=14),
+        axis.text=element_text(size=14)) +
+  annotate("text",x=9,y = 30,label = paste0('b = ',round(
+    sapply(sort(unique(attendance$region_name)),function(x) 
+      coef(lm(n~Meeting,data = attendance %>% filter(region_name==x)))['Meeting'])
+    ,2))) 
 
 
 
-test = temp %>% select(Council,full_name,Council.position)
-unique(test$Council.position)
+group_attendance  = meetings_attended %>% filter(member) %>% group_by(Council) %>% 
+  summarize(avg.prop = round(mean(prop),2),med.prop = round(median(prop),2),
+            prophalf = round(mean(prop>.5),2),
+            class = ifelse(prophalf>.6,'high','low'),
+            avg.att = mean(meetings_attended),
+            sd.att = sd(meetings_attended))
+
+just_member_attendance = meetings_attended[meetings_attended$member,]
+
+just_member_attendance = left_join(just_member_attendance,group_attendance)
+
+library(scales)
 
 
-p3 = ggplot(meetings_attended,aes(x=meetings_attended,fill=)) + geom_bar() + 
-  theme_tufte(ticks=F) +
-facet_wrap(~Council) + scale_y_continuous(name='Individuals') + 
-  scale_x_continuous(name='# meetings attended by individual') +
-  scale_fill_colorblind(name='',labels=c('Board Member','Professional')) + 
-  theme(legend.position = c(0.8,.2),legend.text=element_text(size=16),
-        axis.title=element_text(size=16),axis.text=element_text(size=14))
+#show_col(colorblind_pal()(8))
+mean_col = '#56B4E9'
+sd_col = '#E69F00'
 
-p3b = ggplot(meetings_attended[!meetings_attended$prof,],
+(p3 = ggplot(just_member_attendance,
              aes(x=meetings_attended)) +
   geom_bar() + 
   theme_tufte(ticks=F) +
  # geom_density() +
-  facet_wrap(~Council) + scale_y_continuous(name='Individuals') + 
-  scale_x_continuous(name='# meetings attended by individual',breaks=c(1,4,7,10)) +
-  scale_fill_colorblind(name='',labels=c('Board Member','Professional')) + 
+  facet_wrap(~Council,scales = 'free_y') +  
+  scale_x_continuous(name='# meetings attended by individual',
+                     breaks=c(3,6,9)) +
+ # scale_fill_colorblind(name='',labels=c('Board Member','Professional')) + 
+  scale_y_continuous(limits = c(0,41),name = 'Council Members')+
   theme(legend.position = c(0.8,.2),legend.text=element_text(size=16),
-        axis.title=element_text(size=16),axis.text=element_text(size=14),
-        strip.text=element_text(size=14))
-
+        axis.title=element_text(size=16),axis.text.x=element_text(size=14),
+        strip.text=element_text(size=14),
+        axis.text.y = element_blank(),
+        legend.title = element_blank()) +
+  geom_errorbarh(aes(xmin = avg.att-sd.att,xmax = avg.att+sd.att,y=15,
+                     col = 'SD', height = 4),lwd=1.25) +
+  geom_point(aes(x=avg.att,y=15,col = 'Mean'),size=2) +
+  scale_colour_manual(values = c(mean_col,sd_col),
+                        labels=c('Mean','+/- 1 SD'))+
+  guides(colour = guide_legend(override.aes = 
+                                 list(shape = c(19,32),
+                                      linetype = c(0,1),
+                                      width = c(0,3))))
+)
 
 p4 =   ggplot(meetings_attended,aes(x=prop,fill=Council.position)) + 
 geom_bar()+
@@ -88,215 +123,200 @@ geom_bar()+
   theme(legend.position = c(0.8,.2),legend.text=element_text(size=16),
         axis.title=element_text(size=16),axis.text.x=element_text(size=14),
         axis.text.y=element_blank())
-p4
 
 
-meetings_attended %>% filter(member) %>% group_by(Council) %>% 
-  summarize(avg.prop = round(mean(prop),2),med.prop = round(median(prop),2),
-          prophalf = round(mean(prop>.5),2),class = ifelse(prophalf>.6,'high','low'))
+plan_goals_link = 'https://docs.google.com/spreadsheets/d/1xNbRL31keNT59yhr-43xUqLoaAkvdGT4rMAYCIKCS18/pub?gid=0&single=true&output=csv'
 
 
 
+goals = read.csv(plan_goals_link)
 
-meetings_attended %>% filter(member) %>% group_by(Council) %>% summarize(length(unique(full_name)))
-test = meetings_attended %>% filter(Council=='Coosa - North Georgia',member)
-
-roster = roster %>% mutate(full_name = paste(First,Last,sep=' '))
-
-test$full_name
-
-roster$full_name = gsub(' [A-Z]\\. ',' ',roster$full_name)
-roster$full_name = gsub('\\,.*','',roster$full_name)
-
-temp$full_name = gsub(' [A-Z]\\. ',' ',temp$full_name)
-temp$full_name = gsub('\\,.*','',temp$full_name)
+goals = goals %>% mutate(Spec_Score = Defined_Direction + Measurable_Outcome + 
+  Specified_Action)
+goals = left_join(goals,name_ref)
 
 
 
-test = temp[!paste(temp$Last,temp$Council,sep='_') %in% 
-paste(roster$Last,roster$Planning.Council,sep='_'),]
+forecast_link = 'https://docs.google.com/spreadsheets/d/14Xj5BtadVkx1wTYeK-7U_QivDLeau7Pm9PSa6F_IDms/pub?gid=233023918&single=true&output=csv'
+forecasts = read.csv(forecast_link)
+library(tidyr)
+forecasts = forecasts %>% mutate(
+  uq = paste(Council, Demand.Category),
+  perc_change = {(X2050 - X2010)/X2010} * 100) %>%
+  select(-contains('X'))  %>% select(-Source) %>%
+  filter(grepl('Total',Demand.Category))
+bmp_link = 'https://docs.google.com/spreadsheets/d/1FHPQYSghLryzkWtojWRNVY2K8oCPyFlIE0zK9mvBMfQ/pub?gid=0&single=true&output=csv'
+bmps = read.csv(bmp_link)
+bmp_count = 
+  bmps %>% group_by(Council,Side) %>% 
+  summarise(bmp_count = n()) %>% 
+  complete(Council,Side,fill=list(bmp_count = 0))
+bmp_count = left_join(bmp_count,name_ref)
+
+cwa_sum = read.csv('Input/region_cwa_summary.csv',row.names=1)
+cwa_sum = cwa_sum %>% select(-Total_Stream_Length,-Total_Length_M) %>%
+  filter(Evaluation == 'Not Supporting'&Region!='MNG') %>%
+  rename(Council = Region) %>%
+  mutate(Council = gsub('UPF','UFL',Council)) %>%
+  mutate(Council = gsub('UPO','UOC',Council)) %>%
+  rename(Issue = Evaluation,Pressure = Proport_Status) %>%
+  mutate(Pressure  = 100 * Pressure, Std_Pressure = scale(Pressure,center = F))
+
+forecast_pressure = forecasts %>% select(-uq) %>% 
+  rename(Issue = Demand.Category,Pressure = perc_change) %>%
+  mutate(Std_Pressure = scale(Pressure,center = F))
+
+issue_pressure = full_join(forecast_pressure,cwa_sum)
+issue_pressure = full_join(issue_pressure,issue_pressure %>% filter(Issue == 'Total_Demand') %>% 
+  mutate(Issue = gsub('Demand','Supply',Issue)))
+
+issue_pressure$Issue = gsub('Total_','',issue_pressure$Issue)
+issue_pressure$Issue = gsub('Wastewater','Returns',issue_pressure$Issue)
+issue_pressure$Issue[issue_pressure$Issue=='Not Supporting'] = 'Quality'
+
+issue_pressure$region_name = name_ref$region_name[match(issue_pressure$Council,name_ref$Council)]
+
+response = left_join(issue_pressure,bmp_count %>% rename(Issue = Side))
+response$Std_bmp = scale(response$bmp_count,center=F)
+
+response_and_att = full_join(just_member_attendance,response[!duplicated(response),])
 
 
-test %>% filter(Council.position=='Council Member')
+response_and_att = response_and_att %>% mutate(Overall_Part = ifelse(avg.att/sd.att>2.5,'High','Low'))
 
-grep('Hendrick',roster$Last,value=T)
+unique(response_and_att$avg.att/response_and_att$sd.att)
 
-table(just_members$Council,just_members$prop>.5)
-
-20/26
+response_and_att = response_and_att %>% mutate(test_ovpart = ifelse(avg.att/sd.att >3,'1.high',ifelse(avg.att/sd.att<2,'3.low','2.med')))
 
 
-roster = roster %>% mutate(full_name = paste(First,Last,sep=' ')) + 
-temp = temp %>% mutate(uq.person.council = paste0(full_name,Council))
+response_and_att = left_join(response_and_att,att_slopes)
+response_and_att$Attrition = ifelse(response_and_att$slopes>(-0.85),
+                                    'Low attrition','High attrition')
 
-council_matrix = as.matrix(table(temp$full_name[!duplicated(temp$uq.person.council)],
-                                 temp$Council[!duplicated(temp$uq.person.council)]))
-
-council_shared = crossprod(council_matrix)
-
-council_network = as.network(council_shared,directed=F,ignore.eval = F,names.eval = 'person',matrix.type='adjacency')
-  library(igraph)
-l <- layout.circle(intergraph::asIgraph(council_network))
-
-p2
-
-test = intergraph::asIgraph(council_network)
-summary(test)
+response_and_att = response_and_att %>% mutate(attrit_class = ifelse(slopes<(-1.25),'1.high',ifelse(slopes>(-0.75),'3.low','2.med')))
 
 
-plot(test, vertex.label=
-       network.vertex.names(council_network), vertex.size=3, edge.width=sqrt(E(test)$person))
-
-library(ggnetwork)
-council_network
-ggnetwork::ggnetwork(council_network)
-council_network
-
-ggplot(data = ggnetwork(n), aes(x = x, y = y, xend = xend, yend = yend))
-ggplot2::fortify(council_network)
-
-library(ggplot2)
-library(ggnetwork)
-
-# Let’s define a small random graph to illustrate each component of ggnetwork:
-library(network)
-library(sna)
-
-
-is.bipartite(intergraph::asIgraph(council_network))
-ggnetwork::ggnetwork(council_network)
-ggplot(data = ggnetwork(council_network), aes(x, y, xend = xend, yend = yend))+
-  geom_edges() +
-  geom_nodes() +
-  theme_tufte(ticks=F) +
-  theme(axis.text=element_blank(),axis.title=element_blank())
-
-library(reshape2)
-council_heat = council_shared %>% as.data.frame(.) %>%
-  mutate(id = rownames(council_shared)) %>% melt(.) %>%
-  mutate(value = ifelse(id==variable,NA,value))
 
 library(viridis)
-ggplot(council_heat,aes(x=id,y=variable,fill=value)) + geom_tile() +
-  scale_fill_viridis(name='Common \nAttendees') +
+
+gg_fig6 = 
+  ggplot(response_and_att,
+         aes(x=Pressure,y=bmp_count,
+           shape=test_ovpart,
+           #size = avg.att/sd.att,
+           fill = test_ovpart)) +
+  geom_smooth(aes(x=Pressure,y=bmp_count,group='black'),
+              method='lm',lty=2,se=F,col='black')+
+  geom_point(size=4)  +  facet_wrap(~Issue,scales='free')+
   theme_tufte(ticks=F) +
-  ylab('') + xlab('')
+  scale_y_continuous(name = '# BMPs adopted')+
+  scale_x_continuous(name = 'Problem Severity (% Projected Increase in Need or % Impaired [Quality])')+
+  theme(#axis.text.y=element_blank(),
+        strip.text = element_text(size=16),
+        axis.title = element_text(size=16),
+        axis.text = element_text(size=14),
+        legend.position = c(0.91,.30),
+        legend.text = element_text(size=14),
+        legend.title = element_text(size=14),
+        legend.background = element_rect(fill = 'grey80',colour = 'grey80')) +
+  scale_fill_viridis(name = 'Overall \nParticipation',discrete=TRUE,
+                      labels=c('High','Medium','Low')) +
+scale_shape_manual(name = 'Overall \nParticipation',
+                    labels=c('High','Medium','Low'),values=c(21:23)) +
+  guides(fill = guide_legend(override.aes = 
+                                 list(linetype = c(0,0,0))))
 
 
-table(temp$Council,temp$Meeting)
-
-names(council_heat)
-
-%>% mel(.,id=id)
-
-%>% tidyr::gather()
-
-
-head(ggnetwork(council_network))
-netm <- get.adjacency(net, attr="weight", sparse=F)
-colnames(netm) <- V(net)$media
-rownames(netm) <- V(net)$media
-
-palf <- colorRampPalette(c("gold", "dark orange")) 
-heatmap(council_shared[,10:1], Rowv = NA, Colv = NA, col = palf(100), 
-        scale="none", margins=c(10,10) )
-
-
-E(test)$person
-
-plot(test,edge.width='person')
-    yout=l,edge.width=3)
-
-council_network
-
-
-
-roster$full_name = gsub(' [A-Z]\\. ',' ',roster$full_name)
-temp$full_name = gsub(' [A-Z]\\. ',' ',temp$full_name)
-
-
-unique(temp$full_name[!temp$full_name %in% roster$full_name])
-
-
-paste(roster$City[is.na(roster$Organization)],roster$County[is.na(roster$Organization)],sep=',')
-
-roste
-
-roster$Organization[is.na(roster$Organization)]
-
-= roster$City[is.na(roster$Organization)]
-
-
-temp %>% filter(is.na(Organization)) %>% mutate(uq_member = paste(Council,full_name)) %>% 
-  filter(!duplicated(uq_member)) %>% group_by(Council) %>% summarize(n())
-
-
-
-  
-  group_by(Council) %>% summarise(n(unique(full_name)))
-
-
-
-
-          +gwb2degree(0.25,fixed=T))
-  b2mindegree(min(table(temp$uq.event))))
-
-
-get.vertex.attribute(bip_net,'Meeting')
-
-
-meet_mat = matrix(
-  rep(temp$Meeting[match(network.vertex.names(bip_net),temp$uq.event,nomatch = 0)],each=nrow(inc_matrix)),ncol=ncol(inc_matrix),byrow=F)
-
-
-nrow(inc_matrix)*ncol(inc_matrix)
-
-rep(temp$Meeting[match(network.vertex.names(bip_net),temp$uq.event)],each=nrow(inc_matrix)))
-
-
-
-
-
-rep(gsub('^ ','',gsub('[0-9]|-','',colnames(inc_matrix))),each=nrow(inc_matrix))
-
-
-
-network(5, bipartite=10, density=0.1)
-
-bip_net
-inc_matrix
-            
-           
+gg_fig7 = 
+  ggplot(response_and_att,
+         aes(x=Pressure,y=bmp_count)) + 
+     facet_wrap(~Issue,scales='free_x')+
+    theme_tufte(ticks=F)   +
+    scale_x_continuous(name = 'Problem Severity (% Projected Increase in Need or % Impaired [Quality])')+
+    scale_y_continuous(name = '# BMPs adopted')+
+    geom_smooth(aes(x=Pressure,y=bmp_count,group='black'),
+                method='lm',lty=2,se=F,col='black')+
+    geom_point(aes(fill=Attrition),shape = 21,size=4) + 
+    scale_fill_viridis(direction = -1,name = 'Attrition',discrete=T)+#,labels=c('High','Medium','Low')) +
+    theme(#axis.text.y=element_blank(),
+      strip.text = element_text(size=16),
+      axis.title = element_text(size=16),
+      axis.text = element_text(size=14),
+      legend.position = c(0.91,.35),
+      legend.text = element_text(size=14),
+      legend.title = element_text(size=14),
+      legend.background = element_rect(fill = 'grey80',colour = 'grey80'))
+               
           
+goal_spec = goals %>% group_by(Council) %>% summarise(spec_mean = mean(Spec_Score))
 
-summary(m2)
-mcmc.diagnostics(m2)
-get.vertex.attribute(bip_net,'Council')
-mults = temp %>% group_by(full_name) %>% summarize(app = n()) %>% filter(app>1)
-xergm.common::gof(m2)
-temp$Organization[temp$full_name=='Alan Saxon']
-search.ergmTerms('bipartite')
-for (uq in mults$full_name)
-{
+response_and_att = left_join(response_and_att,goal_spec)
+goals$Overall_Part = response_and_att$Overall_Part[match(goals$Council,response_and_att$Council)]
+goals$test_ovpart = response_and_att$test_ovpart[match(goals$Council,response_and_att$Council)]
+goals$Attrition = response_and_att$Attrition[match(goals$Council,response_and_att$Council)]
+
+gg_fig8 = 
+  ggplot(goals) + 
+  geom_bar(aes(x=as.factor(Spec_Score),fill = paste(Overall_Part,Attrition)))  +
+  facet_wrap(~region_name)+
+  theme_tufte(ticks=F) +
+  scale_x_discrete(name = 'Goal Quality Score (0 = low quality, 3 = satisifies all 3 criterion)',labels=c('Poor','1','2','Strong')) +
+  scale_y_continuous(name = '# Goals') +
+  scale_fill_colorblind(name = 'Participation - Attrition',
+                     labels=c('High - High','High - Low','Low - High','Low - Low'))+
+            #         labels=c('High','Medium','Low')) +
+  theme(#axis.text.y=element_blank(),
+    strip.text = element_text(size=16),
+    axis.title = element_text(size=16),
+    axis.text = element_text(size=14),
+    legend.position = c(0.7,.2),
+    legend.text = element_text(size=14),
+    legend.title = element_text(size=14),
+    legend.background = element_rect(fill = 'grey80',colour = 'grey80'))
+
   
-}
-ergm::search.ergmTerms('bipartite')
+gg_fig9 = 
+  ggplot(goals) + 
+  geom_bar(aes(x=as.factor(Spec_Score),fill = Attrition))  +
+  facet_wrap(~region_name)+
+  theme_tufte(ticks=F) +
+  scale_x_discrete(name = 'Goal Quality Score (0 = low quality, 3 = satisifies all 3 criterion)',labels=c('Poor','1','2','Strong')) +
+  scale_y_continuous(name = '# Goals') +
+  scale_fill_viridis(direction = -1,name = 'Attrition',discrete=TRUE) +
+  theme(#axis.text.y=element_blank(),
+    strip.text = element_text(size=16),
+    axis.title = element_text(size=16),
+    axis.text = element_text(size=14),
+    legend.position = c(0.7,.16),
+    legend.text = element_text(size=14),
+    legend.title = element_text(size=14),
+    legend.background = element_rect(fill = 'grey80',colour = 'grey80'))
 
 
 
-summary(m2)
+?geom_jitter
 
-get.vertex.attribute(bip_net,'Meeting')
+ggplot(response_and_att,
+       aes(x=slopes,y=spec_mean)) + 
+  theme_tufte(ticks=F)  + geom_point()
 
-network.vertex.names(bip_net)
-mcmc.diagnostics(m2)
-  dim(inc_matrix)
+  scale_x_continuous(name = 'Problem Severity (% Projected Increase in Need or % Impaired [Quality])')+
+  scale_y_continuous(name = '# BMPs adopted')+
+  geom_smooth(aes(x=Pressure,y=bmp_count,group='black'),
+              method='lm',lty=2,se=F,col='black')+
+  geom_point(aes(fill=Attrition),shape = 21,size=4) + 
+  scale_fill_viridis(direction = -1,name = 'Attrition',discrete=T)+#,labels=c('High','Medium','Low')) +
+  theme(#axis.text.y=element_blank(),
+    strip.text = element_text(size=16),
+    axis.title = element_text(size=16),
+    axis.text = element_text(size=14),
+    legend.position = c(0.91,.35),
+    legend.text = element_text(size=14),
+    legend.title = element_text(size=14),
+    legend.background = element_rect(fill = 'grey80',colour = 'grey80'))
 
-summary(model1)
-require(xergm)
-model1 <- btergm(observed_network ~ edges + b2star(2:3), R = 1000)
-summary(model1)
 
 
-warnings()
+
+
 
