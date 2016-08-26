@@ -53,7 +53,7 @@ vignettes/*.pdf
 
 
 #doc files
-plans/*.pdf
+input/plans/*.pdf
 *.docx
 *.doc
 *.gdoc
