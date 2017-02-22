@@ -79,3 +79,6 @@ Icon*
 .Rproj.user
 shape/*
 shape
+*.ipynb
+alchemyapi_python/*
+alchemyapi_python
