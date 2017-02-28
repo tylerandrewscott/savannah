@@ -1,0 +1,728 @@
+                                                                       B&V Project 164139
+                                                                            B&V File C-1.2
+                                                                        September 21, 2009
+To:             Lower Flint-Ochlockonee Water Planning Council
+From:           Kristin Rowles, GWPPC and Steve Simpson, Black & Veatch
+cc:             Tim Cash, Assistant Branch Chief, GA EPD
+Subject:        Meeting Summary: Council Meeting 3 on September 15, 2009
+The council meeting was held on September 15, 2009 at the McLendon Barn on member
+Jimmy Webb’s farm in Leary, GA. The list of attendees is attached. In addition to these
+minutes, the presentations (slides) discussed in this meeting will be posted on the Lower
+Flint-Ochlockonee web portal (http://www.flintochlockonee.org/).
+Welcome and Introductions/Chairman’s Discussion
+Council Chair Richard Royal stated that a quorum was present and the meeting should
+begin. Council member John Bridges gave an invocation. The Chairman noted the
+recent court ruling in the tri-state ACF litigation. The council watched a short video
+message from Governor Sonny Perdue about the ruling and the importance of the
+Council’s work. Mr. Royal emphasized that the court ruling was important for Georgia
+and this council. He referred to the memo in the pre-meeting packet from Dr. Couch
+(EPD Director) summarizing the ruling and the state’s response.
+Chairman Royal referred to letters he sent to the Governor, Lieutenant Governor, and
+Speaker of the House regarding the Council’s preference for the appointment of alternate
+members in the case of a vacancy. Copies of the letters are in the pre-meeting packet.
+Chairman Royal said that he had received a response from Lieutenant Governor Casey
+Cagle, who said that he would take the Council’s preference on this matter into
+consideration in the event of a vacancy for which he would be making an appointment.
+Chairman Royal recognized members of the public attending the meeting and asked them
+to introduce themselves. The Chairman asked the Council to review the agenda. He
+asked whether the agenda was acceptable to the Council. With no objections, the agenda
+was approved. The Chairman then asked the Council to approve the minutes of the last
+Council meeting. The meeting minutes were approved by a unanimous vote of the
+Council.
+ MEETING SUMMARY                                                                        Page 2
+Lower Flint-Ochlockonee Water Planning Council                            B&V Project 164139
+Council Meeting 3                                                          September 21, 2009
+Meeting Date: September 15, 2009
+Agricultural Water Demand Forecasts
+Dr. Jim Hook presented the agricultural water demand forecasts to the Council. Dr.
+Hook is recently retired from the UGA National Environmentally Sound Production
+Agriculture Laboratory (NESPAL), and he is working under contract to GA EPD to
+prepare the agricultural water demand forecasts for the water planning process. The
+forecasts are available on the following website:
+http://www.nespal.org/sirp/waterinfo/State/awd/agwaterdemand.htm (There is also a link
+to this website from the Council’s web portal: www.flintochlockonee.org) The
+agricultural water demand forecasting team included Dr. James E. Hook, Crop and Soil
+Sciences and NESPAL; Dr. Gerrit Hoogenboom and Dr. Joel Paz, Department of
+Biological and Agricultural Engineering; Dr. Jeffrey Mullen and Dr. John Bergstrom,
+Agricultural and Applied Economics; and Dr. Mark Risse, Biological and Agricultural
+Engineering.
+The purpose of the agricultural water demand forecasting project was to prepare
+projections of irrigation water demand that will meet the needs of the agricultural sector
+for the Georgia economy during the first half of this century. The projections cover the
+row and orchard crops, as well as most vegetable and specialty crops, that cover more
+than 95% of Georgia's irrigated land. Dr. Hook said that the projections assume that there
+would be no changes in regulation and that resource and land availability would not be
+limiting. He noted that the approach to forecasting agricultural water demand, like all
+forecasting, looks to trends from the past and considers foreseeable changes. He also
+noted the benefits and problems in using computer models for forecasting.
+The steps in forecasting agricultural water demand included the following:
+     1. Determine “baseline” irrigated acreage.
+     2. Identify withdrawal sources (groundwater, surface water, ponds).
+     3. Project major crop acres through 2050.
+     4. Calculate crop water needs for wet, normal, and dry years.
+     5. Project agricultural water withdrawals 2011-2050.
+The effort started with baseline data on irrigated crops. Hook noted that the projections
+are based on existing, mapped irrigation locations because they expect that: (1) farmers
+will continue to use their investments in existing hardware; (2) farmers will expand
+irrigation near existing irrigated fields; (3) Existing irrigation areas have proven water
+supplies, suitable soils, and established farm support; and (4) all GA counties have room
+for irrigation growth. For water sources, the projections assume that 2008 sources will
+continue to be used in the same proportions (70% groundwater, 30% surface water).
+The forecasters used projections from the USDA, from a Southeast Regional model, and
+from a GA model to determine which crops would be planted on the projected acres. In
+making the projections, the forecasters assumed economic conditions will reflect near-
+ MEETING SUMMARY                                                                        Page 3
+Lower Flint-Ochlockonee Water Planning Council                          B&V Project 164139
+Council Meeting 3                                                         September 21, 2009
+Meeting Date: September 15, 2009
+term effects of the current economic crisis followed by a transition back to steady
+economic gains. They relied on the Southeast regional and Georgia models to reflect
+Georgia farmers’ preferences among crop choices. To combine the outputs of the models
+for crop acreages (USDA, SE, GA), the forecasters assumed that the projected acreage
+would best be projected as the average of the National, Southeast and Georgia models.
+Next, the forecasters determined the water needs of the projected crop acreages. The
+water needs of crops grown in GA are known and can be modeled. The projections do
+not include any climate change scenarios. To project irrigation water needs, the
+forecasters assumed that irrigation replaces rainfall deficit in a given year, and they made
+projections for wet, average, and dry years based on weather patterns of the past 60 years.
+To pull the pieces together, the forecasters then made the following calculation: Projected
+irrigated area of each crop (acres) multiplied by the predicted monthly irrigation depth for
+the crop (inch) multiplied by the fraction of water from the water source. The results
+were then converted from acre-inches to million gallons per day (MGD).
+Overall, the results show that there will be slight increases in Georgia’s agricultural
+irrigation water use over the next 40 years. There is a wide range in the demand
+projections between wet and dry years. Across the state, irrigated crop acreage is
+expected to increase slowly at an average of about 0.5% per year.
+The chart below shows the projects in the agricultural water demand for the Lower Flint-
+Ochlockonee region. Overall, the Lower Flint Ochlockonee region accounts for 48% of
+the state’s agricultural irrigation water use (surface and groundwater). In the meeting,
+Dr. Hook reviewed some of the county and region level data from the Lower Flint-
+Ochlockonee region. While the overall projections are annualized, the website includes
+seasonal projections for water use. The chart below shows projected seasonal water use
+in the Lower Flint-Ochlockonee region for 2011.
+ MEETING SUMMARY                                                                       Page 4
+Lower Flint-Ochlockonee Water Planning Council                        B&V Project 164139
+Council Meeting 3                                                      September 21, 2009
+Meeting Date: September 15, 2009
+Dr. Hook noted that the following are not included in the agricultural water demand
+forecasts:
+    1. Commercial & Industrial Landscape irrigation
+    2. Home lawn & landscape irrigation
+    3. Golf courses and athletic fields (sod farms producing turf for retail sale are
+       included)
+    4. Retail nurseries and greenhouses (large production nurseries and greenhouses are
+       included)
+    5. Non-irrigation water use on farms including livestock water, processing of farm
+       products and aquaculture
+ MEETING SUMMARY                                                                     Page 5
+Lower Flint-Ochlockonee Water Planning Council                       B&V Project 164139
+Council Meeting 3                                                     September 21, 2009
+Meeting Date: September 15, 2009
+The Council members had the following questions and comments for Dr. Hook:
+Q: Did you consider the effects of conservation on future water demand?
+A: We assumed continued use of existing technology. We cannot make projections based
+on technology that we do not yet know about. A lot of Georgia farms do have
+conservation technologies in place. Most systems installed since 1990 in Georgia have
+conservation technologies incorporated (e.g., low pressure systems, drop nozzles, end-
+gun shut-off).
+Q: Did you consider more intensive use of land and increasing irrigation of pasture?
+A: Pasture was not included. Multiple crop rotations are reflected based on existing
+patterns.
+Q: Are golf courses included?
+A: No (Even though many do have agriculture permits). Also, animal operations and
+aquaculture are not included. The projections just concern agricultural irrigation.
+Comment: We might need to consider this, especially if Florida includes golf courses in
+their irrigation numbers.
+Q: Did you include peaches and pecans?
+A: Pecans are in there, and some peaches are included into the forecasts.
+ MEETING SUMMARY                                                                        Page 6
+Lower Flint-Ochlockonee Water Planning Council                          B&V Project 164139
+Council Meeting 3                                                        September 21, 2009
+Meeting Date: September 15, 2009
+Comment: I do not want the numbers to be too conservative. I do not want to lock in on
+low forecast numbers especially with the tri-state litigation on-going.
+Comment: Our nursery operations are not reflected, and yet our use is significant (19
+permits, 31 MGD). We are metered and permitted, and we participate in voluntary
+reporting.
+A: Sod operations, nurseries, and greenhouses are included where we have records on
+them. We included metered and permitted sites. If there are gaps, please let us know.
+(The Chairman emphasized that the Council should help to identify and fill gaps.)
+Q: How did the agricultural metering program get used in the forecasting?
+A: We used it to find agricultural water users, but we could not use the data. There is not
+yet enough data from the program available, and the data that we do have is from an
+extreme drought year. As time goes by, we will be able to use meter data to replace
+model projections.
+Q: In Perry, EPD mentioned analysis of correlation between meter data and the
+projections. It was reported that these were close, but in which direction did they differ?
+A: The comparison was made between the projections and EPD’s water use estimation
+tool (not the meter data). The tool came within 4% for surface water use and 12% for
+groundwater use.
+Q: Was that high or low?
+A: The direction of the comparison is not relevant. It was just a way to check our
+methodology.
+Comment: We cannot afford to have projections that are too low. We might have to
+make-up for depletions on the Chattahoochee from the Flint.
+Comment: We have a very high level of resource availability in our region. The
+groundwater is moving, and some enters Florida by going around or under the dam,
+rather than just over it.
+Comment: Florida requires water use reports from farmers by month and by crop. They
+know exactly what is used. We need that here.
+A: Florida has a much bigger budget than Georgia for these purposes. The smallest water
+management district in Florida has a larger budget than EPD’s total budget. The
+Suwanee Water Management District in Florida does not yet have agricultural meters in
+place, so Georgia is ahead on that.
+Cliff Lewis from EPD then noted that we cannot guarantee that we will get 100% of
+water use, but asked the Council to help fill in the gaps. He said that the forecasts will be
+continuously updated with new data. He noted that sub-threshold users (less than
+ MEETING SUMMARY                                                                      Page 7
+Lower Flint-Ochlockonee Water Planning Council                        B&V Project 164139
+Council Meeting 3                                                      September 21, 2009
+Meeting Date: September 15, 2009
+100,000 gallons per day) do not show up in the data. Mr. Lewis urged the council
+members to include any recommendations for improving the monitoring of water use in
+their regional water plan.
+Dr. Hook said that they are in the process of breaking down the data further into smaller
+regions (aquifer, stream segments). This data should be available in October. Dr. Hook
+asked the Council members to let him know what should be added to the projections.
+MOA Documents (Action Item)
+Kristin reminded the Council that at the last meeting they had adopted numerous changes
+that EPD had agreed to in the Operating Procedures and Rules for Meetings. At the last
+meeting, Chairman Royal appointed a subcommittee to address the outstanding issue
+relating to language on communications with the media. That subcommittee met, and
+Hal Haddock gave a brief report. Kristin reviewed the changes in the Rules for Meetings
+relating to the subcommittee’s work:
+       On page 1, at the bottom, the following sentence was deleted: The [EPD]
+        representative is also available to talk with members of the media.
+       On page 2, the following was added (Rule 3, #8): The Chair may speak to the
+        media on behalf of the Council without prior approval of EPD. If the Chair
+        communicates with the media regarding Council business, the Chair will inform
+        the EPD Director of such communication. This language replaced the following
+        language: Media communications will be coordinated between the Chair and the
+        EPD representative.
+Kristin said that the subcommittee’s change was acceptable to EPD, and the documents
+were ready to be executed if the Council so wished. Chairman Royal advised that the
+changes were acceptable to him and asked if the Council was ready to adopt the
+documents. Jimmy Webb made a motion to adopt the documents, and the motion was
+seconded. The Council adopted the documents with no objections. Kristin asked that
+the Council members sign the MOA signature page at lunch time.
+Visioning
+Kristin provided a review of the purpose of the vision statement and how it is being
+developed by the Council. She said that the regional planning guidance document says
+that the vision should describe the economic, population, environmental and water use
+conditions desired for the future. The vision statement will be used to develop action-
+oriented goals and to guide the selection of management practices. The vision statement
+can be revisited and revised as needed to be consistent with other parts of the regional
+plan as it is developed.
+ MEETING SUMMARY                                                                        Page 8
+Lower Flint-Ochlockonee Water Planning Council                            B&V Project 164139
+Council Meeting 3                                                          September 21, 2009
+Meeting Date: September 15, 2009
+Kristin said that the following was the vision statement that was used during the
+development of the Statewide Water Plan:
+        Georgia manages water resources in a sustainable manner to support the
+        state’s economy, to protect public health and natural systems, and to
+        enhance the quality of life for all citizens.
+The regional vision will tailor this vision statement to this region.
+Kristin then reviewed the following Council’s responses at Council Meeting #1 regarding
+trends, forces, and factors affecting water resources in the region:
+           Substantial economic uncertainty
+           Increasing use of water conservation practices
+           Difficult to predict future demand for water based on recent trends
+           Increasing attention and possible regulatory pressure related to water quality
+            concerns
+           Improved water resource information (but better information still needed)
+           Significant constraints on water resource management as a result of political
+            and natural factors
+Next, Kristin referred the Council to the visioning assignment, which asked the
+following:
+        1. What do you want your rivers, lakes and groundwater to do for you and the
+            citizens in your planning region?
+                    Consider the following:
+                          • Supporting the region’s and state’s economy
+                          • Protecting public health and natural systems
+                          • Enhancing the quality of life for all citizens
+        2.      What do you want to protect?
+        3.      What do you want to achieve with your water resources
+Then, Kristin asked the Council members to help prepare a list of responses to these
+questions, based on their individual responses to the questions. This list could then be
+used by a subcommittee to draft a regional vision statement. The Council members
+offered the following responses:
+           Human Consumption – Survival
+           Water should be affordable
+           Economic stability
+           Importance of agricultural and industrial use
+ MEETING SUMMARY                                                                       Page 9
+Lower Flint-Ochlockonee Water Planning Council                          B&V Project 164139
+Council Meeting 3                                                         September 21, 2009
+Meeting Date: September 15, 2009
+            Agriculture provides national security benefits
+            Recreational use of water
+            Power Generation
+            ACOE Management will affect LFO region
+            Concern for aquatic life
+            Endangered Species – concern over too much flow devoted to this purpose
+            Information needs to support decision making
+            Balance economic growth with resource availability
+            Variability of resources within the region
+At the conclusion of this discussion, the Chairman appointed the following Council
+members to a subcommittee to prepare a vision statement for the Council to consider:
+Representative Bob Hanner, Josh Herring, T.E. Moye, George McIntosh, and Rick Moss.
+Representative Hanner will serve as the chair of the subcommittee.
+Planning Guidance
+Kristin explained that EPD has published a regional planning guidance for the Council.
+The guidance is available through the Council’s web portal. The guidance will be an aid
+in preparing the various parts of the regional water plan, and it will also be used by EPD
+to evaluate the plan when considering final adoption. Kristin referred the members to the
+executive summary of the guidance as a good overview of the planning process and what
+will be expected of the Council and EPD.
+Kristin presented the following graphic from the planning guidance as an over-arching
+illustration that describes the regional water planning process:
+ MEETING SUMMARY                                                                      Page 10
+Lower Flint-Ochlockonee Water Planning Council                          B&V Project 164139
+Council Meeting 3                                                         September 21, 2009
+Meeting Date: September 15, 2009
+Kristin presented the following from the planning guidance as a schedule for the pieces of
+the planning process described in the graphic above:
+                                            REGIONAL WATER PLANNING COUNCIL
+                  PRODUCTS                         ACTIVITIES SCHEDULED
+  Regional vision and goals                  April 2009 – September 2009
+  Assessment of baseline resource           November 2009 – March 2010
+  capacity
+ Forecasts of demand                         February 2009 – March 2010
+  Gap analysis                               January 2010 – October 2010
+  (i.e. comparison of resources and demands
+  to identify gaps)
+  Water management practices to              January 2010 – January 2011
+  adjust demand and resource capacity
+  Recommended regional water                  January 2011 – June 2011
+  plan
+ MEETING SUMMARY                                                                     Page 11
+Lower Flint-Ochlockonee Water Planning Council                       B&V Project 164139
+Council Meeting 3                                                     September 21, 2009
+Meeting Date: September 15, 2009
+Next, Kristin reviewed the responsibilities of the Council:
+    • Develop a recommended plan
+    • Submit to EPD by January 31, 2011
+    • Make revisions based on EPD and public comment and finalize recommended
+        plan by June 30, 2011
+The following are EPD responsibilities:
+    • Provide guidance and template to ensure completeness and consistency
+    • Provide public notice and 45-day comment period
+    • Review recommended plan for consistency with State Water Plan, rules, and
+        guidance
+    • Adopt recommended plan if consistent with State Water Plan, rules, and guidance
+    • Use final adopted plan to guide agency decision making
+Kristin encouraged the Council to review the planning guidance and to use it as a
+reference.
+Public Involvement Plan
+Kristin referred the Council members to the draft Public Involvement Plan, which is
+included in the regional planning guidance. She reviewed each section of the public
+involvement plan to see if Council members had any suggestions for modifications to the
+document, which will be adopted at a future meeting. The Council members made the
+following comments and requests:
+       Chairman Royal asked for a copy of the comments received on the population and
+        employment forecasts for this region. (Kristin will send.)
+       Council members suggested that biographical and contact information could be
+        included on the Council website. They would also like to receive contact
+        information for council members. (Kristin will contact member individually to see
+        what information they would like to share on the website. She will send a council
+        directory to council members.)
+       Council members noted that it is important to contact both elected officials and
+        staff people when reaching out to local governments.
+       Howard Small asked for a brief summary of Council activities that could be
+        shared with local governments that council members have contact with.
+       Council members asked that a provision be added to the Public Involvement Plan
+        to ensure follow-up when input is not being received.
+Kristin asked members to provide her with press contacts that they would like to ensure
+receive council information.
+ MEETING SUMMARY                                                                      Page 12
+Lower Flint-Ochlockonee Water Planning Council                          B&V Project 164139
+Council Meeting 3                                                        September 21, 2009
+Meeting Date: September 15, 2009
+Kristin will modify the plan as requested and send out the information requested by
+Council members in this discussion. Chairman Royal said that the Council could take up
+the Public Involvement Plan for adoption at the next meeting.
+Council Coordination
+Next, Kristin talked about coordination with other water planning councils and upcoming
+joint council meetings in January 2010. The councils have a strong interest in
+coordination among councils, as noted by the Chairs and Vice Chairs at a July leadership
+meeting with Dr. Couch. Furthermore, the Statewide Water Plan calls for council
+coordination.
+Kristin said that for January 2010, a series of six joint council meetings are being
+planned. These meetings will be “resource-based” in that councils that share water
+resources will meet together. At the joint meetings in January meetings, the results of the
+resource assessments will be presented. Another round of joint council meetings will be
+held in April 2010. These will also be focused on the resource assessments.
+Kristin showed two maps – one for surface watersheds and one for aquifers – which
+illustrates how council boundaries cross resource boundaries and which councils share
+which water resources. Then, she showed a draft set of groupings for the January
+Council meetings. The Lower Flint Ochlockonee will be a part of the following
+groupings:
+        Flint & Ochlockonee River Basins/Dougherty Plain, Claiborne Aquifers
+        Satilla, Suwanee & St. Mary’s River Basins/Tift County Upper Floridan Aquifer
+Kristin said that at its next meeting, the Council might wish to discuss who will attend
+which meetings on behalf of the Council. She noted that the meeting will be open. She
+asked the Council to consider whether it wished to participate in any of the other resource
+groupings.
+Jimmy Champion noted that January is a very busy month of meetings for the farm sector
+and anticipated difficulty in scheduling. Jim Quinn advised that Tuesdays were not good
+for scheduling meetings. Kristin said that she would get schedule information to the
+Council as soon as it is available.
+Population and Employment Forecasts
+Kristin reported that the revised population and employment projections were not ready
+to present at this meeting. Since the last meeting, comments on the projections were
+considered and addressed by the forecasters. The revised projections will include high,
+medium, and low growth scenarios. The Office of Planning and Budget (OPB), which
+ MEETING SUMMARY                                                                     Page 13
+Lower Flint-Ochlockonee Water Planning Council                         B&V Project 164139
+Council Meeting 3                                                       September 21, 2009
+Meeting Date: September 15, 2009
+contracted the population and employment projections, is reviewing the revised
+projections and will select a preferred projection to recommend to each council. OPB is
+meeting with the Governor sometime in September to review the revised projections.
+The projections are expected to be available by the next Council meeting. Kristin said
+that the Council would be able to select which projections it would like to include in the
+water planning process. Kristin noted that the projections are important for the water
+planning process, but for many other state functions as well.
+Flint Plan Update
+At the end of the last council meeting, Council members requested information on
+whether and how the existing Flint Plan would be updated and on permit issued for
+agricultural withdrawals since the moratorium on Floridan permits was lifted in 2006.
+To answer these questions, first Kristin said that she discussed the plan update with EPD,
+and the response from EPD was that the plans that are being prepared in the regional
+water planning process will update and replace the Flint Plan.
+Next, Mark Masters provided an overview of the existing Flint Plan. The Flint Plan
+involved scientific assessment of water resources and led to adoption of new water
+resource management practices. Mark reviewed the assessment process and the new
+management practices that came from the Flint Plan. Mark’s slides are available through
+the Council web portal.
+During the development of the Flint Plan, there was a moratorium on new agricultural
+groundwater withdrawal permits from the Floridan aquifer. With the adoption of the
+Flint Plan and the adoption of new management practices for agricultural withdrawals,
+the moratorium was lifted in March 2006. Kristin provided the Council with a map and
+charts showing where permits had been issued in the Lower Flint, Ichawaynochaway, and
+Spring Creek sub-basins since the lifting of the moratorium. These are available through
+the Council web portal.
+Jimmy Webb expressed concern that permits could not be issued in parts of the region in
+Georgia, but in Florida, permits for withdrawals from the same aquifer could be issued.
+Jimmy Webb and Chris Hobby expressed concern that farmers and Georgia were not
+getting credit for water flowing into Florida via groundwater.
+Chairman Royal asked for a version of the permit map with more points of reference on
+it. (Kristin will provide to the Council).
+A member asked when a permit applicant received a permit and if he would already have
+a substantial investment before he knew if the permit would be granted. Cliff Lewis
+explained that the permit was not issued until the process was complete, but the applicant
+ MEETING SUMMARY                                                                       Page 14
+Lower Flint-Ochlockonee Water Planning Council                         B&V Project 164139
+Council Meeting 3                                                       September 21, 2009
+Meeting Date: September 15, 2009
+would receive a letter of concurrence earlier in the process if the permit was expected to
+be issued.
+Dean Burke noted that in Mark’s presentation there were to be no new permits in “red”
+areas on the map (capacity use), but that several had been issued. Kristin asked Cliff
+Lewis (EPD) to address this question. Cliff said that exceptions are made to the
+prohibition if a permit applicant is giving up a surface water permit or if the applicant can
+demonstrate that another farmer is relinquishing their withdrawal permit. He also noted
+that if a farm straddles across red/yellow/green areas, the agency works with the
+applicant.
+Jimmy Webb asked if the exception for permits involved selling permits. Cliff Lewis
+said that permits were not sold, but that agricultural water use permits would transfer
+with property.
+One member asked what “WTP” stands for. It is an abbreviation for well to pond.
+Another member asked why a specific permit that had been issued in a red area. Cliff
+Lewis responded that the information was public, and so, an explanation would be
+available from EPD.
+Resource Assessments
+Jim Kennedy is the state geologist. A biographical sketch on Kennedy’s credentials was
+provided to the council in advance of the meeting. Kennedy made a presentation about
+the resource assessment process, with a specific focus on the groundwater resource
+assessment. Three resource assessments are underway: surface water availability,
+groundwater availability, and surface water quality. Kennedy’s slides are available on
+the Council’s web portal.
+Kennedy provided an overview of groundwater in Georgia and discussed the criteria for
+prioritizing aquifers in the resource assessment process. With respect to the groundwater
+assessment, Kennedy noted that in the LFO region, the priority aquifers are the Upper
+Floridan and the Claiborne. For the Upper Floridan in the Dougherty Plain, he will be
+using the existing USGS model with some updates to the inputs based on new
+information. For the Claiborne, he will be using a USGS model from 1997. This model
+includes several aquifers (Claiborne, Clayton, Upper Floridan).
+The output of the assessment process will be a sustainable yield for each aquifer unit
+assessed. The sustainable yield is the amount that can be withdrawn without causing an
+unacceptable impact. For the Upper Floridan Dougherty Plain region, an unacceptable
+impact is defined as (1) reduction of the base flow of streams using 25% of average
+annual discharge (AAD) as an initial benchmark, and (2) a drop in groundwater levels of
+ MEETING SUMMARY                                                                     Page 15
+Lower Flint-Ochlockonee Water Planning Council                        B&V Project 164139
+Council Meeting 3                                                       September 21, 2009
+Meeting Date: September 15, 2009
+more than 30 feet that could impact nearby wells or create sinkholes. The modeled
+values are looking at 90% level recovery within 30 days. The benchmarks may be
+subject to change during the modeling conducted in the assessment. The sustainable
+yield will recognize seasonal use.
+Kennedy said that after the determination of sustainable yield, management practices can
+be used to maximize groundwater withdrawals within the sustainable yield of the aquifer.
+He said the existing Flint Plan can be used a source for management practices.
+A council member asked whether Kennedy will be able to calculate the amount of water
+available in an aquifer. Kennedy answered yes.
+A council member asked if Kennedy is considering the movement of groundwater in the
+aquifer. Kennedy answered yes.
+Chairman Royal asked about the use of the USGS models. Kennedy said that the models
+are a starting point and that the models will be refined with more recent data.
+Chairman Royal asked about the use of the 25% of AAD benchmark. Kennedy
+responded that EPD has used it in permitting and that it will be evaluated in the
+assessment process.
+Kennedy noted that he is working closely with Dr. Wei Zeng, who is responsible for the
+surface water availability assessment, due to the close interconnection of the Upper
+Floridan in the region with surface water.
+A council member asked whether the MODFLOW model had been reviewed. Kennedy
+said it was reviewed by a Scientific and Engineering Advisory Panel. He noted that he is
+using MODFLOW because is it readily available and user friendly, but still sophisticated
+enough for our purposes.
+A council member noted that the Floridan is a very large aquifer and asked how the
+location of withdrawals would be figured into the assessment. Kennedy responded that
+this was not a part of the resource assessment, which will look at the aquifer’s sustainable
+yield on a broad level, but that in the evaluation of management practices, we could
+model based on location to evaluate impacts.
+A council member asked how big rainfall events (such as hurricanes) are accounted for in
+the model. Kennedy noted that they show up in the long-term average data that are being
+used.
+ MEETING SUMMARY                                                                     Page 16
+Lower Flint-Ochlockonee Water Planning Council                       B&V Project 164139
+Council Meeting 3                                                      September 21, 2009
+Meeting Date: September 15, 2009
+Municipal and Industrial Water Demand Forecasting
+Steve Simpson presented the methodology that is being used to forecast municipal and
+industrial water and wastewater demands for the planning process. Steve began by
+explaining each of the variables from the following PowerPoint slide:
+ F u tu re W a te r N e e d :
+    B ase Y ear
+                                                        R e g io n             F u tu re
+    P e r C a p ita               F u tu re
+                                                        S p e c ific            W a te r
+       W a te r                P o p u la tio n
+                                                        F a c to rs             N eed
+      D em and
+Next, Steve explained how future self-supplied water demand was to be calculated. He
+explained each one of the variables in the following slide:
+ Future Self Supplied Water Demand:
+                                   Total
+                                                       Municipal                Self-
+                               Population
+                                                          / Self-             Supplied
+      75 gpcd                   – Publicly
+                                                        Supplied                Water
+                                Supplied
+                                                           Ratio              Demand
+                               Population
+Steve explained that plumbing code efficiency was incorporated into the methodology.
+This was a result of the 1992 National Energy Policy Act (NEPAct) mandated use of 1.6
+gallon per flush toilets. The Savings from replacement of older toilets due to plumbing
+code efficiencies will be specific to each county based on census age of housing data.
+Steve then explained that both inflow, stormwater entering at points of direct connection,
+and infiltration, groundwater entering through cracks and/or leaks, were incorporated into
+the methodology. An average percentage will be estimated for each water planning
+region based on input from water users.
+ MEETING SUMMARY                                                                       Page 17
+Lower Flint-Ochlockonee Water Planning Council                        B&V Project 164139
+Council Meeting 3                                                       September 21, 2009
+Meeting Date: September 15, 2009
+Steve then used the following PowerPoint slide to explain the total wastewater generation
+methodology.
+       Total                    Pop.
+                                                   Centralized
+ Wastewater
+                                                                              Point Discharges
+                               Served              Treatment
+                                                     Facility
+ Generation                     Ratio*
+                                                                   Permit
+                                                                    Data
+                                                                   Ratio**
+                                                                              Land Application
+                                                                                  Systems
+                                                                               Septic Systems
+     *Based on 1990 US Census Bureau Data
+     **Based on Existing GA EPD Permit Data
+    Next, Steve explained the industrial demand methodology using the following
+    PowerPoint slide. Steve noted water is needed for industrial processes, sanitation,
+    cooling and some domestic (employee) use and this need is linked to production, but
+    production units are in multiple forms and often data are proprietary. Therefore,
+    since employment is linked to production and employment data is available; this data
+    will be used to determine future industrial water demand.
+     Current              Production 
+  Water Need                  Unit
+                                                                                  Future 
+                                                         Future 
+                                                                                  Water 
+                                                     Employment
+                                                                                   Need
+   Production                Current
+       Unit               Employment
+The Council members had the following questions:
+       One council member asked what happens if there is water use right near a border
+        and the water use is used in another jurisdiction. Steve explained that this will be
+        investigated on a case by case basis.
+ MEETING SUMMARY                                                                         Page 18
+Lower Flint-Ochlockonee Water Planning Council                            B&V Project 164139
+Council Meeting 3                                                           September 21, 2009
+Meeting Date: September 15, 2009
+       One member questioned whether one can really capture industrial productivity per
+        person.
+       A council member asked about 75 gallons per capita per day number used in
+        calculating the forecasted self supply. Steve noted this was an estimate based on
+        a previous study in Georgia.
+       Industrial water use forecasting was discussed. Steve advised that if credible
+        estimates of industry statewide water use are developed, this can be used in the
+        industrial estimates.
+Steve noted draft water demand and wastewater flow projections will be presented for
+review and comment at Council Meeting 4. Steve’s slides are available on the Council
+web portal.
+Management Practices
+Kristin introduced the idea of management practices to the council. A management
+practice is any program or activity that is undertaken to meet the forecasted regional
+water and wastewater needs without exceeding: water availability (surface and ground
+water) and assimilative (water quality) capacity. Kristin reviewed examples of
+management practices. She referred to the planning guidance to explain the role of
+management practices in the regional water plan. She explained that through 2010, the
+Council would be focused on selecting the management practices that would be a part of
+the regional water plan. She said that the plan was for the councils to use a decision
+matrix with weighted criteria to make management practice selections and that
+management practice selections would be refined based on evaluations using resource
+models.
+Next, Kristin provided an overview of the Water Conservation Implementation Plan
+(WCIP), which was called for in the Statewide Water Plan and adopted by the DNR
+Board earlier this year. She noted that the Statewide Water Plan emphasizes water
+conservation as a priority management practice. The Statewide Water Plan states that
+while water conservation alone cannot be expected to fully meet future water needs,
+water conservation is an effective and efficient management practice to meet some needs
+for all water users in the state. Further, it states that to support current and future use of
+water, and in accordance with DNR Rules 391-3-2-.04(11) and 391-3-6-.07(4)(b)(8)(ix),
+water conservation must be incorporated into long-term water demand and supply
+planning and measurable progress must be made toward water conservation goals and
+more efficient use of water. The Statewide Water Plan calls for rule-making regarding
+demonstration of progress by withdrawal permit holders (non-farm) toward water
+conservation goals/benchmarks identified in WCIP and refined in regional water plans.
+ MEETING SUMMARY                                                                      Page 19
+Lower Flint-Ochlockonee Water Planning Council                         B&V Project 164139
+Council Meeting 3                                                       September 21, 2009
+Meeting Date: September 15, 2009
+The Water Conservation Implementation Plan includes a series of goals and benchmarks
+for water efficiency for each of seven major water use sectors in the state (agriculture,
+electric generation, golf courses, industrial/commercial, landscape irrigation,
+domestic/non-industrial public use, state agencies). The purposes of the WCIP are to:
+educate water users about water conservation practices and goals; informs regional water
+plan preparation; help water use sectors collectively improve water use efficiency; and
+inform DNR rule-making regarding water conservation requirements in permitting.
+Kristin referred the council to the full WCIP document for more information. An Internet
+link to the document was included with the pre-meeting materials and can be found on
+the Council web portal.
+Next, Kristin asked three council members to talk about the water management practices
+that they use: Jerry Lee, plant nursery; Chris Hobby, municipal water/wastewater system;
+Steve Singletary, agriculture.
+Jerry Lee, Monrovia Nurseries, said that his facility reuses 95% of its water. They are
+able to capture a large amount of water that runs off the nursery plantings, which have a
+high runoff coefficient. They have onsite storage for the first 1/2” of rainfall. They use a
+combination of storage and treatment through a constructed wetland to manage the
+captured runoff.
+Chris Hobby, City of Bainbridge, discussed his city’s water and wastewater utilities. The
+City serves about 12000 people through 6500 water accounts. He said that the city does
+not have property tax revenues, but instead supports its budget through utility revenues.
+He said that his water system is well below its permitted capacity (approximately 3 mgd
+used with a permitted capacity of 4.4 mgd). The City’s need for revenue and the lack of a
+capacity constraint affect how the city manages water. They are very interested in
+controlling leaks in the system and controlling unaccounted for water use. However, they
+have relatively low losses and low inflow since their sewer system is newer. Other
+residential conservation programs do not make sense for his utility.
+Steve Singletary is on the board of the Flint Soil and Water Conservation District and the
+state Soil and Water Conservation Commission. He discussed the District’s recent award
+of $10 million in NRCS AWEP funds for agricultural water conservation. Practices
+funded will include refurbishment of ponds, conservation retrofits for irrigation systems,
+and variable rate irrigation. Funds received for this year were quickly expended, mostly
+for conservation retrofits. More funds will be available in the coming years.
+ MEETING SUMMARY                                                                     Page 20
+Lower Flint-Ochlockonee Water Planning Council                        B&V Project 164139
+Council Meeting 3                                                      September 21, 2009
+Meeting Date: September 15, 2009
+ Local Elected Officials and Public Comments
+Next, the Council provided time for local elected officials and the general public to
+address the council. There were no elected officials or members of the public who
+wished to speak.
+Wrap-Up and What to Expect Next Meeting
+The next Council meeting will be on November 17 at the Bridge House in Albany.
+Council member Chuck Lingle has made arrangements for us. Kristin will send details
+about the meeting.
+Next, Kristin referred to two items in the meeting packet that were not discussed in the
+meeting: water regulatory primer and results of the water topics information needs survey
+of the council. These are information items for the Council.
+Next, Kristin reviewed the meeting objectives and noted that they were met. Next, she
+reviewed a list of follow-up items that she would be acting on (see below). Finally, she
+reviewed topics for the next council meeting:
+       Municipal and industrial water and wastewater demand forecasts
+       Revised population and employment projections
+       Plans for joint council meetings
+       Vision statement
+       Management practice selection criteria
+       Region specific information
+Council Meeting 3 Evaluation
+At the conclusion of the council meeting, the members completed evaluation forms on
+the meeting. Then, the meeting was adjourned.
+ MEETING SUMMARY                                                                  Page 21
+Lower Flint-Ochlockonee Water Planning Council                      B&V Project 164139
+Council Meeting 3                                                     September 21, 2009
+Meeting Date: September 15, 2009
+Action List (Follow-Up)
+      Send comments on population and employment projects from Lower Flint-
+       Ochlockonee region (Kristin)
+      Collect and post biographical and contact information (as desired) for Council
+       members on website (Kristin)
+      Distribute council contact information to council members (Kristin)
+      Submit press contacts (those that you wish to receive council information) to
+       Kristin (Council members)
+      Timeline information on plans to make use of agricultural water meter data
+       (Kristin)
+      Provide a summary of council activities that can be shared with local government
+       contacts of council members (Kristin)
+      Revise the Public Involvement Plan as noted in today’s meeting (Kristin)
+      Add reference points to the ag permit map (Kristin)
+      Draft vision statement (subcommittee with Kristin’s assistance)
+ MEETING SUMMARY                                                            Page 22
+Lower Flint-Ochlockonee Water Planning Council                B&V Project 164139
+Council Meeting 3                                               September 21, 2009
+Meeting Date: September 15, 2009
+        Attachment 1:
+Lower Flint-Ochlockonee Water Planning Council
+Council Meeting Attendance – September 15, 2009
+Council Members
+Steve Bailey                                Chuck Lingle
+John M. Bridges                             George C. McIntosh (Alternate)
+Dean Burke                                  Rick Moss
+Jimmy Champion                              Greg Murray
+Terry Clark                                 Jim Quinn
+Hal Haddock                                 Richard Royal
+Bob Hanner (Ex-Officio)                     Steve Singletary
+John A. Heath                               Howard G. Small Jr.
+John G. Herring                             Steve Sykes
+Chris Hobby                                 Will Vereen
+Gary W. Leddon                              Jimmy Webb
+Jerry Lee
+Council Members Not In Attendance           Georgia Soil and Water Conservation
+Jerry Chapman                               Commission
+Huddy R. Hudgens, Jr. (Alternate)           Antonio Fleming
+Bill Yearta
+T.E. Moye
+Doyle Medders (Alternate)
+John Bulloch (Ex-Officio)
+Mike Newberry
+Planning Consultants
+Kristin Rowles, GWPPC
+Steve Simpson, B&V
+Jim Hawkins, B&V
+Nils Thompson, LGB
+Mark Masters, GWPPC
+Robert Osborne, B&V
+Georgia EPD
+Tim Cash, Assistant Branch Chief
+Bill Morris
+Cliff Lewis
+Tommy Rumpett
+  

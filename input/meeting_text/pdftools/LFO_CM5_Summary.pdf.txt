@@ -1,0 +1,732 @@
+                                                                        B&V Project 164139
+                                                                            B&V File C-1.2
+                                                                             March 25, 2010
+To:             Lower Flint Water Planning Council
+From:           Kristin Rowles, Black & Veatch and Steve Simpson, Black & Veatch
+cc:             Tim Cash, Assistant Branch Chief, GA EPD
+Subject:        Meeting Summary: Council Meeting 5 on March 22, 2010
+The council meeting was held on March 22, 2010, in the Kirbo Regional Center at
+Bainbridge Technical College. The list of attendees is attached. In addition to these
+minutes, all the presentations (slides) discussed in this meeting will be posted on the
+Lower Flint web portal (http://www.flintochlockonee.org/). The public sign-in sheet is
+included as an attachment.
+Welcome, Introductions, and Chairman’s Discussion
+Council Vice-Chair Hal Haddock welcomed attendees and thanked everyone for
+attending. Chairman Richard Royal could not attend this meeting and sends his regrets.
+Council member John Bridges provided the invocation.
+Hal asked for Kristin Rowles to review the meeting minutes from council meeting #4
+(November 17, 2009) and to review the agenda for today’s meeting. Kristin reviewed
+these items and asked the council to consider approval of the minutes from council
+meeting #4. Howard Small made a motion to approve seconded by John Bridges. The
+minutes were approved by unanimous consensus of 17 council members.
+Hal Haddock noted that progress had been made in the discussion of the meter data.
+Some council members expressed continued interest in this matter. They were happy to
+hear that the meter data had been more thoroughly considered and asked if meter data
+from later years could be evaluated as well (2008, 2009).
+Hal Haddock also advised that he and others had attended the joint meeting in Columbus
+to hear the baseline resource assessments and that council members had also attended
+other joint meetings.
+Hal Haddock said that alternate council member Huddy Hudgens had sent a letter
+regarding the assumption in the planning process that agricultural water use is 100%
+consumptive. Huddy made copies of his letter available to the council. He said that he
+ MEETING SUMMARY                                                                       Page 2
+Lower Flint Water Planning Council                                     B&V Project 164139
+Council Meeting 5                                                            March 25, 2010
+Meeting Date: March 22, 2010
+did not believe it was accurate to assume that agricultural water use is 100%
+consumptive. Huddy had just received a response from GA EPD and asked that copies of
+the response be distributed to the council (which was done at lunchtime). The response
+indicated that GA EPD assumed 100% consumptive use because a defensible alternative
+had not been identified. Rick Moss noted that septic system returns to groundwater were
+considered. Steve Singletary said that Marshall Lamb at the USDA Peanut Lab was
+planning a research study that would address consumptive use by agriculture in this
+region. Hal thanked Huddy for the letter and said that he would discuss with Chairman
+Royal creating a committee to look into this issue further.
+Chair/Vice Chair Elections
+Kristin told the council that it was time to hold the council’s annual Chair and Vice Chair
+elections. Jimmy Webb made a motion to keep Richard Royal as Chair and Hal Haddock
+as Vice-Chair. The motion was seconded by several individuals. The council approved
+the motion unanimously by a 20-0 vote.
+Agricultural Water Use Forecasts: Committee Report
+Jerry Lee, Chair of the Committee, was not able to attend the council meeting, and so
+Kristin said that she would give an update and committee member John Heath would
+make comments as well.
+Kristin reminded the council that the committee was created last fall when the council
+first reviewed the agricultural water use forecasts from Dr. Jim Hook. The purpose of the
+committee was to address areas where the council was concerned about agricultural water
+uses that were not included in the forecasts.
+Other councils had similar concerns and created similar committees. Kristin said that to
+maintain consistency across regions, a statewide effort was initiated to address data gaps
+for animal operations. She noted that Jeffrey Harvey from the Farm Bureau led this effort
+and was assisted by Mark Masters (Georgia Water Planning and Policy Center), Mark
+Risse (UGA), and representatives of various agricultural commodity groups. This group
+focused on the development of estimates of water use by various types of animal
+operations across the state. Most animal operations do not use more than 100,000 gallons
+a day (the threshold for a withdrawal permit). The estimates for animal production were
+developed by determining per animal water use numbers and then multiplying by the
+population of these types of animals in each county in the state. Kristin referred to the
+agricultural water forecasts web page for a report including the actual estimates for
+animal operations. She also referred to a brief paper included in the pre-meeting packet
+that described the methods used in this effort. She distributed an updated version of the
+hand-out that included the methods used for nursery operations as well as animal
+operations. She referred to the agricultural water forecasts web page
+ MEETING SUMMARY                                                                        Page 3
+Lower Flint Water Planning Council                                      B&V Project 164139
+Council Meeting 5                                                             March 25, 2010
+Meeting Date: March 22, 2010
+(http://www.nespal.org/sirp/waterinfo/State/awd/agwaterdemand.htm) for a report
+including the actual estimates for animal operations.
+Next, Kristin described the efforts to develop estimates of water use by nursery
+operations. A similar approach was used to that for animal operations, including
+academic advisors and commodity organizations. Kristin noted that a similar approach
+was taken to address water use by golf courses that have agricultural withdrawal permits.
+Kristin noted that how the data from these efforts would be incorporated into the planning
+process was another area of discussion for the committee and the ad hoc groups that
+worked on the additional estimates. She explained the estimates broke out into several
+categories:
+        1. Dr. Hook’s estimates: These estimates address water use by the major
+            agricultural water uses in the state, primarily crop agriculture. These estimates
+            are forecasted through 2050 and divided regionally in a manner that supports
+            their use in the resource assessment models, and these estimates will be
+            included in the resource assessment models.
+        2. Animal operations water use estimates: These estimates are a “snapshot” of
+            current use by these types of operations. They are divided by county. They
+            do not include forecasts, and they are not dividable along the geographic
+            regions used in the resource assessment models. Therefore, these estimates
+            are not to be used in the resource assessment models, but provided instead to
+            support the council’s understanding of water use by these types of operations
+            in the region.
+        3. Nursery water use estimates: These estimates will be forecasted through 2050,
+            but they are not geographically dividable along the geographic regions used in
+            the resource assessment models. However, industry representatives noted that
+            only a handful of nursery operations (about 20% of them) account for about
+            80% of the water use by this sector in the state. Therefore, it was decided that
+            the estimates for the individual permitted operations (which can be
+            geographically assigned as needed for the resource assessment model) will be
+            included in the resource assessment models.
+        4. Golf courses with agricultural permits: These will be handled like the
+            estimates for animal operations.
+Next, committee member John Heath made the following motion:
+        The Agriculture Water Demand Committee would like to propose a
+        motion that the Council acknowledge the water use data compiled and
+        presented by Mark Masters of the Flint Water Policy Center titled, "Water
+        for Georgia's Livestock & Nurseries" (hand-out revised version to
+        Council). This data was reviewed, accepted, and/or submitted by the
+ MEETING SUMMARY                                                                       Page 4
+Lower Flint Water Planning Council                                      B&V Project 164139
+Council Meeting 5                                                            March 25, 2010
+Meeting Date: March 22, 2010
+         affected commodity groups. This data will be incorporated into the
+         resource assessment modeling as practical (i.e., for large permitted nursery
+         operations), and otherwise is available to the council as information that
+         will inform the development of our regional water plan.
+Steve Singletary seconded this motion, which was subsequently approved unanimously by
+the Council (21-0).
+Agricultural Meter Data: Committee Report
+Committee chair Jimmy Webb reported that the committee had recently received an
+analysis based on data from the GA Soil and Water Conservation Commission that would
+aid in the committee’s efforts to evaluate the comparison of the Hook agricultural water
+use forecasts with the meter data. Jimmy noted his concern over the delay in getting the
+analysis completed, and thanked Tim Cash of GA EPD for his assistance in facilitating
+the completion of the analysis.
+Jimmy said that when the committee did get the final results to compare, they agreed that
+the Hook estimates were fairly closely validated by the meter data. He noted that in the
+future it would be helpful to tie meter readings with crop information.
+Ben Mosely with Georgia Soil and Water Conservation Commission commented that the
+meter data is only available to the individual water users. Due to confidentiality
+concerns, meter readings cannot be distributed publicly. He said the agency does make an
+effort to compare crop residue noted by the meter readers with aerial photography
+performed by USGS.
+Jimmy Webb said that the committee still has some reservations about the metering
+program, and they would meet after this meeting to continue their work to make
+recommendations for the metering program to be considered by the council for the
+regional plan. Steve Bailey thanked those involved for working to complete the analysis,
+to get the information needed, and that it would be helpful for meters to be read on a
+monthly basis in the future. Council Vice-Chair Hal Haddock said he appreciated the
+work the committee has done, and thinks that 2008/2009 data would be helpful in
+continuing to compare against estimated water use.
+Resource Assessment Overview
+Kristin reviewed the overall planning process as the context for the discussion of the
+resource assessments, and she reviewed the calendar for the planning process. Kristin
+said that synopses for the draft resource assessments for current conditions were due to be
+released very soon. [Post Meeting Note: They were released on March 23, 2010 and are
+available online at the state water planning website: http://gawaterplanning.org]
+ MEETING SUMMARY                                                                    Page 5
+Lower Flint Water Planning Council                                   B&V Project 164139
+Council Meeting 5                                                         March 25, 2010
+Meeting Date: March 22, 2010
+Kristin said once the synopses were available, a public comment period on the draft assessments
+would begin. She said that based on input from council members, comments received, and the
+scientific and technical advisory committee, EPD would refine the draft assessments as needed.
+She noted that the councils would be using the draft resource assessments to begin the initial
+selection of management practices.
+Next, Kristin reviewed the approach for today’s meeting:
+    • Review resource assessments
+    • Discus results, gaps, information needs
+    • Prepare for future assessments
+    • Plan for committee work
+    • Discuss management practices
+    • Review forecasts
+Then she presented what would happen in the coming months before the next council
+meeting:
+    • Follow-up on questions and comments on resource assessments
+    • Committee work:
+            – Decide on future assessment inputs
+            – Select management practices to evaluate
+            – Review draft plan
+    • Next Council Meeting (June): Future assessments, management practice
+        refinement
+She asked that the council members consider the following as they listened to the draft
+resource assessment results today:
+    • What information do we need to complete our review and understanding of the
+        current resource assessments?
+    • What do the results of the current resource assessments mean for our region?
+    • How will we organize our efforts to select inputs and management practices for
+        the assessment of future conditions?
+Jimmy Webb commented that he attended the joint meeting in Americus and advised that
+MCH council member attendees expressed concern that the Chattahoochee River is being
+used to make up for shortfalls on the Flint River. There is a minimal gap at Montezuma,
+but a more sizable gap at Bainbridge.
+ MEETING SUMMARY                                                                     Page 6
+Lower Flint Water Planning Council                                     B&V Project 164139
+Council Meeting 5                                                           March 25, 2010
+Meeting Date: March 22, 2010
+               Regional Water Planning: Information Flow and
+                                          Products
+                           CM1                            CM2
+                Trends, Forces,                      Visioning
+                        Factors                    Assignment
+                           CM3
+                          Vision
+                       Synthesis
+                                                  REGIONAL WATER PLANNING COUNCIL
+                     PRODUCTS                            ACTIVITIES SCHEDULED
+     Regional vision and goals                     April 2009 – September 2009
+     Assessment of baseline resource               November 2009 – March 2010
+     capacity
+    Forecasts of demand                            February 2009 – March 2010
+     Gap analysis                                  January 2010 – October 2010
+     (i.e. comparison of resources and demands
+     to identify gaps)
+     Water management practices to                 January 2010 – January 2011
+     adjust demand and resource capacity
+     Recommended regional water                     January 2011 – June 2011
+     plan
+ MEETING SUMMARY                                                                        Page 7
+Lower Flint Water Planning Council                                      B&V Project 164139
+Council Meeting 5                                                            March 25, 2010
+Meeting Date: March 22, 2010
+Groundwater Resource Assessment Presentation
+The groundwater resource assessment was conducted under the leadership of Dr. Jim
+Kennedy, state geologist. It was presented at this meeting by Nils Thompson, a
+hydrogeologist with Leggette, Brashears, & Graham, part of the Black and Veatch team
+for this project. Nils advised that this presentation was a shortened and more council
+specific version of what was recently presented by Dr. Kennedy during the joint
+meetings. He explained that he would provide an overview of groundwater sustainable
+yield modeling results, review the process for modeling sustainable yields, and present
+sustainable yield results for aquifers in the council area.
+Nils reviewed the groundwater characteristics for the region. Next, he explained that
+sustainable yield was the amount of groundwater that could be withdrawn without
+causing unwanted results. He noted that sustainable yield metrics were different for
+different aquifers and that different sustainable yield metrics would result in different
+sustainable yields.
+Nils said that north of the fall line, water budget calculations were completed for an
+example basin within the crystalline rock aquifer of the Piedmont, while south of the fall
+line EPD used various numerical groundwater flow models for some portions of the
+Coastal Plain aquifers.
+Nils explained that the regional Coastal Plain model used MODFLOW and that the
+Claiborne & Upper Floridan aquifers were modeled by zooming into portions of the
+regional Coastal Plain model originally built by the USGS. Other assumptions included:
+    • Models were run to represent monthly average withdrawals during a dry year.
+         Sustainable yield is for the entire extent of the modeled aquifer.
+    • The baselines for sustainable yield modeling were estimated or are actual current
+         withdrawals (not permitted capacities). Municipal & industrial withdrawals were
+         obtained from data reported to EPD by permittees.
+    • Un-permitted domestic & commercial withdrawals (estimated by USGS to have
+         been about 12% of total state-wide groundwater use during 2005) were taken
+         from USGS data.
+    • Agricultural withdrawals were estimated using a combination of USGS & EPD
+         data, and the 2004 Agricultural Water Pumping Study.
+    • The model runs increased withdrawals from existing wells & hypothetical new
+         wells in individual prioritized aquifers (one at a time).
+EPD established the following metrics for model simulations used to determine
+sustainable yields:
+    1. Drawdowns of groundwater levels in the pumped aquifer do not exceed 30 ft.
+         between pumping wells.
+ MEETING SUMMARY                                                                        Page 8
+Lower Flint Water Planning Council                                     B&V Project 164139
+Council Meeting 5                                                            March 25, 2010
+Meeting Date: March 22, 2010
+    2. Recharge from surface water sources constrained to 40% of baseflow to maintain
+        opportunities for surface water use.
+    3. Reduction in aquifer storage does not go beyond a new base level.
+    4. Groundwater levels are not lowered below the top of a confined aquifer.
+    5. The ability of the aquifer to recover to baseline groundwater levels between
+        periods of higher pumping during droughts is not exceeded.
+Nils showed maps of the simulated drawdown in different aquifers due to increased
+withdrawals.
+Nils explained that sustainable yields in portions of the Coastal Plain are plentiful, but not
+necessarily where current withdrawals are located. For projected areas that may need to
+rely on sustainable groundwater yields, a detailed well-field analysis is required.
+A council member asked who had conducted the 2004 agricultural water pumping study,
+and the response was that it was completed by Dr. Jim Hook at UGA. Another council
+member said that 30 feet of drawdown would be unusual in the Floridan, even in a
+drought. Nils explained that this is just one of the metrics used in the groundwater
+model, and it is possible that another metric was limiting in the assessment model run.
+Another council member noted that in the 1954 drought, streams ceased to flow and there
+was no ground water pumping for irrigation at that time. Nils said that the models used
+the best information we have.
+Surface Water Availability Resource Assessment Presentation
+Kristin Rowles presented this resource assessment of work led by Dr. Wei Zeng of GA
+EPD. She explained that the state had divided the state into six study basins:
+            – ACF: Apalachicola-Chattahoochee Flint
+            – ACT: Alabama-Coosa-Tallapoosa
+            – OOA: Oconee-Ocmulgee-Altamaha
+            – OSSS: Ochlocknee-Suwannee-Satilla-St. Mary’s
+            – SO: Savannah-Ogeechee
+            – TN: Tennessee
+Kristin included in her presentation results from the Flint, Chattahoochee, and
+Ochlockonee Basins. She said that results from other basins would be available in the
+draft resource assessment synopses, which will soon be available on the state water
+planning website.
+She said that the surface water availability assessments were done to figure how much
+water we have relative to how much water we need – for both off-stream (consumptive
+uses) and in-stream (flow regime) needs. She emphasized the models were for broad
+scale regional planning, not for individual permitting decisions.
+ MEETING SUMMARY                                                                       Page 9
+Lower Flint Water Planning Council                                      B&V Project 164139
+Council Meeting 5                                                            March 25, 2010
+Meeting Date: March 22, 2010
+Kristin said that the models use available existing data and build upon existing studies.
+The models allow us to evaluate current and future conditions and scenarios. At this
+time, we are reviewing the assessment of current conditions, and we will begin looking at
+future scenarios later today. The inputs to the models include: unimpaired flow data
+representing conditions over 70 years; current water use data (withdrawals, discharges,
+consumptive use); and flow regime parameters based on:
+    • US Army Corps of Engineers Modified Interim Operation Plan (for
+         Chattahoochee)
+    • State Interim In-stream Flow Protection Policy (protects monthly 7Q10 or natural
+         inflow, whichever is lower)
+Kristin said that the 7Q10 is the seven day low stream flow that statistically would be
+expected to occur once every ten years.
+She then described how the desired flow regime was determined and gaps were assessed
+for non-regulated streams (i.e., no reservoirs):
+         Step 1 – Determine monthly 7Q10 for each of the unregulated Planning Nodes
+         Step 2 – Determine unimpaired or “natural” flow for a node by removing man-
+                 made effects on flow observed at that node for the 70 year period
+         Step 3 – Develop Flow Regime by taking the less of the two
+         Step 4 – Identify gaps between availability and demand by comparing the Flow
+                 Regime to modeled stream flow assuming all water demands are being
+                 met.
+The results are expressed as a function of whether the desired flow regime is met when
+all off-stream water demands are being met. A summary of results at different nodes are
+shown below in a table.
+For regulated systems like the Chattahoochee, the assessment models have some
+additional inputs, and the results are expressed a bit differently. These models consider:
+    •    Are off-stream consumptive use demands met?
+    •    Are at-site release requirements met?
+    •    Are downstream federal flow targets met?
+    •    When all the above are accomplished, is residual storage in conservation pool?
+         (Results are expressed in terms of the residual storage in the conservation pool.)
+ MEETING SUMMARY                                                                    Page 10
+Lower Flint Water Planning Council                                    B&V Project 164139
+Council Meeting 5                                                          March 25, 2010
+Meeting Date: March 22, 2010
+        Summary of Surface Water Availability Resource Assessment Results
+              (See PowerPoint presentation for the associated graphs)
+                              Unregulated River Systems
+ Length of Average Shortfall Long-term Average Maximum Shortfall Corresponding
+Shortfall (%        (cfs)            Flow (cfs)                 (cfs)        Flow Regime (cfs)
+  of time)
+                               Montezuma in the Flint Basin
+     2%       <1 (0.6 MGD)       3,392 (2192 MGD)          1 (0.6 MGD)        593 (383 MGD)
+                                Bainbridge in the Flint Basin
+    12%      314 (203 MGD)       7,920 (5120 MGD)        1202 (777 MGD) 2506 (1620 MGD)
+                                    Quincy in Little River
+     5%         5 (3 MGD)          264 (171 MGD)           28 (18 MGD)         72 (47 MGD)
+                               Concord in Ochlockonee River
+     9%       15 (10 MGD)        1,108 (716 MGD)          113 (73 MGD)        206 (133 MGD)
+                                Regulated River Systems
+  Demand       At-site Flow     Minimum Reservoir            Minimum          Basin-wide Flow
+ Shortage      Requirement       Storage (acre-feet)        Percentage          Requirement
+    (cfs)     Shortage (cfs)                             Reservoir Storage        Shortage
+                          Whitesburg in the Chattahoochee Basin
+      0               0           539,600 at Lanier       48% at Lanier            None
+                          Columbus in the Chattahoochee Basin
+      0               0         14,226 at West Point 5% at West Point              None
+                          Columbia in the Chattahoochee Basin
+      0               0            11,872 at W.F.       5% at W.F. George          None
+                                       George
+                       Chattahoochee Gage in the Apalachicola Basin
+      0               0                565,698                  34%                None
+                                At Lanier, West Point At Lanier, West
+                                   & W.F. George           Point & W.F.
+                                                              George
+Kristin summarized the results by saying that there are no apparent gaps in the
+Chattahoochee, which can be operated through the release of storage water to achieve
+ MEETING SUMMARY                                                                     Page 11
+Lower Flint Water Planning Council                                    B&V Project 164139
+Council Meeting 5                                                            March 25, 2010
+Meeting Date: March 22, 2010
+flow targets. In the Flint, there are gaps at both Montezuma and Bainbridge, with the
+shortfall at Bainbridge being much larger. In the Ochlockonee, there is a shortfall
+relative to current demand at Quincy and Concord.
+Discussion:
+Q. Do we only have two nodes on the Flint River?
+A. Yes.
+Q. Would it be better if we had more?
+A. It would provide more detailed information, but the analysis would yield the same
+answers and budget constraints limit the number of nodes.
+Q. Could an alternative to 7Q10 be used as a metric in this assessment? Are there
+alternatives?
+A. Additional information about different statistical measures could be provided. Tim
+Cash (GA EPD) commented that 7Q10 is an industry and scientific definition for low-
+flow conditions, and it is a benchmark that EPD uses to evaluate low flow for various
+purposes. An alternative could be considered, but it would be important to consider what
+the objective is. He noted that it would be unusual not to use the 7Q10 metric.
+Jimmy Webb commented that the results show that the flow regime at Bainbridge is met
+88% of the time.
+The council members would like for the Ad Hoc Technical Committee to consider
+precedence of appropriate alternatives to the 7Q10 metric for this region’s assessment.
+Water Quality Resource Assessment Presentation
+Steve Simpson presented this assessment from the modeling work led by Dr. Liz Booth
+of GA EPD. Steve explained that surface water quality modeling is about determining
+the assimilative capacity of waterbodies modeled. Steve explained that water quality
+models were developed to show us the current status of the available assimilative
+capacity based on current discharges. Violations of the water quality standards indicate
+there are unacceptable impacts that need to be addressed.
+Steve included in his presentation results from the following basins: Flint,
+Chattahoochee, Ochlockonee, and Suwannee.
+Steve presented a map which shows the surface water quality models that are being
+developed to look at dissolved oxygen in the region’s basins. These models were
+developed for those waterbodies that currently have wastewater treatment plant
+discharges on them. Determining assimilative capacity is dependent on different
+parameters and requires information on the streamflow, in-stream water quality,
+ MEETING SUMMARY                                                                     Page 12
+Lower Flint Water Planning Council                                    B&V Project 164139
+Council Meeting 5                                                          March 25, 2010
+Meeting Date: March 22, 2010
+wastewater discharges, water withdrawals, existence of land application systems, weather
+information, land use, stream hydrology, topography, and the state’s water quality
+standards.
+Next, he explained some key aspects of the methodology used to develop the water
+quality models. These included:
+    •   Two sets of models are planned. The first set evaluates dissolved oxygen due to
+        discharges under critical conditions; this modeling is mostly completed. The
+        second set evaluates the impacts of point and non point sources from nutrient
+        loadings, primarily nitrogen and phosphorus.
+    •   The dissolved oxygen models were run with existing discharges and critical, low
+        flow, high temperature conditions.
+    •   The watershed and lake models will account for nutrient sources from both
+        wastewater discharges and nonpoint source stormwater runoff based on various
+        land uses.
+    •   Unacceptable impacts for the water quality assessment are identified if in-stream
+        water quality does not meet state standards.
+    •   The assimilative capacity assessment is not the same as the 303(d) list of impaired
+        waters or total maximum daily loads because this assessment is only looking at
+        dissolved oxygen and nutrients; the 303(d) list assesses other parameters such as
+        solids, bacteria, metals, etc.
+Steve noted that these models were checked to ensure that they represent real world
+conditions both through discussions with experts on the Scientific and Technical
+Advisory Panel and through model calibration with comparisons of model results to real
+world streamflow and in-stream dissolved oxygen levels.
+Steve showed a color scale that was used to show dissolved oxygen that is available
+above the water quality standard in the streams that were modeled:
+ MEETING SUMMARY                                                                        Page 13
+Lower Flint Water Planning Council                                          B&V Project 164139
+Council Meeting 5                                                              March 25, 2010
+Meeting Date: March 22, 2010
+               Dissolved Oxygen Results
+                           < 0.0 mg/L DO available for assimilative capacity
+  Available                None or exceeded capacity
+    DO in
+  Naturally                > 0.0 mg/L to < 0.2 mg/L of DO available
+  Low DO                   Limited
+  Streams
+                           > 0.2 mg/L to < 0.5 mg/L of DO Available
+                           Moderate
+                           > 0.5 mg/L to 1.0 mg/L of DO Available
+                           Good
+                          > 1.0 mg/L of DO available
+                          Very Good
+                                                                        9
+Stream segments that have no available assimilative capacity under critical low flow
+(7Q10), high temperature conditions are red. Those with DO levels in excess of state
+water quality standards are blue. Naturally low DO waters that have a natural DO below
+5.0 mg/L in the summer time will typically be in the yellow to red range.
+Steve then showed a series of images of the modeling results for the streams in the Upper
+Flint region for which results are currently available. The Flint Basin results are included
+below. Steve noted that as you move south toward Albany, the results show more in the
+moderate range than upstream. Steve noted that as you look at these maps, you can
+observe where there is greater potential to expand point sources discharges (i.e., in the
+blue and green areas).
+ MEETING SUMMARY                                                                      Page 14
+Lower Flint Water Planning Council                                      B&V Project 164139
+Council Meeting 5                                                             March 25, 2010
+Meeting Date: March 22, 2010
+Steve said that in the Flint Basin, nutrient water quality modeling work remains to be
+done. Steve said that this is not the only council that is currently lacking some water
+quality assessment results.
+Steve said that the Council will need to continue to watch the development of nutrient
+standard in Florida, by the US EPA, and that the outcome of this process could affect the
+Flint Basin. The US EPA is developing nutrient standards for free flowing streams and
+lakes in Florida as a result of a federal lawsuit under the Clean Water Act. If
+promulgated as proposed, these criteria will require increased control of nutrients in
+Georgia waters.
+Steve noted that where water quality in the region is good, the Council has the option to
+protect waters as Significant Natural Resource Waters. This designation can be used to
+increase the level of protection for a waterbody.
+Questions:
+Q. Huddy Hudgens asked if mercury was included in this assessment?
+ MEETING SUMMARY                                                                      Page 15
+Lower Flint Water Planning Council                                      B&V Project 164139
+Council Meeting 5                                                            March 25, 2010
+Meeting Date: March 22, 2010
+A. Steve said no; mercury is one of the parameters that may result in listing a stream
+reach as impaired. Huddy said he would like to see current mercury load and commented
+that if the fish are not edible, we can forget about anything else.
+Q. Mike Newberry commented about Mill Creek and its impoundments and asked if this
+was the cause of limited available assimilative capacity.
+A. Steve said he does not know the details of these lakes, but commented that in general
+shallow lakes may pose DO challenges.
+Q. If an impoundment was proposed in the Ochlockonee, would it help the Flint River
+shortfall?
+A. Since these watersheds are not connected, it would not help in the Flint.
+Q. Howard Small asked if we going to look at heavy metals in these models?
+A. No. A TMDL for that parameter would have to be in place for heavy metals
+contamination to show up in the assessment results.
+Q. What is happening with the new Florida nutrient standards?
+A. Steve said that the USEPA was sued under the Clean Water Act over water quality
+standards for nutrients in Florida. USEPA recently published draft standards, and they
+are currently available for public comment. Steve noted that USEPA will either publish
+the criteria, tweak the criteria, or Florida might publish their own standards.
+Q. Do USFWS critical habitat designations have a water quality standards?
+A. We will have to investigate.
+Baseline and Future Resource Assessment Council Input
+Kristin presented this item. She said that the council will use preliminary baseline
+resource assessments to begin the initial selection of management practices. The input
+needs from the council for the future resource assessment model runs are outlined in the
+chart below. Kristin said that determining these inputs would be the work of committees,
+using the demand forecasts and a first cut selection of management practices. The first
+run of the future resource assessment models is to be discussed at the next council
+meeting.
+Resource                  Scale of             Required inputs (active Council
+                          Assessments          participation)
+ MEETING SUMMARY                                                                      Page 16
+Lower Flint Water Planning Council                                       B&V Project 164139
+Council Meeting 5                                                             March 25, 2010
+Meeting Date: March 22, 2010
+Surface water            Local Drainage      Withdrawals (mgd)
+availability             Area                Storage (mg)
+                                             Returns (%)
+                                             Interbasin transfers (mgd)
+Groundwater              Aquifer unit         Withdrawals (mgd)
+availability                                 Location
+Assimilative capacity Stream reach or        Surface water availability
+                         lake                assessment inputs
+                                             Discharge (mgd)
+                                             Location
+Kristin walked through an example of how a committee could approach the development
+of the future resource assessment inputs for the Bainbridge node. She demonstrated the
+assessment of future demand and the adjustment of demand with management practices.
+She noted the need to consider the recent water conservation legislation as the council
+developed a portfolio of management practices to be assessed.
+Next, Kristin talked about how the future assessments and management practice selection
+would be approached for water quality. She noted that the approach will be slightly
+different due to the scale of the assessment; it will focus on the level of sub-watersheds
+and stream reaches. At this level, the council will evaluate current and future concerns,
+assess the source of pollutants causing those concerns, and select management practices
+accordingly.
+She reviewed some management practices that might be used to address point sources
+(e.g., advanced wastewater treatment, reuse, watershed based permitting, water quality
+credit trading, implementation of existing TMDL plans) and nonpoint sources (e.g.,
+agricultural nutrient management plans, improved stormwater management, enforcement
+of sediment and erosion control laws, and implementation of existing TMDL plans).
+Next, Kristin said that the management practice selection process would be iterative, with
+repeated rounds of refinement and re-assessment. The first model run with future
+conditions would be considered at the next council meeting, and before then, the council
+would need to complete the work of providing GA EPD with inputs for the model run
+(noted above).
+Existing Gaps Discussion
+This discussion began before lunch and continued after lunch. A summary of the whole
+discussion is included here.
+ MEETING SUMMARY                                                                      Page 17
+Lower Flint Water Planning Council                                     B&V Project 164139
+Council Meeting 5                                                           March 25, 2010
+Meeting Date: March 22, 2010
+First, Kristin reviewed some of the questions from the Council regarding the resource
+assessments:
+    • Is it possible to bridge the gaps identified in the surface water availability
+        assessment?
+    • To what extent are flows targeted toward the needs of endangered species?
+    • Can we get data from the Wakulla Springs gage and should Georgia get credit for
+        water that is flowing to Florida via groundwater?
+    • Is there an alternative to the 7Q10 metric used in the surface water availability
+        resource assessment?
+    • For water quality, what portion of streams currently have available assimilative
+        capacity?
+    • Where are the water quality monitoring locations used in the assessment?
+    • Do critical habitat designations for federally listed endangered and threatened
+        species affect water quality regulation?
+    • How will the new Florida nutrient standards affect this region?
+    • When will the revised DO and fecal coliform standards be available for Georgia?
+    • How are Alabama and Florida uses (current and future) accounted for in the
+        model? And how can they be addressed in the plan?
+Council member Howard Small commented that agriculture is quite variable from year to
+year depending on factors such as crop prices and weather. He said he thought that this
+would affect the model results and forecasts significantly and made it especially difficult
+to consider 40 years in the future.
+Some council members questioned whether the surface water availability shortfalls could
+be directly tied to agricultural water withdrawals. One member noted that in 1954,
+streams went dry despite the lack of agricultural pumping. Tim Cash noted that the
+surface water models for this region show that groundwater withdrawals can affect
+surface water flows by making streams go dry sooner and keeping them dry longer. Some
+council members expressed a lack of confidence in models relative to actual historic
+conditions. One council member commented that the importance of agriculture should
+not be ignored, and it seemed like soon, farmers would be considered an endangered
+species.
+One council member commented that Florida is getting more water than it did before the
+Chattahoochee had reservoirs and that Georgia does not get credit for that.
+Another council member said that in Florida, farmers that use groundwater have to
+monitor groundwater levels and report usage on a monthly basis.
+With regard to management practices, several council members suggested considering
+augmentation of flows via groundwater, springs, and interbasin transfers.
+ MEETING SUMMARY                                                                       Page 18
+Lower Flint Water Planning Council                                     B&V Project 164139
+Council Meeting 5                                                           March 25, 2010
+Meeting Date: March 22, 2010
+Several council members expressed concern about who we were trying to address the gap
+for – ourselves, the state of Georgia, or neighboring states. One council member asked
+whether we had to fill the gap for Florida. Another asked how water use from shared
+watersheds in our neighboring states would be addressed in the plan.
+A council member asked about the interbasin transfer by the City of Griffin. Kristin
+explained that the city withdraws water from the Flint and discharges a portion of its
+treated wastewater in the Ocmulgee, due to the city’s location between the basins. She
+said, however, that the impact of this transfer would be captured at the Montezuma node.
+A council member commented that stopping the transfer, however, would increase flows
+further downstream.
+Next, Kristin asked the council about the shortfalls observed in the resource assessments.
+She asked how they thought the existing shortfalls should be addressed. She noted that
+this was a topic that was still open to discussion, and the Council and GAEPD would
+need to find agreement on what would be an acceptable level of “bridging” the gap.
+Several council members expressed frustration at the lack of a management target. They
+asked what would be considered acceptable. Some council members commented that the
+existing shortfalls could be considered acceptable. Another asked if a shortfall 12% of the
+time would be considered appropriate. Another commented that others, particularly in the
+Tri-State water litigation, might not agree with the Council’s assessment of what is
+appropriate.
+Kristin said that the resource assessment results are new information, even to GA EPD,
+and so we are all trying to define the next steps and what our management targets will be.
+She said that she shares the council’s concern about the lack of definition at this time, but
+she hopes that in the coming weeks, we will be able to further this discussion between
+council members and GA EPD.
+Jim Quinn asked if a reservoir could be built to address the gap. Kristin said that it is one
+management practice, among many others, that could be considered. Management
+practices will need to be evaluated based on criteria selected by the council, including
+cost, technological, environmental, and social criteria. Other members suggested crop
+based permit flows and controlling and metering flows as other practices. One council
+member asked if wells in Florida impact Georgia.
+Kristin asked the council to consider how it would structure its work on the future
+resource assessments. She noted that the Upper Flint had formed two committees: one for
+water quality and one for water quantity (surface and ground). The council members
+generally thought this to be a good approach. Kristin said that she had discussed the
+possibility of a Water Quantity Committee with Chairman Royal and member Jimmy
+ MEETING SUMMARY                                                                     Page 19
+Lower Flint Water Planning Council                                     B&V Project 164139
+Council Meeting 5                                                           March 25, 2010
+Meeting Date: March 22, 2010
+Webb. They proposed using the existing Agricultural Meter Data Committee as the
+Water Quantity Committee, with the addition of more members as needed. The following
+committees were appointed:
+Water Quantity: Jimmy Webb, Hal Haddock, Steve Bailey, Mike Newberry, John
+Bridges, T.E. Moye, Doyle Medders, Greg Murray, Chris Hobby, Jimmy Champion,
+Howard Small
+Water Quality: Jerry Lee, Chuck Lingle, Steve Sykes, Jim Quinn, Dean Burke
+Kristin said that there would be a need for a plan review committee after the next council
+meeting when parts of the regional plan will begin to be written.
+Kristin will be in touch with the committees to get them started in a week or two.
+Additional appointments might be made from members not present at today’s meeting.
+Lunchtime Presentation by Georgia Soil and Water Conservation Commission
+While the council had lunch, Ben Mosely of the Georgia Soil and Water Conservation
+Commission gave an informative presentation about the Commission’s activities.
+Water Development and Conservation Plan Table of Contents
+Kristin reviewed the draft table of contents for the regional plan. A copy is included in
+the pre-meeting packet. She noted sections where the council can make
+recommendations for changes in state policy and for the improvement of the information
+base for future water planning.
+Management Practices Survey and Decision Criteria
+Kristin reviewed the management practices survey results. There were fourteen
+respondents. She reviewed the results for each criterion. Overall, cost criteria were rated
+higher than the other criteria. Then she reviewed the result for the management practices.
+The category “Enhanced Pollution Management Practices” was rated highest by
+respondents. Kristin noted that the survey results could be used by the council as they
+developed weights for criteria to be used to evaluate portfolios of management practices.
+A council member asked to see the results of the survey from the Upper Flint and Middle
+Chattahoochee Councils, and Kristin said she would send links to these results.
+ MEETING SUMMARY                                                                      Page 20
+Lower Flint Water Planning Council                                      B&V Project 164139
+Council Meeting 5                                                            March 25, 2010
+Meeting Date: March 22, 2010
+Municipal and Industrial Water Use Forecast
+Robert Osborne reported that the GA Office of Planning and Budget (OPB) had recently
+released the revised statewide population projections. The Black and Veatch team has
+drafted forecasts of municipal water withdrawal need and water returns based on the
+population projections. Robert reviewed the county-by-county assumptions and forecasts
+for municipal and industrial water demand and wastewater generation. Robert reminded
+the Council that these forecasts were ongoing and that any new data could still be
+submitted. Energy water use was discussed as ongoing, and to date, for this sector, only
+existing and projected water use through 2017 has been compiled.
+ Local Elected Officials and Public Comments
+Oscar Jackson distributed a hand-out to the council. He commented that he is 83 years
+old and has worked on water issues in Georgia for many years. He said he does not think
+there is anything more important than this. He said he wants to ensure that Southwest
+Georgia gets its fair share of water. He has concerns about whether GA EPD’s basin
+maps include two creeks in the right basin in Decatur County. He commented that there
+was inadequate hydrologic data and that there needs to be a water balance for Lake
+Seminole.
+Wrap-Up and What to Expect Next Meeting
+Kristin told the council that the focus of the next meeting will be the future resource
+assessments and the selection of management practices. The Council selected June 15 in
+Colquitt as the date and place for the next council meeting. The meeting was adjourned.
+ MEETING SUMMARY                                                       Page 21
+Lower Flint Water Planning Council                         B&V Project 164139
+Council Meeting 5                                             March 25, 2010
+Meeting Date: March 22, 2010
+Attachment 1:
+Middle Chattahoochee Water Planning Council
+Council Meeting Attendance – March 22, 2010
+Council Members
+Hal Haddock                               Rick Moss
+Steve Bailey                              T.E. Moye
+John Bridges                              Greg Murray
+Dean Burke                                Mike Newberry
+Jimmy Champion                            Jim Quinn
+Jerry Chapman                             Steve Singletary
+Terry Clark                               Howard Small
+John Heath                                Steve Sykes
+Chris Hobby                               Jimmy Webb
+Huddy Hudgens                             Bill Yearta
+Chuck Lingle
+Council Members Not In Attendance
+Richard Royal                             George McIntosh
+John Bulloch                              Doyle Medders
+Bob Hanner                                Will Vereen
+Josh Herring
+Gary Leddon
+Jerry Lee
+Planning Consultants
+Robert Osborne, B&V                       Steve Simpson, B&V
+Kristin Rowles, GWPPC                     Nils Thompson, LBG
+Georgia EPD
+Tim Cash, Assistant Branch Chief
+Bill Morris
+Cliff Lewis
+Tommy Rumph
+Georgia State Agencies
+Ben Mosely, Georgia Soil and Water
+Conservation Service
+Ad Hoc Technical Committee
+Doug Wilson
+Mark Masters
+Woody Hicks
+ 

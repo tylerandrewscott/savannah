@@ -1,0 +1,636 @@
+
+
+B&V Project 164139 B&V File C-1.4  
+
+March 15, 2010  
+  
+ To:    Middle Chattahoochee Water Planning Council 
+ From:    Jim Hawkins, Black & Veatch and Steve Simpson, Black & Veatch 
+ cc:     Tim Cash, Assistant Branch Chief, GA EPD 
+ Subject:   Meeting Summary: Council Meeting 5 on March 10, 2010 
+  
+The council meeting was held on March 10, 2010, at LaGrange College. The list of attendees is attached.  In addition to these minutes, all the presentations (slides) discussed 
+in this meeting will be posted on the Middle Chattahoochee web portal (http://www.middlechattahoochee.org/). 
+ Welcome and Introductions
+
+  
+
+Council Chair Matt Windom stated that a quorum was not currently present, but was expected later during the meeting.  Matt welcomed attendees and thanked everyone for 
+attending.  Jimmy Knight provided the invocation.  Matt thanked Council Member Jeff Lukken for his help in securing the meeting location.  Next, Matt allowed members of the 
+public to introduce themselves.  The public sign-in sheet is included as an attachment.  
+Matt reviewed the 2010 planning schedule and reviewed the meeting's objectives which included: 
+  1)  Explore resource assessment results 
+
+2)  Discuss existing gaps 3)  Discuss WDCP outline and potential management practices 
+4)  Review water use forecasts status and updates  
+Matt reviewed the items on the agenda.  He advised that approval of CM4 meeting summary and the Chair/Vice Chair elections would be deferred until later in the agenda 
+when a quorum was present.  Matt introduced the resource assessments.   
+Groundwater Resource Assessment Presentation  
+Nils Thompson, LBG hydrogeologist on the B&V team, presented the groundwater resource assessment that GA EPD prepared.  Nils advised this presentation was a 
+shortened and more council specific version of what was recently presented by Dr.  
+
+MEETING SUMMARY  Page 2  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+ Kennedy during the joint meetings.  He explained that he would provide an overview of 
+
+groundwater sustainable yield modeling results, review the process for modeling sustainable yields, and present sustainable yield results for aquifers in the council area. 
+ Nils reviewed the groundwater characteristics for the Middle Chattahoochee region, 
+which includes the following counties north of the fall line (running from Columbus to Macon to Augusta): 
+ 
+
+\Gamma   Crystalline Rock Aquifer - Haralson, Carroll, Heard, Troup, and Harris counties  
+
+The Middle Chattahoochee region counties south of the Fall Line include:  
+
+\Gamma   Cretaceous Aquifer System - Muscogee, Chattahoochee, Stewart, and Quitman counties, 
+\Gamma   Claiborne, Clayton & Providence aquifers - Randolph and Clay counties.  
+Nils explained that sustainable yield was the amount of groundwater that could be withdrawn without causing unwanted results. He noted that sustainable yield metrics 
+were different for different aquifers and that different sustainable yield metrics would result in different sustainable yields. 
+
+ Crystalline Rock Aquifer 
+He noted that while more groundwater is available from the crystalline rock aquifer than is currently being withdrawn, it would be hard to find sufficient water-bearing fractures 
+in the crystalline rock aquifer to develop the full range of sustainable yield.  The crystalline rock aquifer, typically, may produce maximum sustainable yields on the order 
+of 10s to a few 100s gallons per minute.  There are exceptions with higher sustainable yields.  EPD conducted water budget calculations to model sustainable yield in the 
+Piedmont basin.  
+Nils explained several assumptions incorporated into the model, including: 
+
+\Gamma   The baselines for sustainable yield modeling were estimated or are actual current withdrawals (not permitted capacities) 
+
+\Gamma   Municipal & industrial withdrawals from the crystalline rock aquifer in the Piedmont basin were obtained from data reported to EPD by permittees 
+\Gamma   Un-permitted domestic & commercial withdrawals in the Piedmont basin (estimated by USGS to have been about 12% of total state-wide groundwater 
+
+use during 2005) were taken from county records 
+\Gamma   Agricultural withdrawals in the Piedmont basin were estimated from permitted capacities 
+
+ He explained that since September is usually the month of lowest streamflow in Georgia, 
+constraining groundwater recharge from surface water sources to mean September  
+
+MEETING SUMMARY  Page 3  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+ streamflow minus a percentage of the mean annual streamflow would maintain 
+
+opportunities for surface water use during a month of low streamflow. Other eastern U.S. states with hydrogeology similar to the Georgia Piedmont have used 20% of the top-end 
+streamflow metric as a sustainable yield.  
+The quality control checks for these models included: 
+
+\Gamma   Internal on-board review during development of water budgets 
+\Gamma   Internal EPD review of water balance results 
+\Gamma   Discussions with the Scientific & Engineering Advisory Panel (SEAP)  
+
+Coastal Plain Nils said that north of the fall line, water budget calculations were completed for an 
+example basin within the crystalline rock aquifer of the Piedmont, while south of the fall line EPD used various numerical groundwater flow models for some portions of the 
+Coastal Plain aquifers.  
+Nils explained that the regional Coastal Plain model used MODFLOW and that the Claiborne & Upper Floridan aquifers were modeled by zooming into portions of the 
+regional Coastal Plain model originally built by the USGS.  
+Other assumptions included: 
+
+\Gamma   Models were run to represent growing season withdrawals during a dry year. Sustainable yield is for the entire extent of the modeled aquifer. 
+
+\Gamma   The baselines for sustainable yield modeling were estimated or are actual current withdrawals (not permitted capacities).  Municipal & industrial withdrawals were 
+
+obtained from data reported to EPD by permittees. 
+\Gamma   Un-permitted domestic & commercial withdrawals (estimated by USGS to have been about 12% of total state-wide groundwater use during 2005) were taken 
+
+from USGS data. 
+\Gamma   Agricultural withdrawals were estimated using a combination of USGS & EPD data, & the 2004 Agricultural Water Pumping Study. 
+
+\Gamma   The model runs increased withdrawals from existing wells & hypothetical new wells in individual prioritized aquifers (one at a time). 
+ EPD established the following metrics for model simulations used to determine 
+sustainable yields: 1.  Drawdowns of groundwater levels in the pumped aquifer do not exceed 30 ft. 
+
+between pumping wells. 2.  Recharge from surface water sources constrained to 40% of baseflow to maintain 
+opportunities for surface water use. 3.  Reduction in aquifer storage does not go beyond a new base level. 
+4.  Groundwater levels are not lowered below the top of a confined aquifer.  
+
+MEETING SUMMARY  Page 4  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+  5.  The ability of the aquifer to recover to baseline groundwater levels between 
+
+periods of higher pumping during droughts is not exceeded.  
+Nils explained that sustainable yields in portions of the Coastal Plain are plentiful, but not necessarily where current withdrawals are located.  For projected areas that may need to 
+rely on sustainable groundwater yields, a detailed well-field analysis is required.  
+Discussion Q. Council Chair Matt Windom asked what the numbers meant for the three scenarios for 
+calculating sustainable yields in the crystalline rock aquifer of the Piedmont. A. Nils will contact Dr. Kennedy to confirm the reason for the range of estimated 
+sustainable yields as related to streamflow in the Piedmont.  
+Q. How was the example Piedmont basin selected? A. Based on the availability of data for that area. 
+
+ Q. Jim Hawkins asked if there were any other states doing similar modeling (i.e., water 
+budget calculations using sustainable yields as a percentage of streamflow metrics). A. Nils said that New Jersey was probably the closest state with Piedmont-type geology 
+and hydrogeology that had successfully calculated sustainable yields using the 20% method. 
+
+ Q. Council Chair noted that for the crystalline rock aquifer it was nice to see we have 
+yield.  He wondered if they could find the water. A. A council member noted that they have had some success finding water, but have had 
+a lot of failures.  Nils noted that groundwater from the crystalline rock aquifer can have quality issues, but could be a supplement to surface water supplies. 
+
+ Q. A council member asked what kind of quality issues you can have in the crystalline 
+rock aquifer. A. Nils noted there could be higher levels of arsenic, radium, uranium, etc. 
+
+ Later in the meeting, Nils reported additional information from discussions with Dr. 
+Kennedy:  
+
+\Gamma   Because water-bearing fracture zones with sustainable yields are difficult to find in the crystalline rock aquifer and because sustainable yields in the crystalline 
+
+rock aquifer are related to streamflows, it is considered more conservative to use 20% of the top-end streamflow metric as a sustainable yield quantity in the 
+Piedmont basin. 
+\Gamma   Numeric groundwater models were run using dry annual average withdrawals. 
+\Gamma   Regarding the question of the use of permitted groundwater withdrawals, EPD has no plans on running the numeric groundwater models using permitted withdrawal  
+
+MEETING SUMMARY  Page 5  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+  levels; however, the permitted withdrawals are being tabulated.  Dr. Kennedy 
+
+believes that it is best to model sustainable yields based on not exceeding any of the metrics and then compare those results to what is permitted.  The permitted 
+withdrawals will either be below, at, or exceed the sustainable yields based on meeting the metrics. 
+ Water Quality Resource Assessment 
+
+ Steve Simpson presented this assessment resulting from modeling work led by Dr. Liz 
+Booth of EPD.  Steve explained that surface water quality modeling is about determining the assimilative capacity of the waterbodies modeled. 
+ Steve explained that water quality models were developed to show us the current status of 
+the available assimilative capacity based on current discharges.  Violations of the water quality standards indicate there are unacceptable impacts that need to be addressed.  
+ Steve presented a map which shows the surface water quality models that are being 
+developed to look at dissolved oxygen on the Chattahoochee.  These models were developed for those waterbodies that currently have wastewater treatment plant 
+discharges on them.  Determining assimilative capacity is dependent on different parameters and requires information on the streamflow, instream water quality, 
+wastewater discharges, water withdrawals, existence of Land Application Systems, weather information, landuse, stream hydrology, topography, and the State's Water 
+Quality Standards.  
+Next, he explained some key aspects of the methodology used to develop the water quality models.  These included: 
+ 
+
+\Gamma   Various models were used that account for dissolved oxygen and nutrients sources.  
+
+\Gamma   Two sets of models are planned.  The first set evaluates dissolved oxygen due to discharges under critical conditions; this modeling is mostly completed.  The 
+
+second set evaluates the impacts of point and non point sources from nutrient loadings, primarily nitrogen and phosphorus.   
+\Gamma   The dissolved oxygen models were run with existing discharges and critical, low flow, high temperature conditions.   
+\Gamma   The watershed and lake models will account for nutrient sources from both wastewater discharges and nonpoint source stormwater runoff based on various 
+
+land uses. 
+\Gamma   Unacceptable impacts for the water quality assessment are identified if instream water quality does not meet state standards. 
+
+\Gamma   The assimilative capacity assessment is not the same as the 303(d) list of impaired waters or total maximum daily loads because this assessment is only looking at  
+
+MEETING SUMMARY  Page 6  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+  dissolved oxygen and nutrients; the 303(d) list assesses other parameters such as 
+
+solids, bacteria, metals, etc.  
+Steve noted that these models were checked to ensure they represent real world conditions both through discussions with experts on the Scientific and Engineering 
+Advisory Panel and through model calibration.  He also noted the dissolved oxygen models were calibrated or compared to real world streamflow, instream dissolved oxygen 
+levels, and chemical sampling data to ensure the models provide accurate results.    
+Steve explained the state cold water fishing standard that applies to Georgia's streams that have been designated as either primary or secondary trout stream is a daily average 
+of 6.0 mg/L, not less than 5.0 mg/L.  These waters can be found in the Chattahoochee River Basin in north Georgia. The freshwater fishing standard for dissolved oxygen is a 
+daily average of 5.0 mg/L, not less than 4.0 mg/L.  This standard applies in all areas of the state that support warm water fish species. However, it is recognized that below the 
+fall line in the Coastal Plain, there can be streams with naturally low dissolved oxygen levels in the summertime.  For these waters, GA EPD has allowed a 10% DO deficit 
+down to 3.0 mg/L and below 3.0 mg/L a 0.1 mg/L DO deficit. As part of the State Water Plan, EPD is developing revised naturally low DO standards in 2010.  
+ Steve showed a color scale that was used to show dissolved oxygen that is available 
+above the water quality standard in the streams that were modeled.  Stream segments that have no available assimilative capacity under critical low flow (7Q10), high temperature 
+conditions are red.  Stream segments with limited assimilative capacity are orange, streams with moderate assimilative capacity are yellow, those that have good DO levels 
+are green and those with very good DO levels are blue.  Naturally low DO waters that have a natural DO below 5.0 mg/L in the summer time will typically be in the yellow to 
+red range.  
+Steve then showed a series of images of the modeling results for the streams in the Chattahoochee River Basin that currently we have modeling results for.  Steve noted that 
+some segments may not have additional capacity for reasons other than wastewater discharges.  One example is the river just downstream of Lake Lanier, where the water 
+discharged from the lake has low dissolved oxygen levels.  Other examples are where the river flow velocities slow down approaching reservoir impoundments, reducing 
+reaeration.  Steve noted that the modeled streams in the Lower Chattahoochee River Basin appear to have sufficient assimilative capacity in these streams to allow for 
+additional loads to these streams.   
+EPD is currently working on the chlorophyll a TMDL for Lake Lanier, and is doing an Upper Chattahoochee Watershed Model and Lake Lanier model for nutrients to support 
+this effort.  It is anticipated that the TMDL will be draft in late 2010.     
+
+MEETING SUMMARY  Page 7  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+ Additional work is being done in the Chattahoochee River Basin as part of the State 
+
+Water Plan, but due to funding it did not begin until the fall of 2009.  This work includes developing watershed models for the entire Chattahoochee River Basin from downstream 
+of Buford Dam to Lake Seminole in order to model nutrients from both point and non-point sources, developing nutrient and dissolved oxygen models for the Chattahoochee 
+River downstream of West Point Lake, and developing lake nutrient models for West Point, Walter F. George and Seminole.  This work will be completed in November 2010, 
+and these tools will be available for future rounds of planning.  
+Steve advised of the following considerations suggested by Dr. Booth for the Chattahoochee Basin: 
+
+\Gamma   Nutrients 
+\Gamma   Discharges into Primary trout streams and their heat load 
+\Gamma   Discharges into stream with threatened and endangered species 
+\Gamma   Significant natural water resource 
+
+o  Increase the level of protection on a waterbody  
+
+Steve presented results for the Tallapoosa River Basin.  The Tallapoosa appears to have additional assimilative capacity.  Sections of the Little Tallapoosa do not have available 
+assimilative capacity, so future discharges will need to be located accordingly or treatment levels will need to be revised.   
+  Steve presented a map which showed the streams in the Flint River Basin that currently 
+have model results.  Steve commented that most streams in this section of the Flint River Basin appear to have plenty of assimilative capacity. The moderate to limited assimilative 
+capacity seen at the bottom of the modeled segments may be due to low velocity in the river as the result of downstream Lake Worth.   In the future, expansions of facility in 
+streams with limit assimilative capacity may require treatment plant upgrades.   
+Additional work is being done in the Flint River Basin, but due to funding did not begin until the fall of 2009.  This work includes developing watershed models for the entire 
+Flint River Basin to model nutrients from both and non-point sources, developing a nutrient and dissolved oxygen model for the Flint River downstream of Lake Blackshear, 
+and developing lake models for Lakes Blackshear and Worth for nutrients.  This work is scheduled for completion in November 2010.  
+ Even though we do not have the watershed and lake models that provide the nutrient 
+results, the Council will need to consider nutrients since numeric nutrient criteria for lakes and free flowing streams were proposed for the state of Florida. EPA has drafted 
+these criteria as the result of a lawsuit filed in federal court under the federal CWA.  These criteria, if promulgated as proposed, will affect all waters that flow into the State 
+and will require control of nutrients in Georgia waters.    
+
+MEETING SUMMARY  Page 8  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+ Discussion 
+
+ Q.  A council member was concerned with the current models used for establishing water 
+quality allocations and the flow targets at Columbus.   A. Steve commented that perhaps the Council could look at new targets for the future 
+assessment.  Tim offered that Dr. Elizabeth Booth could provide the flows used in the models.  These "critical flows" are not necessarily the same as the surface water 
+assessment flows.  
+Q. A council member asked if the models were used on lakes.   A. Steve said the dissolved oxygen models are designed for free-flowing streams.  Tim 
+Cash said lake models will be done in the end of 2010 for nutrients.  
+Q Why is there no color after West Point lake.  A. Question was referred to Dr. Elizabeth Booth.  Contacted at the meeting break, Dr. 
+Booth advised that this river segment is being hydrodynamically modeled and this work is not yet complete. 
+ Q. Council member Joe Maltese commented that we need to include Alabama data.   
+A. Tim Cash said we have included wastewater contributions or loads, however, we will not know if river tributaries are impaired in Alabama. 
+ Q. Council member Joe Maltese commented that we need to understand the loading and 
+its influence upstream of us. A. Steve said yes and this was the purpose of the models. 
+ Q. What were the critical low flows used for DOSAG .   Any target flow and flow level 
+for a wastewater allocation.   A. Steve commented that in a regulated flow system you really don't use 7Q10 flows.  
+Tim advised that Dr. Booth of EPD can provide the flows used in this DOSAG modeling.  
+Q. Is there sufficient new data for a reassessment of the target flow levels? A. Tim said he needed feedback from the Council; there is additional flow data that could 
+be included in a reassessment of critical flows.  Tim advised that the modeling has used flow numbers based on the permit related wastewater allocation work.  
+ Q. When will the DO modeling will be complete for the lakes?   
+A. Tim said the models will be done in the November and December time frame; however, these models are for nutrients and do not include dissolved oxygen. 
+  
+
+MEETING SUMMARY  Page 9  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+ Chair/Vice Chair Elections 
+
+ Matt stated that the council now had quorum.  Council Meeting 4 Summary was briefly 
+discussed.  There being no additions/comments, following a motion and second to accept, the Council approved the CM4 meeting summary by unanimous consensus.  The Council 
+then conducted an election for chair and vice chair.  There were nominations with seconds for both Matt Windom and Harry Lange to continue in their current positions as 
+chair and vice chair, respectively.  Matt Windom indicated that he would accept this continued responsibility if elected, and that Harry Lange had indicated his assent as well.  
+Matt Windom and Harry Lange were elected chair and vice-chair, respectively for calendar year 2010 by unanimous consensus of 19 voting members (including alternates). 
+ Surface Water Resource Assessment 
+ Steve Simpson presented this resource assessment of work led by Wei Zeng of GA EPD. 
+He explained that the state had divided the state into six study basins: -  ACF: Apalachicola-Chattahoochee Flint 
+
+-  ACT: Alabama-Coosa-Tallapoosa -  OOA: Oconee-Ocmulgee-Altamaha 
+-  OSSS: Ochlocknee-Suwannee-Satilla-St. Marys -  SO: Savannah-Ogeechee 
+-  TN: Tennessee  
+Steve said this work assessed the current availability of surface water resource for both consumptive water use (off-stream use), and flow regime (in-stream use) with the goals 
+of identifying and quantifying gaps between currently available resource and combined current needs. 
+ Steve outlined the key methodology points about the assessment which included: 
+
+\Gamma   Uses available existing data 
+\Gamma   Consistent with and improves upon earlier studies by the Corps of Engineers and the States of Georgia, Alabama, and Florida 
+
+\Gamma   Allows us to evaluate current and future water use scenarios and management practices 
+\Gamma   Strong foundation for further detailed regional analyses, if needed 
+\Gamma   Regional planning level resolution 
+
+\Gamma   Results at 70+ basic nodes and 40+ planning nodes 
+\Gamma   Models used for broad scale regional planning, not for individual permitting decisions 
+
+ Steve noted that unimpaired or "natural" flow data represents natural hydrologic 
+conditions over a period of nearly 70 years and that water use data represents current, instead of permitted level of withdrawals, discharges, and consumptive water use.  
+
+MEETING SUMMARY  Page 10  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+  
+
+Steve then described the flow regime used for the modeling.  The steps involved the following: 
+
+\Gamma   Step 1 - Determine monthly 7Q10 for each of the unregulated Planning Nodes 
+\Gamma   Step 2 - Determine unimpaired or "natural" flow for a node by removing man-made effects on flow observed at that node for the 70 year period 
+
+\Gamma   Step 3 - Develop Flow Regime by taking the less of the two 
+\Gamma   Step 4 - Identify gaps between availability and demand by comparing the Flow Regime to modeled stream flow assuming all water demand are being met 
+
+ A summary of results at different nodes are shown below in a table. 
+ Summary of Results (See PowerPoint presentation for the associated graphs) 
+
+Unregulated River Systems 
+Length of Shortfall (% 
+
+of time) 
+
+Average Shortfall (cfs)  Long-term Average Flow (cfs)  Maximum Shortfall (cfs)  Corresponding Flow Regime (cfs) 
+
+Heflin in the Tallapoosa Basin 
+6%  3 (1.9 MGD)  659 (426 MGD)  4 (2.6 MGD)  65 (42 MGD) 
+
+Newell in the Tallapoosa Basin 
+7%  9 (5.8 MGD)  590 (381 MGD)  12 (7.8 MGD)  23 (15 MGD) 
+
+Montezuma in the Flint Basin 
+
+2%  <1 (0.6 MGD)  3,392 (2192MGD)  1 (0.6 MGD)  593 (383 MGD) 
+
+Bainbridge in the Flint Basin 
+12%  314 (203 MGD)  7,920 (5120 MGD)  1202 (777 MGD)  2506 (1620 MGD)
+
+Regulated River Systems 
+Demand Shortage 
+
+(cfs) 
+
+At-site Flow Requirement 
+Shortage (cfs) 
+
+Minimum Reservoir Storage (acre-feet)  Minimum Percentage 
+
+Reservoir Storage 
+
+Basin-wide Flow Requirement 
+
+Shortage Whitesburg in the Chattahoochee Basin 
+
+0  0  539,600 at Lanier  48% at Lanier  None 
+
+Columbus in the Chattahoochee Basin 
+
+0  0  14,226 at West Point 5% at West Point  None 
+
+Columbia in the Chattahoochee Basin 
+0  0  11,872 at  W.F. George  5% at W.F. George  None  
+
+MEETING SUMMARY  Page 11  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+  Chattahoochee Gage in the Apalachicola Basin 
+
+0 0  565,698  At Lanier, West Point 
+
+& W.F. George  
+
+34% At Lanier, West 
+Point & W.F. George 
+
+None 
+
+  
+Steve noted that there are no apparent gaps and that the Flint and Chattahoochee River basins are combined at Seminole. Corps operates the system to achieve specified flow 
+regime at the Chattahoochee gage on the Apalachicola. The ACF system contains storage that can be released as necessary to achieve specified flow regime. 
+ Questions 
+ Q. Council member Joe Maltese asked how the authorized purposes for the lakes were 
+included in the assessment, especially when Lanier had to have a judge figure that out. A.  There was subsequent discussion on lake operation and ensuring the Council 
+understands how Army Corps flow regimes affects the assessment.  Joe commented that the Corps of Engineers considers only the storage from three lakes in the entire 
+Chattahoochee system to maintain the desired flow.  
+Q. The council discussed the gap at Bainbridge on the Flint. Council member Joe Maltese asked whether it was the responsibility of this council to assist with the problem on the 
+Flint.  The 1200 cfs shortfall on the Flint is being made up by water from the Chattahoochee River. 
+A. Steve reminded the Council that the purpose of the joint meetings would be to ensure the plans are acceptable to both councils and are coordinated so EPD can approve them.  
+Tim Cash noted that the Chattahoochee River under existing conditions is fine while the Flint River is not fine under current conditions.  The Lower Flint council will have to 
+wrestle with this question.  He noted that they will have to come back to EPD with a proposal. Tim said EPD has a role with mediating this discussion of shared resources.   
+ Existing Gap Discussion  
+ Jim Hawkins next led an open discussion with the Council about the gap analysis. 
+ Council member Joe Maltese commented that once lake level gets below different 
+thresholds there is real economic impact to the surrounding region.  Above elevation 630, the lake supports $153M in local economic benefit annually.  This number increases to 
+$419M when the lake is at 630-633, and $709M when the lake is full between 633 and 635, with an estimated 3 million visitors per year.  Joe advised that he understands the 
+need and benefits of agricultural water use, but that the West Point Lake area residents see loss of lake level as a transfer of economic wealth via water.  Aaron McWhorter  
+
+MEETING SUMMARY  Page 12  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+ agreed that West Point was an economic benefit to the region.  Joe Maltese stated his 
+
+perspective that the lakes should be operated fairly and in a balanced manner, and provided handouts of lake levels expressed as percent of conservation storage and the 
+July 1999 West Point Project Plan for Low Water Levels During Recreation Season, which identifies steps that the USACOE intends to take at various recreational impact 
+levels.  
+A council member was worried that with global warming and climate change that the period of record may not be adequate to cover the full range of conditions which could be 
+experienced.  Gordon Moss expressed concern about long-term flow changes due to urbanization. 
+ The main points from the discussion were documented on flip chart notepads and are as 
+follows:  
+
+\Gamma   Shortfall of approximately 1200 cfs on the Flint River at Bainbridge is being made up for by water from the Chattahoochee River basin to achieve a flow target 
+
+at Woodruff Dam 
+\Gamma   Economic impact of lake levels dropped to elevations that impact recreation, fish & wildlife habitat &  tourism 
+
+\Gamma   Are "authorized purposes" in balance on the ACF? 
+\Gamma   Are "action levels" on West Point Lake equitable compared to other USCOE lakes? 
+
+\Gamma   The USCOE used 3 of 12 reservoirs in the Chattahoochee river system to meet flow requirements over Woodruff Dam.  It was commented that other 
+
+reservoirs'storage should be considered. 
+\Gamma   Reassessment of "critical (low) flow levels along the river 
+\Gamma   Additional storage (reservoir) on the Tallapoosa  
+
+Baseline and Future Resource Assessment Council Input  
+Steve Simpson commented that the point of this discussion is to show the council members the next steps. Steve said the synopses and detailed technical reports to be 
+released in the first quarter of 2010 on the planning website (www.georgiawaterplanning.org).  There will be a 60 day public comment period. 
+Georgia EPD will consider all comments, provide responses, and make necessary revisions. 
+ Steve said that assessment refinements are expected based on input from: 
+
+\Gamma   Council members 
+\Gamma   Interested groups 
+\Gamma   General public 
+\Gamma   Scientific and engineering advisory panel  
+
+MEETING SUMMARY  Page 13  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+  
+
+Councils will use preliminary baseline resource assessments to begin the initial selection of management practices. The future resource assessment process was outlined using the 
+following chart.  
+Resource  Scale of Assessments  Required inputs (active Council participation) 
+
+Surface water availability  Local Drainage Area   Withdrawals (mgd) Storage (mg) 
+
+Returns (%) Interbasin transfers (mgd) 
+
+Groundwater availability  Aquifer unit  Withdrawals (mgd) Location 
+Assimilative capacity  Stream reach or lake  Surface water availability assessment inputs  
+
+Discharge (mgd) Location 
+
+ Steve discussed how selecting management practices could decrease demand and 
+increase the resource capacity from the following graph. 
+
+  
+Steve reviewed the management selection process with forecasted demand with basic practices and showed the following example of management practices portfolio inputs for 
+
+modeling.  
+
+MEETING SUMMARY  Page 14  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+  
+
+Resource  Scale  Existing (MGD)  Future (MGD) 
+
+SW  Planning Node  55.3 M&I 1.76 Ag 
+
+64.3 Energy 121.36 Total 
+
+85.8 M&I 1.68 Ag 
+61.1 Energy 148.58 Total 
+GW Aquifer  9.83 M&I 10.6 Ag 
+
+0 Energy 20.43 Total 
+
+15.02 M&I 11.6 Ag 
+0 Energy 26.62 Total 
+WQ  Stream Reach       
+
+ Steve said he would skip the water quality portion of this presentation to ensure the 
+Council could cover all the material on their agenda. This material would still be available on the PowerPoint presentation. 
+ Discussion 
+ Q. Council chair Matt Windom asked if the Council had the ability to comment on the 
+baseline model and to establish the conditions for the future resource assessments.  A, Steve said yes. 
+ Q. A council member asked if there was any reason we are not looking at returns   
+A. Steve said that we are going to be looking at returns; the presentation highlighted the surface water withdrawal only as an example of the thought process behind developing 
+the conditions for the future assessment, but that returns were a key part of flows.  
+There was a discussion of the needed subcommittees.  A resource assessment subcommittee was formed and charged with reviewing the data, looking at the future 
+modeling scenario, and developing a recommended set of conditions for approval by the Council at CM6 for future resource assessment modeling by EPD.  The following council 
+members volunteered for this subcommittee:  
+
+\Gamma   Steve Davis 
+\Gamma   Jimmy Knight 
+\Gamma   Joe Maltese 
+\Gamma   Gordon Moss  
+
+MEETING SUMMARY  Page 15  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+ 
+
+\Gamma   Denney Rogers 
+\Gamma   Don Watson 
+\Gamma   Matt Windom  
+
+Jim Hawkins said this subcommittee needed to organize quickly, and would work through a combination of meetings and conference calls. 
+ Vision & Goals / Water Development and Conservation Plan Outline 
+ Jim asked the council members to review the vision and goals previously established by 
+the Middle Chattahoochee Water Council.  The Council needs to periodically revisit the vision and goals to ensure that they continue to represent the Council's intent as 
+additional assessments, forecasts, and information becomes available.  The vision and goals were in the premeeting packet.   
+ Jim also pointed the council members to the water development and conservation plan 
+outline in the premeeting packet.  The plan document table of contents has been drafted and will continue to be refined as the plan sections are developed. 
+ Management Practices Survey 
+ Jim reviewed the online management survey results.  After showing what the online 
+survey looked like, he said there fifteen respondents.  He reviewed the results for each criteria. Overall, technical criteria was rated higher than the other criteria. 
+ Jim reviewed the top management practices choices for each category. The overall 
+summary for management practices was then presented as shown below.   
+
+MEETING SUMMARY  Page 16  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+ 
+
+overall summary
+
+least
+important
+
+Most
+important
+
+Fairly
+Important
+
+Somewhat
+
+important
+
+Enhanced Pollution Management Practices
+
+Enhanced WQ Standards and Monitoring Practices
+
+water supply management practices
+water return management practices
+
+water demand management practices
+
+water supply management practices
+Very
+Important
+
+water supply management practices
+
+  
+Municipal and Industrial Water Use Forecast  
+Jim Hawkins advised that GA OPB is set to release statewide population projections soon.  In the interim, the B&V team has drafted forecasts of water withdrawal need and 
+water returns based on preliminary information about the population projections.  Robert Osborne explained the preliminary forecasts, which included municipal, industrial, 
+agricultural, and energy water use.  Rob reviewed the county-by-county assumptions and forecasts for municipal and industrial water demand and wastewater generation. 
+ Kristin updated the council on the status of the agricultural water use forecasts.  Dr. Hook 
+is revising the irrigation water uses by the end of March; golf courses have been added.  Submetered animal operations have been estimated separately and those forecasts have 
+been reviewed with industry input and are finalized.  The nursery water use numbers are still somewhat in flux; the original intent was to include these in the irrigation water uses 
+forecasts, but this subcommittee has recommended that these numbers be included separately.   
+ Energy water use was discussed as ongoing.  To date, existing and projected Georgia 
+Power only water uses through 2017 have been compiled.  A council member asked if B&V has an accurate number of energy withdrawals vs. returns.  Tim Cash identified that 
+EPD does have those numbers based on permit flow information.     
+
+MEETING SUMMARY  Page 17  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+  Local Elected Officials and Public Comments 
+
+ Next, the Council provided time for local elected officials and the general public an 
+opportunity to address the council.  There were no elected officials who spoke.  The following people provided public comment. 
+ Patrick Crews spoke about the economic impact of West Point Lake, the fact that 
+LaGrange had done a $200,000 study to delineate the economic impacts, identifying at least $153M in annual economic benefit.  He also advised that the construction of the 
+lake, the local area residents were promised recreation as a benefit and advised that the local residents see a need to better manage the lake. 
+ Page Estes with the Troup County Chamber of Commerce talked about the importance of 
+West Point Lake, that the lake and its recreational facilities regularly draw visitors within a 200-mile radius, approximately 2 million visitors per year.  Page reminded the council 
+that the community has taken the intiative to advocate for recreational use of West Point, particularly with the recent $1B in Kia investment that is bringing new employment and 
+residents to the area.  The Troup County Chamber of Commerce is looking for equitable management of the lake. 
+ Dick Timmerberg, the Executive Director of the West Point Lake Coalition, advised that 
+the coalition has approximately 800 members and is dedicated to supporting the 2.5-3 million visitors per year.  He indicated their group feels that the ACF basin needs to be 
+managed better and encouraged utilization of all storage in the river system.  He expressed the opinion that once the water entered a federal reservoir, it became "federal 
+water".  Dick advised that the Coalition feels that using a metric of percent of conservation storage is more equitable than the current operational approach.  Dick was 
+unhappy that no gap is shown in the baseline resource assessment, as West Point is predicted to be elevation 630 or above only 60% of the time.  This appears to the 
+coalition that the resource assessment ignored authorized purposes.  He urge the council to consider wants versus needs and wished the water council good luck in its work. 
+ James Emery, Engineer from Troup County, advised that the resource assessments did 
+not consider authorized purposes, that the assessments only considered gaps in terms of meeting flows and uses.  He expressed the opinion that the needs of the lake users are 
+being ignored and encourage the council members to help users who use the lake.  
+Wrap-Up and What to Expect Next Meeting  
+The Council selected June 9 for its next meeting pending a review of potential conflicts with Georgia Municipal Assocation activities in that time frame.  B&V will confirm the 
+date and work with Matt Windom to identify a meeting location.  Matt requested the resource assessment subcommittee to meet briefly following the meeting adjournment.  
+
+MEETING SUMMARY  Page 18  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+  
+
+The resource assessment subcommittee briefly discussed the additional modeling work that has been requested of EPD, which includes information on unimpaired flows, run of 
+the river with evaporation, run of the river with evaporation and other uses.  Percent exceedance flow curves and 7Q10 flows at planning nodes were requested.  A 
+subcommittee meeting was scheduled for Tuesday, March 30 from 2-4 p.m. at LaGrange City Hall.  B&V to confirm via Microsoft Outlook appointment. 
+  
+Attachments     
+
+MEETING SUMMARY  Page 19  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 5  March 15, 2010 
+Meeting Date: March 10, 2010 
+ Attachment 1:  
+
+Middle Chattahoochee Water Planning Council  Council Meeting Attendance - March 10, 2010 
+ Council Members 
+Alan Bell Jimmy Bradley 
+Steve Davis Larry Dillard 
+Philip Eidson Thomas Ellis 
+Gardiner Garrard Bill Gregory 
+Joe Griffith Jimmy Knight 
+
+Joe Maltese Aaron McWhorter 
+Gordon Moss Denney Rogers 
+Jimmy Thompson Robert Watkins 
+Don Watson Matt Windom 
+Robie York 
+  Council Members Not In Attendance  
+
+Paul Chappell Larry Clark 
+Gerald Greene Bill Heath 
+Harry Lange Jeff Lukken 
+
+Ken Penuel Walter Rosso 
+Randy Simpkins Jim Woods 
+Michael Yates
+ Planning Consultants    
+Jim Hawkins, B&V Robert Osborne, B&V 
+Kristin Rowles, GWPPC  
+
+Steve Simpson, B&V Nils Thompson, LBG 
+
+ Georgia EPD  
+Tim Cash, Assistant Branch Chief  Bill Morris 
+ Georgia State Agencies 
+Keith, Georgia Soil and Water Conservation Service 
+   Robert Osborne 36 2 17 24 2 110 3 82 1  -14400 MEETING MINUTES  MCH_CM5_Summary.pdf en Acrobat PDFMaker 8.1 for Word 

@@ -1,0 +1,597 @@
+Memorandum
+To:          Suwannee-Satilla Regional Water Planning Council
+From:        Rick Brown and Brian Keel, CDM
+Date:        04/08/10
+Subject: Council Meeting 5 - Summary
+This memorandum provides the meeting summary of the Suwannee-Satilla Regional Water
+Planning Council Meeting 5 (CM5), held on March 25, 2010 at Valdosta Technical College.
+1) Welcome and Introductions/Recap CM 4/Approve Agenda/Approve CM4 Summary
+   Chair Darvin Eason call the meeting to order and introduced two guests to the meeting
+   that offered to welcome the Council. First Mayor of Valdosta, John Fretti, gave a welcome
+   to all in attendance and expressed his concern over the significant flooding experienced by
+   the City in April and September 2009. Mayor Fretti encouraged Council to consider
+   regional projects to address multiple objectives such as stormwater management, water
+   supply, and recreation. Following Mayor Fretti, the President of Valdosta Technical
+   College, Dr. Perren welcomed Council and meeting attendees to the College. Dr. Perren
+   Highlighted several of the programs at the College and wished the Council success it their
+   work.
+   The Public Attendees introduced themselves at the request of the Chair. The Planning
+   Contractor (PC) presented the Agenda and the Council approved the Agenda
+   unanimously. The PC presented a recap of CM4, summarizing what was accomplished in
+   CM4, and provided an overview of where the Council was in the planning process.
+   A summary of results of the evaluation forms from CM4 was also presented. The PC
+   asked if the Council had any questions on the Council Meeting 4 Summary and requested
+   the approval of the Summary. Council member Dan Raines made a motion to approve the
+   CM4 Summary. The motion was seconded by Scott Downing and Council approved the
+   Summary with a unanimous vote.
+   The meeting continued with an overview of the objectives for Council Meeting 5. These
+   included:
+       •    Review baseline municipal and industrial water and wastewater forecast results;
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 2
+       •   Review methodology and preliminary results of energy forecast;
+       •   Discuss results of current conditions Resource Assessment modeling as presented
+           at Joint Meetings;
+       •   Discuss regional portfolio of management practices and management practice
+           selection process; and
+       •   Understand how management practice selection ties back into demand forecasts
+           and resource assessments.
+   The location and possible dates for Council Meeting 5 were discussed. The PC suggested
+   that Council members think about a location and time in late June that worked well for
+   them and it was agreed that Council would finalize the date and location at the end of the
+   meeting.
+   The PC then provided an update and overview of several items that occurred since the
+   last meeting. An overview of the items is provided below
+       a) Table of Contents and Draft Plan Section Review
+       The PC distributed copies of the final Table of Contents for the Suwannee-Satilla
+       Regional Water Plan. The PC thanked the members of the Table of Contents
+       subcommittee that included Greg Evans, Scott Downing, and Wesley Langdale. The
+       PC then asked for volunteers to form a subcommittee to review draft plan sections
+       between now and June 30th. The following Council members volunteered:
+           •   Greg Evans
+           •   Scott Downing
+           •   Wesley Langdale
+           •   Greg Evans
+           •   Rusty McCall
+       The PC will work on preparing draft plan sections over the next several weeks and
+       will work with this subcommittee to obtain their input and finalize the draft sections
+       for presentation to the whole Council prior to June 30th.
+       b) Planning Efforts in Florida
+       The PC briefly discussed the status of ongoing water supply planning work by the
+       Saint John’s River Management District located in northeast Florida. The District is
+       updating their water supply plans and has identified some water resources that may
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 3
+       be of interest to the Council (i.e., St. Mary’s River). For additional information on this
+       topic, Council members can go to:
+       http://sjr.state.fl.us/facts/DWSPprocess.html
+       c) Outreach to Key Municipalities
+       The PC discussed the importance of conducting outreach to municipalities in the
+       region that are not represented on Council and asked for Council’s help identifying
+       key entities besides water/wastewater providers to whom we should perform
+       outreach. The PC presented a list of counties and cities in the region.
+       A Council Member (CM) noted that Echols County was not on the list. The PC will
+       revise the list to include Echols County.
+       d) Chair and Vice Chair Elections
+       The PC reminded Council that under the terms of the adopted Memorandum of
+       Agreement – Operating Procedures, the terms of the Chair and Vice Chair were up
+       and Council needs to elect these positions. The PC confirmed that the current Chair
+       and Vice Chair were willing to continue their service if elected, and asked Council
+       members to write nominations for Chair and Vice Chair on the white board at the
+       front of the room. Council agreed to hold the election before lunch.
+       e) Governor’s Water Contingency Planning Task Force
+       The PC gave a brief presentation on the recommendations of the Governor’s Water
+       Contingency Planning Task Force, consisting of two portfolios of contingency
+       management practices should Lake Lanier no longer be a water supply option to
+       Atlanta. It was noted that the current contingency plans focus on conservation and
+       reuse and do not involve groundwater development below the fall line. The Task
+       Force’s full report is available by searching “water contingency planning task force” at
+       http://georgia.gov.
+2) Revised Municipal GPCD and Municipal Water Forecast
+   The PC then gave a presentation on the work conducted by the PC and the Council’s
+   Municipal Ad Hoc group since CM4 to refine gallons per capita per day (GPCD) values
+   for each county in the region and reviewed how these numbers were used in municipal
+   forecasts. The PC mentioned that these numbers are intended for regional planning and
+   not for individual permitting decisions or future allocations. The PC also mentioned that it
+   is not appropriate to compare one county’s GPCD value to another’s because there are
+   several factors that go into this number and variation across counties is expected.
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 4
+   The PC also presented the results of the base forecasts and distributed a handout
+   summarizing the results. The forecasts do include passive conservation that occurs as a
+   result of the 1992 National legislation which mandated low-flow fixtures. Active
+   conservation will be considered as part of the management practice element of the
+   regional water plan. The following questions and comments were offered:
+       •   CM: Are you indicating that the order in which the forecast groupings are shown
+           here (municipal, industrial, agricultural, energy) is the order of priority for water
+           use? PC Response: No, this is just the order in which the forecasts are being completed.
+       •   CM: Are Moody Air Force Base and Wild Adventures Water Park included in the
+           municipal GPCD numbers for Lowndes County? PC Response: Moody is self-supplied
+           so their water use is not included in the publicly-supplied GPCD. Wild Adventures is
+           supplied by Lowndes County and so their water use is factored into the GPCD for Lowndes
+           County.
+       •   CM: Explain how Brantley and Echols Counties have GPCD values less than 100
+           when the self-supplied use rate was recommended at 100? PC Response: Publicly
+           supplied GPCD was calculated separately from self-supplied GPCD using actual water use
+           data and population served data provided by public suppliers. In the case of Brantley and
+           Echols Counties, the publicly supplied GPCD was less than 100. The 100 number was
+           recommended by the Ad Hoc Subcommittee (the USGS recommended number is 75 but the
+           subcommittee felt that his value might under represent self-supplied water use.
+       •   CM: Were large industries pulled out of the municipal forecast? PC Response: Yes.
+           These uses were taken out of the municipal forecast and put in the industrial forecast.
+       •   CM: We need to consider how we’re going to plan for growth from these numbers.
+           PC Response: Agreed and today will help provide a better understanding of the proposed
+           process.
+       •   CM: How are we accounting for people on City water that live outside the City
+           limits and are not included in City population? PC Response: We used actual
+           population served numbers as reported by public suppliers.
+       •   CM: Are private water systems included in the municipal forecast? PC Response:
+           Yes, any system serving 25 or more people or 15 or more taps is included.
+       •   CM: How did we arrive at these numbers? Subtract all the large water users from
+           total water use and divide by population? PC Response: Yes, any large industries are
+           subtracted out and then we divide by the population/customer base served. Residential,
+           commercial, and light industrial users are all included in these numbers.
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 5
+       •   CM: We have a couple industries getting ready to relocate to Brantley. PC
+           Response: If they are municipally supplied, we are potentially underestimating the GPCD,
+           but since we can’t crystal-ball what might happen we may have to capture these at the next
+           plan update (which will be a maximum of 5 years out). If the industries are self-supplied,
+           we can capture them in the industrial forecast.
+       •   CM: The prison in Folkston (Charlton County) is on the City sewer system but not
+           on City water. The town is only 3,000 people and the prison population is an
+           additional 1,500 people. Is this included in the water use numbers? PC Response:
+           This should not be an issue on the water side because they aren’t on public water supply,
+           but on the wastewater side we might be slightly underestimating the flow. We will look
+           into this.
+       •   How does a prison population affect these numbers? PC Response: It depends on the
+           area. In areas where the city population is relatively small compared to the prison
+           population and both are served by the same supplier then this can affect the water use
+           numbers. You’ll see a higher GPCD because prisons tend to use a lot of water per capita.
+       •   CM: I would encourage Council members to consider asking some of these
+           questions of your county or city representatives as they are probably up to speed
+           on some of these issues. It might be worthwhile for each of us to have a debriefing
+           with our representative(s) after this meeting.
+   The PC then summarized the recommendations of the Municipal Ad Hoc group as
+   follows:
+       •   Use a self-supplied GPCD of 100.
+       •   Use the publicly-supplied county-specific GPCDs for the base forecasting.
+       •   Consider developing an alternate scenario after you’ve reviewed the results of the
+           base forecast.
+       •   The industrial forecasts are relatively flat for the region, so build in a factor of 5
+           MGD to account for unanticipated growth in future industrial water use.
+   The PC also highlighted that the Ad Hoc group discussed an alternate municipal scenario
+   that could be based on the highest county GPCD and apply it to the whole region to be
+   conservative, but this approach might not be technically sound or accurately represent the
+   region.
+       •   CM: What are some major unintended consequences of using an overly high
+           GPCD? PC Response: There are a few potential adverse consequences. GPCD is used to
+           generate wastewater flows. In this region we are withdrawing primarily from groundwater
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 6
+           and discharging to surface water, so a high GPCD could falsely forecast wastewater
+           assimilative capacity issues. It could also make the region look wasteful. It could also
+           prematurely drive water supply issues. CM: It might also prematurely skew budgets
+           for infrastructure improvements.
+       •   CM: We’re close to Florida, so we also need to make sure our sources and methods
+           are credible so we can defend our water uses. PC Response: That’s true, we don’t
+           want to destroy our credibility with overly conservative numbers.
+       •   CM: How did we develop the self-supplied assumption of 100 GPCD? PC
+           Response: The original USGS report used 75 GPCD for self-supply, but the Coastal Ad
+           Hoc group indicated that many municipalities use 100 because that is the tap equivalent
+           unit in that region. Our group decided to also go with that number.
+   The PC mentioned that if Council does not adopt these forecast numbers, there will be a
+   lot of work to get done before the next meeting so we don’t fall behind schedule. The PC
+   also presented the revised population projection numbers. These numbers are higher than
+   the previous projections and are possibly slightly conservative for our region. It appears
+   that de-coupling population from employment increased the population projections.
+3) Municipal Wastewater Forecast
+   The PC presented the base municipal wastewater forecast, including a review of
+   wastewater forecasting methodology. The main source of information for this forecast is
+   EPD permit data and census information. One thing we slightly refine since the Ad Hoc
+   committee meeting was Land Application System (LAS) percentages for each county.
+4) Industrial Water Forecast
+   The PC reviewed the methodology for the industrial water forecast and presented base
+   forecast results. The following questions and comments were offered:
+       •   CM: With the State’s population projected to double over the planning horizon,
+           wouldn’t that equate to more industrial growth than we’re seeing here? PC
+           Response: That depends. It might be that most growth in the region will be commercial,
+           tourism, or retail. Past trends did not show robust industrial growth in all of the regions.
+       •   CM: Douglas has been experiencing a lot of commercial growth.
+       •   CM: If bioenergy plants come in, are these included in the forecast? PC Response:
+           These may be included in the energy forecast.
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 7
+       •    CM: I think our region will be attractive to high water use industries. PC Response:
+            If we want to plan for industries coming in, we have to know the type of industry, location,
+            and how much water they would use. Since we don’t know this the Ad Hoc committee is
+            recommending that we used the additional growth factor of 5 MGD.
+5) Industrial Wastewater Forecast
+   The PC reviewed the methodology for the industrial wastewater forecast and presented
+   base forecast results. This forecast is based on industry-specific wastewater to water
+   ratios, some of which were revised based on input from the industrial stakeholder group
+   that has been working with EPD. The following questions and comments were offered:
+       •    Is the preferred method of future wastewater discharge LAS versus point source?
+            EPD Response: It will depend on options available by each specific location. Nutrient
+            standards in the south will play into this decision. LAS won’t solve all problems but it is a
+            preferred option for some entities.
+       •    CM: Will that preference be reflected in the forecast trends? EPD Response: No, the
+            forecast is based on past trends.
+       •    CM: Can we consider recommending LAS as a management practice? EPD
+            Response: Yes.
+       •    CM: Due to impacted flows in streams, wastewater discharges might be the only
+            flow in these streams at times. PC Response: This is true. EPD Response: This might
+            benefit some streams.
+   The PC explained the surface water nodes (which are generally planning locations that
+   have long-term flow data) and drainage areas in the region, pointing out the fact that
+   some drainage basins extend outside the region’s boundaries. This means we will have to
+   coordinate with folks from other regions within our watersheds. The PC mentioned that at
+   this point we want Council’s opinions and agreement on the base forecast numbers. Once
+   we have agreement we can move forward with generating the future forecasts to put into
+   the resource assessment models.
+       •    CM: Are these forecasts based on the revised population projections? PC Response:
+            Yes.
+       •    CM: And they’re based on two separate categories, municipal and industrial? PC
+            Response: Yes, plus agriculture and energy which will be discussed later.
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 8
+       • CM: A few counties such as Clinch, Turner, and Ware show population increases
+         but decreases in water demand. Echols shows a similar modest population
+         increase as these 3, but its demand increases. How can you explain this? PC
+         Response: This is due to relatively small growth and a reduction in water use over time due
+         to passive conservation being included in these forecasts. By law, new water fixtures have
+         to meet certain flow conservation standards. As older, higher-flowing fixtures are replaced
+         with new lower-flowing fixtures, there will be a slight decrease in per capita water demand.
+         This passive conservation is built into the forecasts. In the cases of Clinch, Turner, and
+         Ware Counties, the rate of passive conservation overtakes the modest rate of projected
+         population growth. In the case of Echols County, the projected population growth rate is
+         slightly higher and it overtakes the passive conservation rate. We will check on this and
+         confirm this is the case. (Note: Following the meeting the PC reviewed the forecast and
+         confirmed that this is true. The PC will develop the data summarizing the passive
+         conservation values).
+       • CM (from Municipal Ad Hoc group): From an engineering perspective I agree
+         with these numbers.
+       • CM (from Municipal Ad Hoc group): We got satisfactory responses to our queries
+         from the forecasters.
+       • CM (from Municipal Ad Hoc group): I don’t think we can improve on these
+         numbers the way the forecast is put together.
+       • CM: If passive conservation is being applied as we discussed in Counties like
+         Ware, we need to be consistent with how we’re including some of the current
+         conservation practices underway by municipal associations such as rate structure.
+         If we’re accounting for these in one area, we need to apply them to all areas to be
+         consistent. PC Response: This is a good point. The conservation we discussed earlier was
+         passive conservation that will occur with replacement of fixtures. There are additional
+         conservation measures that you’re talking about now such as people possibly implementing
+         more metering or increasing rate structures by 2020 or 2030, and the Council can look at
+         these actions and strategies as part of possible management practices.
+       • Public Attendee: I represent Packaging Corporation of America (PCA). On your
+         chart you show industrial paper discharges to both the Bemiss and Pinetta nodes.
+         We’re the only paper industry in the region and we only have one discharge that
+         should show up at the Pinetta node. PC Response: There could possibly be another
+         paper industry in the Bemiss drainage area but outside of the Suwannee-Satilla region, as
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 9
+            this drainage area goes beyond the region boundary. We will review our discharge database
+            and make sure we are accurately representing discharge locations.
+        •   CM: Pinetta is in Florida, right? PC Response: Yes, just over the state line.
+        •   CM: I want to make sure we’ve accurately captured wood products facilities.
+            There are a couple facilities in Brooks County and some in Atkinson County.
+            We’ve got one wood products facility in Willacoochee that has an allocation of
+            about 100,000 gallons per day (GPD) and actually uses about 60,000 GPD of City
+            water and discharges to the City wastewater treatment plant. This facility also has
+            groundwater wells and withdraws about 200,000 GPD. In Brooks County there is
+            the OSB plant that uses approximately 80,000 – 100,000 GPD of self-supplied
+            water. I presented these numbers to the state-wide industrial forecast group but
+            don’t know if they got put in the forecast. PC Response: It sounds like in some cases
+            these maybe sub-threshold industrial uses and if they are then they are not captured in the
+            forecast. We probably are under-forecasting the needs of some of these sub-threshold water
+            users, but the thought of the Ad Hoc group was that these uses would to some degree be
+            captured in the “safety factor” of 5 additional MGD.
+   The Chairman asked Council if they would feel comfortable moving forward voting on
+   approval of these numbers, pending investigation of the few items raised in the
+   discussion. Joe Hopkins moved that Council approve the forecast numbers as the basis for
+   moving forward, subject to the committee making refinements per discussions. Greg
+   Evans seconded the motion. Council approved the numbers, subject to the stated
+   refinements, by unanimous vote. The PC committed to following up on these issues with
+   an email to Council.
+6) Thermoelectric Energy Forecast
+   The PC presented the energy forecast methodology. Noting that in many cases there are
+   large withdrawals of water but in not always large consumption of water (i.e., the water is
+   returned and not consumed). The PC indicated that we will have some, but probably not
+   all, results of this forecast to present in June. The following question was offered:
+        •   Does hydroelectric power production have consumptive water use? PC Response:
+            Generally no and the method we are proposing does not assign any consumption to
+            hydropower.
+7) Agricultural Forecast
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 10
+   The PC presented an update on the agricultural forecast, including additional sub-
+   threshold sectors that are being incorporated into the forecast. EPD indicated that Dr.
+   Hook’s forecast was completed and he is working on formatting it for the website and it
+   should be out in a few weeks.
+8) Georgia Water Law
+   Bob Bomar, J.D., Deputy Attorney General with the Georgia Department of Law gave a
+   presentation on Georgia water law. His presentation followed the outline of his white
+   paper, which was distributed to Council prior to CM5. The following questions and
+   comments were offered:
+       •  CM: Is there a prescribed process for proposing an inter-basin transfer (IBT) to the
+          Director? Bob Bomar Response: Yes, there is a formal application process.
+       •  CM: Is there a public comment period for proposed IBTs? EPD Response: EPD does
+          not issue permits for IBTs, only for withdrawals and discharges. At times, an IBT may be a
+          component of a permit though. EPD has a thirty-day public comment period for all new
+          and modified permits, and it is during this period that the IBT component of a permit can
+          be commented on.
+       •  CM: Is it true that water cannot be transferred under prior law? Bob Bomar
+          Response: Actually, IBTs could be considered under prior law, which is the law that is still
+          on the books.
+       •  CM: When were the current laws enacted? Bob Bomar Response: The groundwater law
+          was enacted in 1972 and the surface water law was enacted in 1977.
+       •  CM: Please explain the last paragraph in your paper regarding state police powers.
+          Bob Bomar Response: There is relevant case law in which individuals claimed that state
+          actions were resulting in a taking someone’s property. The results of these lawsuits and the
+          current law confirm that the state can regulate the use of water on your property for public
+          safety, health, and welfare, but it doesn’t take your property away from you. The law also
+          grants you the right to appeal any decision made by the Director if you don’t like it.
+       •  CM: What is the difference between Public Trust Doctrine and Reasonable Use
+          Riparian Law? Bob Bomar Response: Public Trust Doctrine has never really been
+          recognized by the Georgia Courts as it only applies to large navigable water bodies.
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 11
+       • CM: Can you give us definitions for Riparian Rights and Reasonable Use? Bob
+         Bomar Response: There really are no set definitions of these terms. Several considerations
+         go into the determination of a reasonable use, such as the number of users of a water
+         source, its size, physical and chemical nature and probable impairments of the water
+         course, and several others. And again, you can appeal a decision by the Director. Riparian
+         rights can be defined as the right of a landowner whose property boarders on a body of
+         water or watercourse to make a reasonable use of that water subject to diminutions of the
+         water as may be necessary on account of a reasonable use of it by other riparian owners.
+         Also, although the surface water withdrawal law does not repeal the common law with
+         regard to riparian rights, I am of the opinion that since the Director must make a
+         determination regarding reasonableness of use prior to the issuance of a permit, such
+         issuance would raise a presumption of reasonableness of use by the permit grantee.
+         During periods of low flow for both surface and ground water withdrawals, the Director
+         may modify any permit when such water shortage places in jeopardy the health or safety of
+         the citizens of the affected area. However, with regard to farm use permits, the order is not
+         effective immediately (as would be the case for non-farm permits) and the farm use
+         permittees may continue to make use of water to their permitted capacity during the appeal
+         process unless the permittee fails to timely request a hearing. In every case, however, the
+         Director must give first priority to water for human consumption and second priority to
+         farm use.
+       • CM: So reasonable use applies more to surface water and riparian rights apply to
+         both surface water and groundwater? Bob Bomar Response: Under current law,
+         riparian law applies only to defined channels, and unless you could prove to the court there
+         is a stream with defined channels flowing underground, it does not apply to groundwater.
+         With our current increased knowledge of how groundwater flows, perhaps riparian law
+         may be applied to it in the future.
+       • CM: What court are appeals heard in? Bob Bomar Response: First it would be heard by
+         an administrative law judge and any decision by the judge could then be appealed to the
+         superior court in the county of the appellee’s residence.
+       • PC: During critical drought periods, critical low flows in some of our streams drop
+         to a low point where Council may have to come up with ideas on how to improve
+         on the low flow conditions, but upstream of these areas there are surface water
+         uses in place. This will be a tough challenge. Do you have any advice for Council
+         as we proceed? Bob Bomar Response: Regarding non-farm use permits, under the surface
+         water law, in the event of two or more competing applicants or users qualifying equally
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 12
+            under Board Rules establishing a reasonable system of classification, the Director is
+            authorized to grant permits or modify existing permits on a prorated or other reasonable
+            basis where possible; however the Director must give preference to an existing use over an
+            initial application. Regarding farm-use permits, under both the groundwater and surface
+            water law, existing permits may be modified by the Director if he should determine that the
+            quantity of water allowed under the existing permit would prevent other applicants from
+            reasonable use of waters for farm use.
+9) Revisit Chair and Vice Chair Elections
+    By lunch time, nominations placed on the white board consisted of two nominations for
+    Darvin Eason for Chair and two nominations for Grady Thompson for Vice Chair.
+    Council member Earl Bruce made a motion to re-elect Darvin Eason as Chair and Grady
+    Thompson as Vice Chair. Scott Downing seconded the motion. Council voted
+    unanimously to re-elect Darvin Eason as Council Chair and Grady Thompson as Council
+    Vice Chair.
+10) The PC provided an overview of the resource assessments highlighting the following
+    points:
+    Surface Water Quantity Resource Assessment
+    •   For the surface water RA, the PC outlined the locations of the planning and basic
+        nodes and the local drainage areas delineated by the watersheds that drain to the
+        nodes.
+    •   Described the amount of gauge data in relation to the overall historic record from 1939
+        – 2007.
+    •   Described major withdrawals and discharges.
+    •   The Council had the following questions/comments:
+    •   CM: At Fargo, what municipality is discharging the planning node? PC Response:
+        Homerville
+    •   CM: The flows in all these rivers go very low especially in summer, so what types of
+        actions should the Council take? PC Response: That will be part of the management
+        practices portion of our plan.
+    •   CM: What are the discharge requirements to low or no flow conditions? PC Response:
+        We will check and get the Council more information on this.
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 13
+   •    CM: Council would like a list of current and future withdrawals and issues; we will
+        need to evaluate this region specifically. PC Response: We will get that information for
+        Council.
+   •    CM: Are shallow groundwater withdrawals also going to be considered? PC Response:
+        Only permitted withdrawals.
+   •    CM: Please provide more information on current surface water demands.
+   Surface Water Quality Assimilative Capacity Resource Assessment
+   The PC then provided a summary of the water quality RA highlighting the following
+   points:
+   Dissolved oxygen levels in the region; the nutrient models for Nitrogen and Phosphorous
+   for the Brunswick Harbor nutrient model; and the Total Maximum Daily Load (TMDL)
+   listed streams.
+   •    CM: How does the nutrient data get input into the phosphorous model? PC Response:
+        We are not familiar with the method and expect that this information may be in the synopsis
+        document for the water quality RA.
+   •    CM: What are the sources of water for aquifer storage and recovery in some areas of
+        Florida? PC Response: We do not know but can get more information on that.
+   •    CM: How are existing withdrawals determined for agriculture? PC Response: This in
+        Dr. Hook's methodology and it was discussed at CM3 and can be found on the state website.
+   Groundwater Resource Assessment
+   The PC summarized the Ground Water Resource Assessment highlighting the following
+   points:
+   Overview of aquifer types, locations and boundaries; results of the ground water
+   modeling conducted to date which included current withdrawals, high end of sustainable
+   yield and low end of sustainable yield.
+   The PC wrapped up the discussion describing the development of the synopsis
+   documents which document the development of the RA tools and highlighted the
+   comment period for the documents.
+   Council had the following comment/question:
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 14
+    •   CM: Is the 475 mgd and annual average or maximum daily or other value? PC
+        Response: Not sure we will get more information on this.
+11) Management Practices
+    The PC presented the methodology for management practice selection and gave examples
+    of possible management practices for the region. The PC walked through an example of
+    how a gap might be filled by expanding to existing permit limits, implementing projects
+    that are already planned, and then selecting additional management practices to fill the
+    remaining gap.
+    It was noted that it is important for the Council to undertake its work while respecting
+    local planning and permitting. The PC and EPD will help the Council in gathering other
+    plans and projects that are out there, and this is part of the additional outreach to other
+    entities that we want to do.
+    The PC then discussed some concepts for addressing water quality in the region. It was
+    noted that there are TMDLs for many of the reaches in the region. At a minimum, Council
+    should review and understand these TMDLs and their implementation plans. The PC
+    indicated that the Council can go further than this, such as possibly developing
+    management strategies or even reach-specific management practices to address water
+    quality issues. The following questions and comments were offered:
+        •   CM: About 10 years ago there was talk of TMDLs, with a lot of public meetings
+            and discussions related to dissolved oxygen and other parameters. What
+            happened with this? Response from another CM: That might have been when EPD rolled
+            out the 303(d) list. PC Response: The TMDL program is designed to provide strategies for
+            managing impaired waters, but there is no implementation arm associated with the TMDL
+            program. It is voluntary. Through Council we can develop management practices that
+            complement the TMDL Implementation Plans or portions of these plans.
+        •   CM: There are some downstream users that have to perform extra treatment of
+            surface water for their uses because upstream users may not be providing a high
+            level of treatment. There may be opportunities for us to implement management
+            practices that will benefit some of these downstream users, maybe even to the
+            point that they would be willing to share some of the cost of these management
+            practices because it means they will then not have to perform such rigorous
+            treatment. PC Response: That’s a great idea. These are the kinds of ideas we want to come
+            up with in our management practices subcommittee.
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 15
+    The PC then noted that the management practice selection process can be complex and the
+    Council will need to come up with an approach for making decisions. For near-term needs
+    we should try to be as specific as possible; for longer-term needs we can be more general
+    in our recommendations. Council will have to decide what kind of screening and ranking
+    system to use in management practice selection. This can be a simple process (e.g.,
+    Council vote); a slightly more complex process (i.e., similar to a Consumer Reports-style
+    ranking system with criteria and circles that indicate how well the criteria is meet); or
+    complex with specific objectives, weighting criteria, and performance metrics. By mid-
+    summer, Council will need to decide what kind of decision process they want to use.
+    The PC suggested that Council form a subcommittee to work on the identification and
+    selection of management practices. The Chairman asked for volunteers to serve on such a
+    subcommittee. The following Council members volunteered:
+        •   Greg Evans
+        •   Scott Downing
+        •   Bill Brim
+        •   Andy Stone
+        •   Howell McCallum
+        •   Wesley Langdale
+        •   Rusty McCall
+12) Local Elected Official Comments
+    There were no local elected official comments.
+13) Public Comments
+    Darrell Wilder with the Valdosta Chamber State Committee offered that the Committee
+    supports the Suwannee-Satilla Council in their Vision and Goals. He thanked Council for
+    coming to Valdosta and welcomed us back any time.
+    Angela Wall with the Southern Georgia Regional Commission mentioned that they write
+    TMDLs and Section 319 grants, including the Upper Suwannee Basin 319 grant. She
+    offered that they have plenty of data that they would make available to Council.
+14) Wrap-up and What to Expect Next Meeting
+    The Council agreed to hold the next meeting in Tifton on June 17th, 2010.
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 16
+15) Council Meeting 5 Evaluations
+    The PC distributed the evaluation forms and members of Council filled out the forms. The
+    PC collected the forms. The meeting was adjourned.
+cc: Cliff Lewis, EPD
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 17
+Suwannee-Satilla Regional Water Council
+Council Members Attendance List
+      Suwannee-Satilla Council
+                                     03/25/2010
+             Members
+    1    Joseph L. Boyett
+    2    Earl Brice                      X
+    3    William L. Brim                 X
+    4    Hanson R. Carter                X
+    5    Carroll H. Coarsey
+    6    Ben Copeland                    X
+    7    Scott Downing                   X
+    8    Eugene Dyal                     X
+    9    Darvin Eason                    X
+   10    Michael E. Edgy                 X
+   11    Greg C. Evans                   X
+   12    Greg Goggans
+   13    Jim Hedges
+   14    Alva Joseph Hopkins             X
+   15    Donald A. Johnson               X
+   16    John Wesley Langdale            X
+   17    Joe Lewis                       X
+   18    R.R. Rusty McCall               X
+   19    Donald H. McCallum
+   20    Dan Raines                      X
+   21    Scotty Raines                   X
+   22    S. Gordon Rogers
+   23    Jay Shaw
+   24    Frank G. Sisk
+   25    Miles A. Stone                  X
+   26    Grady M. Thompson               X
+   27    Doyle Weltzbarker               X
+   28    James R. Willis                 X
+   29    Jackie Wilson                   X
+                              Total      21
+ Suwannee-Satilla Council Meeting 5 Summary
+04/08/10
+Page 18
+Suwannee-Satilla Regional Water Council
+Public Attendance List
+               Public                              Representing
+             Attendee
+  1   Mike Allen                  Lowndes County Board of Commissioners
+  2   Myrna Ballard               Valdosta-Lowndes Chamber of Commerce
+  3   Rich Batten                 South Georgia Regional Commission
+  4   Kelly Bell                  City of Valdosta Utilities
+  5   Jenny Conrad                Adel/Cook County Commission
+  6   Mike Copeland               GA Farm Bureau
+  7   David Ferrell               USDA NRCS
+  8   Brittney Foster             Packaging Corporation of America
+  9   John Fretti                 Mayor of Valdosta
+ 10   Ginny Holton                Packaging Corporation of America
+ 11   Willie Jones                City of Valdosta Engineer
+ 12   Richard Lee                 Lowndes County Board of Commissioners
+ 13   Jerry Lott                  City of Douglas
+ 14   Roger Magee                 Lowndes County
+ 15   David Mauldin               GA Farm Bureau
+ 16   Ben Mosely                  GA Soil and Water Conservation Commission
+ 17   Jerry Permenter             City of Adel
+ 18   Jamie Pitts                 GFC
+ 19   Tom Putnam                  Langdale Industries
+ 20   Jody Redding                Senator Isakson
+ 21   John Rotravski              Packaging Corporation of America
+ 22   Von Shipman                 City of Valdosta Engineer
+ 23   Alison Stokes               Valdosta-Lowndes Chamber of Commerce
+ 24   Angela Wall                 South Georgia Regional Commission
+ 25   Darrell Wilder              Valdosta Chamber State Committee
+ 

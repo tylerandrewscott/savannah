@@ -1,0 +1,611 @@
+                                                                       B&V Project 164139
+                                                                            B&V File C-1.3
+                                                                        November 23, 2009
+To:         Upper Flint Water Planning Council
+From:       Kristin Rowles, GWPPC, Robert Osborne, Stephen Simpson, Black & Veatch
+cc:         Tim Cash, Assistant Branch Chief, GA EPD
+Subject:    Meeting Summary: Council Meeting 4 on November 20, 2009
+The council meeting was held on November 20, 2009 at the South Georgia Technical
+College in Americus. The list of attendees is attached. In addition to these minutes, all
+the presentations (slides) discussed in this meeting will be posted on the Upper Flint
+Water Planning Council web portal (http://www.upperflint.org/).
+Invocation, Welcome, and Introductions
+Council member Jim Reid welcomed the Council to South Georgia Technical College
+and provided the invocation. Council Chair Donald Chase welcomed the council and
+reminded the Council of the importance of their efforts.
+Kristin reviewed the agenda and noted that she would like to move the item on planning
+for joint meetings forward on the agenda so that Donald Chase, who had to leave early,
+could participate in that part of the meeting. There were no comments, and the agenda
+was approved.
+Council Meeting 3 Re-cap and Meeting Summary Review
+Kristin Rowles summarized Council Meeting 3, which included:
+    •   Review of draft agricultural water demand forecast (comments still welcome,
+        formed subcommittee)
+    •   Approval of MOA Documents
+    •   Discussion of vision statement
+    •   Review of Public Involvement Plan (revised for consideration at Council Meeting
+        4)
+    •   Introduction to resource assessments and planning guidance
+    •   Review of municipal and industrial water demand forecast methodology
+    •   Discussion of management practices and upcoming joint council meetings
+    •   Presentation by Metro District
+ MEETING SUMMARY                                                                       Page 2
+Upper Flint Water Planning Council                                    B&V Project 164139
+Council Meeting 3                                                       November 23, 2009
+Meeting Date: November 20, 2009
+Next, Kristin reviewed the evaluation results from Council Meeting 3. She said most
+respondents (94%) felt that the meeting provided ample explanation of the goals and
+timeframe of the regional water planning process and helped them understand their roles
+and responsibilities as council members. 50% of the respondents thought that Council
+Meeting 3 was extremely useful, and 50% of the respondents found it to be somewhat
+useful. Kristin noted that most respondents (87%) have used the regional council web
+site. A detailed breakdown of the results is included in the meeting material section of
+the regional website.
+Kristin asked if members had any comments or edits to Council Meeting 3 Meeting
+Summary. There were no comments. With no objections, the Council Meeting 3 Meeting
+Summary was approved by unanimous consensus.
+Vision and Goals
+The Council discussed vision and goals. Cliff Arnett, the chair of the vision
+subcommittee, thanked the sub-committee members: Randy Starling, Brant Keller, Frank
+Keller, Buddy Leger, and Jim Reid. The vision subcommittee proposed the following
+vision statement:
+        The Upper Flint Regional Water Council’s purpose is to provide guidance,
+        leadership and education on water resource utilization within the region.
+        Through cooperation among stakeholders, this plan will assist the Council's
+        efforts to manage the region's water resources in a sustainable manner, be
+        supportive of public health and natural ecosystems, support the State's economy
+        and enhance the quality of life for its citizens.
+Kristin asked the Council Members if they had any comments or concerns. Cliff Arnett
+made a motion to accept the vision statement. The motion was approved unanimously.
+Next, Kristin said that the Council would need to adopt a set of goals in addition to the
+vision statement. She provided examples of goals adopted by the Lower Flint
+Ochlockonee and Middle Chattahoochee Councils.
+The Lower Flint-Ochlocknee Council goals are as follows:
+    1. Ensure access to water resources for existing and future water users in the Lower
+        Flint Ochlockonee region.
+    2. Sustain the region’s aquifers, most particularly the Floridan aquifer, in a healthy
+        condition that will continue to support the natural systems and economic activities
+        of the Lower Flint Ochlockonee region.
+ MEETING SUMMARY                                                                       Page 3
+Upper Flint Water Planning Council                                      B&V Project 164139
+Council Meeting 3                                                        November 23, 2009
+Meeting Date: November 20, 2009
+   3. Maintain the production agriculture based economy of the Lower Flint
+        Ochlockonee region.
+   4. Support sustainable economic growth in the region.
+The Middle Chattahoochee Planning Council goals are as follows:
+       Political: The plan will provide the technical basis to help resolve the issues
+        pertaining to water resources management and competing interests.
+       Uncertainties: The plan will provide guidance for effective policies and
+        appropriate actions during drought, economic uncertainty, regulatory or political
+        influences, and affects of climate variability.
+       River System: The Apalachicola-Chattahoochee-Flint (ACF) river systems are
+        unique asset within the region. The management of the rivers and their uses
+        (hydropower, navigation, water quality, water supply, flood control, fish and
+        wildlife, recreation and cooling water for nuclear and coal fired power plants) are
+        vital to the region. The plan may recommend adjustments to the management
+        directives and uses of the river systems in order to achieve a balance of future
+        water requirements within the region.
+       Quantity and Quality: The plan will establish the necessary goals to achieve
+        water quality and quantity throughout the Middle Chattahoochee basin.
+       Land Use Changes: The plan will acknowledge the increasing tax value of land
+        and resulting trends: increasing urbanization, fewer natural forests, and decreasing
+        agricultural land. However the plan will seek to encourage agricultural land and
+        forest land conservation by providing for their water requirements.
+       Water Balance: The plan will provide a better understanding of water balance
+        and consumptive use and clearly define returns to surface water, the need for
+        storage, and provide guidance for the increasing trend for groundwater usage.
+       Population: The plan will address the water needs for an increasing [resident]
+        population as well the increased transient population at such locations as Fort
+        Benning.
+       Conservation / Green: The plan will encourage forest, agriculture and open land
+        and habitat preservation. It will also encourage alternative energy sources, water
+        conservation, and increased protection of habitat and natural resources.
+Kristin suggested using these goals as a starting point for the vision subcommittee to
+work on the goals and be able to present the goals at the next Council Meeting. Council
+ MEETING SUMMARY                                                                       Page 4
+Upper Flint Water Planning Council                                     B&V Project 164139
+Council Meeting 3                                                        November 23, 2009
+Meeting Date: November 20, 2009
+Vice-Chair Dick Morrow said he preferred the goals from the Middle Chattahoochee
+Council because they offered more specificity. Chairman Chase liked the Middle
+Chattahoochee goals as well, but noted that agricultural areas were not in decline in this
+region as was noted in the Middle Chattahoochee goals. Beth English suggested that the
+water balance item specifically include different sectors such as power, agriculture, and
+industry. Council member Cliff Arnett noted he needed more input from the agricultural
+sector on what to agricultural issues to address in the goals. Chairman Chase said he
+thought this region had a greater mix among water users than in the Lower Flint
+Ochlockonee region, and the goals needed to reflect this balance of users. Chairman
+Chase said that the importance of agriculture in the southern tier of this region should be
+recognized, but that the mix of uses throughout the region should also be recognized.
+Cliff Arnett asked if water quality was a concern for the Council, and Vice Chairman
+Morrow and Member Raines Jordan said that water quality is an important goal.
+The subcommittee will draft a set of goals for the regional water development and
+conservation plan. The Council will consider the goals for adoption at its next meeting.
+Planning for Joint Meetings
+Kristin reminded the council that the objective of the six upcoming joint council meetings
+is to provide Council members with a working knowledge of the resource assessments,
+both the process and the results. The working knowledge will facilitate understanding of
+the resource assessments and allow planning to move forward with gap analysis and
+management practices selection.
+Next, Kristin reviewed the agenda for the joint council meetings:
+            •   Welcome and Charge to Meeting Participants (15-30 minutes)
+            •   Resource Assessment Presentation and Discussion: Ground Water (~90
+                minutes ), Surface Water Quantity (~90 minutes) and Surface Water
+                Quality (~100 minutes)
+                   o Overview of Methodology and Assumptions
+                   o Results Specific to the Basin; Crosses planning council boundaries
+            •   Future steps and wrap up (20-45 minutes)
+            •   Technical Discussions Open House (stations for each resource assessment)
+                (60-120 minutes)
+Kristin then reviewed both the watersheds and groundwater maps to help Council
+Members decide which of the joint meetings they want to attend. Kristin reminded the
+Council Members that Council Meeting 5 was going to be held in March. Cliff Arnett
+asked what the council expects for the attendees to do at the joint meetings. Kristin
+noted that attendees should be able to be able to report back from the Council with the
+ MEETING SUMMARY                                                                     Page 5
+Upper Flint Water Planning Council                                     B&V Project 164139
+Council Meeting 3                                                       November 23, 2009
+Meeting Date: November 20, 2009
+highlights. Kristin provided a sign-up sheet for the joint meetings and asked members to
+indicate which meeting they plan to attend.
+At this time, Donald Chase had to leave the meeting, and Dick Morrow (Vice Chair)
+presided over the remainder of the meeting.
+Public Involvement Plan
+Kristin reviewed several edits to the Public Involvement Plan (PIP), which was presented
+at the last meeting. The revised PIP was included in the Council’s pre-meeting packet.
+Kristin asked if there were any additional comments or concerns. Kristin noted this plan
+will be an appendix to the regional Water Development and Conservation Plan.
+With no objections, the revised Public Involvement Plan was adopted by consensus.
+Regional WDCP Outline
+Kristin discussed the primary parts of the regional water development and conservation
+plan (WDCP) and reviewed important milestones, roles, and responsibilities for the
+Council in the planning process. First, she noted that the State Water Plan (Section
+14(7)) lays out required principal elements of WDCPs:
+     •   Describe the region’s water resources, water users, local governments and
+         education and implementation partners
+     •   Forecast through 2050: population, domestic water use, commercial water use
+     •   Compare forecasts with the water resource assessments
+     •   Based on the comparison, recommended management practices for region
+     •   Outline additional data and information needs
+     •   Determine benchmarks for assessing plan effectiveness
+Next, Kristin noted some things that Council Members need to consider for the WDCP:
+     •   Plans will have a mix of EPD-provided information and Council-led products
+     •   “Audiences” for plan
+     •   Fulfillment of regional vision and goals
+     •    Maps, figures, tables
+     •   Council member expectations
+     •   “Extra elements” beyond the minimum
+She noted that a Table of Contents for the plan will be available at Council Meeting 5
+(CM5). Kristin then reviewed Council roles and responsibilities, as shown below, noting
+which were already addressed or underway.
+ MEETING SUMMARY                                                                        Page 6
+Upper Flint Water Planning Council                                       B&V Project 164139
+Council Meeting 3                                                          November 23, 2009
+Meeting Date: November 20, 2009
+    RegionalRegional
+                  Water Planning
+                               Water Council
+                                         Planning   Roles
+                                                      Council
+                                                            and Responsibilities
+                                                                  Roles and
+                                      Responsibilities
+      1: Attend and actively participate in regional water planning council meetings
+      2: Sign a MOA and follow operating procedures
+      3: Finalize and follow the Public Involvement Plan
+      4: Receive and incorporate input from local governments and the public
+      5: Draft regional vision and update throughout the planning process
+      6: Understand the water resource assessments
+      7: Understand forecasts of water and wastewater demands
+      8: Compare results of resource assessments with water and wastewater
+      forecasts in order to identify any “gaps”
+      9: Select, refine, and finalize selection of management practices
+      10: Coordinate with neighboring regional water planning councils regarding the
+      selected water management practices
+      11: Prepare a recommended regional water plan and submit to the Director of
+      EPD for review and approval. Make revisions based on comments from EPD and
+      the public.
+Kristin said she wanted to define a couple of terms the council will be hearing quite a bit
+in the coming months:
+        Water Resource “Gap”: For quantity, this is the difference between the available
+         resource (i.e., supply) and the sum of needs/demands. For quality, this is the
+         difference between the capacity of receiving waters to assimilate wastewater and
+         the sum of needs/demands associated with the discharge of wastewater. A water
+         quality gap also occurs where water quality standards are violated. A gap may be
+         defined geographically or by water use type (surface water, groundwater).
+        Management Practice: Any program or activity that helps meet the regional vision
+         and goals or that can be employed to ensure that there is sufficient water (surface
+         and groundwater quantity) and assimilative capacity (surface water quality) to
+         sustainably meet future needs. Management practices can increase resource
+         capacity and/or adjusts forecasted demands.
+Kristin then reviewed the next steps for this process which included:
+             •   Resource Assessment Models – January 2010 (Joint Council Meetings)
+             •   Management Practices Survey – Early 2010
+ MEETING SUMMARY                                                                         Page 7
+Upper Flint Water Planning Council                                      B&V Project 164139
+Council Meeting 3                                                        November 23, 2009
+Meeting Date: November 20, 2009
+            •   Initial discussion, selection, and refinement of Management Practices –
+                Council Meetings 5, 6, and 7
+            •   Finalize selection of Management Practices by December 2010
+The council members had the following questions:
+       Brant Keller asked if there were going to be any “dollar and cents” associated
+        with these management practices. Kristin said that the Council can review costs
+        associated with the management practices.
+       Cliff Arnett was concerned that the Council not overlook ongoing water quality
+        studies. A council member asked if we are going to get a better handle on the
+        status quo of our water resources. Kristin said this will be part of the January
+        joint meetings which will discuss both quantity and the quality of our water
+        resources. Kristin noted Liz Booth with EPD will be discussing some of this later
+        in the meeting.
+       Brant Keller suggested a presentation for the Flint River Plan. Kristin said this
+        was a great point. She noted that they had already done a similar presentation for
+        the Lower-Flint Ochlockonee. This presentation was later incorporated into the
+        meeting.
+       Beth English asked if this management survey could also include suggestions for
+        best management practices from outside the region to consider. Kristin said yes.
+Agricultural Water Demand Forecasts
+Kristin reminded the members about the review of the agricultural water demand
+forecasts at the last council meeting. She noted that in this region, dairy was brought up
+as an example of an agricultural sector for which there was a data gap. She said that input
+was still being sought to identify data gaps in forecasts and that the agriculture forecasts
+are available through council website. Next, she explained several things that had
+happened since the last council meeting to address “gaps” in the forecasts.
+She noted that the Farm Bureau was working with several statewide agricultural
+organizations and state agencies to develop state level estimates for various agricultural
+sectors that were not included in the forecasts (non-irrigation agricultural water use and
+users below 100,000 gallons/day). Several water planning councils have formed
+subcommittees to investigate these types of agricultural water-use.
+Through the Georgia Farm Bureau led effort, data are currently being compiled from the
+various sectors of concern, and it is expected that these data will be available to the
+subcommittees and councils in the next few weeks. These estimates will provide a
+ MEETING SUMMARY                                                                        Page 8
+Upper Flint Water Planning Council                                     B&V Project 164139
+Council Meeting 3                                                       November 23, 2009
+Meeting Date: November 20, 2009
+“snap-shot” of current data in these agricultural water-use sectors, but will not include
+projections of future use. Upon receipt of these estimates, the councils and the
+subcommittees can decide on how to include this information in their own regional plans.
+Council member Cliff Arnett expressed concern that the council is being asked to spee
+up, but that it seems like we are waiting on data. Kristin said that was a common concern
+that has been expressed by many of the councils.
+Industrial Water Forecast
+Robert Osborne explained that there were four major water use forecasting modules
+which included:
+    •   Agricultural – Major forecasts complete; evaluating if/how to incorporate
+        small/unpermitted uses
+    •   Energy – Forecasts under development with assistance from power/energy
+        companies
+    •   Municipal – Includes residential, commercial, and light industrial water use
+    •   Industrial – Major water using industries
+Robert explained that he would mostly focus on the industrial forecasts at this meeting.
+These forecasts are based on the continuation of current trends and practices into the
+future. Robert emphasized that these forecasts form the basis for regional water
+planning, not for making individual permit decisions
+Robert then presented the following graphs which showed industrial water withdrawal as
+a percent of the total withdrawals in Georgia and the combined withdrawals of the 13
+major industries as a percent of the total industrial withdrawal in Georgia. Industrial
+water use is only 11% of the total withdrawals in Georgia, and 90% of the industrial
+water use is utilized by 13 major industrial use categories. These are the focus of the
+forecasting effort.
+ MEETING SUMMARY                                                                        Page 9
+Upper Flint Water Planning Council                                       B&V Project 164139
+Council Meeting 3                                                         November 23, 2009
+Meeting Date: November 20, 2009
+           Industrial Water Withdrawal Percentages
+Robert said that water use by NAICS category increases at the same rate as NAICS
+employment (growth estimates competed by CVIOG). However, if NAICS employment
+decreases, then NAICS water use remains the same. Robert presented the results.
+Differences between the forecasts will be discussed with industry representatives. Robert
+said current forecasts are being shared with the industry ad hoc group and the public (via
+website).
+Council members had the following questions and comments:
+    •   Cliff Arnett was concerned about validity of the methodology and the margin of
+        error. Brant Keller noted he was concerned that industrial water use numbers
+        based on employment are not as scientific as he would like to see. He said that it
+        would be possible for a plant to have layoffs, but it could still use the same
+        amount of water.
+    •   Dick Morrow and Robert Osborne discussed industrial per capita vs. overall
+        municipal per capita and how the large industrial has been removed from the
+        municipal per capita estimates. Dick Morrow asked about small industries that get
+        water from a municipal system. Those water use numbers would be part of the
+        municipal numbers. Liz Booth (EPD) mentioned that the water supplied to
+        industry must still be accounted for by the municipal numbers, and vice versa.
+        Robert Osborne clarified that industry water use was being moved from the
+        municipal water forecasts to be accounted for in the industrial water forecasts.
+ MEETING SUMMARY                                                                         Page 10
+Upper Flint Water Planning Council                                       B&V Project 164139
+Council Meeting 3                                                          November 23, 2009
+Meeting Date: November 20, 2009
+    •   Brant Keller said that commercial water use skews the residential water use
+        numbers. He provided an example of a small industry that had closed and caused
+        a drop of 10% of his system’s water demand. There must be more discussion on
+        how these data will be used.
+    •   Cliff Arnett wanted to know when we would get the ad hoc data. Robert said he
+        could share the data in December with the council or subcommittee.
+    •   Brant Keller noted he would like to see the background data. Brant said for his
+        system, water use data are broken down into commercial, residential, industrial,
+        and whole-sale. Robert said that this will be distributed so that the committee
+        members can assist in filling in the data gaps.
+    •   Brant Keller asked whether the municipal and industrial forecasts considered the
+        Water Conservation Implementation Plan (WCIP). He said that the DNR Board
+        would soon be promulgating rules related to the WCIP. Tim Cash said that this
+        DNR Board action would probably not be until next year.
+Dick Morrow asked who was on the municipal subcommittee. The following members
+are on this subcommittee: Cliff Arnett, Bill Sawyer, Dick Morrow, Beth English, Hays
+Arnold, and Michael Beres. Dick invited non-council members to attend the sub-
+committee meetings. He directed them to contact Kristin if they would like any
+information on the subcommittee.
+Energy Water Use
+Robert explained that the future energy forecasts will focus on thermoelectric power
+production and the associated water needs. Basic steps will involve the following:
+    •   Conducting an inventory of current power generating facilities
+    •   Verifying facility location, fuel type (e.g. coal, natural gas, nuclear), cooling
+        system characteristics, operating capacity, total water intake and water
+        consumption
+    •   Analysis of national and regional trends
+    •   Developing a method to quantify growth rate for future forecasting
+Robert noted that there are several influencing factors associated with the energy
+forecasts including:
+    •   Amount of power needed (function of rate of growth in population and economy)
+    •   Future mix of fuel types (e.g., coal, natural gas, nuclear, biomass, wind, sun)
+    •   Geographic distribution of thermoelectric power water demand
+    •   Primary generation method (e.g., steam turbine, gas turbine, combined cycle)
+ MEETING SUMMARY                                                                       Page 11
+Upper Flint Water Planning Council                                      B&V Project 164139
+Council Meeting 3                                                         November 23, 2009
+Meeting Date: November 20, 2009
+    •   Cooling system (e.g., once-through cooling versus closed-loop cooling)
+    •   Determination of geographic placement of fuel types within Georgia
+These forecasts are expected to be available at CM5.
+Water Quality Assessment
+Dr. Liz Booth with Georgia Environmental Protection Division (EPD) explained that the
+surface water quality assessment involves determining the streams’ assimilative
+capacities. The assimilative capacity is the amount of contaminant load that can be
+discharged to a specific water body without exceeding water quality standards or criteria.
+The assimilative capacity is the ability of a water body to naturally absorb and use a
+discharged substance without water quality becoming impaired or aquatic life being
+harmed.
+She noted a stream that is impaired is one that is not meeting the water quality standard
+for a given parameter. This means that the ability of the stream to assimilate that
+parameter has been exceeded. Impaired streams are listed on the 305(b)/303(d) lists.
+Listings are for violations of standards for organics, pH, toxicity, dissolved oxygen, and
+fecal coliform. Additionally, listings are made based on fish consumption advisories and
+biota levels. Dr. Booth showed slides with listed streams in the region and the state
+marked. For the region, approximately half of all impaired listings are listed for fecal
+coliform.
+As part of EPD’s assessment of assimilative capacity state-wide, EPD will determine the
+available assimilative capacity for the state rivers, streams, lakes and estuaries by
+developing water quality models for these water bodies using available data and
+conservative assumptions. The models will be calibrated to existing field data and
+discharge data from the same time period. The current wasteload allocations will be
+evaluated by inputting the permitted and newly proposed dischargers into the model at
+their permit limits. The results of the model will show areas with available assimilative
+capacity and areas that are already over-allocated or where there are other challenges.
+The EPD is using several types of computer models to evaluate assimilative capacity:
+Steady State River and Stream Models; Steady State Estuary Models; Hydrodynamic
+River Models; Watershed models; and Lake and Estuary Models. Some of the models
+include: GA DOSAG (steady state), GA ESTUARY (steady state), GA RIV-1
+(hydrodynamic), LSPC (watershed model), EFDC and WASP (lake and estuary models).
+Dr. Booth said that the DOSAG model is a workhorse tool that the agency uses to
+determine waste load allocations for NPDES discharge permits. For the assessment, EPD
+is developing steady state GA DOSAG models for the whole state and GA ESTUARY
+models for those estuaries that have discharges in them. EPD will also be developing
+watershed models for those areas noted in a map included in the presentation. She noted
+ MEETING SUMMARY                                                                      Page 12
+Upper Flint Water Planning Council                                      B&V Project 164139
+Council Meeting 3                                                        November 23, 2009
+Meeting Date: November 20, 2009
+river and lake models will be developed for the Chattahoochee River Basin downstream
+for Buford Dam and the entire Flint River Basin.
+The watershed models LSPC will be developed and linked to three dimensional
+hydrodynamic lake and estuary models EFDC or WASP. The watershed models will
+predict the flow and storm water quality based on landcover, impervious surface, surface
+slope, soil, and meteorological data. The milestones for completion include:
+       DOSAG Models (Cal/Val) – December 2009
+       Current Assimilative Capacity Runs – January 2010
+       Watershed Model (Cal/Val) – June 2010
+       River Model (Cal/Val) – September 2010
+       Lake Blackshear Model (Cal/Val) – September 2010
+       Current Assimilative Capacity Runs (Watershed, River and Lake) – November
+        2010
+The future assimilative capacity assessment will be performed using the calibrated
+models to evaluate the water quality impact of forecasted flows, proposed discharge
+locations, and future landuse patterns. Based on the model results, a range of discharge
+allocation options will be proposed. Using an iterative approach, the councils can
+evaluate various options for management. Best management practices will be used to
+bridge gaps. Management practices might include tighter permit limits, moving the
+location of a discharge to a stream that has more assimilative capacity, or developing
+green infrastructure for stormwater management.
+Dr. Booth said that modeling related to nutrients would not be done until late in 2010, but
+that nutrients would likely be of greater importance in the ACF Basin in the coming year.
+In early 2010, Florida is establishing nutrient standards, and these standards will affect
+the whole ACF Basin.
+Council members had the following questions and comments:
+    •   Cliff Arnett asked about nonpoint source pollution in DOSAG. Dr. Booth advised
+        that nonpoint sources are not included in the low flow critical conditions modeled.
+    •   Cliff Arnett asked whether the Upper Flint was modeled. Dr. Booth replied that
+        the DOSAG model should be done in January 2010, and the watershed model for
+        the Flint above Lake Blackshear by fall 2010.
+    •   Dick Morrow said that EPD had formerly stated a preference for wastewater
+        treatment by land application, but that preference had seemed to change in favor
+        of discharges. He asked what the current thinking was on this. Dr. Booth replied
+        that it depends on the assimilative capacity of a system.
+    •   Joel Wood asked if there would be nutrient load limits for Lake Blackshear. Dr.
+        Booth said that these would be developed eventually.
+ MEETING SUMMARY                                                                     Page 13
+Upper Flint Water Planning Council                                     B&V Project 164139
+Council Meeting 3                                                        November 23, 2009
+Meeting Date: November 20, 2009
+Dr. Booth said the baseline resource assessments should be completed by the end of the
+year. Then, EPD will be able to model future scenarios with future withdrawals and
+returns provided by the councils.
+EPD Director
+Tim Cash discussed the fact that EPD has a new Director, Allen Barnes. He reported that
+Director Barnes had a full day meeting on the state water plan to be briefed and brought
+up to speed, and that he had expressed a high level of interest in meeting with the
+Chairs/Vice Chairs in December. An announcement of the new director was in the
+meeting packet.
+Flint Plan Update
+Earlier in the meeting, Council members had requested an overview of the existing Flint
+Plan. Because the meeting was ahead of schedule, Mark Masters with the Georgia Water
+Planning and Policy Center (GWPPC) presented an overview of the Flint Plan. The Flint
+Plan involved scientific assessment of water resources and led to adoption of new water
+resource management practices. Mark reviewed the assessment process and the new
+management practices that came from the Flint Plan. Mark’s slides are available through
+the Council web portal.
+During the development of the Flint Plan, there was a moratorium on new agricultural
+groundwater withdrawal permits from the Floridan aquifer. The technical studies for the
+Flint Plan demonstrated that groundwater withdrawals do affect streamflow in the basin.
+One outcome of the technical work was a map now used in permitting withdrawals,
+including varying restrictions for capacity use, restricted use, and conservation use areas,
+based on the impact on flows. With the adoption of the Flint Plan and the adoption of
+new management practices for agricultural withdrawals, the moratorium was lifted in
+March 2006.
+Council members had the following questions:
+    •   Cliff Arnett asked how the development of the plan was funded. Mark said it was
+        through EPD.
+    •   Joel Wood asked whether an agricultural withdrawal permit transfers with land in
+        a land sale. Mark answered yes. Mr. Wood asked how they could be sure that
+        maintenance plans would be followed by the new owner. Mark responded that
+        new owners would be expected to fulfill the permit requirements, including
+        maintenance requirements.
+ MEETING SUMMARY                                                                      Page 14
+Upper Flint Water Planning Council                                     B&V Project 164139
+Council Meeting 3                                                        November 23, 2009
+Meeting Date: November 20, 2009
+    •   Some members asked about the requirement for agricultural water meters. Mark
+        said that meters were required for new permits, and under the state metering
+        program, older withdrawal (pre-2003) had meters provided to them by the state.
+    •   A council member asked when was the plan adopted. Mark said the final plan was
+        adopted in March 2006. The DNR Board adopted related rules in February 2006.
+    •   Cliff Arnett asked whether the Flint Plan would be reviewed, as specified, after 3
+        years. Tim Cash said that the plan would be reviewed as a part of this planning
+        process. He also noted that the Flint Plan does not directly affect this region.
+Lunch
+Don Smith, assistant to the president of South Georgia Technical College, gave the
+council an overview of the college during lunch.
+Groundwater Resource Assessment
+Dr. Jim Kennedy, State Geologist, spoke about the groundwater assessments. He said a
+comprehensive accounting of the sustainable yields of all aquifers in Georgia would be
+extraordinarily expensive and time consuming. Therefore, assessments of sustainable
+yield for aquifers had been prioritized. The bases for aquifer prioritization include the
+following:
+       Functional characteristics of the aquifer (extent and thickness, recharge to the
+        aquifer, well yield)
+    •   Existing evidence of adverse effects due to withdrawals
+    •   Forecasts suggesting significant increases in demands
+    •   Aquifers where it will not be possible to determine sustainable yield within a
+        reasonable time period.
+Dr. Kennedy explained the different aquifers in Georgia as shown in his slide below.
+ MEETING SUMMARY                                                                    Page 15
+Upper Flint Water Planning Council                                    B&V Project 164139
+Council Meeting 3                                                       November 23, 2009
+Meeting Date: November 20, 2009
+                  Georgia’s Aquifers
+                                        USGS Fact Sheet 2006-3077
+                                                                            2
+Dr. Kennedy explained that numerical (MODFLOW) computer models of Coastal Plain
+aquifers where most groundwater is withdrawn, where groundwater withdrawals have
+caused some unacceptable impacts, and where forecasts suggest increases in future
+withdrawals are being completed. Unacceptable impacts include saltwater intrusion,
+sinkholes, affects on surface water flows, and high groundwater level drawdowns.
+After reviewing a series of groundwater maps, Dr. Kennedy explained the sustainable use
+benchmarks which were used for the assessment, including the following:
+     • Drawdowns of groundwater levels between pumping wells in the pumped aquifer
+         do not exceed 30 feet so as not to affect nearby wells
+     • Do not decrease stream flow below 60 percent of the mean annual discharge
+         during April to September and 40 percent during October to March (Tennant
+         method “outstanding” flow to maintain a health aquatic ecosystem)
+     • Over time the reduction in aquifer storage becomes asymptotic to a new base
+         level
+     • Do not lower groundwater levels below the top of a confined aquifer (thereby
+         making the aquifer unconfined)
+     • Do not exceed the ability of the aquifer to recover to baseline groundwater levels
+         between periods or higher pumping during droughts
+Dr. Kennedy said preliminary results show sustainable yield, both above and below the
+fall line, is generally higher than current withdrawals. Dr. Kennedy said he does not
+ MEETING SUMMARY                                                                       Page 16
+Upper Flint Water Planning Council                                       B&V Project 164139
+Council Meeting 3                                                         November 23, 2009
+Meeting Date: November 20, 2009
+know how much the yield exceeds withdrawals, but that he will have the results ready to
+present in January.
+Questions and comments from the Council members included the following:
+   •   Lynmore James asked if Georgia has considered pumping water into the aquifer.
+       Dr. Kennedy responded that this practice, known as Aquifer Storage and Recovery
+       (ASR) is done in many places, such as Florida and South Carolina. The water is
+       treated prior to injection into the aquifer. Dr. Kennedy said that current regulations
+       prohibit ASR in Georgia in the Floridan aquifer. This prohibition sunsets in June
+       2014. He said that ASR is being evaluated in North Georgia at this time.
+   •   Cliff Arnett was curious about fractured rock north of the Fall Line and whether
+       there are techniques available to reliably assess the availability and sustainability
+       of groundwater within those fractures. Dr. Kennedy said yes, and he identified
+       Nils Thompson of LBG as an experienced modeler, especially in using
+       MODFLOW, in all of the physiographic provinces of Georgia.
+   •   Terrell Hudson asked whether septic and land application systems are 100%
+       consumptive. Dr. Kennedy explained that most of this water comes back to the
+       system, but it takes time, possibly more than 20 years.
+   •   Frank Keller asked how confident we could be in the computer projections. Dr.
+       Kennedy replied that he had confidence in the projections. He explained that
+       professional judgment was also important (as well as computer models).
+   •   Cliff Arnett asked about the importance of recharge areas to availability of water.
+       Dr. Kennedy said this is an important question for the coastal plain. He said that
+       many recharge areas are just below the fall line (within about 40 miles) and that we
+       need to be careful about use in these areas.
+Local Elected Officials and Public Comments
+Next, the Council provided time for local elected officials and the general public to
+address the council. Representative Lynmore James said that he was learning a lot in this
+process. There were no members of the general public who spoke.
+Wrap-Up and What to Expect Next Meeting
+The Council selected March 19, 2010, for its next meeting. It was suggested that the
+meeting be in Cordele or at Lake Blackshear. Kristin will check on availability of the
+Lake Blackshear facility.
+ MEETING SUMMARY                                                                 Page 17
+Upper Flint Water Planning Council                                B&V Project 164139
+Council Meeting 3                                                   November 23, 2009
+Meeting Date: November 20, 2009
+Council Meeting 4 Evaluation
+At the conclusion of the council meeting, the members completed an evaluation form on
+the meeting, and the meeting was adjourned.
+ MEETING SUMMARY                                                         Page 18
+Upper Flint Water Planning Council                          B&V Project 164139
+Council Meeting 3                                             November 23, 2009
+Meeting Date: November 20, 2009
+Attachment 1:
+Upper Flint Water Planning Council
+Council Meeting Attendance – November 20, 2009
+Council Members
+Clifford Arnett                              Terrell Hudson
+Hays Arnold                                  Lynmore James
+Mike Beres                                   D. Raines Jordan
+Michael Bowens                               Frank Keller
+Gene Brunson                                 Brant Keller
+Donald Chase                                 Buddy Leger
+William Culpepper                            Dick Morrow
+Beth English                                 Gary Powell
+Harold Fallin                                Jim Reid
+Eddie Freeman                                Bill Sawyer
+George Hooks                                 Joel Wood
+Council Members Not In Attendance
+Greg Barineau                             Lamar Perlis
+Tommy Burnsed                             Kip Purvis
+Mike Donnelly                             Charles Rucks
+Jack Holbrook                             Randall Starling
+Planning Consultants                      Other Agencies
+Robert Osborne, B&V                       Jimmy Evans, GA DNR
+Steve Simpson, B&V                        Steve McWilliams, GA Forestry
+Mark Masters, GWPPC                       Association
+Kristin Rowles, GWPPC
+Nils Thompson, LGB
+Georgia EPD
+Tim Cash, Assistant Branch Chief
+Bill Morris
+Georgia Soil and Water Conservation
+Commission
+Ben Mosely
+Georgia Department of Community
+Affairs
+Corinne Thornton
+ 

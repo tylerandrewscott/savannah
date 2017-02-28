@@ -1,0 +1,803 @@
+
+
+B&V Project 164139 B&V File C-1.4  
+
+September 21, 2009  
+  
+ To:    Middle Chattahoochee Water Planning Council 
+ From:    Jim Hawkins, Black & Veatch and Steve Simpson, Black & Veatch 
+ cc:     Tim Cash, Assistant Branch Chief, GA EPD 
+ Subject:   Meeting Summary: Council Meeting 3 on September 16, 2009 
+  
+The council meeting was held on September 16, 2009 at Callaway Gardens.  The list of attendees is attached.  In addition to these minutes, all the presentations (slides) discussed 
+in this meeting will be posted on the Middle Chattahoochee web portal (http://www.middlechattahoochee.org/). 
+ Welcome and Introductions and Chairman's Discussions
+
+  
+
+Council Chair Matt Windom stated that a quorum was present and started the meeting with an invocation.  Council member Paul Chappell welcomed attendees and thanked 
+everyone for attending.  Matt Windom introduced new council member Joe Maltese.  Next, Matt allowed members of the public to introduce themselves.  The public sign-in 
+sheet is included as an attachment.  
+Matt thanked everyone for attending and reviewed the meeting's objectives which included: 
+  1)  Receive agricultural water use forecasts 
+
+2)  Prepare Regional Vision 3)  Plan for Joint Meetings to Receive Resource Assessments and continue resource 
+
+assessment discussion 4)  Finalize MOA documents 
+5)  Begin municipal and industrial water forecasting 6)  Discuss management practices 
+ Matt reviewed the items on the agenda and asked if there was consensus on the agenda.  
+There were no comments and the agenda was approved by consensus.  
+Matt asked if there any comments or changes for the Council Meeting 2 meeting minutes. There were no comments and the meeting minutes were approved by consensus. 
+  
+
+MEETING SUMMARY  Page 2  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+   
+
+Agricultural Water Demand Forecasts  
+Matt introduced Dr. Jim Hook, who is recently retired from the UGA National Environmentally Sound Production Agriculture Laboratory (NESPAL), and who is 
+working under contract to GA EPD to prepare the agricultural water demand forecasts for the water planning process. The forecasts are available on the following website: 
+http://www.nespal.org/sirp/waterinfo/State/awd/agwaterdemand.htm  It was noted that there is also a link to this website from the Council's web portal. 
+ The agricultural water demand forecasting team included Dr. James E. Hook, Crop and 
+Soil Sciences and NESPAL; Dr. Gerrit Hoogenboom and Dr. Joel Paz, Department of Biological and Agricultural Engineering; Dr. Jeffrey Mullen and Dr. John Bergstrom, 
+Agricultural and Applied Economics; and Dr. Mark Risse, Biological and Agricultural Engineering.   
+ Dr. Hook explained that the purpose of the agricultural water demand forecasting project 
+was to prepare projections of irrigation water demand that will meet the needs of the agricultural sector for the Georgia economy during the first half of this century. The 
+projections cover row and orchard crops, as well as most vegetable and specialty crops, that cover more than 95% of Georgia's irrigated land.
+
+   
+
+Dr. Hook said that the projections assume that there would be no changes in regulation and that resource and land availability would not be limiting. He noted that the approach 
+to forecasting agricultural water demand, like all forecasting, looks to trends from the past and considers foreseeable changes.  He also noted the benefits and problems in using 
+computer models for forecasting.   
+The steps in forecasting agricultural water demand included the following: 1.  Determine "baseline" irrigated acreage. 
+
+2.  Identify withdrawal sources (groundwater, surface water, ponds). 3.  Project major crop acres through 2050. 
+4.  Calculate crop water needs for wet, normal, and dry years. 5.  Project agricultural water withdrawals 2011-2050. 
+ The effort started with baseline data on irrigated crops.  Hook noted that the projections 
+are based on existing, mapped irrigation locations because they expect that: (1) farmers will continue to use their investments in existing hardware; (2) farmers will expand 
+irrigation near existing irrigated fields; (3) Existing irrigation areas have proven water supplies, suitable soils, and established farm support; and (4) all GA counties have room 
+for irrigation growth.  For water sources, the projections assume that 2008 sources will continue to be used in the same proportions (70% groundwater, 30% surface water). 
+  
+
+MEETING SUMMARY  Page 3  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ The forecasters used projections from the USDA, from a Southeast Regional model, and 
+
+from a GA model to determine which crops would be planted on the projected acres.  In making the projections, the forecasters assumed economic conditions will reflect nearterm effects of the current economic crisis followed by a transition back to steady economic gains.  They relied on the Southeast regional and Georgia models to reflect 
+Georgia farmers' preferences among crop choices.  To combine the outputs of the models for crop acreages (USDA, SE, GA), the forecasters assumed that the projected acreage 
+would best be projected as the average of the National, Southeast and Georgia models.  
+Next, the forecasters determined the water needs of the projected crop acreages.  The water needs of crops grown in GA are known and can be modeled.  The projections do 
+not include any climate change scenarios.  To project irrigation water needs, the forecasters assumed that irrigation replaces rainfall deficit in a given year, and they made 
+projections for wet, average, and dry years based on weather patterns of the past 60 years.  
+To pull the pieces together, the forecasters then made the following calculation: Projected irrigated area of each crop (acres) multiplied by the predicted monthly irrigation depth for 
+the crop (inch) multiplied by the fraction of water from the water source.  The results were then converted from acre-inches to million gallons per day (MGD).   
+ Overall, the results show that there will be slight increases in Georgia's agricultural 
+irrigation water use over the next 40 years.  There is a wide range in the demand projections between wet and dry years.  Across the state, irrigated crop acreage is 
+expected to increase slowly at an average of about 0.5% per year.   
+Dr. Hook reviewed some of the county and region level data from the Middle Chattahoochee region.  Dr Hook showed that Middle Chattahoochee region only has 2% 
+of the agricultural irrigation demand from groundwater and 5% of agricultural irrigation demand from surface water as a percentage for the entire state. 
+ While the overall projections are annualized, the website includes seasonal projections 
+for water use. Council Members asked the following questions:  
+Jeff Lukken asked about the total irrigated acres projected for the state and noticed the increase in the crop mix for cotton.  Jeff asked where this data came from.  Dr. Hook said 
+this data was from the USDA.  
+Ken Penuel asked about what was not included into these projections.  Dr. Hook noted that the following water use components are not included in the agricultural water 
+demand forecasts:  1.  Commercial & Industrial Landscape irrigation 
+
+2.  Home lawn & landscape irrigation  
+
+MEETING SUMMARY  Page 4  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+  3.  Golf courses and athletic fields (sod farms producing turf for retail sale are 
+
+included) 4.  Retail nurseries and greenhouses (large production nurseries and greenhouses are 
+included) 5.  Non-irrigation water use on farms including livestock water, processing of farm 
+products and aquaculture  
+Jim Hawkins asked if the total farm land was projected to increase in Georgia.  Dr Hook said yes and this was due to the increase of non-irrigated land and farmers often 
+rearranging fields.    
+One Council member noted most of the agricultural land was in Stewart and Clay counties and that actually most of the land drains into the Flint River Basin 
+ Ken Penuel asked if any restrictions in the Clayton aquifer were incorporated into the 
+forecast.  Dr Hook stated that they assumed there was no restrictions on land and water use when doing the forecasts.   
+ Joe Maltese asked if there was any relationship between what the farmer produces and 
+the resource limitation. Dr Hook stated that two questions determine what the farmer produces.  Can the farmer make a profit?  Can the farmer get access to the water through 
+EPD permit?    
+One council member asked about what water sources do farmers use?  Dr Hook said farm pond usage has relatively stayed the same, but the real growth has been in groundwater 
+use.  
+Aaron McWhorter asked if the stated EPD permit allocation (the maximum allowable amount stated in the permit) was used in the forecast rather than the actual usage.  Dr. 
+Hook stated that irrigation water demands were not based on EPD Permits, but rather how much water was needed for the crops.  After some discussion, Dr Hook noted that he 
+doesn't know if the water resources can meet the forecasted demands.   
+Tim Cash suggested we invite representatives from Soil & Water Conservation Service and EPD Ag Permitting to discuss details of ag permitting. 
+ Dr. Hook showed the projected statewide agricultural irrigation water demand through 
+2050 from Surface and Groundwater sources.  
+Council member Ken Penuel asked if the increase in the projected statewide agricultural irrigation water demand through 2050 was simply linear with an associated increase in 
+farm acreage.  Dr Hook replied that this was not correct, that the projections were made  
+
+MEETING SUMMARY  Page 5  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ based on increasing irrigated land area and anticipated changes in crop types (i.e. the 
+
+projections assume a different mix of crops).  
+Paul Chappell noted that Dr. Hook's data on nursery and sod production acres are much lower than this industry believes is correct 1200 versus 126 in the forecast.  Dr. Hook 
+stated that this data is reported through soil extension service office estimates and are not as accurate as other irrigation acre data.  The Council discussed how they might help 
+gather more accurate data on nursery, sod, and other uses that may be small acreage, under the current permitting limit of 100,000 gpd, but that collectively may use 
+significant water quantities.    
+Matt Windom asked if these forecasts were available for comment.  Dr. Hook said yes and that the comments should be submitted from the Council to EPD.  Dr. Hook 
+emphasized that sources of data were important.  
+Gordon Moss asked if Dr. Hook was forecasting more severe droughts. Dr. Hook said there was some debate but they did not include any such forecasts. 
+ Joe Griffith asked if livestock water use was included.  Dr. Hook said no, but would be 
+considered as a part of industrial water demands if large enough to be metered.  
+Jim Hawkins suggested a sub-committee may need to be formed to address any comments or suggestions with the agricultural forecasts.  Paul Chappell agreed to chair 
+this sub-committee and Matt Windom said other Council members interested should contact Paul. 
+ Water Ruling Discussion 
+ The council watched a short video message from Governor Sonny Perdue about the 
+ruling and the importance of the Council's work. Council Chair Matt Windom provided some additional background summarizing the court ruling.  Matt advised that the ruling 
+was being appealed, negotiations with Alabama and Florida were being attempted, the state was performing contingency planning, and that a congressional reauthorization of 
+project purposes was being pursued.  Matt asked if there were any questions.   
+Jeff Lukken noted that the US Army Corps of Engineers had just appealed the decision.  
+Ken Penuel asked for a show of hands from Council Members who went to the Governor's meetings (approximately 15 of the council members attended).  Ken noted 
+several interesting facts that the Governor highlighted in the meeting.  The Governor said that of the Flint and Chattahoochee Rivers water that crosses the GA/FL state line, 
+Atlanta uses only 1% of the total water flow and the rest of the river basin users in the  
+
+MEETING SUMMARY  Page 6  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ Flint and Chattahoochee basins use only 1%.  Ken expressed concern that Florida's desire 
+
+for higher river flows affects both Flint and Chattahoochee Rivers basin users.  
+Council member Larry Clark commented that the Middle Chattahoochee region appeared to have adequate water resources, but that he does not have a high confidence in water 
+stewardship of Atlanta upstream of the region.  
+Steve Simpson suggested a future presentation by the Metropolitan North Georgia Water Planning District to discuss their plans may be useful for the Council to hear.  Council 
+Chair Matt Windom supported this idea.  
+Gordon Moss commented that it was interesting to hear the governor state that we, as in Georgia, are all one family and that Georgia users have a right to usage of the river. 
+ Visioning 
+ Jim Hawkins provided a review of the purpose of the vision statement and how it is being 
+developed by the Council.  Jim explained that the vision statement will be used to develop action-oriented goals and to guide the selection of management practices.  Jim 
+noted that the vision statement can be revisited and revised as needed to be consistent with other parts of the regional plan as it is developed.   
+ Jim said that the following was the vision statement that was used during the 
+development of the Statewide Water Plan:    
+
+Georgia manages water resources in a sustainable manner to support the state's economy, to protect public health and natural systems, and to 
+enhance the quality of life for all citizens.  
+The regional vision could tailor this vision statement to this region.  
+Jim then reviewed the following Council's responses at Council Meeting #1 regarding trends, forces, and factors affecting water resources in the region: 
+  T,  Political 
+
+T,  Uncertainties T,  Power 
+T,  Land Use Changes T,  Water Balance 
+T,  Population T,  Increased Population Growth  
+T,  Atlanta T,  Conservation / Green  
+
+MEETING SUMMARY  Page 7  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+  
+
+Next, Jim referred the Council to the visioning assignment, which asked the following:   
+
+1.  What do you want your rivers, lakes and groundwater to do for you and the citizens in your planning region?  
+
+Consider the following: T,   Supporting the region's and state's economy 
+
+T,   Protecting public health and natural systems T,   Enhancing the quality of life for all citizens 
+2.   What do you want to protect? 3.   What do you want to achieve with your water resources 
+ Jim reviewed two vision statements; one from Council member Paul Chappell and one 
+from the Middle Ocmulgee Planning Council.  
+At the conclusion of this discussion, the Chairman appointed the following Council members to a subcommittee to prepare a vision statement for the Council to consider:  
+Paul Chappell, Robbie York, Jeff Lukken, and Jim Woods.  
+Council Coordination and Planning for Joint Meetings  
+Matt spoke to the Council about coordination between Councils and opportunities for joint meetings.  Two topics were discussed: 
+  1.  Leadership Forum 
+
+2.  Joint Meetings starting in January 2010  
+Leadership Forum Matt provided a summary of the Leadership Forum held in July in Macon and the 
+followup conference call.  Matt and Harry attend the meeting and calls.  Matt stated that one of the purposes was to emphasize the priority on Council coordination. 
+ Joint Meetings 
+Jim discussed the upcoming joint council meetings in January 2010 which will be a series of six joint council meetings. These meetings will be "resource-based" in that councils 
+that share water resources will meet together.  At the joint meetings in January meetings, the results of the resource assessments will be presented.  Another round of joint council 
+meetings will be held in April 2010.  These will also be focused on the resource assessments.  Jim advised that meeting agendas have not yet been developed. 
+ Jim presented two maps - one for surface watersheds and one for aquifers - which 
+illustrates how council boundaries cross resource boundaries and which councils share which water resources. Then, Jim showed a draft set of groupings for the January Council  
+
+MEETING SUMMARY  Page 8  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ meetings.  Matt concluded these topics saying that at the November Council meeting, the 
+
+Council should discuss who will attend these meetings on behalf of the Council.    
+Population & Employment Comment Summary  
+Steve Simpson explained that the revised population and employment projections were not ready to present at this meeting. Since the last meeting, a large number of comments 
+on the projections were considered and addressed by the forecasters. The revised projections will include high, medium, and low growth scenarios.  
+ The Office of Planning and Budget (OPB), which contracted the population and 
+employment projections, is reviewing the revised projections and will select a preferred projection to recommend to each council.  OPB is meeting with the Governor sometime 
+in September to review the revised projections. The projections are expected to be available by the next Council meeting.  
+ Matt requested a pdf copy of all comments from the Middle Chattahoochee region.  Matt 
+advised the Council that if any member was interested in receiving a summary of the comments, please contact him.  
+ Council member Robert Watkins asked if all the comments were addressed.  Steve 
+Simpson commented that there were roughly 60 comments per council, and that his understanding is that CVIOG is drafting responses to the comments, but these have not 
+yet been published.   
+Ken Penuel asked wither any data from the 2010 Census would be incorporated into our plan. Matt Windom commented that he did not think any data would be included for our 
+plan due to the schedule for plan development, but that the 2010 census data would be used for the next update. 
+ MOA Finalization and Execution 
+ Matt Windom explained the history of the MOA and the recent changes which included 
+the following (Revised or added text in Blue):  
+
+In Attachment A, Operating Procedures  
+Other Meetings.  Joint meetings with other water planning councils and additional meetings of the Middle Chattahooch ee Water Planning Council will be 
+
+held as determined by the Council or  EPD.  The notice of these meetings must be posted and distributed in such  a manner so as to allow for public 
+participation.  A subcommittee may  be assigned to represent the Council at joint meetings; the subcommittee may be composed of the Chair and  
+
+MEETING SUMMARY  Page 9  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+  Vice Chair.   For joint council meetings, the composition of such 
+
+subcommittee may take into consideration the composition of the representation of other water planning councils. 
+
+ 
+In the Rules for Meetings under Rule 3: Communications 
+
+8.  Media communications will be coordinated between the Chair and the EPD representative. 
+
+ 
+
+In the Rules for Meetings under Rule 6: Decision making 
+
+L. Minority opinions will be documented in the meeting summary with the Council members able to submit a statement for inclusion in the meeting 
+
+summary.  
+There was some discussion among the Council members about how the dissenting opinion would be included in the appendix.  Matt Windom noted that this Council has the 
+option to include whatever it wants in the Appendix.  
+Tim Cash noted from experience with the Metro North Georgia Water Plan that EPD needed clarity in the plan for better implementation by EPD. 
+ Alan Bell was concerned that the revised statement on sub-committees sounded 
+ambiguous.  However, Council Member Jeff Lukken stated there has to be a certain trust with EPD. 
+ Ken Penuel asked Matt Windom if he was comfortable with being the spokesman with 
+EPD.  Matt said yes.  
+Bill Heath questioned whether having to achieve consensus puts this council at a disadvantage if some other councils have adopted Robert Rules of Order.  Matt Windom 
+said he does not think this puts the council at a disadvantage.  
+
+Council Chair Matt Windom asked if they had consensus.  There were no dissenting objections.  The Council adopted the documents and Matt asked that the Council 
+members sign the MOA signature page at lunch time. 
+ Planning Guidance Overview 
+
+ Jim explained that EPD has published a regional planning guidance for the Council.  The 
+guidance will be an aid in preparing the various parts of the regional water plan, and it will also be used by EPD to evaluate the plan when considering final adoption.   
+
+MEETING SUMMARY  Page 10  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+  
+
+Jim presented the following graphic from the planning guidance as an overarching illustration that describes the regional water planning process:  
+ 
+
+  
+Jim presented the following from the planning guidance as a schedule for the pieces of the planning process described in the graphic above: 
+
+   
+
+MEETING SUMMARY  Page 11  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ 
+
+PRODUCTS REGIONAL WATER PLANNING COUNCIL ACTIVITIES SCHEDULED
+Regional vision and goals April 2009 - September 2009
+
+Assessment of baseline resource capacity November 2009 - March 2010
+Forecasts of demand February 2009 - March 2010
+
+Gap analysis (i.e. comparison of resources and demands 
+to identify gaps)
+
+January 2010 - October 2010
+
+Water management practices to adjust demand and resource capacity January 2010 - January 2011
+Recommended regional water plan January 2011 - June 2011
+
+PRODUCTS REGIONAL WATER PLANNING COUNCIL ACTIVITIES SCHEDULED
+Regional vision and goals April 2009 - September 2009
+
+Assessment of baseline resource capacity November 2009 - March 2010
+Forecasts of demand February 2009 - March 2010
+
+Gap analysis (i.e. comparison of resources and demands 
+to identify gaps)
+
+January 2010 - October 2010
+
+Water management practices to adjust demand and resource capacity January 2010 - January 2011
+Recommended regional water plan January 2011 - June 2011
+
+PRODUCTSPRODUCTSPRODUCTS REGIONAL WATER PLANNING COUNCIL ACTIVITIES SCHEDULEDREGIONAL WATER PLANNING COUNCIL ACTIVITIES SCHEDULEDREGIONAL WATER PLANNING COUNCIL ACTIVITIES SCHEDULED
+Regional vision and goalsRegional vision and goalsRegional vision and goals April 2009 - September 2009April 2009 - September 2009April 2009 - September 2009
+
+Assessment of baseline resource capacityAssessment of baseline resource capacityAssessment of baseline resource capacity November 2009 - March 2010November 2009 - March 2010November 2009 - March 2010
+Forecasts of demandForecasts of demandForecasts of demand February 2009 - March 2010February 2009 - March 2010February 2009 - March 2010
+
+Gap analysis (i.e. comparison of resources and demands 
+to identify gaps)
+Gap analysis (i.e. comparison of resources and demands 
+to identify gaps)
+Gap analysis (i.e. comparison of resources and demands 
+to identify gaps)
+
+January 2010 - October 2010January 2010 - October 2010January 2010 - October 2010
+
+Water management practices to adjust demand and resource capacityWater management practices to adjust demand and resource capacityWater management practices to adjust demand and resource capacity January 2010 - January 2011January 2010 - January 2011January 2010 - January 2011
+Recommended regional water planRecommended regional water planRecommended regional water plan January 2011 - June 2011January 2011 - June 2011January 2011 - June 2011
+
+  
+
+Next, Jim reviewed the responsibilities of the Council: T, 
+
+Develop a recommended plan T, 
+Submit to EPD by January 31, 2011 T, 
+Make revisions based on EPD and public comment and finalize recommended plan by June 30, 2011 
+
+ The following are EPD responsibilities: 
+T,   Provide guidance and template to ensure completeness and consistency T, 
+
+ Provide public notice and 45-day comment period T, 
+ Review recommended plan for consistency with State Water Plan, rules, and guidance 
+
+T,   Adopt recommended plan if consistent with State Water Plan, rules, and guidance  T, 
+
+ Use final adopted plan to guide agency decision making  
+
+Paul Chappell asked if this schedule is on the website.  Jim said yes and it is in the Council members pre-meeting packet, also. 
+ Joe Maltese asked if the baseline assessment parameters are known.  Steve said we will 
+first know more about the baseline parameters after the first joint meeting.   
+Public Involvement Plan  
+Matt referred the Council members to the draft Public Involvement Plan, which is included in the regional planning guidance.  Jim reviewed each section of the public  
+
+MEETING SUMMARY  Page 12  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ involvement plan to see if Council members had any suggestions for modifications to the 
+
+document, which will be adopted at a future meeting. The Council members made the following comments and requests: 
+ 
+
+\Gamma   One Council Member questioned under the Key stakeholder's section whether Agriculture should also include non-water permit holders also. 
+
+ 
+
+\Gamma   Other Council members questioned whether public and private water systems, navigation, energy (including hydroelectric, thermoelectric, biomass, etc) users 
+
+should also be listed under Key stakeholders.  
+\Gamma   One Council member questioned whether other states should be stakeholders.  Matt Windom advised that he has invited Jim Phillips with the Middle 
+
+Chattahoochee Water Coalition, to attend the Council Meetings to represent some of these stakeholders. 
+ 
+
+\Gamma   Tim Cash noted that Georgia has received Water Use and Water Quality information from Alabama. 
+
+ 
+
+\Gamma   One council member as if USACOE and other federal agencies such as Fish & Wildlife should be added to the stakeholders list.  
+
+ 
+
+\Gamma   Jim said it may be good to go ahead and name key stakeholders in the document.  
+
+\Gamma   Paul Chappell asked if meeting summaries were ok to share with others.  Matt Windom said this information was open to anyone. 
+ Jim will modify the plan as requested and send out the information requested by Council 
+members in this discussion.    
+USACOE Chattahoochee River Operations  
+Randall Harvey, Chief, Water Management Section for the Army Corps of Engineers Mobile District presented an overview of the Chattahoochee River operations.  He 
+covered the following topics:  
+
+\Delta   USACE Water Management 
+\Delta   Basin Overview 
+\Delta   Interesting Facts 
+\Delta   Water Mgmt Operations & Current Project Status 
+\Delta   Available Info    
+
+MEETING SUMMARY  Page 13  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ Randall stated that water management from an Army Corp perspective includes the 
+
+following: 
+
+\Gamma   Conduct water management activities for Corps reservoirs 
+\Gamma   Supervise flood control 
+\Gamma   Technical assistance 
+\Gamma   Exchange data with National Weather Service and provide information to District elements 
+
+\Gamma   Operation of rainfall and river reporting network 
+\Gamma   Maintain project data 
+\Gamma   Preparation/revision of water control manuals 
+\Gamma   Develop hydrologic models  
+
+Randall advised that the projects in the Chattahoochee system have varying specific authorized purposes such as flood control, recreation, navigation.  The projects are 
+operated in addition to meet specific releases for water quality and environmental demands; the USACE strives to provide unbiased water management.  
+ Randall explained the data collection program; the USGS manages gages for the Army 
+Corps.  The $1.4 million annual program for this area is the largest gage program within USACE.   
+ Operational decisions are made daily based on level, precipitation, flow, and forecast 
+data.  Weekly projections are updated daily and  monthly projections are updated weekly.  This procedure allows the USACE to strive to operate the overall system to balance 
+purposes and demands throughout the basin.  
+After providing a basin overview, Randall showed some interesting facts which included the following graphic which shows the drainage area by project: 
+  
+
+MEETING SUMMARY  Page 14  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ 
+
+  
+ He noted that the volume of Lake Lanier was much greater than West Pont Reservoir and 
+
+W.F. George, but with a much smaller drainage area.  Therefore, West Point Reservoir and W.F. George will fill much faster than Lake Lanier even if no water was released. 
+ Randall reviewed the minimum flow requirements as summarized in the graphic below.  
+Some of these requirements are based on water quality and some are based on environmental flows.  The Revised Interim Operating Plan requires flows to 
+accommodate threatened and endangered species in the basin such as the Purple Bankclimber, Fat Three Ridge, and Gulf sturgeon. 
+  
+
+MEETING SUMMARY  Page 15  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ 
+
+ 
+670 cfs Chattahoochee R. 
+below West Point Dam 
+
+750 cfsChattahoochee R. at 
+Peachtree Ck 
+
+RIOP required cfs Apalachicola R. at 
+
+Chattahoochee 
+
+  
+Randall then explained head limits with the reservoirs and how the reservoirs handle flood control operations.  Randall noted that this information is available on the website 
+at http://water.sam.usace.army.mil.  
+Jeff Lukken asked if the Flint watershed can help in meeting the low flow requirement at Apalachicola River.  Randall said yes.  Jeff Lukken asked if it would be helpful to have 
+storage on the Flint River.  Randall said yes.  It would help balance out the two rivers releases, but would need to be evaluated in more detail.  
+  
+
+MEETING SUMMARY  Page 16  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ Joe Maltese asked Randall to discuss ramping rates.  Randall explained that this is the 
+
+incremental increase of river flow, and affects how quickly flow controls can be adjusted.   
+Tony Ellis asked if they rely on Lake Lanier for storage. Randall said that Lake Lanier has the greatest amount of storage in the system, but that they try to balance the storage 
+between the reservoirs.  
+Matt Windom asked Randall to clarify the term basin inflow.  Randall said this was the cumulative inflow at all the project reservoirs. 
+ Ken Penuel noted that he has not heard Randall talk about demand.  He was wondering if 
+this was a non-issue.  Randall noted that they have to meet the project demands.  By law the USACE will meet project purposes, recognizing the demands on the system, balance 
+these requirements and be the best stewards possible.  
+Council member Bill Heath asked whether the Army Corps of Engineers could raise the operating level of Lake Lanier.  Randall said this may be possible, but that a study would 
+be needed to establish the cost/benefit, improvements required.  Authorization and funding would also be needed. 
+ Steve Davis noted that a flow of 1350 cfs near Columbus has been met 98% of the time 
+over the period of record.  However, in July 2009, flow was less than 1350 cfs 50% of the time. 
+ Matt Windom thanked Randall for speaking with the Council. 
+ Resource Assessments 
+ Elizabeth A. Booth, GA EPD Watershed Planning and Monitoring Program Manager, 
+presented an overview of the resource assessments.  
+Elizabeth explained that three resource assessments will be provided to the regional water planning councils.  They include Groundwater Availability, Surface Water Availability, 
+and Surface Water Quality.  The resource assessments are being completed based on the boundaries of the resource either watershed or aquifer, not the water planning region. 
+ Groundwater Availability 
+Elizabeth explained that the assessment of groundwater availability was being done state-wide. She presented a graphic which showed the total water used in 2005 was 5,528 
+million gallons per day. The surface water use was 4,357 MGD or approximately 78% of the total water used.   She then showed a map of the various aquifers in Georgia. She 
+noted that the yield from wells in the Coastal Plain aquifers can yield as much as 1000 gpm.  She also noted only about 15% of groundwater use is in the Piedmont, Blue Ridge,  
+
+MEETING SUMMARY  Page 17  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ Ridge and Valley, and Southwestern Appalachian ecoregions from the Crystalline and 
+
+Paleozoic rock aquifers north of the fall line.   
+ For the State Water Plan, aquifers and aquifer units will be prioritized for the assessment of sustainable yield.  The prioritization will be done by looking at the functional 
+characteristics of the aquifer, looking at existing evidence that there are adverse effects on aquifers due to withdrawals, looking at future forecasts that suggest there will be 
+significant increases in demands placed on an aquifer, and looking at aquifers where it will not be possible to determine sustainable yield within a reasonable time period.  
+ The groundwater sustainable yield will be done for aquifers and aquifer units for which 
+current or projected withdrawals could cause unacceptable impacts, such as progressive reduction of the groundwater resource indicated by dropping water levels that do not 
+recover, the reduction of stream flows due to groundwater surface water interactions, salt water intrusion, and sinkhole development. 
+ Surface Water Availability 
+Elizabeth explained that EPD is preparing an assessment of surface water availability state-wide using a computer model developed by the Georgia Tech Water Resources 
+Institute.  The overarching questions that are asked regarding surface water availability are how much water are we using?  How much water do we have?  And how much water 
+can we reliably use without compromising the in-stream flow needs?    
+She said the watershed is being divided into planning nodes at locations that capture the water withdrawals and returns from several communities and a long-term USGS flow 
+gage exists.    
+Elizabeth stated that Best Management Practices such as water conservation, increased returns, or increased storage such as reservoirs or aquifer storage may be used to fill the 
+gaps between how much water we have and how much water we need.    
+Assimilative Capacity  
+Elizabeth said that EPD with the assistance of Tetra Tech, Inc. (EPD's resource assessment contractor for this work) is preparing an assessment of assimilative capacity 
+state-wide using a variety of computer models.  The surface water quality assessment involves determining streams' assimilative capacities.   
+ The assimilative capacity is the amount of contaminant load that can be discharged to a 
+specific waterbody without exceeding water quality standards or criteria.  The assimilative capacity is used to define the ability of a waterbody to naturally absorb and 
+use a discharged substance without water quality becoming impaired or aquatic life being harmed.  
+
+MEETING SUMMARY  Page 18  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+  
+
+To determine a waterbody's assimilative capacity, EPD will use computer models that can predict the effect of various pollutant loads on a waterbody.  The pollutants of 
+interest include nutrients and oxygen demanding compounds that can be from both point sources such as wastewater treatment plants and non-point sources in stormwater runoff.  
+ GA EPD will be developing steady state GA DOSAG models for the whole state and GA 
+ESTUARY models for those estuaries that have discharges in them.  She explained that GA DOSAG is a one dimensional steady state model that is used most often when 
+developing wasteload allocations for determining wastewater treatment plant permit limits.  This model uses critical conditions, which include low flow and high temperature, 
+to determine these limits.     
+The watershed models LSPC will be developed and linked to three dimensional hydrodynamic lake and estuary models EFDC or WASP.  The watershed models will 
+predict the flow and storm water quality based on landcover, impervious surface, surface slope, soil, and meteorological data.   
+ The future assimilative capacity assessment will be performed using the calibrated 
+models to evaluate the water quality impact of forecasted flows, proposed discharge locations, and future landuse patterns.  Based on the model results, a range of discharge 
+allocation options will be proposed.  Using an iterative approach, these and various other options will be evaluated.   
+ Best management practices will be used to bridge the gaps. For instance, future land use 
+patterns may show increases in impervious surfaces that cause the baseflow in the streams to decrease.  This in turn may lead to smaller wasteload allocations.  
+ Council members asked the following questions: 
+ Joe Maltese asked if surface waters interact with groundwater.  Elizabeth said yes, this 
+occurs in part of the Flint River basin.  Tim Cash said these models are already built and may be updated. 
+ Alan Bell asked how much water is assumed to be consumptive in agriculture.  Tim Cash 
+said EPD currently estimates agricultural is 100% consumptive, since they don't have actual measurements or more accurate estimates.  Paul Chappell advised that irrigation is 
+not 100% consumptive.  
+A council member asked how stream segments were listed for dissolved oxygen (DO).  Elizabeth advised that if 10% of samples were less than 4 mg/L, this met the criteria for 
+listing.  She advised that the state's DO standard was being revisited to reflect naturally occurring low DO in some areas, and that the fecal coliform standard was also being  
+
+MEETING SUMMARY  Page 19  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ revisited.  This will require additional monitoring, and staff increases are planned to meet 
+
+this need, pending funding.   
+Gordon Moss asked if EPD was measuring mercury.  Elizabeth stated they are only measuring mercury in fish based on FDA guidelines.  
+ Municipal and Industrial Water Demand Forecasting 
+ Steve Simpson presented the methodology that is being used to forecast municipal and 
+industrial water and wastewater demands for the planning process.  Steve began by explaining each of the variables from the following PowerPoint slide:  
+
+Fu tu re   W a te r  N e e d :
+
+B a s e   Y e a r P e r  C a p ita  
+
+W a te r D e m a n d F u tu re  P o p u la tio n
+
+F u tu re  W a te r 
+
+N e e d
+R e g io n  S p e c ific  
+F a c to rs
+
+B a s e   Y e a r P e r  C a p ita  
+
+W a te r D e m a n d F u tu re  P o p u la tio n
+B a s e   Y e a r P e r  C a p ita  
+
+W a te r D e m a n d F u tu re  P o p u la tio n
+
+F u tu re  W a te r 
+
+N e e d
+R e g io n  S p e c ific  
+F a c to rs
+  
+
+Next, Steve explained how future self-supplied water demand was to be calculated.  He explained each one of the variables in the following slide: 
+
+75 gpcd
+
+Total Population 
+- Publicly Supplied 
+Population
+
+Self-Supplied 
+Water Demand
+Municipal / SelfSupplied Ratio75 gpcd
+
+Total Population 
+- Publicly Supplied 
+Population
+75 gpcd
+
+Total Population 
+- Publicly Supplied 
+Population
+
+Self-Supplied 
+Water Demand
+Municipal / SelfSupplied Ratio
+
+Future  Se lf Sup p lie d  Wa te r De m a nd :
+
+  
+ Steve explained that plumbing code efficiencies were being incorporated into the 
+methodology.  This was a result of the 1992 National Energy Policy Act (NEPAct) mandated use of 1.6 gallon per flush toilets.  The water savings from replacement of 
+older toilets due to plumbing code efficiencies will be specific to each county based on census age of housing data.  
+
+MEETING SUMMARY  Page 20  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+  
+
+Steve then explained that both inflow, stormwater entering at points of direct connection, and infiltration, groundwater entering through cracks and/or leaks, were incorporated into 
+the methodology.  An average percentage will be estimated for each water planning region based on input from water users. 
+ Steve then used the following PowerPoint slide to explain the total wastewater generation 
+methodology.  
+
+  
+
+To ta l Wa ste wa te r 
+G e ne ra tio n
+
+Centralized Treatment 
+
+Fac ility
+
+Septic Systems
+*Based on 1990 US Census Bureau Data**Based on Existing GA EPD Permit Data
+
+Pop. Served 
+Ratio*
+
+Permit Data 
+
+Ratio**
+
+Point Discharges
+
+Land Application Systems
+Next, Steve explained the industrial demand methodology using the following PowerPoint slide.  Steve noted Water is needed for industrial processes, sanitation, 
+cooling and some domestic (employee) use and this need is linked to production, but production units are in multiple forms and often data are proprietary.  Therefore, 
+since employment is linked to production and employment data is available; this data will be used to determine future industrial water demand.  
+ 
+
+Current
+Water Need
+
+Production
+
+Unit
+
+Production
+
+Unit
+
+Current
+Employment
+
+Future
+Employment
+
+Future
+
+Water
+
+Need
+
+Current
+Water Need
+
+Production
+
+Unit
+
+Production
+
+Unit
+
+Current
+Employment
+
+Future
+Employment
+
+Current
+Water Need
+
+Production
+
+Unit
+
+Production
+
+Unit
+
+Current
+Employment
+
+Future
+Employment
+
+Future
+
+Water
+
+Need 
+
+MEETING SUMMARY  Page 21  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+  
+
+The Council members had the following questions:  
+
+\Gamma   One council member was concerned about poultry, livestock, and other agricultural uses not included in irrigation estimates 
+ 
+\Gamma   One member questioned whether one can really not capture industrial productively per person.  Steve noted there was no recognized existing data 
+
+source, since these are typically <100,000 gpd and so are not permitted.  
+\Gamma   A council member asked about where golf course irrigation was included.  Steve noted that if it is supplied by a municipality, it will be included.  If self-supplied 
+
+and permitted, then it will be included in industrial.  
+\Gamma   A council member was concerned that the methodology did not include nursery operations. Steve noted that there was no recognized existing data source. 
+ 
+\Gamma   Joe Maltese was concerned about the wastewater methodology and questioned why EPD isn't using actual data from utilities.  Joe felt that utilities would have 
+
+accurate data for the proportion of sewered vs unsewered.  
+Steve noted draft water demand and wastewater flow projections will be presented for review and comment at Council Meeting 4.  Steve's slides are available on the Council 
+web portal.    
+ Local Elected Officials and Public Comments  
+Next, the Council provided time for local elected officials and the general public an opportunity to address the council.  There were no elected officials who spoke. Two 
+persons spoke.   
+Shana Udvardy with the Georgia Conservancy spoke about the importance of the public involvement plan and requested that the Council get agendas and meeting materials out to 
+citizens at the same time as the Council Members, encouraged the Council to provide press releases to newspapers and provide online opportunities for comment similar to the 
+Water Conservation Implementation Plan process.  Shana encouraged the Council Members to think about how to the public would get comments to the Council and how 
+citizens can get to know the Council Members; she suggested Facebook/Whitebook electronic contact information on council members be provided.  She also encouraged the 
+Council Members to allow public comment before any major votes.  
+
+MEETING SUMMARY  Page 22  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+  
+
+Ben Mosley with Georgia Soil and Water Conservation spoke about the importance of management practices and how he is working with 47 counties in southwest Georgia. Ben 
+also spoke about some of their programs, such as financial matching plan for agricultural catchment construction, their mobile irrigation lab, and the agricultural water use 
+metering program.  
+Wrap-Up and What to Expect Next Meeting  
+The Council selected November 11 for its next meeting, which will be held at a location to be determined.  The meeting will cover visioning, management practices, resource 
+assessments, water use forecasting, and other topics.   
+Council Meeting 3 Evaluation At the conclusion of the council meeting, the members completed an evaluation form on 
+the meeting and the meeting was adjourned.   
+
+MEETING SUMMARY  Page 23  
+Middle Chattahoochee Water Planning Council  B&V Project 164139 Council Meeting 3  September 21, 2009 
+Meeting Date: September 16, 2009 
+ Attachment 1:  
+
+Middle Chattahoochee Water Planning Council  Council Meeting Attendance - September 16, 2009  
+ Council Members 
+Alan Bell Paul Chappell 
+Larry Clark Steve Davis 
+Thomas Ellis Gardiner Garrard 
+Bill Gregory Joe Griffith 
+Bill Heath Harry Lange 
+Jeff Lukken Joe Maltese 
+
+Aaron McWhorter Gordon Moss 
+Ken Penuel Denney Rogers 
+Jimmy Thompson Robert Watkins 
+Don Watson Matt Windom 
+Jim Woods Michael Yates 
+Robie York 
+  Council Members Not In Attendance  
+
+Jimmy Bradley Larry Dillard 
+Phillip Eidson Gerald Greene 
+
+Jimmy Knight Walter Rosso 
+Randy Simpkins 
+ Planning Consultants    
+Jim Hawkins, B&V Robert Osborne, B&V 
+Steve Simpson, B&V Mark Masters, GWPPC 
+Kristin Rowles, GWPPC  
+
+Nils Thompson, LGB Pam Kenel, B&V 
+Peter Binney, B&V Les Lampe, B&V 
+
+ Georgia EPD  
+Tim Cash, Assistant Branch Chief  Bill Morris 
+ Georgia State Agencies 
+Ben Mosely, Georgia Soil and Water Conservation Service 
+Luke Crosson, Georgia Soil and Water Conservation Service 
+Joe Krewer, GA Department of Community Affairs 
+ 
+
+   Robert Osborne 48 42 16 13 9 109 2 285 1  -14400 MEETING MINUTES  MCH_CM3_Summary.pdf en Acrobat PDFMaker 9.0 for Word 
