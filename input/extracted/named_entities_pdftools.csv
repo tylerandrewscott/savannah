@@ -1283,48 +1283,48 @@
 55,Mitch Horrie,need,LFO_CM8_Summary
 56,Mitch Horrie,note,LFO_CM8_Summary
 57,Mitch Horrie,say,LFO_CM8_Summary
-0,Richard Royal,start,LFO_CM9_Summary
+0,Chairman Royal,start,LFO_CM9_Summary
 1,John Bridges,provide,LFO_CM9_Summary
-2,Richard Royal,to continue,LFO_CM9_Summary
+2,Chairman Royal,to continue,LFO_CM9_Summary
 3,Hal Haddock,to continue,LFO_CM9_Summary
-4,Richard Royal,indicate,LFO_CM9_Summary
+4,Chairman Royal,indicate,LFO_CM9_Summary
 5,Hal Haddock,indicate,LFO_CM9_Summary
-6,Richard Royal,be,LFO_CM9_Summary
+6,Chairman Royal,be,LFO_CM9_Summary
 7,Hal Haddock,be,LFO_CM9_Summary
-8,Richard Royal,be elect,LFO_CM9_Summary
+8,Chairman Royal,be elect,LFO_CM9_Summary
 9,Hal Haddock,be elect,LFO_CM9_Summary
-10,Richard Royal,ask,LFO_CM9_Summary
+10,Chairman Royal,ask,LFO_CM9_Summary
 11,Jimmy Webb,say,LFO_CM9_Summary
 12,Jimmy Webb,say,LFO_CM9_Summary
 13,Jimmy Webb,tell,LFO_CM9_Summary
 14,Jimmy Webb,say,LFO_CM9_Summary
-15,Richard Royal,comment,LFO_CM9_Summary
+15,Chairman Royal,comment,LFO_CM9_Summary
 16,Jimmy Webb,express,LFO_CM9_Summary
 17,Royal,express,LFO_CM9_Summary
 18,John Heath,express,LFO_CM9_Summary
 19,Huddy Hudgens,say,LFO_CM9_Summary
-20,Richard Royal,say,LFO_CM9_Summary
-21,Richard Royal,incline,LFO_CM9_Summary
+20,Chairman Royal,say,LFO_CM9_Summary
+21,Chairman Royal,incline,LFO_CM9_Summary
 22,Hal Haddock,say,LFO_CM9_Summary
 23,John Bridges,comment,LFO_CM9_Summary
-24,Richard Royal,say,LFO_CM9_Summary
+24,Chairman Royal,say,LFO_CM9_Summary
 25,John Heath,say,LFO_CM9_Summary
 26,Steve Bailey,ask,LFO_CM9_Summary
 27,Steve Bailey,say,LFO_CM9_Summary
 28,Jimmy Webb,note,LFO_CM9_Summary
 29,John Bridges,say,LFO_CM9_Summary
-30,Richard Royal,say,LFO_CM9_Summary
+30,Chairman Royal,say,LFO_CM9_Summary
 31,Tim Cash,have provide,LFO_CM9_Summary
-32,Richard Royal,note,LFO_CM9_Summary
+32,Chairman Royal,note,LFO_CM9_Summary
 33,Tim Cash,have tell,LFO_CM9_Summary
 34,Jimmy Webb,say,LFO_CM9_Summary
-35,Richard Royal,comment,LFO_CM9_Summary
+35,Chairman Royal,comment,LFO_CM9_Summary
 36,Jimmy Webb,suggest,LFO_CM9_Summary
 37,Jimmy Webb,say,LFO_CM9_Summary
 38,Cynthia Dohner,could provide,LFO_CM9_Summary
 39,Jimmy Webb,suggest,LFO_CM9_Summary
-40,Richard Royal,say,LFO_CM9_Summary
-41,Richard Royal,ask,LFO_CM9_Summary
+40,Chairman Royal,say,LFO_CM9_Summary
+41,Chairman Royal,ask,LFO_CM9_Summary
 42,Kristin Rowles,say,LFO_CM9_Summary
 43,Chairman Royal,say,LFO_CM9_Summary
 44,Kristin Rowles,say,LFO_CM9_Summary
@@ -1667,17 +1667,17 @@
 9,Matt Windom,review,MCH_CM5_Summary
 10,Matt Windom,introduce,MCH_CM5_Summary
 11,Nils Thompson,present,MCH_CM5_Summary
-12,Nils Thompson,advise,MCH_CM5_Summary
-13,Nils Thompson,be,MCH_CM5_Summary
+12,A. Nils,advise,MCH_CM5_Summary
+13,A. Nils,be,MCH_CM5_Summary
 14,Dr. Kennedy,explain,MCH_CM5_Summary
-15,Nils Thompson,review,MCH_CM5_Summary
+15,A. Nils,review,MCH_CM5_Summary
 16,Stewart,include,MCH_CM5_Summary
-17,Nils Thompson,explain,MCH_CM5_Summary
-18,Nils Thompson,note,MCH_CM5_Summary
-19,Nils Thompson,note,MCH_CM5_Summary
-20,Nils,include,MCH_CM5_Summary
-21,Nils,say,MCH_CM5_Summary
-22,Nils Thompson,explain,MCH_CM5_Summary
+17,A. Nils,explain,MCH_CM5_Summary
+18,A. Nils,note,MCH_CM5_Summary
+19,A. Nils,note,MCH_CM5_Summary
+20,A. Nils,include,MCH_CM5_Summary
+21,A. Nils,say,MCH_CM5_Summary
+22,A. Nils,explain,MCH_CM5_Summary
 23,A. Nils,explain,MCH_CM5_Summary
 24,Matt Windom,ask,MCH_CM5_Summary
 25,Jim Hawkins,ask,MCH_CM5_Summary
@@ -1838,8 +1838,8 @@
 54,Tim Cash,note,MCH_CM7_Summary
 55,Chairman Windom,thank,MCH_CM7_Summary
 56,Jimmy Bradley Randy Simpkins Larry Clark Jim Woods,review,MCH_CM7_Summary
-57,Jimmy Bradley Randy Simpkins Larry Clark Jim Woods,say,MCH_CM7_Summary
-58,Jimmy Bradley Randy Simpkins Larry Clark Jim Woods,say,MCH_CM7_Summary
+57,Jim Hawkins,say,MCH_CM7_Summary
+58,Jim Hawkins,say,MCH_CM7_Summary
 59,Jimmy Bradley Randy Simpkins Larry Clark Jim Woods,encourage,MCH_CM7_Summary
 60,Chairman Windom,say,MCH_CM7_Summary
 61,Jimmy Bradley Randy Simpkins Larry Clark Jim Woods,discuss,MCH_CM7_Summary
@@ -2599,9 +2599,9 @@
 20,Bob Kerr,do,SUO_CM1_Summary
 21,Bob Kerr,to post,SUO_CM1_Summary
 22,Bill Martello,lead,SUO_CM1_Summary
-23,Bill Martello,ask,SUO_CM1_Summary
-24,Bill Martello,provide,SUO_CM1_Summary
-25,Bill Martello,discuss,SUO_CM1_Summary
+23,Martello,ask,SUO_CM1_Summary
+24,Martello,provide,SUO_CM1_Summary
+25,Martello,discuss,SUO_CM1_Summary
 26,Inga Kennedy,lead,SUO_CM1_Summary
 27,Peyton Sapp,reiterate,SUO_CM1_Summary
 28,Mike Ronick,thank,SUO_CM1_Summary
@@ -3888,3 +3888,204 @@
 28,Doug Baughman,note,UOC_CM9_Summary
 29,Ben Emanual,share,UOC_CM9_Summary
 30,Ben Emanual,ask,UOC_CM9_Summary
+0,Chairman Thompson,call,CGA_CM10_Summary
+1,Chairman Thompson,recognize,CGA_CM10_Summary
+2,Mike Melton,welcome,CGA_CM10_Summary
+3,Chairman Thompson,ask,CGA_CM10_Summary
+4,Chairman Thompson,ask,CGA_CM10_Summary
+5,Chairman Thompson,help,CGA_CM10_Summary
+6,Chairman Thompson,help move,CGA_CM10_Summary
+7,Allen Barnes,plan,CGA_CM10_Summary
+8,Allen Barnes,plan to act,CGA_CM10_Summary
+0,John Bennett,give,CGA_CM11_Summary
+1,Mike Jones,welcome,CGA_CM11_Summary
+2,Ken Beasley,tell,CGA_CM11_Summary
+3,Ken Beasley,be,CGA_CM11_Summary
+4,John Bennett,note,CGA_CM11_Summary
+5,John Bennett,mention,CGA_CM11_Summary
+6,Rick Brownlow,review,CGA_CM11_Summary
+7,Rick Brownlow,introduce,CGA_CM11_Summary
+8,Mark Marlowe,to present,CGA_CM11_Summary
+9,Mark Marlowe,note,CGA_CM11_Summary
+10,Mark Marlowe,explain,CGA_CM11_Summary
+11,Mark Marlowe,note,CGA_CM11_Summary
+12,Mark Marlowe,note,CGA_CM11_Summary
+13,Mark Marlowe,explain,CGA_CM11_Summary
+14,David Ashburn,indicate,CGA_CM11_Summary
+15,David Ashburn,estimate,CGA_CM11_Summary
+16,David Ashburn,indicate,CGA_CM11_Summary
+17,Mark Marlowe,indicate,CGA_CM11_Summary
+18,Dawson,include,CGA_CM11_Summary
+19,Mark Marlowe,note,CGA_CM11_Summary
+20,David Ashburn,note,CGA_CM11_Summary
+21,Lee Mulkey,note,CGA_CM11_Summary
+22,Mark Marlowe,note,CGA_CM11_Summary
+23,Willard Ferguson,note,CGA_CM11_Summary
+24,Mike Berg,note,CGA_CM11_Summary
+25,Mark Marlowe,indicate,CGA_CM11_Summary
+26,Don Cope,remind,CGA_CM11_Summary
+27,Jerry Jennings,note,CGA_CM11_Summary
+28,Don Cope,suggest,CGA_CM11_Summary
+29,Adam Hazell,note,CGA_CM11_Summary
+30,Adam Hazell,have also talk,CGA_CM11_Summary
+31,Brook Anderson,want,CGA_CM11_Summary
+32,Brook Anderson,want to remind,CGA_CM11_Summary
+33,Brook Anderson,indicate,CGA_CM11_Summary
+34,Lee Mulkey,summarize,CGA_CM11_Summary
+35,John Bennett,note,CGA_CM11_Summary
+36,John Bennett,be,CGA_CM11_Summary
+37,John Bennett,suggest,CGA_CM11_Summary
+38,Mark Marlowe,note,CGA_CM11_Summary
+39,John Bennett,say,CGA_CM11_Summary
+40,Becky Champion,provide,CGA_CM11_Summary
+41,Becky Champion,note,CGA_CM11_Summary
+42,Jud Turner,have,CGA_CM11_Summary
+43,Jud Turner,be,CGA_CM11_Summary
+44,Jud Turner,be,CGA_CM11_Summary
+45,Jud Turner,be,CGA_CM11_Summary
+46,Jud Turner,have be engage,CGA_CM11_Summary
+47,Becky Champion,indicate,CGA_CM11_Summary
+48,Becky Champion,note,CGA_CM11_Summary
+49,Becky Champion,indicate,CGA_CM11_Summary
+50,Becky Champion,also mention,CGA_CM11_Summary
+51,Becky Champion,hand,CGA_CM11_Summary
+52,Becky Champion,encourage,CGA_CM11_Summary
+53,Becky Champion,note,CGA_CM11_Summary
+0,Cecily Hill,thank,CGA_CM1_Summary
+1,Jim McLain,be,CGA_CM1_Summary
+2,Jim McLain,represent,CGA_CM1_Summary
+3,Daniel Parshley,please to be,CGA_CM1_Summary
+0,Dr. Ben Thompson,ask,CGA_CM2_Summary
+1,Bill Hatcher,move,CGA_CM2_Summary
+2,Bill Hatcher,move to    accept,CGA_CM2_Summary
+3,Keith Post,second,CGA_CM2_Summary
+4,Dr. Ben Thompson,ask,CGA_CM2_Summary
+5,Dr. Ben Thompson,Were,CGA_CM2_Summary
+6,Savannah,sell,CGA_CM2_Summary
+7,Mr. Tom Ratcliffe,Put,CGA_CM2_Summary
+0,Mike Melton,introduce,CGA_CM3_Summary
+1,Phil Odom,be list,CGA_CM3_Summary
+2,Phil Odom,be list,CGA_CM3_Summary
+3,Ben Thompson,introduce,CGA_CM3_Summary
+4,Ben Thompson,mention,CGA_CM3_Summary
+5,Dr. Carl Couch,will play,CGA_CM3_Summary
+6,Dr. Carl Couch,work,CGA_CM3_Summary
+7,Dr. Carl Couch,emphasize,CGA_CM3_Summary
+8,Dr. Carl Couch,mention,CGA_CM3_Summary
+9,Dr. Carl Couch,to discuss,CGA_CM3_Summary
+10,Dr. Carl Couch,to estimate,CGA_CM3_Summary
+11,Dr. Carl Couch,to say,CGA_CM3_Summary
+12,Dr. Carl Couch,say,CGA_CM3_Summary
+13,Mike Melton,include,CGA_CM3_Summary
+14,Mark V. Smith,include,CGA_CM3_Summary
+15,Tony Sammons Bob Scanlon- Savannah Bill Edwards,include,CGA_CM3_Summary
+16,Dr. Jim Hook,present,CGA_CM3_Summary
+17,Dr. Hook,be,CGA_CM3_Summary
+0,Vice Chairman Ratcliffe,welcome,CGA_CM4_Summary
+1,Vice Chairman Ratcliffe,introduce,CGA_CM4_Summary
+2,Allen Burns,thank,CGA_CM4_Summary
+3,Allen Burns,note,CGA_CM4_Summary
+4,Allen Burns,introduce,CGA_CM4_Summary
+5,Allen Burns,introduce,CGA_CM4_Summary
+6,Allen Burns,highlight,CGA_CM4_Summary
+7,Allen Burns,make,CGA_CM4_Summary
+8,Allen Burns,answer,CGA_CM4_Summary
+9,Allen Burns,note,CGA_CM4_Summary
+10,Allen Burns,look,CGA_CM4_Summary
+11,Allen Burns,work,CGA_CM4_Summary
+12,Vice Chairman Ratcliffe,summarize,CGA_CM4_Summary
+13,Vice Chairman Ratcliffe,ask,CGA_CM4_Summary
+14,Vice Chairman Ratcliffe,note,CGA_CM4_Summary
+15,Vice Chairman Ratcliffe,note,CGA_CM4_Summary
+16,Ben Thompson,will be,CGA_CM4_Summary
+17,Vice Chairman Ratcliffe,believe,CGA_CM4_Summary
+18,Vice Chairman Ratcliffe,remind,CGA_CM4_Summary
+19,Phil Odom,to develop,CGA_CM4_Summary
+20,Bill Guthrie,to develop,CGA_CM4_Summary
+21,Dr. Liz Booth,address,CGA_CM4_Summary
+22,Dr. Liz Booth,present,CGA_CM4_Summary
+23,Dr. Liz Booth,concentrate,CGA_CM4_Summary
+24,Dr. Liz Booth,present,CGA_CM4_Summary
+0,Chairman Thompson,to order and mention,CGA_CM5_Summary
+1,Chairman Thompson,to    see,CGA_CM5_Summary
+2,Chairman Thompson,introduce,CGA_CM5_Summary
+3,Chairman Thompson,ask,CGA_CM5_Summary
+4,Brad Curry,include,CGA_CM5_Summary
+5,Chairman Thompson,note,CGA_CM5_Summary
+6,Chairman Thompson,offer,CGA_CM5_Summary
+7,Chairman Thompson,would also like,CGA_CM5_Summary
+8,Larry M. Stuber,move,CGA_CM5_Summary
+9,Larry M. Stuber,move to reelect,CGA_CM5_Summary
+10,Chairman Thompson,be provide,CGA_CM5_Summary
+11,Chairman Thompson,offer,CGA_CM5_Summary
+12,Vice Chair Ratcliffe,mention,CGA_CM5_Summary
+13,Vice Chair Ratcliffe,represent,CGA_CM5_Summary
+14,Tony Sammons,include,CGA_CM5_Summary
+15,Bill Edwards,include,CGA_CM5_Summary
+16,Mike Melton,include,CGA_CM5_Summary
+17,Tony Sammons,include,CGA_CM5_Summary
+18,Bob Scanlon,include,CGA_CM5_Summary
+19,Mark V. Smith,include,CGA_CM5_Summary
+20,Chairman Thompson,include,CGA_CM5_Summary
+21,Vice Chair Ratcliffe,include,CGA_CM5_Summary
+22,Matt Harper,show,CGA_CM5_Summary
+23,Matt Harper,highlight,CGA_CM5_Summary
+24,Matt Harper,highlight,CGA_CM5_Summary
+25,Matt Harper,expect,CGA_CM5_Summary
+26,Matt Harper,highlight,CGA_CM5_Summary
+27,Matt Harper,learn,CGA_CM5_Summary
+0,John McIver,express,CGA_CM6_Summary
+1,Chair Thompson,provide,CGA_CM6_Summary
+2,John McIver,be,CGA_CM6_Summary
+3,Larry M. Stuber,motion to accept,CGA_CM6_Summary
+4,Jim Thomas,be    second,CGA_CM6_Summary
+5,Michelle L. Liotta,motion to accept,CGA_CM6_Summary
+6,Keith Post,be    second,CGA_CM6_Summary
+7,Jeff Larson,mention,CGA_CM6_Summary
+8,Linda McGregor,state,CGA_CM6_Summary
+9,Linda McGregor,state,CGA_CM6_Summary
+10,Director Barnes,recognize,CGA_CM6_Summary
+11,Director Barnes,recognize,CGA_CM6_Summary
+0,Chairman Thompson,call,CGA_CM7_Summary
+1,Chairman Thompson,introduce,CGA_CM7_Summary
+2,Mayor Washington,thank,CGA_CM7_Summary
+3,Mayor Washington,wish,CGA_CM7_Summary
+4,Chairman Thompson,provide,CGA_CM7_Summary
+0,Ben Thompson,call,CGA_CM8_Summary
+1,Ben Thompson,welcome,CGA_CM8_Summary
+2,Mike Melton,recognize,CGA_CM8_Summary
+3,Mike Melton,recognize,CGA_CM8_Summary
+4,Mike Melton,welcome,CGA_CM8_Summary
+5,Michael J. Melton,note,CGA_CM8_Summary
+6,Ben Thompson,provide,CGA_CM8_Summary
+7,Ben Thompson,note,CGA_CM8_Summary
+8,Merrill Varn,speak,CGA_CM8_Summary
+9,Ben Thompson,turn,CGA_CM8_Summary
+10,Phil Odom,participate,CGA_CM8_Summary
+11,Larry M. Stuber,participate,CGA_CM8_Summary
+12,Director Barnes,have ask,CGA_CM8_Summary
+13,Dr. Hooks,show,CGA_CM8_Summary
+14,Director Barnes,be,CGA_CM8_Summary
+0,Chairman Thompson,call,CGA_CM9_Summary
+1,Chairman Thompson,welcome,CGA_CM9_Summary
+2,Chairman Thompson,thank,CGA_CM9_Summary
+3,Chairman Thompson,express,CGA_CM9_Summary
+4,Chairman Thompson,provide,CGA_CM9_Summary
+5,Mary Freeman,provide,CGA_CM9_Summary
+6,Mary Freeman,flow,CGA_CM9_Summary
+7,Mary Freeman,mention,CGA_CM9_Summary
+8,John F. Godbee,attend,CGA_CM9_Summary
+9,John F. Godbee,note,CGA_CM9_Summary
+10,Chairman Thompson,ask,CGA_CM9_Summary
+11,Mr. Chris Peterson,address,CGA_CM9_Summary
+12,Mr. Chris Peterson,note,CGA_CM9_Summary
+13,Mr. Chris Peterson,note,CGA_CM9_Summary
+14,Mr. Chris Peterson,ask,CGA_CM9_Summary
+15,Jim Kennedy,can do,CGA_CM9_Summary
+16,Jim Kennedy,to model,CGA_CM9_Summary
+17,Michelle L. Liotta,have,CGA_CM9_Summary
+18,Frank E. Feild,have,CGA_CM9_Summary
+19,Michelle L. Liotta,have suggest,CGA_CM9_Summary
+20,Frank E. Feild,have suggest,CGA_CM9_Summary
+21,Michelle L. Liotta,trigger,CGA_CM9_Summary
+22,Frank E. Feild,trigger,CGA_CM9_Summary

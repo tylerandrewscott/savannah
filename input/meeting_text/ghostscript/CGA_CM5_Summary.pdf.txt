@@ -1,0 +1,919 @@
+
+
+Memorandum  
+To:  Coastal Georgia Regional Water Planning Council   
+From:  Susan Morea, Denise Funk and Rick Brown  
+Date: April19,  2010  
+Subject:  Council Meeting 5 Summary 
+
+This memorandum summarizes the meeting of the Georgia Coastal Water Planning Council 
+Meeting (CM) 5 that was held on April 6, 2010 at the Coastal Electric Cooperative (EMC) in 
+Midway. 
+
+1)  Welcome and Introductions 
+
+Chairman Ben Thompson called the meeting to order and mentioned that he was pleased to 
+see that the planning process continuing even in the face of difficult budget times.  
+Chairman Thompson introduced Mayor Washington, from the City of Midway.  The Mayor 
+welcomed the Council to Midway and mentioned the City has been through a lot of changes 
+in the past and is enjoying vibrant times.  The Mayor's remarks focused on the importance 
+of team work and that collectively we can accomplish more than we can as individuals. 
+
+Chairman Thompson asked the Council to introduce themselves, and then had the public 
+introduce themselves. The Planning Contractor (PC) provided an overview of the agenda 
+and meeting dates and location for the next Council meeting.  
+
+The PC then provided a brief summary of the last Council Meeting (CM 4). CM4 built on the 
+resource assessment information presented at CM3. Council members and the PC reviewed 
+municipal and industrial water and wastewater forecast methodology and status, continued 
+the discussion of management practices, and discussed the Joint Meetings. The Council 
+updated and adopted its Vision and Goals and adopted the Council's Public Involvement 
+Plan. The PC then reviewed Council feedback from the meeting and the overall status of 
+water plan effort and schedule. 
+
+Following this discussion the goals and objective of Council meeting 5 were outlined: 
+T,  Review baseline municipal and industrial water and wastewater forecast results; 
+T,  Review methodology and preliminary results of energy forecast;  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 2 
+ 
+
+T,   Discuss results of current conditions Resource Assessment modeling as presented at 
+
+Joint Meetings; 
+
+T,   Discuss regional portfolio of management practices and management practice selection 
+
+process; and 
+
+T,   Understand how management practice selection ties back into demand forecasts and 
+
+resource assessments.  
+
+Council Member (CM):  Mentioned that Metro North Georgia will be joining us today 
+including Brad Curry, and there will be a presentation and discussion at lunch. 
+
+The Agenda and Meeting Summaries for both CM3 and CM4 were then approved by 
+Council by consensus. 
+
+Next the PC handed out a draft table of contents (TOC) for use in developing the regional 
+water plan document.  The PC thanked John F. Goodbee, Tom Ratcliffe, Mark Smith, and 
+Ben Thompson for their efforts on the subcommittee to develop the draft TOC.  
+
+The Chair and PC asked for subcommittee volunteers to work with the PC in developing 
+preliminary plan sections. The Council asked to think about the request and revisit the topic 
+later in the day. 
+
+The PC mentioned the importance of conducting additional outreach to key stakeholders as 
+we move into the next phases of the planning effort.  The PC showed the major Cities in the 
+region and asked Council to think about other key people that we may need to 
+contact/obtain input from. 
+
+A Council member suggested coordinating with the Regional Commission and another 
+Council member mentioned Chambers of Commerce.  Chairman Thompson noted that there 
+are 5 utilities and/or cities represented in the audience today. 
+
+The PC mentioned that we need to conduct an election of Council leadership and indicated 
+that Chairman Thompson and Vice Chair Ratcliffe have offered to serve but would also like 
+other Council members to consider volunteering to serve.  Council member Larry Stuber 
+moved to reelect Chairman Thompson and Vice Chair Ratcliffe and William Guthrie 
+seconded the motion and the Council voted unanimously to reappoint Ben Thompson and 
+Tom Ratcliffe. 
+
+A summary was provided by the PC of the Governor's Water Contingency Planning Task 
+Force and Chairman Thompson also offered his views. The Task Force completed their work 
+in December 2009 and the final report is available online by going to www.georgia.gov and 
+searching "Water Contingency Planning Task Force." A brief summary of the Task Forces  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 3 
+ 
+
+finding was provided. It was emphasized that the preferred solutions to the Lake Lanier 
+ruling are appeal and authorization/reauthorization and that the Task Forces focus was to 
+identify contingencies to these preferred solutions.  If the preferred solutions are 
+unsuccessful, then the estimated water shortfall for Atlanta metro area by 2012 is 250 million 
+gallons per day (mgd). Two portfolios were developed to address the shortfall: one for 2015 
+and one for 2020. Neither includes utilizing groundwater from south of the fall line. The 
+2015 Portfolio includes conservation, indirect potable reuse (252 MGD), and small 
+groundwater supply systems (26 MGD). The 2020 Portfolio includes: conservation, 
+reservoirs - expansion and new (236 MGD), and small groundwater supply systems (26 
+MGD). 
+
+CM:  Did Metro Atlanta people talk about the need to perhaps control some of their growth? 
+Chairman Thompson: That would be good question to ask the representatives from the 
+Metro North Georgia Water Planning District; they are scheduled for a presentation today 
+before lunch. 
+
+CM:  With the upcoming Census we need to be careful and understand that the state 
+"balance of power" may shift even more toward the metro areas, especially the metro 
+Atlanta area. 
+
+The PC then highlighted a couple key pieces of legislation including: 
+House Bill 895 - Concerning Interbasin Transfers and Senate Bill 442 concerning water 
+system interconnection and Senate Bill 370 also known as the Georgia Water Stewardship 
+Act of 2010 which established several key water efficiency requirements. 
+
+CM: Is Senate Bill 370 redundant of other water efficiency measures?  Answer:  No, the act 
+established the need to look at and implement even greater conservation savings. 
+
+CM:  In regard to interbasin transfers, there may be a reservoir proposed on Hardship Creek 
+in Walton County that could transfer water between basins to the Metro Atlanta area. 
+
+2)  Revised Municipal Water Use (GPCD) 
+
+The PC mentioned that each Council member should have received a technical memo 
+describing the municipal and industrial water and wastewater forecasting methods. Work 
+was completed with a Council subcommittee on setting preliminary County level per capita 
+water use rates in gallons per capita per day (GPCD) for the region. These water use rates 
+were developed for public and self-supplied users. It was pointed out that this is the 
+foundation to complete the water use forecasting. Once the Council agrees on a GPCD  then  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 4 
+ 
+
+the Council can move forward with forecasts and determine the amount of water needed 
+and begin choosing  management practices to fill future water needs/gaps. 
+
+The self-supplied gallons per capita per day (GPCD) rate was determined to be 75 GPCD 
+from the USGS Report: Water Use in Georgia for 2005; however, the PC mentioned that the 
+Ad Hoc Committee felt this number may be low and indicated that several of the 
+municipalities in the area use 100 GPCD for planning when issuing taps and the Ad Hoc 
+Committee is recommending the use of the 100 GPCD. 
+
+For public systems, the PC first completed a comparison between USGS GPCD data (by 
+County) and weighted County GPCD derived from EPD water use data. The PC then 
+conducted outreach to collect data from select individual municipal suppliers and EPD 
+District Offices and compared this data with the values originally reported by USGS and 
+EPD.  If large industries were supplied water by a municipality, then that industry's water 
+use was removed from the municipal water use calculations and accounted for in the 
+industrial water use calculations. Smaller water using industries were included in the 
+municipal GPCD.  
+
+CM: For the Coastal region, if we use an average per capita rather than a County specific 
+number this may be a more "equitable" approach to forecasting. 
+
+ CM: What method was used to establish the percentile of publically provided?  In Liberty 
+County there is a lot of self supplied water users. Answer: The percent self supplied was 
+obtained from the USGS report.  Following the meeting the PC conducted additional follow up on 
+the question and adds the following details: In the USGS report, self-supplied population was 
+calculated by subtracting the estimate of population served by public-supply systems from total 
+county population obtained from US Census Data for 2005. 
+
+Vice Chair Ratcliffe mentioned that in Liberty County the Metropolitan Statistical Areas 
+(MSA) represent the concentration of people served by municipal systems and he feels that 
+the population number for Liberty County is accurate. 
+
+CM: According to his discussions with the Health Department, McIntosh County has 
+several thousand septic systems.  (Note - added after Council meeting - the percent septic is 
+high in McIntosh County. 87% of publicly supplied and 100% of self supplied population is 
+on septic systems and the 2005 population of the county was 11,068). 
+
+ The PC continued summarizing the forecasts and noted that the preliminary results from 
+this work was summarized in a technical memo and provided to the Council Ad Hoc 
+Committee that participated in the refinement of GPCD (committee members included Tony 
+Sammons, Bill Edwards, Mike Melton, Tony Sammons, Bob Scanlon, Mark Smith, Ben 
+Thompson and Tom Ratcliffe). Refinement and outreach resulted in more credible GPCD  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 5 
+ 
+
+values and adjustments to the GPCD for six counties in the Coastal region. The committee 
+recommended to the Council to use the self-supplied water use rate of 100 GPCD and the 
+individual GPCD for each County as refined by the PC. The range of GPCD for the Coastal 
+Region was presented and ranged from 108 - 157 GPCD.  
+
+It was pointed out that no demand altering management practices were included in the 
+baseline water demand GPCD other than passive/natural conservation resulting from the 
+1992 Energy Policy Act. Moving forward, the Council should keep in mind that there will be 
+natural/passive conservation as houses are remodeled and plumbing fixtures are replaced 
+with lower flow water fixtures that were mandated by the Act.  
+
+It was emphasized that forecasts are to be used in regional planning only and they will not 
+be used for individual permitting decisions or water allocations. This is an important 
+consideration in the Ad Hoc Committee's discussion on "unintended consequences."  
+
+The PC then presented the Governor's Office of Planning and Budget's (OPB) population 
+projections provided through 2050. The projections show the Coastal region growing from 
+632,813 in 2010 to 1,265,982 in 2050. The next step in forecasting municipal water demand is 
+to combine population and per capita water use to forecast future needs.  
+
+The PC noted that water use rates are generally from 2005 and noted that 2005 was 
+considered a average year in terms of annual precipitation. 
+
+The PC noted that based on the population projections, OPB estimates that Georgia will 
+almost double in population from 2010 (just over 10 million) to 2050 (just under 20 million). 
+Growth is based on population, birth over deaths estimate (age, sex) and the amount of net 
+migration into and out of region.  
+
+3)  Completed Baseline Municipal Forecasts 
+
+The PC mentioned that the approach to forecasts is predicated on the premise that there will 
+not be a major change in how water is generally used in the region and that past trends are 
+likely to continue in the future. The PC presented information on percent self supplied 
+versus publicly supplied in the region. It was noted that more urban counties have a higher 
+percent of publicly supplied water. 
+
+A discussion was then held on the gallon per capita day usages. The main data source for 
+GPCD information is the USGS report previously presented. This report has statewide 
+coverage, so it helps provide a common platform across the state. This data was collected 
+from a large number of local water providers but is not intended to take the place of or be as 
+detailed as some of the data that is collected/produced by local water utilities. The PC 
+mentioned that Council should strive to strike a balance between regional and local water  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 6 
+ 
+
+planning. The regional plan will look at water use at a more regional level than what would 
+be required for local water planning.  
+
+The PC then highlighted a couple points that were raised by the subcommittee.  It was 
+mentioned that the Council could adopt one single GPCD for the entire region. The strength 
+of this is that it takes away some concern that the data might be used for an allocation in the 
+future. The downside is that some of the Counties may have a reason for a higher GPCD - 
+such as more commercial or light industrial - and they expect that to continue moving 
+forward. Or they may have a high rate of water loss and may need to implement a leak 
+detection program.   The subcommittee ultimately agreed and are recommending the use of 
+a County specific GPCD rather that a single value. 
+
+Several Council members offered differing views on the best approach to forecasting water 
+use.  There was a general concern among several Council members that the lower GPCD 
+Counties may not be projecting high enough water use to meet future needs and that this 
+might be short sighted.  The PC highlighted that the data that has been collected is the best 
+available data and is reflective of the unique water use by publically supplied water users in 
+the Counties and that the planning process is dynamic and subject to revision if new data 
+becomes available.  A lively debate continued with strong concerns by some Council 
+members that a lower GPCD may restrict future growth opportunity. 
+
+The PC mentioned that the subcommittee had a similar debate and reviewed options 
+including using the highest level water use in the region or a weighted average single value 
+and/or the current GPCD for Chatham County.  
+
+The Council continued their discussion, on the differences in water use between counties 
+and cities. The PC indicated that there are often very good reasons for differences in water 
+use and that although we have not identified them all at this point in the planning they 
+typically can be a result of high tourism and transient population such as Jekyll Island, older 
+housing stock with fewer low water use fixtures, system leakage, or higher commercial and 
+light industrial water users in comparison to domestic water users.  The PC mentioned that 
+this is the strength of having unique County level values. There might be good reasons why 
+the numbers are different between counties.   
+
+The PC discussed the municipal wastewater forecasts highlighting how the wastewater is 
+allocated to point source, land application, and septic.  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 7 
+ 
+4)  Completed Baseline Industrial Forecasts 
+
+The PC stated that the purpose of the industrial water needs forecast is to capture heavy 
+water using industries. There is typically not a good relationship between production data 
+and the water use. There is a closer correlation between employment and water use. 
+Forecasts don't take into account changes in technology, however. In working with 
+industrial groups, employment was generally determined to be the best indicator of future 
+growth. Specific adjustments can be made on a case by case basis if there's a reason to do so. 
+One thing to note is that if employment projections decrease, it was determined that we 
+would hold the water use at the same level.  
+
+The primary water use in this region is in the paper industry. Other larger uses include 
+chemical, food manufacturing primary metals, stone/clay, and petroleum. The source of 
+water in this region is both surface water and the Upper Floridan aquifer. The subcommittee 
+discussed whether we need to account for industry that might come but that is not currently 
+anticipated. The subcommittee was comfortable with the baseline industrial forecasts but 
+did think it might be prudent to consider possible future growth in industrial water use and 
+wanted this topic to be discussed by the full Council. 
+
+Given time constraints the topic was tabled to allow a guest presentation and Council 
+indicated they would take the topic up again after lunch. 
+
+5)  Guest Presentation, Matt Harper,  Metro North Georgia Water Planning District (District) 
+
+Mr. Harper described the basic organization of the District and information from the Water 
+Supply and Water Conservation Management Plan highlighting: 
+
+\Gamma   They planned water needs to 2035  
+\Gamma   The District's Updated Water Conservation Program - including an increasing block 
+
+rate structure; replacement of older plumbing fixtures; rain sensor shutoffs; 
+submetering of new multi-family building; water leak detection and repair; 
+residential audits; low-flow residential retrofits for public and governmental 
+buildings; regional toilet rebate program (36,000 toilets have been replaced as part of 
+the program). 
+
+\Gamma   Mr. Harper then showed the projected water use reduction anticipated based on the 
+
+above conservation practices. 
+
+\Gamma   Mr. Harper highlighted the requirements that are passed down to local planning 
+
+efforts and emphasized the importance of public education.  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 8 
+ 
+
+\Gamma   Wastewater treatment issues including: challenges of cost, septic system 
+
+management and the percentage of homes that are being built that will be served by 
+septic and septic management challenges for planning and local health department 
+coordination; ratio of point source to septic (about 10% of total wastewater flow in 
+the District's boundaries goes to septic; the District plans to build 19 new wastewater 
+facilities and expand 49 facilities; local wastewater master planning and how those 
+systems  may need interconnection in the future.) 
+
+\Gamma   Implementation timelines need to be considered in planning. 
+\Gamma   Stormwater (including flood plain delineation and management) and watershed 
+
+management in light of legal authority. 
+
+\Gamma   Land development considerations and infrastructure asset management. 
+\Gamma   Pollution prevention. 
+\Gamma   Water quality monitoring. 
+Mr. Harper then highlighted the District's relationship to the state water plan.  He expects 
+that the District's plans will be compatible with the overall state planning process and 
+emphasize that the District is not exempt from the state planning process. 
+
+Mr. Harper highlighted lessons learned highlighting local coordination and the importance 
+to build on existing information and not reinvent the wheel. 
+
+Following Mr. Harpers presentation, Chairman Thompson asked the remaining guests from 
+the Metro Board (District) to join the Council for lunch for an informal panel discussion. 
+
+Katie Kirkpatrick, Vice President, Environmental Affairs, Metro Atlanta Chamber; Sam 
+Olens, former Cobb County Commission Chair and ARC chair - now running for Attorney 
+General, and Brad Curry, Retired Businessman, joined Mr. Harper.  
+
+CM: - Is Atlanta considering anything besides conservation such as restricting growth in 
+terms of slowing development? 
+
+Mr. Olens: First, metro Atlanta is not trying to take water from elsewhere in the state. 
+Conservation measures are a key emphasis and some reservoir expansions.  It is a tough 
+issue and there is no legal basis for restricting development except some sort of reverse 
+condemnation.  Local government does not have that kind of cash available. Frankly this is 
+not an issue now due to slow down in residential/commercial development.  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 9 
+ 
+
+CM: Please tell me about the backlog of permitted development not currently constructed.  
+He had heard that is about 5 years in the metro area.  Mr. Olens: Recession, fuel, and 
+drought have driven down development in rim counties.  Their backlog may be much 
+greater than 5 years. In Cobb County, Olens estimates it is about 8 months. 
+
+CM: How do we get jobs and people coming to the state? Mr. Olens: 1) We need aggressive 
+conservation, 2) We need to make friends within the state, and 3) We need to end the tristate water wars and its associated 20 years in litigation. 
+
+CM: It seems when you begin to plan regionally you end up with more mega-project 
+concepts. 
+
+District: Yes, that is partially true but site specific issues also tend to become important. 
+CM: Could you please comment on the Metro area population projections. 
+District: Yes, we are looking at about a doubling of population.  
+CM: If these population numbers are correct, then how will the area meet its water needs 
+without impacting other neighboring areas? 
+
+District: We are seeking to solve the problem without relying on others, but that does not 
+mean there won't be a need for more actions and coordination.  Funding will be a key 
+challenge and rates will be a driver, but a necessary reality to meet future needs. Lake 
+Lanier will be part of the long-term solution it is just unclear how much will be available.  
+Return credit is a key issue that is part of the legislation.  The Corps of Engineers currently 
+does not provide any accounting credit for returns.  A key thing to remember is that Georgia 
+does have good overall water supply we just need to manage the supplies better. 
+
+CM: Are there any efforts to encourage folks to relocate to other regions of the state? 
+District: Yes, we do consider that on a case-by-case basis and have made recommendations 
+to that effect recently in discussions with businesses relocating to Georgia. 
+
+CM: In the Coastal area we do have some groundwater restrictions, what are some of the 
+most critical challenges in creating your plans? 
+
+District: The biggest issue is financing and incentives.  There was also a problem with overexaggerated needs and demands from local governments.  From an operational perspective, 
+the emphasis on local government official participation has waned and they are sending 
+designees instead.  There is a tension between including and balancing technical expertise 
+and key decision makers.   
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 10 
+ 
+6)  Energy Forecasting Methodology and Preliminary Results 
+
+The PC stated that each energy type (coal, nuclear, etc.) has unique water needs. Energy 
+water projections are expected in summer 2010. The PC noted that withdrawal amounts for 
+energy are larger than what is consumed. The PC is working towards determining 
+consumptive use by energy source. 
+
+The PC presented the water use in the Coastal Georgia Region. The PC noted that this 
+energy water use is 99% surface water and only 1% groundwater. The PC noted that going 
+forward the Council may need to talk to other Councils upstream and downstream. The PC 
+anticipates subcommittee and joint meetings with other Councils to learn about what 
+they're doing and their management practices. 
+
+The energy forecasting work includes a power stakeholder group to provide input into the 
+forecasts. This allows the power industry to provide representation into these forecasts.  
+Power industry only projects 10 years into the future.  The energy forecasts may be more 
+statewide forecasts than regional forecasts. The forecasts may not distribute those needs into 
+a County watershed level, but we will have to wait and see the final outcome.  
+
+7)  Update on Agricultural Forecast 
+
+The PC noted that based on previous agricultural forecasting work, some water users did 
+not feel their water uses were adequately captured. Therefore, EPD has been working with 
+sub-threshold water use sectors (less than 100,000 gallons/day) including livestock, dairy, 
+poultry and nurseries. Some water use adjustments were made, especially water used 
+associated with the nursery sector. These adjustments rippled through other agricultural 
+forecasting, so this forecast is a few weeks away from being completed. 
+
+Some of this information is at a smaller detail than what Dr. Hook presented earlier. 
+Councils will decide whether sub-threshold agricultural water-use will be included in their 
+plan. Green industry is being consulted to determine if trends need to be incorporated into 
+golf course water use as well as nursery water use.  
+
+The PC presented the next steps for the all water use forecasts. Demands will be distributed 
+to the aquifer and surface water planning node. The agricultural water demands and 
+forecasts will be completed, as well as the energy water use and consumption forecasts. The 
+PC will utilize the water and wastewater forecasts and work with Councils to begin the 
+management practices and resource assessment analysis.  
+
+CM: Are we considering reuse water for golf courses and other uses - municipal 
+landscaping and irrigation?   
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 11 
+ 
+
+PC: Reuse is an important component of meeting future water demand and the council 
+should definitely include reuse in the plan - particularly in terms of management practices. 
+
+EPD(Jeff Larson) - Reuse is an important consideration in permitting in the Coastal region. 
+8)  Next Steps 
+
+The Council then returned to the key decision points for municipal and industrial forecast. 
+CM: Expressed concern about using 2005 base year.  Are we going to use the 2010 census 
+data when that information becomes available?  Since Fort Stewart troops deployed 
+elsewhere will not be counted, will the water demand be underestimated? 
+
+PC: For Liberty County, we are capturing the transient troop population because the 
+municipal water rate is higher because it is based upon the permanent base strength. We 
+need to see if the census is counting the deployed troops state of residence correctly, but that 
+is not a direct Council/Water Plan issue. 
+
+CM: I recommend a single number regional between 135 - 140 GPCD 
+CM: Chatham County has a high retail component which increases the GPCD rate. 
+CM: Perhaps we can consider using a modified by county GPCD which incorporates the 
+mean 129 GPCD. 
+
+CM: What do we lose by going with a single regional municipal water use rate? 
+PC: 1) Less scientific method may be viewed negatively by surrounding planning regions; 2) 
+Since wastewater is calculated from water, then increased water demand could be driving 
+assimilative capacity issues for wastewater; 3) Could under estimate water use in regions 
+with higher GPCD; and 4) could prematurely drive resource management challenges 
+and/or infrastructure investment. 
+
+CM: Since this is regional planning, we need to go with a regional water use rate to give the 
+chance for counties with lower rates to grow and the counties with higher rates to conserve. 
+
+PC: The intention of the plan is to have geographically specific information.  Some counties 
+might need conservation efforts; others may need help in financing infrastructure 
+improvements to meet water needs. 
+
+CM: I am concerned that Liberty County is going to be limited to 108 GPCD water use rate. 
+Are we going to be limited to that rate in the future even if growth patterns change in terms 
+of residential and commercial growth? How do we compensate for additional troops being 
+stationed here within the next 3 years?  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 12 
+ 
+
+PC: Director Barnes emphasizes that this is a living document and new information needs to 
+be incorporated into the plan when it becomes available. 
+
+Chairman Thompson: The GPCD doesn't limit growth, but only assumes that new 
+population (troops) will use water at that same rate. 
+
+CM: Be careful not to pad GPCD number because it can drive water demand to the point 
+where growth has to be limited. 
+
+CM: Remember we are creating a baseline here, but it can be modified and adapted in the 
+future as new information becomes available. 
+
+CM: For those counties with lower GPCD, we are concerned that they will be limited to 
+those low rates. 
+
+PC: Forecast captures the mix of residential and commercial water use.  This is our best 
+estimate today, but it can be adjusted in the future. 
+
+CM: Our planning contractor has gone beyond the call of duty trying to get accurate 
+information on a by-county basis. 
+
+Chairman Thompson moved toward a decision point and identified that there are 16 
+Council members which include 2 alternates.  He also reviewed the options on the table and 
+conducted initial votes: 
+
+1) By County GPCD - 4 votes  
+2) Chatham County 136 GPCD applied regionally - 5 votes 
+3) Regional 140 GPCD vote - 3 votes 
+Additional discussion followed the vote with similar points raised.  Chairman Thompson 
+then asked for a second vote based on combining and modifying the 2nd and 3rd option: 
+
+1)  By County GPCD- 2 votes 
+2)  Regional single value 138 GPCD - 11 votes 
+It was noted that the basis for use of the single value is the belief that as the region grows 
+the Council feels that the mix of commercial/residential will be similar to Chatham County. 
+
+The Industrial Forecast was then discussed.   
+Vice Chair Ratcliffe: Major industrial sites can be identified now that will be developed in 
+the future.  These projects are accelerated for quality growth.  We could define and assign  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 13 
+ 
+
+capacity to those identified sites.  This approach would help recruit industries because they 
+would have water demand already captured in the regional water plan.  We could put a 
+placeholder in very specific terms in location and estimate water demand. 
+
+CM: Does the 148 mgd ground water use value include the Durango number? 
+PC: No it does not. 
+CM: Question to EPD - For large industrial water users, is there a sense that these permits 
+will be reduced in the future to allow other industries to use more water? 
+
+EPD: Too early to say if that's the case.  Take this up with your Council if you'd like to 
+address that issue in the regional plan. 
+
+CM: Any reductions in industrial water permitting would reduce that industry's ability to 
+expand. 
+
+CM: We could distribute the excess surface water capacity at Savannah I&D to the future 
+industrial sites to determine how much we should add as future industrial water use 
+placeholder. 
+
+CM: Each County's development authority needs to review the list and give input on 
+industry that foresee coming to their county. 
+
+Mark Smith made a motion to accept 220 mgd for the industrial water forecast for most 
+likely scenario for planning horizon.  Any further adjustments will be made at the next 
+Council meeting including a reasonably high scenario. 
+
+John McIver seconded motion and there was additional Council discussion. 
+CM: If we accept these forecasted numbers, are we sending a message that we do not want 
+additional water-using industries in Coastal Georgia? 
+
+CM:  I am concerned over no growth in industrial water demand.  If we use the same 
+philosophy as the Suwannee-Satilla Council, then we would need to add 20% growth. 
+
+Mark Smith - withdrew his first motion and made an alternative motion - We do not accept 
+industrial forecast as presented today. By next meeting, Council Members need to go back 
+and gather county specific information. 
+
+Council voted 11 in favor, motion passed. 
+It was noted that it would be good to get permitted numbers by County for surface water 
+and groundwater.  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 14 
+ 
+
+CM: Permitted numbers are quite a bit higher than actual withdrawal. 
+
+CM: Please recap the Ad Hoc committee recommendations. 
+PC:  1)Baseline industrial forecast should be accepted as presented; 2) Additional 
+consideration should be given to including an alternate forecast scenario and this scenario 
+would include additional future industrial growth; and 3) Since Durango operated just prior 
+to the forecast period, consider using that number (~35 mgd) as a starting point. 
+
+CM: We need conversations at County level to see if there are potential industrial water 
+users. Consider adding 35 mgd and distributing it around the region throughout the 
+planning horizon. 
+
+The PC will work with the Council to develop a final approach to include an additional 
+industrial growth factor in the forecasts. 
+
+9)  Resource Assessment Results 
+
+The PC presented an overview of the Resource Assessments (RA) and mentioned that the 
+joint meetings that were held around that state over the last month provided a detailed 
+summary of the RA.  The PC noted that today's presentation will be more general and that 
+summary information from the joint meetings and from the resource assessment synopsis 
+documents are additional resources that Council members can review.   
+
+The PC then described the groundwater RA showing the following: 
+
+o  Aquifer layers 
+o  Modeled aquifer boundaries 
+\Gamma   Results of the groundwater model showing  
+
+o  Existing pumping 
+o  Low end of sustainable yield 
+o  High end of sustainable yield 
+The PC then highlighted the RA for surface water quantity. The PC described the river basin 
+delineations and the key inputs for the resource assessments. Points discussed included: 
+
+\Gamma   Delineation of planning and basin nodes including description of fully-regulated, semiregulated and un-regulated nodes 
+
+\Gamma   Location of USGS gauges  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 15 
+ 
+
+\Gamma   Definition of unimpaired flows and 7Q10 (the lowest 7 day flow that occurs 10 percent 
+
+of the time) that are used to determine the "flow regime" 
+
+\Gamma   Current gaps under current withdrawals at the following nodes: Claxton, Eden, and 
+
+Kings Ferry. Average and maximum shortfalls not very large, however, the shortfall 
+matches the flow regime during drought periods making the problem very difficult to 
+solve. 
+
+\Gamma   Upstream reservoirs seem to have additional storage capacity, but we need to 
+
+understand that this additional capacity is not all available to meet water supply needs 
+because there are other significant stakeholders. 
+
+The Council offered the following comments/questions. 
+CM: What are alternatives for addressing gaps? PC: Through demand management, surface 
+and groundwater management or re-regulation of surface water. 
+
+The PC presented the water quality RA outlining the following points. 
+\Gamma   Locations of dissolved oxygen (DO) and nutrient modeling in streams and harbors--
+
+smaller streams and tributaries were not modeled. 
+
+\Gamma   Critical low DO time periods every summer. 
+\Gamma   Savannah River assimilative capacity rapidly decreases beginning near the location 
+
+where Highway 170 crosses the Savannah River near Port Wentworth. 
+
+\Gamma   The "naturally low" DO policy which assumes low flow and high temperatures as worst 
+
+case. 
+
+\Gamma   TMDL listed segments for the region will need to be considered during management 
+
+practices development. 
+
+EPD (Jeff Larson) - Noted that the Draft TMDL for the Savannah  Harbor is getting ready to 
+go to public notice, probably  within the next 30 days. It is proposed right now that the 
+TMDL will be implemented via a strategy developed by the two discharger groups which 
+are comprised of facilities from both  SC and GA. EPD will send notice by email blast when 
+public comment period begins. 
+
+The PC wrapped up the discussion describing the development of the synopsis documents 
+which document the development of the RA tools and highlighted the comment period for 
+the documents. 
+
+  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 16 
+ 
+10) Management Practices 
+
+The PC defined a management practice as anything that helps us meet our regional goals 
+and vision and can be used to address future water resource needs.  
+
+This is a holistic planning process - there are interactions between stormwater, water supply 
+and wastewater. Reuse has an impact on water supply and wastewater returns - what is 
+positive for some areas may be negative for other areas. We are looking at both point 
+sources and non-point sources. 
+
+Management practices development starts with existing demand, then permitted capacity, 
+planned projects and conceptual projects.  We must strike a delicate balance to keep from 
+impacting local plans when management practices involve conceptual projects. 
+
+For TMDL areas, at a minimum Council will need to be familiar with the TMDL plans and 
+their implementation status.  Council is encouraged to do more if possible to help promote 
+the implementation of some or all aspects of the plans; focusing on partnerships and 
+collaboration. 
+
+Management practices need to be meaningful and be capable of being used as inputs to the 
+resource assessment tools. For instance, the surface water availability management practices 
+should be related to local drainage areas so that we can determine what the influence is at 
+that node.  
+
+The plan is to do surface water quantity management practices first and then surface water 
+quality management practices.  
+
+Water quality modeling is reach driven rather than water planning node driven. We will 
+need to evaluate how this moves forward. Point source management practices could be 
+reuse, centralized wastewater treatment systems, direct discharges, or land application 
+systems.  
+
+The next challenge that Council will have is "how do we select these management 
+practices?" As part of that process we don't want to lose sight of the Coastal Georgia 
+Region's Vision and Goals.  
+
+We need to be open minded to list management practices and then be level headed when 
+evaluating management practices. In addition, we need a decision making process to 
+evaluate management practices. Options for decision making could include simple 
+qualitative modeling, more complex records that utilize criteria, performance measures, and 
+scoring of management practices. Another alternative would be simple voting.  Another 
+alternative would be to employ a multi-variable decision making process, but the type of  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 17 
+ 
+
+decision making process is up to Council.  This process needs to be determined by mid 
+summer 2010. 
+
+Options for moving forward: whole group, subcommittee, or other? 
+As a Council, we don't actually implement water projects, but we hope to provide 
+information on what's important to the region, working with local governments and 
+utilities. We may need help from the Council to do some outreach and talk to providers 
+about the planning process.   Meeting future needs will involve several key steps including: 
+documenting existing uses, documenting remaining permit capacity, identification of plans 
+that are currently being considered, and identification of Council specific ideas.  
+
+The PC stated that there were several ways to move forward with the development of the 
+preliminary portfolio of management practices. The entire Council could work through the 
+process, we could use a Council subcommittee, or the PC could provide some ideas to start 
+from. 
+
+The Council did not identify members for a subcommittee and asked the PC to follow up 
+via email for both the Management Practices and Plan Section Subcommittees. 
+
+Finally the PC identified some key intra and interstate coordination considerations.  These 
+included South Carolina future water needs estimates and Florida planning activities on the 
+St. Mary's and EPA's proposed water quality standards for Florida. 
+
+ Florida coordination 
+CM: Concern over lack of Florida's coordination with Georgia over the St. Mary's river. He 
+stated that long term water supply option of 33 mgd from St. Mary's. CM is recommending 
+that this alternative be removed from their plan until full consultation with Georgia. EPA's 
+new water quality standards for nitrates are lower than background levels in St. Mary's 
+river.  This approach would take loadings back to pre-human impact on river.  
+
+Council member Roger Weaver offered to draft public comment letter and send to Chair 
+who will distribute this for consideration in submitting to EPA. 
+
+It was noted that the Savannah River Committee is meeting on May 6, 2010.  Coastal salt 
+water intrusion will be one of the issues discussed.  
+
+11) Local Elected Official Comments - 
+
+None 
+  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 18 
+ 
+12) Public Comments 
+
+Merrill Varn-St. Mary's River Management Commission - I have a few points I would like 
+to make: 
+
+a.  What is going to be done to improve surface water availability data for St Mary's 
+
+river? 
+b.  Is low DO in a river taken into account when looking at strategies for future 
+
+permitting withdrawals? 
+c.  Are state boundaries considered when calculating river flows? Cross-boundary state 
+
+discussions need to take place to divide resources. 
+d.  I was pleased to hear that the topic of outstanding resource was identified and this 
+
+should be done for all of Georgia. 
+e.  St Mary's stakeholders have already written letter regarding the TMDL.  
+
+Sarah Barczak - Program Director, Southern Alliance for Clean Energy - I believe there are 
+tremendous impacts that power plants have on water resources. Less water use for power 
+generation means more available for other uses.  Several new power plants are proposed.  I 
+have handouts/fact sheet on the water/energy connection that focuses on water 
+conservation.  The two proposed Westinghouse reactors at Vogel will have high water use 
+and consumption. I believe that they will use between 55 to 88 mgd with 50 to 75% 
+consumption which is equivalent to the water demand of 1.3 to 2.3 million residents at 75 
+GPCD. 
+
+Bob Scanlon - Water Resources Director, City of Savannah - I would like to caution the 
+Council to not get specific without contacting end users - specifically big municipalities and 
+industries. People typically do not consider water availability when they decide where they 
+would like to live and that is a challenge that often falls to the utility. Water demand totals 
+are not going to change much, but we need to get into the geographic location of those 
+demands.  Also, we should have a long term plan in place to provide water to Atlanta past 
+2035 which is beyond their current planning horizon where they think they can provide 
+water within their own region. 
+
+13) Wrap Up, What to Expect Next Meeting, Council Meeting Evaluation 
+
+The next steps in the planning process include evaluation of near term gaps and future 
+needs. Management practices will then be developed to address the gaps and needs. After 
+Council Meeting 6, each Council has increased flexibility on the schedule for meetings. This 
+will allow Councils more freedom to work toward plan completion on a schedule that 
+works best for them. Council meetings could move to more frequent meetings of shorter 
+duration, could move to more sub-committee meetings, or could stay generally the same.  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 19 
+ 
+
+The next meeting will be in June and the Chair asked the PC to send an email proposing 
+June 23rd and maybe a second option.  The location at Midway will be proposed.  The 
+meeting was adjourned and Council Member Phil Odom generously offered to have 
+meeting attendees join him for local oysters.  Thanks to Phil for his hospitality!  
+
+cc: Jeff Larson, EPD 
+    Brian Baker, EPD  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 20 
+ 
+Coastal Georgia Regional Water Council 
+Council Members Attendance List 
+ 
+
+Coastal Georgia Council Members  4/6/2010 
+
+1  Dennis G. Baxter    
+2  Fred G. Blitch    
+3  Chris Blocker  X 
+4  Kay W. Cantrell  X 
+5  Frank E. Field  X 
+6  Rick Gardner    
+7  John F. Godbee    
+8  William K. Guthrie  X 
+9  Duane Harris    
+10  Bill Hatcher  X 
+11  Cecily Hill    
+12  Don Hogan    
+13  Eric Johnson    
+14  Michelle L. Liotta  X 
+15  Reginald S Loper    
+16  John D. McIver  X 
+17  Michael J. Melton    
+18  Randal Morris  X 
+19  Phil Odom  X 
+20  Keith F. Post    
+21  Tom Ratcliffe  X 
+22  Tony Sammons  X 
+23  Mark V. Smith  X 
+24  Larry M. Stuber  X 
+25  James Thomas  X 
+26  Benjamin Thompson  X 
+27  Bryan Thompson    
+28  Horace Waller    
+29  Marky Waters    
+30  Roger A Weaver  X 
+
+    Total  16  
+
+Coastal Council Meeting 5 
+April 19, 2010 
+Page 21 
+ 
+Coastal Georgia Regional Water Council 
+Public Attendance List 
+ 
+
+Public Attendee  4/6/2010  Representing 
+1  Ian Adelman  X  Southern Alliance for Clean Energy 
+2  Tim Barrett  X  GA DNR Fisheries 
+3  Sarah Barczak  X  Southern Alliance for Clean Energy 
+4 John  Clarke  X USGS 
+5 Deatre  Denion  X DCA 
+6 David  Eigenberg  X GSWCC 
+7  Franklin Etheridge  X  City of Pembroke 
+8  Don Gardner  X  UGA CAES 
+9  Dennis Hutton  X  Chatham County - Savannah MPC 
+10  Vince James  X  Fort Stewart 
+11  Christi Lambert  X  The Nature Conservancy 
+12  Jimmie Martin  X  City of Walthourville 
+13 Rahn  Milligan  X GSWCC 
+14  Brent Rabon  X  Fort Stewart 
+15  Tricia Reynolds  X  Coastal Regional Commission 
+16  Curtes Roberts  X  City of Midway 
+17  Bob Scanlon  X  City of Savannah 
+18  Tas Smith  X  GA Farm Bureau 
+19  Bryan Snow  X  Georgia Forestry Commission 
+20  Sonny Timmerman  X  Liberty County Planning Commissioner 
+21  Merrill Varn  X  St. Mary's River Management Commission 
+22  Clemontine F Washington  X  City of Midway 
+
+    Total  22     edisondevakaramd 57 56 16 22 3 110 4 111 1  -14400 Microsoft Word - Coastal_CM5_Summary-Webposting.doc CGA_CM5_Summary.pdf en PScript5.dll Version 5.2.2 
